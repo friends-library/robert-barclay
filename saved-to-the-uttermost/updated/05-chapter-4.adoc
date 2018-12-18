@@ -1095,9 +1095,9 @@ footnote:[Romans 2:14]
 From all of which I argue as follows:
 
 [.syllogism]
-* __In every nation, he that fears God and works righteousness is accepted.__
-* __But some of the heathen did fear God, and wrought righteousness by Him__.
-* __Therefore they were accepted__.
+* In every nation, he that fears God and works righteousness is accepted.
+* But some of the heathen did fear God, and wrought righteousness by Him.
+* Therefore they were accepted.
 
 Can there be anything more clear?
 And this appears even more plain by another verse,
@@ -1106,11 +1106,11 @@ taken out of the same chapter (v. 13). The words are,
 From which I thus argue, from plain Scripture:
 
 [.syllogism]
-* __The doers of the Law shall be justified.__
-* __But some of the Gentiles did the things contained in the Law,
-showing that the work of the Law was written in their hearts.__^
+* The doers of the Law shall be justified.
+* But some of the Gentiles did the things contained in the Law,
+showing that the work of the Law was written in their hearts.^
 footnote:[Romans 2:15]
-* __Therefore these were justified.__
+* Therefore these were justified.
 
 Paul, through that whole chapter,
 labors as if he were contending now with our adversaries,
