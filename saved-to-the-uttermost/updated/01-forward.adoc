@@ -8,7 +8,7 @@ ____
 
 Robert Barclay (1648–1690) was a Scottish Quaker,
 and one of the most eminent writers among the early Society of Friends.
-His Apology for the True Christian Divinity was first published in 1675,
+His [.book-title]#Apology for the True Christian Divinity# was first published in 1675,
 and came to be considered the definitive exposition and
 defense of Quaker principles for the next 200 years.
 
@@ -31,11 +31,13 @@ and so I became thus knit and united to this people,
 hungering more and more after the increase of the Power and
 Life of Christ whereby I might feel myself perfectly redeemed.`
 
-The Apology for the True Christian Divinity (from which this book is
+The [.book-title]#Apology for the True Christian Divinity# (from which this book is
 taken) was first written in Latin when Barclay was only 27 years old,
 and afterwards translated by himself into English.
 In the preface to the original edition we find the following remarks:
 
+[quote]
+____
 "`Perhaps my method of writing may seem not only different, but even contrary,
 to that which is commonly used by the men called theologians,
 with which I am not concerned;
@@ -82,11 +84,15 @@ To this Life I bear witness,
 and leave my testimony to the Light of Christ in all your consciences.
 Farewell.`"
 
+[.signed-section-signature]
 Robert Barclay
+
+[.signed-section-context-close]
 Ury, Scotland, 25th of 9th Month, 1675
+____
 
 The following pages contain five of the original
-fifteen propositions from Barclay's Apology,
+fifteen propositions from Barclay's [.book-title]#Apology,#
 treating upon the fall, redemption, justification, and perfection of man.
 Because the great majority of modern readers find the
 original language and style of Barclay unmanageable,
@@ -102,7 +108,7 @@ Even so,
 I have found very few today who have been able or willing to wade through
 the original publications (a task I nevertheless highly recommend^
 footnote:[The unabridged and unedited version of Barclay's
-Apology is available through Quaker Heritage Press.
+[.book-title]#Apology# is available through Quaker Heritage Press.
  www.qhpress.org]),
 and I doubt very much that ancient Friends would have desired their style or
 vocabulary to be a stumbling block in the way of the modern reader.
@@ -111,5 +117,8 @@ but for the present day seeker of Truth, and I can say, without any misgivings,
 that my only aim in re-publishing Barclay is the
 glory of Truth and the good of immortal souls.
 
+[.signed-section-signature]
 Jason Henderson
+
+[.signed-section-context-close]
 February 2017

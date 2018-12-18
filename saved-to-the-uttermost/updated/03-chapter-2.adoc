@@ -1,4 +1,4 @@
-== Chapter II A Universal Offer of Redemption
+== Chapter II. A Universal Offer of Redemption
 
 Having considered man's fallen, lost, corrupt, and degenerate state,
 we must now inquire how, and by what means,
@@ -6,8 +6,8 @@ he may come to be freed from this miserable and depraved condition.
 
 === Absolute Reprobation--A Doctrine of Devils
 
-We must begin by striking at the doctrine of absolute
-predestination and reprobation,
+We must begin by striking at the doctrine of __absolute
+predestination and reprobation__,
 whereby many are not afraid to assert that God, by an eternal and immutable decree,
 has predestinated to eternal damnation the far greater part of mankind,
 without any regard to their disobedience or sin,
@@ -76,6 +76,8 @@ yet some of the most eminent of them have been so plain in the matter,
 that they have put it beyond all doubt.
 I shall instance a few among many of these:
 
+[quote]
+____
 The following are John Calvin's expressions: "`By the ordination and will of God,
 Adam fell.
 God would have man to fall.`"^
@@ -88,40 +90,56 @@ footnote:[Id. lib. de praed.]
 footnote:[Idem, lib. de provid.]
 "`It follows that the hidden counsel of God is the cause of hardening.`"^
 footnote:[Id. 3 Inst., cap. 23. s. 1.]
+____
 
+[quote]
+____
 Theodor Beza writes: "`God has predestined not only unto damnation,
 but also unto the causes of it, whomsoever He saw fit.`"^
 footnote:[Beza, lib. de praed.]
 "`The decree of God cannot be excluded from the causes of corruption.`"^
 footnote:[Id. de praed. ad art. 1.]
+____
 
+[quote]
+____
 "`It is certain,`" says Jerome Zanchi,
 "`that God is the first cause of hard-heartedness.`"^
 footnote:[Zanchi, de excaecat. q. 5.]
 "`Reprobates are held so fast under God's almighty
 decree that they cannot help but sin and perish.`"^
 footnote:[Idem, lib. 5 de nat. Dei cap. 2. de praed.]
+____
 
+[quote]
+____
 "`It is the opinion,`" says David Pareus, "`of our doctors,
 that God did inevitably decree the temptation and fall of man.
 The creature sins indeed necessarily, by the most just judgment of God.
 Our men do most rightly affirm that the fall of man was necessary and inevitable,
 because of God's decree.`"^
 footnote:[Pareus, lib. 3. de amiss. gratiae. c. 2. ibid., c. 1.]
+____
 
+[quote]
+____
 "`God,`" says Ulrich Zwingli, "`moves the robber to kill.
 He kills, God forcing him thereunto.
 But you will say, he is forced to sin; I confess truly that he is forced.`"^
 footnote:[Zwingli, lib. de Prov. 100:5.]
+____
 
+[quote]
+____
 "`Reprobate persons,`" says Piscator, "`are absolutely ordained to this twofold end,
 to undergo everlasting punishment, and necessarily to sin; and therefore to sin,
 that they may be justly punished.`"^
 footnote:[Resp. ad Vorst. part 1, p. 120.]
+____
 
 Such sayings do plainly and evidently make God the author of sin.
 Some have sought to evade this necessary consequence
-with the assertion that men sin willingly;
+with the assertion that men sin __willingly__;
 but this does not help them at all, since man's willingness and propensity to evil is,
 according to their own judgment,
 necessarily imposed upon him by the will and decree of God.
@@ -243,7 +261,7 @@ so plainly, and so positively asserted.
 It is that which makes the preaching of Christ to be truly termed the Gospel,
 or an announcement of glad tidings to all.
 Thus the angel declared the birth and coming of Christ to the shepherds, saying,
-"`Behold, I bring you good tidings of great joy, which shall be to all people;`"^
+"`Behold, I bring you good tidings of great joy, which shall be __to all people__;`"^
 footnote:[Luke 2:10]
 notice he says not to a few people.
 Now if this coming of Christ had not brought a possibility of salvation to all,
@@ -388,7 +406,7 @@ and not for ours only but also for the whole world.`"^
 footnote:[1 John 2:1-2]
 The way by which our adversaries seek to avoid this
 plain testimony is most foolish and ridiculous:
-suggesting that the "`world`" here refers only to the world of believers.
+suggesting that the "`world`" here refers only to the world __of believers__.
 To support this, they have nothing but their own assertion; for let them show me,
 if they can,
 in all the Scripture where "`the whole world`" is taken to mean believers only.
@@ -445,4 +463,3 @@ Others have erred in the other direction,
 affirming that those who have never heard the outward
 proclamation of Christ are not obliged to believe in Him,
 or that all are saved regardless of faith in, and obedience to the gospel.
-
