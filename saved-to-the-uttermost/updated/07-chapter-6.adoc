@@ -1,4 +1,4 @@
-== Chapter VI.Concerning Perfection
+== Chapter VI. Concerning Perfection
 
 Since we have placed justification in the experience of Jesus Christ revealed,
 formed,
@@ -208,7 +208,7 @@ destroys the works of the devil in this world,
 nor that Christ was manifest to take away our sins,
 seeing they plead a necessity of always living in them.
 And lest any should twist this Scripture as if
-it were spoken only of removing the guilt of sin,
+it were spoken only of removing the __guilt__ of sin,
 the apostle (as though seeking purposely to avoid such an objection) immediately adds,
 "`Whosoever abides in Him does not sin;`" and "`Let no one deceive you.
 He who practices righteousness is righteous, just as He is righteous.
@@ -437,10 +437,10 @@ unrighteous nature in you according as it is revealed,
 which Christ has made tolerable for you;
 and so suffer "`judgment`" in you to be "`brought forth into victory.`"^
 footnote:[Matthew 12:20. Editor's Note:
-Many modern translations use the word justice in place of judgment,
-but the Greek word is indeed judgment (krisis).
+Many modern translations use the word __justice__ in place of __judgment__,
+but the Greek word is indeed judgment (__krisis__).
 The same is true of the Hebrew word in Isaiah 42 from
-which this quotation in Matthew is taken (mishpat, i.e. judgment).]
+which this quotation in Matthew is taken (__mishpat__, i.e. judgment).]
 In this way you will come to partake of the fellowship of
 Christ's sufferings and be made conformable unto His death.^
 footnote:[Philippians 3:10]
@@ -471,12 +471,14 @@ for it is his food and drink to be found fulfilling the will of God.
 
 But I shall proceed now to answer the objections and arguments of our opposers.
 
+[.discourse-part]
 Objection: I shall begin with their chief and great argument,
 which is the words of the apostle John: "`If we say that we have no sin,
 we deceive ourselves, and the Truth is not in us.`"^
 footnote:[1 John 1:8]
 This they think invincible.
 
+[.discourse-part]
 Answer: But this objection does not suit their purpose,
 for John does not say we sin daily in thought, word, and deed,
 far less that the very good works which God works in us by His Spirit are sin.
@@ -490,7 +492,7 @@ for it would be both senseless and repetitive to make both
 forgiveness and cleansing belong to the removing of guilt.
 For this reason, having known both the guilt and the filth of sin removed,
 the apostle continues in the past tense in verse 10 saying,
-"`If we say we have not sinned, we make Him a liar.`"
+"`If we say we have not __sinned__, we make Him a liar.`"
 
 Furthermore,
 as Augustine well observed in his exposition upon the epistle to the Galatians,
@@ -511,12 +513,14 @@ in several places of the same epistle,
 plainly and positively asserts the possibility of freedom from sin,
 as has been mentioned already.
 
+[.discourse-part]
 Objection: Their second objection is from two places of Scripture,
 which say very much the same thing.
 The one is 1 Kings 8:46, "`For there is no man that does not sin.`"
 The other is Ecclesiastes 7:20, "`For there is not a just man upon earth,
 that does good, and does not sin.`"
 
+[.discourse-part]
 Answer: I answer, first,
 that these verses speak nothing of a daily and continual sinning,
 so as never to be redeemed from it, but only that all have sinned,
@@ -528,17 +532,18 @@ for even if it should be granted that in Solomon's time there was none who did n
 it will not necessarily follow that there are none such now,
 or that it is not now attainable by the grace of God under the Gospel.
 And lastly, this whole objection hangs upon a false interpretation of Scripture;
-for the Hebrew word yekhta' may be read in the potential mood,
-thus rendering it "`There is no man who may not sin,`" which indeed
+for the Hebrew word __yekhta'__ may be read in the potential mood,
+thus rendering it "`There is no man who __may not__ sin,`" which indeed
 is how it is translated from the Hebrew by Junius and Tremellius,
 and also Vatablus.
 The same word is similarly translated in the potential mood in Ps. 119:11,
-"`I have hidden Your word in my heart, that I may not sin against You.`"
+"`I have hidden Your word in my heart, that I __may not__ sin against You.`"
 And seeing that this translation is more congruent with
 the universal scope of the Scriptures,
 the testimony of the Truth, and the sense of almost all interpreters,
 it doubtless ought to be so understood.
 
+[.discourse-part]
 Objection: Thirdly,
 they object from some expressions of the apostle Paul in Romans chapter 7:
 "`For the good that I will to do, I do not do; but the evil I will not to do,
@@ -548,6 +553,7 @@ And "`O wretched man that I am!
 Who shall deliver me from the body of this death?`"^
 footnote:[Romans 7:24]
 
+[.discourse-part]
 Answer: I answer,
 there is nothing in the text which would suggest
 him to be speaking of his present condition,
@@ -560,9 +566,9 @@ the condition of one not yet come to maturity,
 which is common in Scripture.
 
 Now, that Paul does not here speak of his present condition is evident,
-for previously in this chapter he says (vs. 5), "`For when we were in the flesh,
+for previously in this chapter he says (vs. 5), "`For when we __were__ in the flesh,
 the sinful passions which were aroused by the law were at work in our members to
-bear fruit to death;`" and (vs. 9) "`I was alive once without the law,
+bear fruit to death;`" and (vs. 9) "`I __was alive once__ without the law,
 but when the commandment came, sin revived and I died.`"
 And later he says (vs. 14), "`We know that the law is spiritual, but I am carnal,
 sold under sin.`"
@@ -581,20 +587,24 @@ the law might be fulfilled in us who do not walk according to the flesh but
 according to the Spirit.`"^
 footnote:[Romans 8:2-4]
 
+[.discourse-part]
 Objection: Fourthly, they object from the faults and sins of several eminent saints,
 such as Noah, David, etc.
 
+[.discourse-part]
 Answer: I answer, this does not at all prove our opponent's case;
 for the question is not whether good men may not fall into sin (which we do not deny),
 but whether it is impossible for them not to sin.
 Nor does it follow that, because these men sinned on certain occasions,
 that they always sinned, and so never experienced times of true freedom from sin.
 
+[.discourse-part]
 Objection: Lastly, they object from the prayer of our Lord,
 where He taught His disciples to say, "`forgive us our trespasses,
 as we forgive those who trespass against us.`"^
 footnote:[Matthew 6:12]
 
+[.discourse-part]
 Answer: I answer, we deny not that "`all have sinned,
 and fall short of the glory of God,`"^
 footnote:[Romans 3:23]

@@ -101,8 +101,8 @@ footnote:[2 Corinthians 5:19 Literal Translation.
 Editor's Note:
 Most modern translations read "`has committed to
 us the word or message of reconciliation.`"
-But the Greek reads "`placing in us the word of reconciliation`" - θέμ
-ενος ἐν ἡμῖν τὸν λόγον τῆς καταλλαγῆς]
+But the Greek reads "`placing in us the word of reconciliation`" -
+θέμενος ἐν ἡμῖν τὸν λόγον τῆς καταλλαγῆς]
 And therefore the apostle, in the very next verses,
 entreats them "`in Christ's stead to be reconciled to God;`" intimating,
 that the wrath of God has been removed by the obedience of Christ Jesus,
@@ -116,8 +116,8 @@ as will be seen.
 
 The first then,
 is the redemption performed and accomplished by
-Christ for us in His crucified body without us.
-The other is the redemption wrought by Christ within us,
+Christ __for us__ in His crucified body without us.
+The other is the redemption wrought by Christ __within us__,
 which is no less properly called and accounted a redemption than the former.
 The first is that whereby man, as he stands in the fall,
 is put into a capacity of salvation, and has conveyed unto him a measure of that power,
@@ -129,10 +129,10 @@ pure and perfect redemption in ourselves,
 purifying, cleansing, and redeeming us from the power of corruption,
 and bringing us into unity, favor, and friendship with God.^
 footnote:[Editor's Note: See also Ephesians chapter 1, where Paul first writes (vs. 7),
-"`In Him we have redemption through His blood, the forgiveness of sins,
+"`In Him __we have redemption__ through His blood, the forgiveness of sins,
 according to the riches of His grace;`" and then (vs. 14)
 declares the Holy Spirit to be the "`guarantee of our
-inheritance until the redemption of the purchased possession.`"
+inheritance __until the redemption__ of the purchased possession.`"]
 
 By the first of these two, we, who were lost in Adam,
 plunged into the bitter and corrupt seed, unable, of ourselves to do any good thing,
@@ -227,8 +227,8 @@ though we place remission of sins in the righteousness and obedience
 of Christ performed by Him in the flesh (as the procuring cause),
 and we hold ourselves truly justified by Christ Jesus formed and brought forth in us;
 yet we cannot (as some Protestants have unwarily done) exclude works from justification.
-For though, to speak properly, we are not justified by them,
-yet are we justified in them, and so they are necessary.
+For though, to speak properly, we are not justified __by__ them,
+yet are we justified __in__ them, and so they are necessary.
 The denying of this is not only contrary to Scripture's testimony,
 but has brought a great scandal to the Protestant religion,
 opened the mouths of accusers,
@@ -240,7 +240,7 @@ word "`merit`" in a qualified sense (though not as the Catholics do).
 However, not only do most Protestants deny them to be necessary,
 but they are sometimes not ashamed to call them hurtful,
 often saying that the best works, even of the saints, are defiled and polluted.
-Now, though we judge this to be true of the best works performed by man,
+Now, though we judge this to be true of the best works performed __by man__,
 endeavoring a conformity to the outward law by his own strength, and in his own will,
 yet we believe that such works as naturally proceed from this spiritual birth,
 and from the formation of Christ in us, are pure and holy,
@@ -253,7 +253,8 @@ of His own free grace.
 The state of the controversy being thus described,
 these following positions must now be proved:
 
-First: that the obedience, sufferings,
+[.numbered]
+__First:__ that the obedience, sufferings,
 and death of Christ is that by which the soul obtains remission of sins,
 and is the procuring cause of that grace by whose
 inward workings Christ comes to be formed inwardly,
@@ -265,7 +266,8 @@ though not in the sense that He is actually united to,
 or does actually account anyone just or justified, while they remain in their sins,
 continuing impure and unjust.
 
-Secondly: that it is by this inward birth of Christ in man that we are made just,
+[.numbered]
+__Secondly:__ that it is by this inward birth of Christ in man that we are made just,
 and therefore so accounted by God.
 So then, to speak plainly,
 it is not till Christ be brought forth in us
@@ -274,7 +276,8 @@ for the term justification is used, both more properly and more frequently in Sc
 according to its proper meaning,
 which is "`to make one just,`" and not merely to repute one so.
 
-Thirdly: that since good works naturally flow from this birth (as heat from a fire),
+[.numbered]
+__Thirdly:__ that since good works naturally flow from this birth (as heat from a fire),
 they are therefore an absolute necessity to justification--not as the cause thereof,
 but as that in which we are justified, and without which we cannot be justified.
 And though these good works are not meritorious, nor draw any debt upon God,
@@ -311,7 +314,7 @@ footnote:[Isaiah 59:2]
 For where there is a perfect and full reconciliation there is no separation.
 But to suggest that men may be fully reconciled to God even while they continue in
 their sins necessarily implies that sin makes not the least separation from God,
-and that man is justified in his sins.
+and that man is justified __in his sins__.
 And from this would follow the most abominable consequence,
 that good works and great sins are alike in the sight of God,
 seeing that neither one serves to justify,
@@ -409,6 +412,7 @@ but I go on to take notice of the common objections against it.
 
 === Objections and Responses
 
+[.discourse-part]
 Objection:
 The first and chief objection is drawn from that
 saying of the apostle (before mentioned):
@@ -419,6 +423,7 @@ footnote:[2 Corinthians 5:18-19]
 From here it is inferred that Christ fully perfected
 the work of reconciliation while He was on earth.
 
+[.discourse-part]
 Answer: If by "`reconciliation`" is understood the removing of wrath,
 and the purchase of that Grace by which we may
 come to be fully reconciled and united to God,
@@ -434,8 +439,8 @@ footnote:[2 Corinthians 5:19 Literal Translation.
 Editor's Note:
 Most modern translations read "`has committed to
 us the word or message of reconciliation.`"
-But the Greek reads "`placing in us the word of reconciliation`" - θέμ
-ενος ἐν ἡμῖν τὸν λόγον τῆς καταλλαγῆς]
+But the Greek reads "`placing in us the word of reconciliation`" -
+θέμενος ἐν ἡμῖν τὸν λόγον τῆς καταλλαγῆς]
 and in the following verse says, "`Now then, we are ambassadors for Christ,
 as though God were pleading through us: we implore you on Christ's behalf,
 be reconciled to God.`"^
@@ -445,14 +450,16 @@ what need would there be for any entreating them to be reconciled?
 Ambassadors are not sent after peace is already perfected and reconciliation made,
 but to entreat for reconciliation.
 
+[.discourse-part]
 Objection: Secondly, they object (fRom. 5:21 of the same chapter),
 "`For He made Him who knew no sin to be sin for us,
 that we might become the righteousness of God in Him.`"
 From this they argue, that as our sin is imputed to Christ, who had no sin;
 so Christ's righteousness is imputed to us, without our actually being righteous.
 
+[.discourse-part]
 Answer: But this interpretation is easily rejected; for the apostle himself,
-in multiple instances, demonstrates that we are to be made really righteous by Christ,
+in multiple instances, demonstrates that we are to be made __really__ righteous by Christ,
 and not merely imputed or considered righteous.
 Indeed, this appears by what follows in verses 14-16 of the following chapter,
 where he argues largely against any supposed agreement between light and darkness,
@@ -484,7 +491,7 @@ offering by which satisfaction is made to the justice of God,
 remission of sins is obtained, and the Grace and Seed are purchased,
 from which this birth proceeds.
 The thing which remains to be proved is,
-that by Christ Jesus formed in us we are justified, or truly made just.
+that by Christ Jesus formed in us we are justified, or __truly made just__.
 Let it be noted that I here use the term "`justification`" in this sense.
 
 First then, I prove this by that Scripture of the apostle Paul,
@@ -502,15 +509,15 @@ concludes by saying "`such were some of you`" but you are so no longer.
 Thus having been washed and sanctified, so they were truly justified.
 For my part, I neither see anything, nor have ever heard or read anything,
 that could suggest the word "`justified`" in this place to be understood in
-any other way than in its own proper and genuine meaning of being made just.
+any other way than in its own proper and genuine meaning of __being made just__.
 
 Now this word "`justify,`" which is derived from the noun "`justice,`" or
 the adjective "`just,`" does beyond all question signify a making just,
-for it is nothing other than a composition of the verb facio, and the adjective justus,
-which is justifico, or I make just.
-Likewise, the word justified is from justus and fio, meaning I become just.
+for it is nothing other than a composition of the verb __facio__, and the adjective __justus__,
+which is __justifico__, or __I make just__.
+Likewise, the word justified is from __justus__ and __fio__, meaning __I become just__.
 So it is with other verbs of this kind,
-like santifico which is from sanctus (holy) and facio, meaning I make holy.
+like __santifico__ which is from __sanctus__ (holy) and __facio__, meaning __I make holy__.
 In each case it is understood that the subject is really and truly
 endued with that virtue and quality from which the verb is derived.
 For as none are said to be sanctified who are not really holy;
@@ -709,7 +716,7 @@ Thus it necessarily follows, that wherever Christ is inwardly known,
 there the persons subjected to Him are approved and justified.
 Nothing could be more plain than this; for if we must know Christ in us,
 except we be reprobates (or unjustified persons),
-then those who do know Him in them are not reprobates,
+then those who __do__ know Him in them are __not__ reprobates,
 and consequently justified persons.
 For this reason, the same apostle says: "`My little children,
 for whom I travail in birth again until Christ be formed in you,`"^
@@ -811,9 +818,13 @@ since what is said in this chapter by the apostle is sufficient to
 convince any man that will but read and believe it.
 I shall only derive this one argument:
 
-Argument: If no man can be justified without faith,
+[.discourse-part]
+__Argument:__ If no man can be justified without faith,
 and no faith can be living or suitable to justification without works,
 then works are necessary to justification.
+
+[.small-break]
+'''
 
 This truth is so apparent and evident in the Scriptures that,
 for the proof of it, we might transcribe most of the precepts of the Gospel.
@@ -831,19 +842,22 @@ that they may have right to the tree of life and
 through the gates may enter into the city;`" Indeed,
 many more might be given as examples, from all of which I argue:
 
-Argument: If only those who do the will of the Father can enter the kingdom of heaven;
+[.discourse-part]
+__Argument:__ If only those who do the will of the Father can enter the kingdom of heaven;
 if only those who do the sayings of Christ are accounted the wise and happy builders;
 if no outward observations avail, but only the keeping of the commandments;
 and if only those who do His commandments have right to the Tree of Life,
 and an entrance through the gates of the city;
 then works are absolutely necessary to salvation and justification.
 
+[.discourse-part]
 Objection:
 But they object that works are not necessary to justification
 because of the saying of Christ in Luke 17:10:
 "`When you have done all those things which you are commanded, say,
 'We are unprofitable servants,'`" etc.
 
+[.discourse-part]
 Answer: As to God we are indeed unprofitable, for He needs nothing,
 and we can add nothing to Him.
 But as to ourselves we are not unprofitable,
@@ -862,6 +876,7 @@ you have been faithful over a few things, I will make you ruler over many things
 enter into the joy of your Lord.`"^
 footnote:[Matthew 25:23]
 
+[.discourse-part]
 Objection: Secondly, they object from those sayings of the apostle Paul,
 where he excludes the deeds of the law from justification: such as Romans 3:20,
 "`Therefore by the deeds of the Law no flesh
@@ -869,6 +884,7 @@ will be justified in His sight,`" and verse 28,
 "`Therefore we conclude that a man is justified
 by faith apart from the deeds of the Law.`"
 
+[.discourse-part]
 Answer: In answer to this objection, I say,
 there is a great difference between the works of the Law,
 and the works of grace or of the Gospel.
@@ -926,7 +942,7 @@ Now circumcision is a word which is often used
 to comprehend the whole of the old covenant,
 with its ceremonial and legal performances.
 These, Paul says, are excluded, and by them no man is justified;
-but faith working through love, but the new creature, this is that which avails,
+but faith working through love, but the new creature, __this__ is that which avails,
 and indeed is necessary.
 Now, that the apostle in no way intends to exclude the good
 works of the new creature appears in this same place,
@@ -942,15 +958,17 @@ the outward ceremonies and traditions of the Law,
 but the fruits of the Spirit mentioned a little before (4:22),
 by which Spirit Paul desired them all to be led,
 and in which he would have them all walk.
-The former are "`works of righteousness that we have done,`" wrought in our first,
+The former are "`works of righteousness that __we__ have done,`" wrought in our first,
 fallen nature, by our own strength, in legal performances.
 The latter are the fruits of "`the washing of regeneration,
 and the renewing of the Holy Spirit.`"^
 footnote:[See Titus 3:5]
 
+[.discourse-part]
 Objection: But these works of the Spirit may also be called ours,
 because they are wrought in us, and also by us many times as instruments.
 
+[.discourse-part]
 Answer: Even so, the two kinds of works differ widely from each other.
 In the first we are yet alive in our own natural state, unrenewed, working of ourselves,
 seeking to save ourselves by imitating and endeavoring
@@ -986,6 +1004,7 @@ circumcised also worked effectively in me toward the Gentiles;`" or,
 footnote:[Philippians 2:13]
 etc.
 
+[.discourse-part]
 Objection: Some object that no works, not even the works of Christ in us,
 can have place in justification, because nothing that is impure can be useful in it;
 and all the works wrought in us are impure.
@@ -996,6 +1015,7 @@ adding this reason, that, seeing we are impure, so our works must be also;
 for even the works of God, as performed by us, receive a tincture of impurity,
 even as clean water passing through an unclean pipe is defiled.
 
+[.discourse-part]
 Answer: That no impure works are useful to justification is confessed;
 but that all works wrought in the saints are impure is denied.
 And to answer this objection,
@@ -1004,7 +1024,7 @@ For we confess that the first sort of works are impure;
 but not the second--because the first sort is wrought by man in the unrenewed state,
 but the other is wrought by the Spirit and grace of God.
 And as for that place in Isaiah, it must relate to the first sort; for though he says,
-"`All our righteousness is as a filthy rag,`" yet this does
+"`All __our__ righteousness is as a filthy rag,`" yet this does
 not comprehend the righteousness of Christ wrought in us,
 but only that which we work of and by ourselves.
 For were it otherwise,
@@ -1051,9 +1071,9 @@ because it seems fit here to say something of the merit and reward of works,
 I shall add something in this place of our sense and belief concerning that matter.
 We are far from thinking or believing that man merits anything by his works from God,
 for indeed all is of free grace,
-and therefore we have always denied the Catholic notion of meritum ex condigno.^
+and therefore we have always denied the Catholic notion of __meritum ex condigno__.^
 footnote:[Editor's Note:
-Meritum ex condigno, is the Roman Catholic doctrine
+__Meritum ex condigno__, is the Roman Catholic doctrine
 stating that there is an intrinsic worth in works,
 which God, if He does according to justice, cannot but reward with eternal life.]
 Nevertheless we cannot help but acknowledge, that God,
@@ -1062,7 +1082,7 @@ after He communicates to him His holy Grace and Spirit, does, according to His o
 recompense and reward the good works of His children.
 And therefore, a merit of reward,
 in the sense that the Scriptures plainly and positively assert it, we may not deny.
-For the same Greek word axion,
+For the same Greek word __axion__,
 which signifies "`merit,`" is found in those places where the
 translators express it "`worth,`" or "`worthy,`" (as in Matt. 3:8;
 1 Thess. 2:12; 2 Thess. 1:11-5)
@@ -1119,4 +1139,3 @@ footnote:[Romans 13:14]
 and are clothed with Him, and partake of His righteousness and nature,
 and so can draw near to the Lord with boldness,
 knowing their acceptance in and by Him in whom the Father is well pleased.
-

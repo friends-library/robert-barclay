@@ -1,4 +1,4 @@
-== Chapter IThe Condition of Man in the Fall
+== Chapter I. The Condition of Man in the Fall
 
 We come now to examine the state and condition of man
 as he stands in the fall--what his capacity and power is,
@@ -51,7 +51,7 @@ and rightly understand it as that spiritual communion and
 fellowship which the saints obtain with God by Jesus Christ.
 Only to Christ do these cherubim give way,
 and to as many as enter by the One who calls Himself the Door.
-So then, though we do not ascribe any part of Adam's guilt to men,
+So then, though we do not ascribe any part of Adam's __guilt__ to men,
 until they make it theirs by similar acts of disobedience;
 yet we cannot believe that the descendants of Adam have any good thing in their nature,
 as belonging to it;
@@ -69,7 +69,7 @@ as coming from the Source of goodness Himself, and aiming towards His eternal pu
 any man does, proceeds not from his nature as a man, or as a son of Adam,
 but from the Seed of God in him,
 from a new visitation of life given to bring him out of this natural condition.
-But though this gift or Seed be in man, it is not of him,
+But though this gift or Seed be __in__ man, it is not __of__ him,
 and this the Lord plainly declared; for when speaking of fallen man,
 He testified "`that every imagination of the thoughts
 of his heart was only evil continually.`"^
@@ -80,7 +80,7 @@ He says "`every imagination of the thoughts of his heart;`" so
 that this allows no exception in any thoughts of man's heart.
 Secondly,
 "`is only evil continually;`" it does not say 'partially evil continually,' nor '
-entirely evil at some times;' but it is both only evil and continually evil!
+entirely evil at some times;' but it is both __only__ evil and __continually__ evil!
 This certainly excludes any good as belonging to man's heart naturally:
 for that which is only evil, and always evil,
 cannot of its own nature produce any good thing.
@@ -119,12 +119,14 @@ and the knowledge of God, out of the right way, and entirely unprofitable.
 And if this be the condition of the natural man as he stands in the fall,
 he is most certainly unfit to take one right step toward heaven.
 
-Objection:
+[.discourse-part]
+__Objection:__
 If it be suggested that this text of the apostle does
 not speak of the condition of all men in general,
 but only of some particulars, I answer:
 
-Answer: The text clearly speaks to the contrary in the foregoing verse,
+[.discourse-part]
+__Answer:__ The text clearly speaks to the contrary in the foregoing verse,
 where the apostle applies these things to himself (in
 his natural condition) and to all Jews and Gentiles,
 saying: "`What then?
@@ -133,14 +135,16 @@ Not at all.
 For we have previously charged both Jews and Gentiles, that they are all under sin,
 as it is written:`" and so he goes on, showing that he speaks of mankind in general.
 
-Objection:
+[.discourse-part]
+__Objection:__
 If they object that the same apostle says in the foregoing chapter
 that the Gentiles "`do by nature the things contained in the Law,`"^
 footnote:[Romans 2:14]
 and so consequently do by nature that which is good and acceptable in the sight of God,
 I answer:
 
-Answer: The word "`nature`" here cannot be understood of man's own nature,
+[.discourse-part]
+__Answer:__ The word "`nature`" here cannot be understood of man's own nature,
 which is corrupt and fallen,
 but of that spiritual nature which proceeds from the Seed of God in
 man as he receives a visitation of God's love and is quickened by it.
@@ -184,7 +188,7 @@ I come now to discuss the other part, namely,
 that this evil and corrupt seed is not imputed
 to infants until they actually join with it.
 For as Paul relates in Ephesians 2, they "`are by nature children of wrath,
-who walk according to the prince of the power of the air,
+__who walk__ according to the prince of the power of the air,
 the spirit that now works in the children of disobedience.`"
 Here the apostle gives their evil walking as the reason of their being children of wrath.
 And this is in keeping to the whole strain of the Gospel,
@@ -218,7 +222,7 @@ seeing they pretend that Adam's guilt is only
 washed away by their form of infant baptism.
 These, perhaps, appear a little more merciful,
 in that they do not send unbaptized children to hell,
-but rather to limbo--concerning which concept the Scriptures are also entirely silent.
+but rather to __limbo__--concerning which concept the Scriptures are also entirely silent.
 
 Such ideas are not only absent from Scripture,
 but contrary to the express tenor of it.
@@ -250,13 +254,15 @@ or of his immediate parents, far less shall he bear the guilt of Adam.
 Having thus far shown how absurd this opinion is,
 I shall briefly examine the reasons that some contend for it.
 
-Objection: First, they insist that Adam was the head of a corporate race,
+[.discourse-part]
+__Objection:__ First, they insist that Adam was the head of a corporate race,
 and therefore all men sinned in him, as being still in his loins.
 And for this they allege Romans 5:12, where the apostle says, "`Therefore,
 just as through one man sin entered the world, and death through sin,
 and thus death spread to all men, because all sinned.`"
 
-Answer: To this I answer: That Adam is the head of a corporate race is not denied by us,
+[.discourse-part]
+__Answer:__ To this I answer: That Adam is the head of a corporate race is not denied by us,
 nor that through him there is a seed of sin propagated to all men,
 which in its own nature is sinful, and inclines men to iniquity.
 Nevertheless, it does not follow from this that infants,
@@ -267,11 +273,13 @@ But that infants cannot be counted among these guilty
 ones is plainly shown in the following verse:
 "`But sin is not imputed where there is no law.`"
 
-Objection: Their second objection is from Ps. 51:5, "`Behold,
+[.discourse-part]
+__Objection:__ Their second objection is from Ps. 51:5, "`Behold,
 I was brought forth in iniquity, and in sin my mother conceived me.`"
 Hence, they say, it appears that infants are guilty even from their conception.
 
-Answer: How they infer this conclusion, for my part, I do not see.
+[.discourse-part]
+__Answer:__ How they infer this conclusion, for my part, I do not see.
 The iniquity and sin here appear to be far more
 ascribable to the parents than to the child.
 David says, "`In sin my mother conceived me;`" he does not say,
@@ -282,14 +290,16 @@ in which seed all are given occasion to sin,
 and this is the origin of all evil actions and thoughts in men's hearts.
 But, again,
 we insist (according to plain Scripture) that this evil is imputed or credited to none,
-until by actually sinning, they willingly join with it.
+until by actually __sinning__, they willingly join with it.
 
-Objection: Thirdly, they object,
+[.discourse-part]
+__Objection:__ Thirdly, they object,
 that "`the wages of sin is death;`" and seeing
 that children are subject to diseases and death,
 they must therefore be guilty of sin.
 
-Answer:
+[.discourse-part]
+__Answer:__
 We confess that death and disease are a consequence of the fall and of Adam's sin;
 but that this necessarily infers a guilt in all that experience them, we deny.
 For though the whole outward creation suffered a decay by Adam's fall,
@@ -298,14 +308,15 @@ heavens are not clean in the sight of God;`"^
 footnote:[Job 15:15]
 yet it does not follow that the herbs, the earth, and the trees are thereby sinners.
 
-Objection: Lastly, some are so foolish as to object that,
+[.discourse-part]
+__Objection:__ Lastly, some are so foolish as to object that,
 if Adam's sin is not imputed to those who actually have not sinned,
 then it would follow that all infants are saved.
 
-Answer: We are willing that this conclusion be the consequence of our doctrine,
+[.discourse-part]
+__Answer:__ We are willing that this conclusion be the consequence of our doctrine,
 rather than accept the unavoidable consequence of theirs, namely,
 that countless infants eternally perish, not for any sin of their own,
 but only for Adam's iniquity.
 Here we are willing to let the controversy stop,
 commending all to the illuminated understanding of the Christian reader.
-
