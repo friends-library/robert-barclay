@@ -30,8 +30,8 @@ endless pilgrimages of the Romish synagogue.
 But it concerns the Protestants to carefully consider
 whether they have made a clear and perfect reformation,
 for indeed, we find many of the dead branches lopped off by them,
-but the root yet remaining, namely, a worship acted in and from man's will and spirit,
-and not by and from the Spirit of God.
+but the root yet remaining, namely, __a worship acted in and from man's will and spirit,
+and not by and from the Spirit of God.__
 For the true Christian and spiritual worship of God was very early lost,
 and man's wisdom and will so quickly and thoroughly mixed with it,
 that the apostasy in this respect has become very great,
@@ -122,10 +122,7 @@ We do not, however, believe with the Roman Catholics that these days are holy,
 nor do we lead people into a superstitious observation of them,
 for we are persuaded that all days are alike in the sight of God.
 
-
-
-Silent Waiting Upon God
-
+=== Silent Waiting Upon God
 
 We come then to the subject of the controversy.
 With regard to public worship,
@@ -326,10 +323,7 @@ and utter them with ever so much excellency of speech,
 yet if this Life is lacking it will not edify us at all,
 but rather be as "`sounding brass or a tinkling cymbal`" (1 Cor. 13:1).
 
-
-
-The Believer's Role in Worship
-
+=== The Believer's Role in Worship
 
 Therefore, when we meet together,
 our work and our worship is for everyone to watch and
@@ -953,7 +947,7 @@ and so does not now tie His people to the temple of Jerusalem,
 nor to outward ceremonies and observations,
 but rather takes the heart of every Christian for a temple to dwell in,
 and there He immediately appears and teaches how to serve Him in any outward acts.
-Since, as Christ argues, "`God is a Spirit,`" He will now be worshipped in the Spirit,
+Since, as Christ argues, "`God is a Spirit,`" He will now be worshipped __in the Spirit__,
 where He reveals Himself and dwells with the contrite in heart.
 Indeed,
 it is the heart of man that has now become the
@@ -996,7 +990,7 @@ or entangling oneself with vows and promises;
 for such things tend to hinder the soul from observing
 the operations of the divine Spirit within,
 and from having liberty to follow the Spirit wherever it might draw.`"^
-footnote:[Sancta Sophia, put out by the English Benedictines, printed at Douay,
+footnote:[[.book-title]#Sancta Sophia#, put out by the English Benedictines, printed at Douay,
 anno 1657, tract.
 I, sect.
 ii, cap.
@@ -1012,10 +1006,8 @@ such as tasted of this quickly confessed that all other
 forms and ceremonies of worship were useless for them;
 neither did they perform them as necessary things,
 but merely for the sake of order or example.^
-footnote:[Life of Balthazar Alvares, in the same Sancta Sophia, tract.
-III, sect.
-i, cap.
-7]
+footnote:[Life of Balthazar Alvares, in the same [.book-title]#Sancta Sophia#, tract.
+III, sect. i, cap. 7]
 Therefore,
 though some of these men and women remained clouded
 with the common darkness of their religious profession,
@@ -1058,20 +1050,18 @@ or feeling the pure Spirit of God to move and stir in them),
 that they may come to practice this acceptable
 worship which is "`in Spirit and in Truth.`"
 
+=== Objections Answered
 
-
-Objections Answered
-
-
+[.no-indent]
 But against this worship they object:
 
-
+[.discourse-part]
 Objection: First,
 it seems to be an unprofitable exercise for a man to be doing or thinking nothing.
 One might be much better employed either in meditating
 upon some good subject or in praying to or praising God.
 
-
+[.discourse-part]
 Answer: I answer,
 that which is absolutely necessary before all other duties can be
 acceptably performed (as we have shown) cannot be unprofitable.
@@ -1089,7 +1079,7 @@ being the occasion of our first parents' fall, namely:
 a forwardness to desire to know things,
 and a meddling with them both without and contrary to the Lord's command.
 
-
+[.discourse-part]
 Objection: Secondly, some object,
 "`If your worship consists merely in inwardly retiring to the Lord,
 feeling His Spirit arise in you, and then doing whatever acts you are led to by Him,
@@ -1100,7 +1090,7 @@ to go to a particular place or do a particular thing?
 And is not meeting at set times and places an outward observation and ceremony,
 contrary to what you assert?`"
 
-
+[.discourse-part]
 Answer: I answer,
 to meet at set times and places is not a religious act or a part of worship in itself,
 but only an outward convenience necessary for seeing one another,
@@ -1143,11 +1133,12 @@ those who are right in their spirits are naturally
 drawn to keep the meetings of God's people,
 and they never lack the Spirit's influence to lead them to it.
 
-
+[.discourse-part]
 Objection: Lastly,
 some object that this manner of worship in
 silence is not to be found in all the Scripture.
 
+[.discourse-part]
 Answer: I answer; first, we do not make silence the chief matter of our worship,
 since (as I have above said) there are very few meetings that are altogether silent,
 where some are not moved either to preach, pray, or praise the Lord.
@@ -1158,7 +1149,7 @@ since even our adversaries will confess that they did
 not preach and pray except by the Spirit.
 Consequently,
 must there not have been times in the primitive church
-when the Spirit did not move them to speak or act,
+when the Spirit did __not__ move them to speak or act,
 at which times they were silent?
 Indeed, there was no doubt some times of silence before the Spirit came upon them.
 For they were told to "`tarry in the city of Jerusalem
@@ -1189,10 +1180,7 @@ Thus having shown the excellency of this worship, proven it from Scripture and r
 and answered the objections which are commonly made against it,
 I shall add something more particularly concerning preaching, praying, and singing.
 
-
-
-Preaching
-
+=== Preaching
 
 Preaching, as it is practiced both among Roman Catholics and Protestants,
 is when a man takes a passage of Scripture,
@@ -1228,12 +1216,12 @@ but rather done by the immediate motion of the Spirit, we should have nothing ag
 But to do this in the manner that is common among most professing Christians today,
 there is neither precept nor practice in all the New Testament, so far as I can observe.
 
-
+[.discourse-part]
 Objection: But they allege that Christ took the book of Isaiah and read out of it,
 and then spoke from it.
 And likewise, that Peter preached from a passage of the prophet Joel.
 
-
+[.discourse-part]
 Answer: I answer,
 that Christ and Peter did not do it except as they were
 immediately acted upon and moved thereto by the Spirit of God,
@@ -1268,6 +1256,8 @@ and not what they had studied and gathered from books in a premeditated way.
 
 Francis Lambert speaks well, and shows their hypocrisy, saying:
 
+[quote]
+____
 Where are they now that glory in their spiritual inventions, who say,
 "`A fine invention!
 A fine invention!`" referring to that which they have concocted from Scripture.
@@ -1276,9 +1266,12 @@ No, we will have no inventions, but rather things that are solid, invincible, et
 and heavenly--not that which men have invented, but which God has revealed.
 For if we believe the Scripture,
 our inventions profit nothing but to provoke God to our destruction.
+____
 
 And afterwards he writes,
 
+[quote]
+____
 Beware, that you determine not to speak precisely what you have before meditated,
 whatsoever it is.
 For though it is lawful to determine the text which you are to expound,
@@ -1290,7 +1283,6 @@ You are to commit your heart, your tongue, and yourself wholly unto His Spirit,
 trusting nothing to your former studying or meditation,
 but saying within yourself (in great confidence of the divine promise),
 'The Lord will give the word with power unto those that truly preach the gospel.'
-
 
 But above all things be careful
 that you do not follow the manner of hypocrites,
@@ -1305,9 +1297,8 @@ Spirit but rather upon their own writing or meditation!
 Why do you pray to the Lord, you false prophet,
 to give you His Holy Spirit by which to speak profitable things,
 and yet repel His Spirit?^
-footnote:[Tract.
-5, of Prophecy, chap.
-3]
+footnote:[Tract. 5, of [.book-title]#Prophecy#, chap. 3]
+____
 
 Now, this manner of premeditated preaching (as all confess) may be, and often is,
 performed by men who are wicked or void of true grace,
@@ -1371,14 +1362,14 @@ And even as these testimonies of the Scripture do prove this
 kind of preaching to be contrary to the doctrine of Christ,
 so they also prove ours to be affirmed.
 
-
+[.discourse-part]
 Objection: But some may object in this manner: Have not many benefited, yes,
 and been both converted and edified by the ministry of
 those who have premeditated their preaching?
 And has not the Spirit often concurred by divine influence with premeditated preachings,
 so that some have powerfully impacted the souls of the hearers to their advantage?
 
-
+[.discourse-part]
 Answer: I answer, though this be granted (for I will not deny it),
 it does not infer that the thing was good in itself,
 any more than to suggest that Christ's appearance to Paul on the road
@@ -1403,10 +1394,7 @@ Indeed,
 such acts of God's mercy in times of darkness and ignorance should all the more
 engage us to follow Him according as He reveals His most perfect and spiritual way.
 
-
-
-Prayer
-
+=== Prayer
 
 Having spoken of preaching, it is fitting now to speak of praying,
 concerning which subject a similar controversy arises.
@@ -1596,11 +1584,13 @@ And since what is asserted here by the apostle is most consistent with the
 other testimonies of Scripture that commend and recommend the use of prayer,
 I argue as follows:
 
-
-Argument: If man knows not how to pray,
+[.discourse-part]
+__Argument:__ If man knows not how to pray,
 nor is able to do it without the help of the Spirit,
 then it is without purpose and unprofitable for him to pray without it.
 
+[.small-break]
+'''
 
 Thirdly,
 the necessity of the Spirit in true prayer appears from Eph.
@@ -1657,11 +1647,10 @@ for the Scripture so testifies, Isa. 66:3; Jer. 14:12),
 certainly these prayers which are acted in man's will and by his own strength,
 without God's Spirit, must be of that number.
 
-
 Let this suffice for proof.
 Now I will proceed to answer some objections of our opposers.
 
-
+[.discourse-part]
 Objection: First,
 they object that if such particular influences of the
 Spirit are necessary for outward acts of worship,
@@ -1670,7 +1659,7 @@ and love God,
 as well as for outward moral duties such as honoring parents or doing right to neighbors,
 etc.
 
-
+[.discourse-part]
 Answer: I answer, that which has already been said sufficiently answers this objection.
 For with regard to the general duties of man towards God and towards his neighbor,
 man never lacks a heavenly influence so long as the day of his visitation lasts,
@@ -1681,11 +1670,12 @@ which are commanded of God to be performed by His Spirit (see 1 Cor. 12:4-11;
 1 Pet. 4:11), and are for the benefit of the public gathering,
 these need a more special motion and influence, as has been demonstrated.
 
+[.discourse-part]
 Objection: Secondly, they object that, according to this doctrine,
 wicked men may neglect prayer for years together,
 alleging that they lack God's motion to do it.
 
-
+[.discourse-part]
 Answer: I answer,
 the false pretenses of wicked men do nothing to invalidate the truth of this doctrine.
 For though we grant that they should not pray without the Spirit,
@@ -1694,13 +1684,13 @@ they become capable of feeling the Spirit's motion.
 They indeed sin by not praying,
 but the cause of this sin is their not watching unto prayer.
 
-
+[.discourse-part]
 Objection: Thirdly,
 they object that many prayers which began without the Spirit have proved effectual,
 and that even the prayers of wicked men have at times
 been heard and accepted (as in the case of Ahab).
 
-
+[.discourse-part]
 Answer: This objection was solved before;
 for the acts of God's compassion and indulgence at some times and to some persons,
 upon singular or extraordinary occasions, are not to be the rule of our actions.
@@ -1712,12 +1702,12 @@ operations of God's Spirit before the day of their visitation has expired.
 And from these influences of the Spirit they may at times pray acceptably,
 though not unto remaining in wickedness, but unto growing in godliness.
 
-
+[.discourse-part]
 Objection: Lastly,
 some object that the so-called Lord's Prayer is a prescribed
 form of prayer or worship given by Christ to His disciples.
 
-
+[.discourse-part]
 Answer: I answer, firstly,
 that this prayer was given to the disciples while they were still weak,
 before they had received the new covenant dispensation of the Spirit,
@@ -1736,10 +1726,7 @@ then this Scripture would not be true,
 nor would they have been ignorant what to pray for,
 nor would they have needed the help of the Spirit to teach them.
 
-
-
-Singing
-
+=== Singing
 
 As to the singing of psalms, there is no need of any long discourse,
 for the case is just the same as in the two former of preaching and prayer.
@@ -1782,10 +1769,7 @@ It is in and by this indwelling Word, which richly dwells in us,
 that spiritual songs and hymns are returned to the Lord,
 according to the words of the apostle (Col. 3:16).
 
-
-
-Conclusion
-
+=== Conclusion
 
 The last great advantage of this true worship of God which we
 profess and practice is that it consists not in man's wisdom,
@@ -1826,5 +1810,3 @@ which they judge not necessary to wait for, and therefore may be performed,
 both as to the matter and manner, by the wickedest of men.
 Such was the worship and vain offerings which God always rejected,
 as appears from Isa. 66:3; Jer. 14:12, etc.; Isa. 1:13; Prov. 15:29; John 9:31.
-
-

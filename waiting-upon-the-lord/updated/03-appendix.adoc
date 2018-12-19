@@ -1,9 +1,7 @@
-== A Brief Account Concerning Silent Meetingsfootnote:[Taken from The Works of Isaac Penington, Volume 4, pg. 47.
-Quaker Heritage Press. www.qhpress.org]
+== A Brief Account Concerning Silent Meetings
 
-
+[.chapter-subtitle--blurb]
 by Isaac Penington
-
 
 This is a great mystery, hidden from the eye of man,
 who has run from the inward life into outward observations.
@@ -119,4 +117,5 @@ how and what things God reveals to his children by his
 Spirit when they wait upon Him in his pure fear,
 and worship and converse with Him in Spirit.
 For then the fountain of the great deep is unsealed,
-and the everlasting springs surely give up the pure and living water.
+and the everlasting springs surely give up the pure and living water.^
+footnote:[Taken from [.book-title]#The Works of Isaac Penington#, Volume 4, pg. 47. Quaker Heritage Press. www.qhpress.org]
