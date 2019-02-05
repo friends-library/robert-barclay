@@ -66,7 +66,7 @@ and if they be read and considered in the fear of the Lord, you may perceive tha
 naked truth which man, by his wisdom, has rendered so obscure and mysterious.
 Alas, man has burdened the world with great and voluminous treatises and commentaries,
 and rendered truth a hundredfold more dark and intricate than it is in itself.
-All of man's school learning, which takes up most of a lifetime to learn,
+All of man`'s school learning, which takes up most of a lifetime to learn,
 brings not a bit nearer to God,
 nor makes any man less wicked or more righteous than he was.
 Therefore God has laid aside the wise and the learned and the disputers of this world,
@@ -92,7 +92,7 @@ Ury, Scotland, 25th of 9th Month, 1675
 ____
 
 The following pages contain five of the original
-fifteen propositions from Barclay's [.book-title]#Apology,#
+fifteen propositions from Barclay`'s [.book-title]#Apology,#
 treating upon the fall, redemption, justification, and perfection of man.
 Because the great majority of modern readers find the
 original language and style of Barclay unmanageable,
@@ -107,7 +107,7 @@ and knew well how to speak for themselves.
 Even so,
 I have found very few today who have been able or willing to wade through
 the original publications (a task I nevertheless highly recommend^
-footnote:[The unabridged and unedited version of Barclay's
+footnote:[The unabridged and unedited version of Barclay`'s
 [.book-title]#Apology# is available through Quaker Heritage Press.
  www.qhpress.org]),
 and I doubt very much that ancient Friends would have desired their style or
