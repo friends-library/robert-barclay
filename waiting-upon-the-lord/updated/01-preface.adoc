@@ -38,12 +38,12 @@ ____
 == Forward
 
 The greatest part of this booklet is an updated version of the eleventh
-proposition of Robert Barclay's [.book-title]#Apology for the True Christian Divinity#.^
-footnote:[Robert Barclay's [.book-title]#Apology for the True
+proposition of Robert Barclay`'s [.book-title]#Apology for the True Christian Divinity#.^
+footnote:[Robert Barclay`'s [.book-title]#Apology for the True
 Christian Divinity# is made available online for free,
 and hardcover copies can be purchased through Quaker Heritage Press.
 www.qhpress.org]
-The entire volume of Barclay's [.book-title]#Apology# (consisting of fifteen
+The entire volume of Barclay`'s [.book-title]#Apology# (consisting of fifteen
 propositions in all) is a tremendous and compelling work that
 I strongly recommend to every serious seeker of the Truth.
 I have chosen to modernize and republish just this one proposition
