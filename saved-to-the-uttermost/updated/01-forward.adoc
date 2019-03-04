@@ -6,7 +6,7 @@ ____
 
 == Forward
 
-Robert Barclay (1648–1690) was a Scottish Quaker,
+Robert Barclay (1648-1690) was a Scottish Quaker,
 and one of the most eminent writers among the early Society of Friends.
 His [.book-title]#Apology for the True Christian Divinity# was first published in 1675,
 and came to be considered the definitive exposition and
