@@ -77,7 +77,9 @@ footnote:[Matthew 25:15, Luke 19:11]
 "`a little leaven;`"^
 footnote:[Matthew 13:33]
 "`the Gospel preached in every creature.`"^
-footnote:[Colossians 1:23, Literal Translation "`εν παση τη  κτισει`"]
+footnote:[Colossians 1:23, Literal Translation
+// lint-disable invalid-character
+"`εν παση τη  κτισει`"]
 
 [.numbered]
 III+++.+++ That God, in and by this Light and Seed, invites, calls, exhorts,
