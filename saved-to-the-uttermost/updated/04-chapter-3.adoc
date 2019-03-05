@@ -67,17 +67,19 @@ which the Scripture expresses by several names:
 as sometimes "`the seed of the kingdom;`"^
 footnote:[Matthew 13:18-19]
 the "`Light that makes all things manifest;`"^
-footnote:[ Ephesians 5:13]
+footnote:[Ephesians 5:13]
 the "`Word of God;`"^
-footnote:[ Romans 10:17]
+footnote:[Romans 10:17]
 or "`manifestation of the Spirit given to profit withal;`"^
-footnote:[ 1 Corinthians 12:7]
+footnote:[1 Corinthians 12:7]
 "`a talent, or mina`"^
-footnote:[ Matthew 25:15, Luke 19:11]
+footnote:[Matthew 25:15, Luke 19:11]
 "`a little leaven;`"^
-footnote:[ Matthew 13:33]
+footnote:[Matthew 13:33]
 "`the Gospel preached in every creature.`"^
-footnote:[ Colossians 1:23, Literal Translation "`εν παση τη  κτισει`"]
+footnote:[Colossians 1:23, Literal Translation
+// lint-disable invalid-character
+"`εν παση τη  κτισει`"]
 
 [.numbered]
 III+++.+++ That God, in and by this Light and Seed, invites, calls, exhorts,

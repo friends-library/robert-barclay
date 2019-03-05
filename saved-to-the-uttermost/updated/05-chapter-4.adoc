@@ -37,8 +37,11 @@ if He had not also given to Cain sufficient power whereby he was enabled to do i
 
 This the Lord also shows in giving a day of visitation to the old world:
 "`And the Lord said,
-'`My Spirit shall not always strive in man;`'`" (for so it ought to be translated).^
-footnote:[Genesis 6:3, בָ אָ דָ ם --i.e. "`in man`"]
+'`My Spirit shall not always strive in man;`'`"
+(for so it ought to be translated).^
+footnote:[Genesis 6:3,
+// lint-disable invalid-character
+בָ אָ דָ ם --i.e. "`in man`"]
 This manifestly implies that His Spirit __did__ strive with man,
 and __does__ strive with him for a season,
 which season expires when God ceases to strive with them in order to save them.
@@ -473,8 +476,9 @@ and the five produced ten.
 Furthermore, this saving, spiritual Light __is__ the Gospel,
 which the apostle expressly says is preached "`in every creature under
 heaven;`" even that very "`Gospel whereof Paul was made a minister.`"^
-footnote:[Colossians 1:23,
-Literal Translation "`εν παση τη  κτισει`" i.e. "`in every creature`"]
+footnote:[Colossians 1:23, Literal Translation
+// lint-disable invalid-character
+"`εν παση τη  κτισει`" i.e. "`in every creature`"]
 For the Gospel is not a mere declaration of good things,
 but rather "`the power of God unto salvation, to all those that believe.`"^
 footnote:[Romans 1:16]
@@ -482,7 +486,7 @@ Though the outward declaration of the Gospel be taken sometimes for the Gospel,
 yet this is but figuratively and by a metonymy.^
 footnote:[A metonymy is a figure of speech in which a thing or concept is referred
 to by the name of something else closely associated with that thing or concept.
- For example "`the crown`" is used to refer to the power of a king;
+For example "`the crown`" is used to refer to the power of a king;
 or "`the sword`" is used to refer to military force.]
 For to speak properly,
 the Gospel is the inward power and life which
