@@ -101,7 +101,7 @@ footnote:[2 Corinthians 5:19 Literal Translation.
 Editor`'s Note:
 Most modern translations read "`has committed to
 us the word or message of reconciliation.`"
-But the Greek reads "`placing in us the word of reconciliation`" -
+But the Greek reads "`placing in us the word of reconciliation`" --
 // lint-disable invalid-character
 θέμενος ἐν ἡμῖν τὸν λόγον τῆς καταλλαγῆς]
 And therefore the apostle, in the very next verses,
@@ -440,7 +440,7 @@ footnote:[2 Corinthians 5:19 Literal Translation.
 Editor`'s Note:
 Most modern translations read "`has committed to
 us the word or message of reconciliation.`"
-But the Greek reads "`placing in us the word of reconciliation`" -
+But the Greek reads "`placing in us the word of reconciliation`" --
 // lint-disable invalid-character
 θέμενος ἐν ἡμῖν τὸν λόγον τῆς καταλλαγῆς]
 and in the following verse says, "`Now then, we are ambassadors for Christ,
