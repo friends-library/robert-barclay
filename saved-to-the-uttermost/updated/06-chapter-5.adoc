@@ -101,7 +101,7 @@ footnote:[2 Corinthians 5:19 Literal Translation.
 Editor`'s Note:
 Most modern translations read "`has committed to
 us the word or message of reconciliation.`"
-But the Greek reads "`placing in us the word of reconciliation`" -
+But the Greek reads "`placing in us the word of reconciliation`" --
 // lint-disable invalid-character
 θέμενος ἐν ἡμῖν τὸν λόγον τῆς καταλλαγῆς]
 And therefore the apostle, in the very next verses,
@@ -440,7 +440,7 @@ footnote:[2 Corinthians 5:19 Literal Translation.
 Editor`'s Note:
 Most modern translations read "`has committed to
 us the word or message of reconciliation.`"
-But the Greek reads "`placing in us the word of reconciliation`" -
+But the Greek reads "`placing in us the word of reconciliation`" --
 // lint-disable invalid-character
 θέμενος ἐν ἡμῖν τὸν λόγον τῆς καταλλαγῆς]
 and in the following verse says, "`Now then, we are ambassadors for Christ,
@@ -616,7 +616,7 @@ By His death, the sins of this world were expiated.
 By His rising from the dead, it pleased the same goodness of God to give the Holy Spirit,
 whereby both the Gospel is believed,
 and the righteousness which was lost by the fault of the first Adam, is restored.`"^
-footnote:[In Gen. cap. 15. ad verb. Cred dit Abraham Deo., p. 161.]
+footnote:[In Gen. cap. 15. ad verb. Cred dit Abraham Deo+++.+++, p. 161.]
 And afterwards he says, "`The apostle expresses both parts in these words,
 '`Who was given for our sins, and rose again for our justification.`'
 In His death is beheld the satisfaction for sin;
