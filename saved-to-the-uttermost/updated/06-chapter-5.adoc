@@ -102,7 +102,7 @@ Editor`'s Note:
 Most modern translations read "`has committed to
 us the word or message of reconciliation.`"
 But the Greek reads "`placing in us the word of reconciliation`" --
-// lint-disable invalid-character
+// lint-disable invalid-characters
 θέμενος ἐν ἡμῖν τὸν λόγον τῆς καταλλαγῆς]
 And therefore the apostle, in the very next verses,
 entreats them "`in Christ`'s stead to be reconciled to God;`" intimating,
@@ -441,7 +441,7 @@ Editor`'s Note:
 Most modern translations read "`has committed to
 us the word or message of reconciliation.`"
 But the Greek reads "`placing in us the word of reconciliation`" --
-// lint-disable invalid-character
+// lint-disable invalid-characters
 θέμενος ἐν ἡμῖν τὸν λόγον τῆς καταλλαγῆς]
 and in the following verse says, "`Now then, we are ambassadors for Christ,
 as though God were pleading through us: we implore you on Christ`'s behalf,
