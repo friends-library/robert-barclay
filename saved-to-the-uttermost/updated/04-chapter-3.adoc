@@ -78,7 +78,7 @@ footnote:[Matthew 25:15, Luke 19:11]
 footnote:[Matthew 13:33]
 "`the Gospel preached in every creature.`"^
 footnote:[Colossians 1:23, Literal Translation
-// lint-disable invalid-character
+// lint-disable invalid-characters
 "`εν παση τη  κτισει`"]
 
 [.numbered]

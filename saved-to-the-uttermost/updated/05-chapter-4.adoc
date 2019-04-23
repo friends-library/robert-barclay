@@ -40,7 +40,7 @@ This the Lord also shows in giving a day of visitation to the old world:
 '`My Spirit shall not always strive in man;`'`"
 (for so it ought to be translated).^
 footnote:[Genesis 6:3,
-// lint-disable invalid-character
+// lint-disable invalid-characters
 בָ אָ דָ ם --i.e. "`in man`"]
 This manifestly implies that His Spirit __did__ strive with man,
 and __does__ strive with him for a season,
@@ -477,7 +477,7 @@ Furthermore, this saving, spiritual Light __is__ the Gospel,
 which the apostle expressly says is preached "`in every creature under
 heaven;`" even that very "`Gospel whereof Paul was made a minister.`"^
 footnote:[Colossians 1:23, Literal Translation
-// lint-disable invalid-character
+// lint-disable invalid-characters
 "`εν παση τη  κτισει`" i.e. "`in every creature`"]
 For the Gospel is not a mere declaration of good things,
 but rather "`the power of God unto salvation, to all those that believe.`"^
