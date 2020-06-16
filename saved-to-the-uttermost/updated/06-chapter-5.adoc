@@ -254,6 +254,9 @@ of His own free grace.
 The state of the controversy being thus described,
 these following positions must now be proved:
 
+[.numbered-group]
+====
+
 [.numbered]
 __First:__ that the obedience, sufferings,
 and death of Christ is that by which the soul obtains remission of sins,
@@ -290,6 +293,8 @@ It is therefore false and contrary to the Truth to suggest that the holiest
 works of the saints are defiled and sinful in the sight of God;
 for the good works which flow from the spiritual birth are not the
 works of the law which the apostle excluded from justification.
+
+====
 
 As to the first position, I first prove it from Romans 3:25:
 "`Whom God has set forth to be a propitiation through faith in His blood,
