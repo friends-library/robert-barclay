@@ -1121,9 +1121,7 @@ From which I thus argue, from plain Scripture:
 
 [.syllogism]
 * The doers of the Law shall be justified.
-* But some of the Gentiles did the things contained in the Law,
-showing that the work of the Law was written in their hearts.^
-footnote:[Romans 2:15]
+* But some of the Gentiles did the things contained in the Law, showing that the work of the Law was written in their hearts.footnote:[Romans 2:15]
 * Therefore these were justified.
 
 Paul, through that whole chapter,
