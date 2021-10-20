@@ -24,9 +24,9 @@ ____
 
 Robert Barclay (1648-1690) wrote his classic exposition and defense of Quakerism
 // lint-disable invalid-characters "æ"
-in Latin and published it in 1676 as Theologiæ Vere Christianæ Apologia.
+in Latin and published it in 1676 as [.book-title]#Theologiæ Vere Christianæ Apologia.#
 He then translated his own book into English.
-The Apology has since been reprinted over 60 times
+The [.book-title]#Apology# has since been reprinted over 60 times
 and translated into several other languages.
 
 Barclay`'s education enabled him to understand academic theology.
@@ -51,7 +51,10 @@ His ability to do this effectively is greatly enhanced by
 his having a good understanding of the competing theologies,
 as well as by his ability to surmount the verbal barrier.
 
-The Apology was frequently reprinted throughout the 18th and 19th centuries.
+[.small-break]
+'''
+
+The [.book-title]#Apology# was frequently reprinted throughout the 18th and 19th centuries.
 Suddenly, early in the 20th century, the printings ceased.
 The last printing of the full text, so far as we have been able to learn,
 was in 1908 in Philadelphia.^
@@ -65,10 +68,10 @@ In conversations among Peter Sippel, Edsel Burdge, and Friends at Glenside Meeti
 it was agreed that this important Quaker classic should again be made available.
 An electronic text produced with a scanner from a 1789 edition
 was provided to Peter Sippel by Raymond Ayoub.
-Edsel Burdge offered to compare this text with a 1690 edition of
-Truth Triumphant (a collection of Barclay`'s works).
+Edsel Burdge offered to compare this text with a 1690 edition of [.book-title]#Truth Triumphant#
+(a collection of Barclay`'s works).
 Enough differences in wording were found in the first several pages to convince
-us that one edition of the Apology was not necessarily the same as another.
+us that one edition of the [.book-title]#Apology# was not necessarily the same as another.
 Desiring to stick to Barclay`'s own words we decided
 to use the earliest English language edition (1678),
 which is believed to have been printed in Aberdeen, Scotland,
@@ -88,8 +91,11 @@ texts and to identify the occasional English archaism.
 Licia then implemented their corrections and re-proofread
 the resulting document on the screen.
 
+[.small-break]
+'''
+
 The only things we have modernized are spelling, capitalization, italicization,
-punctuation.
+punctuation,
 and the names of authors cited.
 Barclay`'s English is modern English.
 A brief glossary is provided on page vii of words that have changed their meaning;
@@ -103,6 +109,9 @@ although this has the disadvantage that their use in this volume does not always
 conform to modern conventions for the use of quotation marks (i.e.,
 they appear around passages that are not precise direct quotes).
 There does not seem to have been any exact equivalent, in 1678, to modern quotation marks.
+
+[.small-break]
+'''
 
 This volume contains two types of footnotes:
 the marginal notes of the Aberdeen edition (marked by raised letters, a, b, etc.),
@@ -119,6 +128,9 @@ but we have changed his Latinized author names to
 the forms they are better known by today,
 and realphabetized accordingly.
 
+[.small-break]
+'''
+
 In addition to the persons above named,
 thanks are due to the librarians at Westminster Theological Seminary
 (Glenside, PA) who provided us with microfilms of the two 1678 editions,
@@ -126,11 +138,13 @@ and to the many Friends in Quaker e-mail discussion groups,
 especially those known as Quaker-G and Q-Text,
 for their encouragement as the work progressed.
 
-A few months after printing the Apology we placed
+A few months after printing the [.book-title]#Apology#
+we placed
 it online at the Quaker Heritage Press website,
 www.qhpress.org, where many other historic Quaker writings can be found,
-including Barclay`'s earlier work, A Catechism and Confession of Faith.
+including Barclay`'s earlier work, [.book-title]#A Catechism and Confession of Faith.#
 
+[.centered]
 === Comments on the Concept of "`Modern English`"
 
 Linguists distinguish three periods in the history of the English language:
@@ -139,7 +153,7 @@ and Modern English,
 used since 1475. Modern English is generally within the reach of today`'s readers.
 Middle English, such as that written by Chaucer,
 usually requires some special training to be fully understood; and Old English,
-such as that in Beowulf, is a foreign language to the large majority of us.
+such as that in [.book-title]#Beowulf,# is a foreign language to the large majority of us.
 
 Anything written by a Quaker is well within the Modern period.
 The difficulties of some early Quaker writings are due less to
@@ -204,77 +218,111 @@ English was Robert Barclay`'s native language.
 He knew how to say what he meant in English,
 and his own words are still the best words for understanding him.
 
-Licia Kuenning
+[.signed-section-signature]
+Licia Kuenning,
 Quaker Heritage Press editor
 
 [.asterism]
 '''
 
+[.offset]
 Glossary of some words whose most common meaning today
-is different from their meaning at some places in the Apology.
+is different from their meaning at some places in the [.book-title]#Apology.#
 Some of these words are, at other places, used in their present-day sense:
 this must be determined from context:
 
-accident:: trait
+accident::
+trait
 
-acted (as a participle):: motivated, moved
+acted (as a participle)::
+motivated, moved
 
-admirable:: strange, astonishing
+admirable::
+strange, astonishing
 
-answer:: correspond, agree
+answer::
+correspond, agree
 
-comprehend:: include
+comprehend::
+include
 
-day:: period of time (not necessarily a calendar day)
+day::
+period of time (not necessarily a calendar day)
 
-divine+++(+++s) (n):: theologian+++(+++s)
+divine+++(+++s) (n)::
+theologian+++(+++s)
 
-divinity:: theology
+divinity::
+theology
 
-doctor:: highly educated person
+doctor::
+highly educated person
 
-elementary:: physical
+elementary::
+physical
 
-experimentally:: by experience
+experimentally::
+by experience
 
-figure (n):: figurative representation, symbol
+figure (n)::
+figurative representation, symbol
 
-formally:: really (only in certain technical theological contexts)
+formally::
+really (only in certain technical theological contexts)
 
-immediate:: without mediation
+immediate::
+without mediation
 
-juggling:: trickery
+juggling::
+trickery
 
-lawful:: possible to be done without sin
+lawful::
+possible to be done without sin
 
-let (v):: prevent
+let (v)::
+prevent
 
-let (n):: obstacle
+let (n)::
+obstacle
 
-outside:: superficial
+outside::
+superficial
 
-outward:: visible, material
+outward::
+visible, material
 
-own:: acknowledge, approve
+own::
+acknowledge, approve
 
-part+++(+++s):: skill+++(+++s)
+part+++(+++s)::
+skill+++(+++s)
 
-particular (n):: an individual
+particular (n)::
+an individual
 
-pretend:: claim
+pretend::
+claim
 
-probation:: proof
+probation::
+proof
 
-professor:: one who claims to be religious
+professor::
+one who claims to be religious
 
-sometimes:: at one time in the past
+sometimes::
+at one time in the past
 
-talent:: an ancient unit of money
+talent::
+an ancient unit of money
 
-typify:: prefigure, symbolize
+typify::
+prefigure, symbolize
 
-use (v):: to practice habitually or customarily
+use (v)::
+to practice habitually or customarily
 
-vain:: useless
+vain::
+useless
 
-want:: lack
+want::
+lack

@@ -1,8 +1,10 @@
 == THE FOURTEENTH PROPOSITION
 
-Concerning the Power of the Civil Magistrate in Matters purely Religious,
-and pertaining to the Conscience
+[.chapter-subtitle--blurb]
+Concerning the Power of the Civil Magistrate in Matters Purely Religious,
+and Pertaining to the Conscience
 
+[.heading-continuation-blurb]
 Since God hath assumed to himself the power and dominion of the conscience,
 who alone can rightly instruct and govern it,
 therefore it is not lawful for any whosoever,
@@ -47,8 +49,7 @@ and that this doubting to eat some kind of meats
 (since all the creatures of God are good,
 and for the use of man, if received with thanksgiving) might be a superstition,
 or at least a weakness, which were better removed.
-Hence Ames De Cas.
-Cons.
+Hence _Ames De Cas. Cons._
 saith, "`The conscience, although erring, doth evermore bind, so as that he sinneth,
 who doth contrary to his conscience, because he doth contrary to the will of God,
 although not materially and truly, yet formally and interpretatively.`"
@@ -77,7 +78,7 @@ to do anything contrary to the moral and perpetual
 statutes generally acknowledged by all Christians:
 in which case the magistrate may very lawfully use his authority, as on those who,
 under a pretence of conscience, make it a principle to kill and destroy all the wicked,
-id est, all that differ from them, that they, to wit, the saints, may rule,
+_id est,_ all that differ from them, that they, to wit, the saints, may rule,
 and that therefore seek to make all things common and would
 force their neighbours to share their estates with them,
 // lint-disable invalid-characters "ü"
@@ -102,15 +103,18 @@ and therefore we believe it may be very lawful for a Christian church,
 if she find any of her members fall into any error,
 after due admonitions and instructions, according to Gospel order,
 if she find them pertinacious,
-to cut them off from her fellowship by the sword of the Spirit
+to cut them off from her fellowship by the _sword of the Spirit_
 and denude them of these privileges which they had as fellow-members,
 but not to cut them off from the world by the temporal sword,
 or rob them of their common privileges as men,
 seeing they enjoy not these as Christians or under such a fellowship, but as men,
 and members of the creation.
-Hence Chrysostom saith well (de Anath.),
+Hence Chrysostom saith well __(de Anath.),__
 "`We must condemn and reprove the evil doctrines that proceed from heretics;
 but spare the men and pray for their salvation.`"
+
+[.small-break]
+'''
 
 // lint-disable invalid-characters "§"
 §II. But that no man,
@@ -161,8 +165,9 @@ he tells them he sends them forth as "`lambs among wolves,`"^
 footnote:[Matt. 10:16.]
 to be willing to be devoured, not to devour; he tells them of their being whipped,
 imprisoned, and killed for their conscience, but never that they shall either whip,
-imprison, or kill; and indeed, if Christians must be as lambs,
+imprison, or kill; and indeed, if Christians must be as _lambs,_
 it is not the nature of lambs to destroy or devour any.
+
 It serves nothing to allege that in Christ`'s and
 his apostles`' times the magistrates were heathens,
 and therefore Christ and his apostles, not being magistrates,
@@ -215,8 +220,8 @@ not by the Spirit of the Lord, but by might and carnal power.
 The apostle saith plainly, "`we wrestle not with flesh and blood`";
 and "`the weapons of our warfare are not carnal, but spiritual`";^
 footnote:[2 Cor. 10:4.]^
-footnote:[Later editors change "`spiritual`'`" to "`mighty through
-God,`' etc.`"] but these men will needs wrestle with flesh and blood
+footnote:[Later editors change "`spiritual`'`" to "`mighty through God,`' etc.`"]
+but these men will needs wrestle with flesh and blood
 when they cannot prevail with the Spirit and the understanding,
 and not having spiritual weapons go about with carnal
 weapons to establish Christ`'s kingdom,
@@ -247,15 +252,15 @@ to prevent this hurt, he gives a positive prohibition, "`But he said,
 which they judge is tares,
 do openly declare that they make no bones to break the commands of Christ.
 Miserable is that evasion, which some of our adversaries use here,
-in alleging these tares are meant of hypocrites, and not of heretics!
+in alleging these tares are meant of _hypocrites,_ and not of _heretics!_
 But how to evince that, seeing heretics, as well as hypocrites,
 are children of the wicked one, they have not anything but their own bare affirmation,
 which is therefore justly rejected.
 
-Obj.
+_Obj._
 If they say, because hypocrites cannot be discerned, but so may not heretics.
 
-Answ.
+_Answ._
 This is both false, and a begging of the question.
 For those that have a spiritual discerning can discern both hypocrites and heretics;
 and those that want it cannot certainly discern either:
@@ -271,14 +276,16 @@ But neither is this shift applicable to this place,
 for the servants did discern the tares, and yet were liable to hurt the wheat,
 if they had offered to pull them up.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §III.
-Obj.
-But they object against this liberty of conscience, Duet. 13:5,
+_Obj._ But they object against this liberty of conscience, Duet. 13:5,
 where false prophets are appointed to be put to death,
 and accordingly they give example thereof.
 
-Answ.
+_Answ._
 The case no way holds parallel; those particular commands to the Jews,
 and practices following upon them, are not a rule for Christians, else we might,
 by the same rule, say it were lawful for us to borrow from our neighbours their goods,
@@ -287,10 +294,10 @@ or that it is lawful for Christians to invade their neighbours`' kingdoms,
 and cut them all off, without mercy, because the Jews did so to the Canaanites,
 by the command of God.
 
-Obj.
+_Obj._
 If they urge that these commands ought to stand, except they be repealed in the Gospel.
 
-Answ.
+_Answ._
 I say, these precepts and practices of Christ and his apostles mentioned,
 are a sufficient repeal; for if we should plead, that every command, given to the Jews,
 is binding upon us, except there be a particular repeal,
@@ -327,14 +334,14 @@ established nor propagated by cutting off,
 or destroying the Gentiles, but by persuading them,
 so neither is it to be upheld otherwise.
 
-Obj.
+_Obj._
 But secondly, they urge Rom. 13,
 where the magistrate is said not to bear the sword in vain,
 because he is the minister of God, to execute wrath upon such as do evil.
 But heresy, say they, is evil.
 Ergo.
 
-Answ.
+_Answ._
 But so is hypocrisy also, yet they confess he ought not to punish that.
 Therefore this must be understood of moral evils,
 relative of affairs betwixt man and man, not of matters of judgment or worship,
@@ -358,11 +365,11 @@ according to his judgment and conscience, and in doing thereof he was not to be 
 which is enough to justify him in his persecuting of the apostles,
 and murdering the Christians.
 
-Obj.
+_Obj._
 Thirdly they object that saying of the apostle to the Galatians 5:12,
 "`I would they were even cut off, which trouble you.`"
 
-Answ.
+_Answ._
 But how this imports any more than a cutting off from the Church, is not,
 nor can be shown.
 Beza, upon the place, saith, "`We cannot understand that otherwise,
@@ -379,13 +386,13 @@ or cut her off by a Church censure: for as to corporal punishment,
 it is known that at that time the Christians had not power to punish heretics so,
 if they had a mind to it.
 
-Obj.
+_Obj._
 Fourthly,
 they allege that heresies are numbered among the
 works of the flesh (Gal. 5:20). Ergo,
 etc.
 
-Answ.
+_Answ._
 That magistrates have power to punish all the works of the flesh, is denied,
 and not yet proved.
 Every evil is a work of the flesh,
@@ -401,6 +408,9 @@ but is kept within the sphere of those duties of doctrine
 or worship which stand betwixt a man and God,
 they no ways come under the magistrate`'s power.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §IV. But secondly,
 this forcing of men`'s consciences is contrary to sound reason,
@@ -408,7 +418,7 @@ and the very law of nature.
 For man`'s understanding cannot be forced by all the
 bodily sufferings another man can inflict upon him,
 especially in matters spiritual and supernatural:
-`'tis arguments and evident demonstrations of reason,
+it is arguments and evident demonstrations of reason,
 together with the power of God reaching the heart,
 that can change a man`'s mind from one opinion to another, and not knocks and blows,
 and suchlike things, which may well destroy the body but never can inform the soul,
@@ -428,11 +438,11 @@ that they are made ten times more the servants of Satan than before,
 in that to their error is added hypocrisy, the worst of evils in matters of religion,
 and that which above all things the Lord`'s soul most abhors.
 
-Obj.
+_Obj._
 But if it be said,
 their error notwithstanding is thereby suppressed and the scandal removed.
 
-Answ.
+_Answ._
 I answer, besides that this is a method no ways allowed by Christ, as is above proved,
 surely the Church can be no ways bettered by the accession of hypocrites,
 but greatly corrupted and endangered, for open heresies men may be aware of,
@@ -503,6 +513,7 @@ that from this principle it naturally follows that any party, supposing themselv
 should, so soon as they are able, endeavour, at any rate, to get uppermost,
 that they might bring under those of another opinion,
 and force the magistrate to uphold their way, to the ruin of all others.
+
 What engine the Pope of Rome used to make, of his pretended power in this thing,
 upon any pretence of dislike to any prince or state, even for very small heresies,
 in their own account, to depose princes, and set up their subjects against them,
@@ -552,6 +563,9 @@ that almost all the Christian writers for the first
 three hundred years earnestly contended for it,
 condemning the contrary opinion.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §V. Thus Athanasius, "`It is the property of piety not to force, but to persuade,
 in imitation of our Lord, who forced nobody,
@@ -564,7 +578,7 @@ but constraining none, coming to us, and knocking rather, and saying, '`My siste
 my spouse, open to me,`' etc. and entereth when he is opened to, and retires if they delay,
 and will not open unto him, because it is not with swords, nor darts, nor soldiers,
 nor armour, that Truth is to be declared, but with persuasion and counsel.`"^
-footnote:[Athan. in epist. ad solit. vit ag. ibid.]
+footnote:[Athan. in _epist. ad solit. vit ag. ibid._]
 And it is observable, that it was the impious Arians,
 who first of all brought in this doctrine to persecute others, among Christians,
 whose successors both Papists and Protestants are in this matter,
@@ -575,7 +589,7 @@ but this hath been given them, and taught them of the devil.
 The Lord commanded indeed sometimes to flee, and the saints sometimes fled,
 but to persecute is the invention and argument of the devil,
 which he seeks against all.`"^
-footnote:[Athan. Apol. I de fuga sua, tom. 1.]
+footnote:[Athan. _Apol. I de fuga sua, tom. 1._]
 And after, he saith,
 "`In so far as the Arians banish those that will not subscribe their decrees,
 they show that they are contrary to Christians, and friends of the devil.`"
@@ -596,47 +610,47 @@ footnote:[Hil+++.+++, contra Aux.]
 "`The Church,`" saith Jerome, "`was founded by shedding of blood, and by suffering,
 and not in doing of hurt.
 The Church increased by persecutions, and was crowned by martyrdom.`"^
-footnote:[Jerome, epist. 62 ad The.]
+footnote:[Jerome, _epist. 62 ad The._]
 
 Ambrose, speaking of Auxentius, saith thus, "`whom he +++[+++viz., Auxentius]
 could not deceive by discourse, he thinks ought to be killed by the sword,
 making bloody laws with his mouth, writing them with his hands,
 and imagining that an edict can command faith.`"^
-footnote:[Ambrose, epist. 32. tom. 3.]
+footnote:[Ambrose, _epist. 32. tom. 3._]
 
 And the same Ambrose saith, that "`going into France,
 he would not communicate with those bishops,
 that required that heretics should be put to death.^
-footnote:[Ambrose, epist. 27.]
+footnote:[Ambrose, _epist. 27._]
 
 The Emperor Marcian, who assembled the Council of Chalcedon, protests,
 that he "`would not force, nor constrain anyone to subscribe the council of Chalcedon,
 against his will.`"^
-footnote:[Marcian, epist. ad Archimand, etc. Mon. Eg. in acta concil.
-Chalced. tom. 2. conc. gen.]
+footnote:[Marcian, _epist. ad_ Archimand, _etc._ Mon. Eg. _in acta concil._
+Chalced. _tom. 2. conc. gen._]
 
 Hosius, Bishop of Cordua,
 testifies that "`the emperor Constantine would not constrain any to be orthodox.`"^
-footnote:[Hosius, epist. ad Constit. apud Ath in epist. ad solit.
-vit. tom. 1.]
+footnote:[Hosius, _epist. ad_ Constit. _apud_ Ath _in epist. ad solit.
+vit. tom. 1._]
 
 Hilary saith further, that "`God teacheth, rather than exacteth, the knowledge of himself,
 and authorizing his commandments by the miracles of his heavenly works,
 he wills not that any should confess him with a forced will,
 etc. He is the God of the whole universe, he needs not a forced obedience,
 nor requires a constrained confession.`"^
-footnote:[Hilary, l.1. ad Const.]
+footnote:[Hilary, _l.1. ad Const._]
 
 "`Christ,`" saith Ambrose, "`sent his apostles to sow faith, not to constrain, but to teach;
 not to exercise coercive power, but to extol the doctrine of humility.`"^
-footnote:[Ambrose, comm. in Luc. l.7.]
+footnote:[Ambrose, _comm. in_ Luc. _l.7._]
 
 Hence Cyprian, comparing the Old Covenant with the New, saith,
 "`then were they put to death with the outward sword,
 but now the proud and contumacious are cut off with the spiritual sword,
 by being cast out of the Church`": and this answers very well that objection,
 before observed, taken from the practice of the Jews under the law.^
-footnote:[Cyprian, epist. 62.]
+footnote:[Cyprian, _epist. 62._]
 
 "`See,`" saith Tertullian to the heathens,
 "`if it be not to contribute to the renown of irreligion,
@@ -645,11 +659,11 @@ that I may not be admitted to adore, whom I will, but must be constrained to ser
 whom I will not.
 There is none, nay not a man,
 that desires to be adored by any against their will.`"^
-footnote:[Tertullian, Apolog. cap. 24.]
+footnote:[Tertullian, _Apolog. cap. 24._]
 And again, "`It is a thing that easily appears to be unjust,
 to constrain and force men to sacrifice against their wills; seeing,
 to do the service of God, there is required a willing heart.`"^
-footnote:[Id+++.+++, Apolog. c. 28.]
+footnote:[_Id+++.+++, Apolog. c. 28._]
 And again, "`It is a human right, and natural power,
 that every one worship what he esteems;
 and one man`'s religion doth not profit nor hurt another.
@@ -657,7 +671,7 @@ Neither is it any piece of religion, to enforce religion,
 which must be undertaken by consent, and not by violence,
 seeing that the sacrifices themselves are not required,
 but from a willing mind.`"^
-footnote:[Idem, ad Scapul. cap. 2.]
+footnote:[_Idem, ad Scapul. cap. 2._]
 
 Now, how either Papists or Protestants
 (that boast of antiquity) can get by these plain testimonies,
@@ -675,7 +689,7 @@ A thing that at their first appearance, when they were in their primitive innoce
 they did not think on, as appears by that saying of Luther: "`Neither Pope, nor bishop,
 nor any other man, hath power to oblige a Christian to one syllable,
 except it be by his own consent.`"^
-footnote:[Luther, lib. de Captivit. Babylonica.]
+footnote:[Luther, _lib. de Captivit. Babylonica._]
 And again, "`I call boldly to Christians,
 that neither man nor angel can impose any law upon them, but so far as they will;
 for we are free of all.`" And when he appeared at the diet of Spiers,
@@ -686,7 +700,7 @@ they asking him what remedy seemed to him most fit?
 He answered, "`the counsel that Gamaliel proposed to the Jews,`" to wit,
 that "`if this design was of God, it would stand, if not; it would vanish,`" which,
 he said, "`ought to content the Pope`":^
-footnote:[History of Council of Trent.]
+footnote:[[.book-title]#History of Council of Trent.#]
 he did not say, because he was in the right, he ought to be spared.
 For this counsel supposeth that those that are tolerated may be wrong;
 and yet how soon did the same Luther, ere he was well secure himself,
@@ -701,7 +715,7 @@ Lutherans and Calvinists not admitting one another to worship,
 in those respective dominions,
 showeth how little better they are than either Papists or Arians in this particular.
 And yet Calvin saith that "`the conscience is free from the power of all men.`"^
-footnote:[Calvin. Inst. c. 19 sect. 14.]
+footnote:[Calvin. _Inst. c. 19 sect. 14._]
 If so, why then did he cause Castellio to be banished, because he could not,
 for conscience sake, believe as he did, that God had ordained men to be damned?
 And Servetus to be burned, for denying the divinity of Christ,
@@ -715,7 +729,7 @@ as having, for their warrant, the doctrine of their own sect-master,
 which they omitted not frequently to twit them with,
 and indeed it was to them unanswerable.
 Hence, upon this occasion,
-the judicious author of the History of the Council of Trent (in his fifth
+the judicious author of the [.book-title]#History of the Council of Trent# (in his fifth
 book where giving an account of several Protestants that were burned for
 their religion) well and wisely observeth it,
 as "`a matter of astonishment,
@@ -748,14 +762,17 @@ and hold fast that which is good,`" and also saith, "`unto such as are otherwise
 God shall reveal it`" (Phil. 3:15),
 not that by beatings and banishments it must be knocked into them.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §VI. Now the ground of persecution, as hath been above shown,
-is an unwillingness to suffer;
+is an _unwillingness to suffer;_
 for no man that will persecute another for his conscience would suffer for his own,
 if he could avoid it, seeing his principle obliges him, if he had power,
 by force to establish that, which he judges is the Truth, and so to force others to it.
 Therefore I judge it meet, for the information of the nations,
-briefly to add something in this place concerning the nature of true Christian sufferings,
+briefly to add something in this place concerning the _nature of true Christian sufferings,_
 whereunto a very faithful testimony hath been borne by God`'s witnesses,
 which he hath raised up in this age,
 beyond what hath been generally known or practised for these many generations,
@@ -814,6 +831,7 @@ when the malice of their opposers stirred them to
 take shovels and throw the rubbish upon them,
 there they stood unmoved, being willing, if the Lord should so permit,
 to have been there buried alive, witnessing for him.
+
 As this patient, but yet courageous,
 way of suffering made the persecutors`' work very heavy and wearisome unto them,
 so the courage and patience of the sufferers using no resistance,
@@ -912,4 +930,4 @@ such conjectures can not militate against us, so long as we are kept innocent.
 And if ever we prove guilty of persecution,
 by forcing other men by corporal punishment to our way,
 then let us be judged the greatest of hypocrites, and let not any spare to persecute us.
-AMEN, saith my soul.
+Amen, saith my soul.

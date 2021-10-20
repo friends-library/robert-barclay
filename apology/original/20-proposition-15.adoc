@@ -1,7 +1,9 @@
 == THE FIFTEENTH PROPOSITION
 
+[.chapter-subtitle--blurb]
 Concerning Salutations and Recreations, etc.
 
+[.heading-continuation-blurb]
 Seeing the chief end of all religion is to redeem men from
 the spirit and vain conversation of this world,
 and to lead into inward communion with God, before whom if we fear always,
@@ -85,6 +87,9 @@ but among so many thousands there will be some chaff,
 since of twelve apostles one was found to be a devil), O! how will they insult,
 and make more noise of the escape of one Quaker, than of an hundred among themselves!
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §II. But there are some singular things,
 which most of all our adversaries plead for the lawfulness of, and allow themselves in,
@@ -101,17 +106,24 @@ as will after appear.
 These I have laboured briefly to comprehend in this Proposition,
 but they may more largely be exhibited in these six following propositions:
 
+[.numbered-group]
+====
+
+[.numbered]
 1) That it is not lawful to give to men such flattering titles as,
 "`Your Holiness,`" "`Your Majesty,`" "`Your Eminency,`" "`Your Excellency,`"
 "`Your Grace,`" "`Your Lordship,`" "`Your Honor,`" etc.,
 nor use those flattering words commonly called "`compliments.`"
 
+[.numbered]
 2) That it is not lawful for Christians to kneel or prostrate themselves to any man,
 or to bow the body, or to uncover the head to them.
 
+[.numbered]
 3) That it is not lawful for a Christian to use superfluities in apparel,
 as are of no use save for ornament and vanity.
 
+[.numbered]
 4) That it is not lawful to use games, sports, plays, nor, among other things,
 comedies among Christians, under the notion of recreations,
 which do not agree with Christian silence, gravity, and sobriety: for laughing, sporting,
@@ -119,12 +131,16 @@ gaming, mocking, jesting, talking,^
 footnote:[Later editors insert "`vain`" before "`talking.`"]
 etc., is not Christian liberty, nor harmless mirth.
 
+[.numbered]
 5) That it is not lawful for Christians to swear at all under the Gospel,
 not only not vainly, and in their common discourse,
 which was also forbidden under the Mosaical law,
 but even not in judgment before the magistrate.
 
+[.numbered]
 6) That it is not lawful for Christians to resist evil, or to war or fight in any case.
+
+====
 
 Before I enter upon a particular disquisition of these things,
 I shall first premise some general considerations, to prevent all mistakes,
@@ -149,6 +165,7 @@ The several conditions under which men are diversely stated,
 together with their educations answering thereunto, do sufficiently show this:
 the servant is not the same way educated as the master, nor the tenant as the landlord,
 nor the rich as the poor; nor the prince as the peasant.
+
 Now though it be not lawful for any,
 however great abundance they may have or whatever their education may be,
 to use that which is merely superfluous:
@@ -158,7 +175,7 @@ they may use things better in their kind than such whose education hath neither
 accustomed them to such things nor their capacity will reach to compass them.
 For it is beyond question that whatever thing the creation affords is for the use of man,
 and the moderate use of them is lawful,
-yet per accidens they may be unlawful to some and not to others.
+yet _per accidens_ they may be unlawful to some and not to others.
 As for instance,
 who by reason of his estate and education hath been used to eat flesh and drink wine,
 and to be clothed with the finest wool, if his estate bear it,
@@ -170,11 +187,12 @@ accustomed to both coarser food and raiment,
 should stretch himself beyond what he had or were used to,
 to the manifest prejudice of his family and children,
 no doubt it would be unlawful to him,
-even so to eat or be clothed as another (in whom it is lawful,
+even so to eat or be clothed as another (in whom it is lawful,)
 for that that other may as much mortified,
 and have denied himself as much in coming down to that, which this aspires to,
 as he in willing to be like him aspires beyond what
 he either is able or hath accustomed to do.
+
 The safe place then is for such as have fulness to watch over themselves,
 that they use it moderately and rescind all superfluities,
 being willing so far as they can to help the need of those
@@ -194,7 +212,7 @@ of the saints they become the brethren and companions of the greatest and riches
 and in this respect, "`let him of low degree rejoice that he is exalted`" (James 1:9).
 
 These things premised, I would seriously propose unto all such as mind in reality,
-to be Christians indeed, and that in nature and not in name only,
+to be Christians indeed, and that in _nature_ and not in _name_ only,
 whether it were not desirable,
 and would not greatly contribute to the commendation of Christianity
 and to the increase of the life and virtue of Christ,
@@ -221,6 +239,9 @@ who daily are conversing in the world (but inwardly redeemed
 out of it) both in wedlock and in their lawful employments,
 which was judged could only be obtained by such as were shut up in cloisters and monasteries.
 Thus much in general.
+
+[.small-break]
+'''
 
 // lint-disable invalid-characters "§"
 §III.
@@ -253,13 +274,13 @@ is something more!
 Surely Christians should be ashamed that such laws, manifestly crossing the Law of God,
 should be found among them.
 
-Obj.
+_Obj._
 If it be said, We ought in charity to suppose that they have these virtues,
 because the King has bestowed those titles upon them,
 or that they are descended of such as deserved them:
 
-Answ.
-I answer, Charity destroys not knowledge:
+_Answ._
+I answer, Charity destroys not _knowledge:_
 I am not obliged by charity either to believe or speak a lie.
 Now it is apparent, and cannot be denied by any,
 but that those virtues are not in many of the persons expressed by the titles they bear,
@@ -310,7 +331,7 @@ and because they were holy, excellent and gracious,
 they neither used nor admitted of such titles; but these, having neither holiness,
 excellency, nor grace, will needs be so called,
 to satisfy their ambitious and ostentive^
-footnote:[ostentive +++=+++ ostentatious]
+footnote:[_ostentive_ +++=+++ ostentatious]
 minds, which is a manifest token of their hypocrisy.
 
 Fifthly, as to that title of "`Majesty,`" usually ascribed to princes,
@@ -328,8 +349,8 @@ Therefore in all the compellations used to princes in the Old Testament,
 it is not to be found, nor yet in the New.
 Paul was very civil to Agrippa, yet he gives him no such title:
 neither was this title used among Christians in the primitive times.
-Hence the Ecclesiastical History of the Reformation of France,^
-footnote:[Eccles. Hist. Lib. 4, p. 445.]
+Hence the [.book-title]#Ecclesiastical History of the Reformation of France,#^
+footnote:[_Eccles. Hist. Lib. 4,_ p. 445.]
 relating the speech of the Lord Rochefort at the assembly of the Estate of France,
 held under Charles the Ninth in the year 1560, saith,
 "`that this harangue was well remarked,
@@ -337,7 +358,7 @@ in that he used not the word '`Majesty,`' invented by flatterers
 of late years,`" and yet this author minded not how his master
 Calvin used this flattering title to Francis the First,
 King of France, and not only so,
-but calls him "`most Christian King,`" in the Epistle to his Institutions,
+but calls him "`most Christian King,`" in the Epistle to his [.book-title]#Institutions,#
 though by his daily persecuting of the Reformers,
 it was apparent he was far from being such, even in Calvin`'s own esteem.
 Surely the complying with such vain titles, imposed and introduced by Antichrist,
@@ -364,7 +385,7 @@ and loved not to abide in the submissive low place?
 And so all his children are possessed with the same ambitious proud mind,
 seeking and coveting titles of honor, which indeed belong not to them.
 For let us examine,^
-footnote:[Jerome, in his Epistle to Celant,
+footnote:[Jerome, in his [.book-title]#Epistle to Celant,#
 admonisheth her that "`she was to be preferred to none for her nobility,
 for the Christian religion admits not of respect of persons,
 neither are men to be esteemed because of their outward condition,
@@ -372,7 +393,8 @@ but according to the disposition of the mind to be esteemed either noble or base
 he that obeyeth not sin is free,
 who is strong in virtue is noble.`" Let the Epistle of James be read.]
 who are they, that are honorable indeed?^
-footnote:[1 Sam. 2:30.]Is it not the righteous man?
+footnote:[1 Sam. 2:30.]
+Is it not the righteous man?
 Is it not the holy man?
 Is it not the humble-hearted man?
 the meek-spirited man?
@@ -398,7 +420,8 @@ And if this be not the honor that comes from God, but the honor of this world,
 which the children of this world give and receive one from another,
 how can the children of God, such as are Christians indeed,
 give or receive that honor among themselves, without coming under the reproof of Christ,
-who saith, that such as do, cannot believe?
+who saith, that _such as do, cannot believe?_
+
 But further,
 if we respect the cause that most frequently procures to men these titles of honor,
 there is not one of a thousand that shall be found to be,
@@ -422,10 +445,13 @@ Finally, if we look either to the nature of this honor, the cause of it,
 the way it is conveyed, the terms in which it is delivered,
 it cannot be used by such as mind to be Christians in good earnest.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §IV. Now besides these general titles of honor,
 what gross abuses are crept in among such as are called Christians,
-in the use of compliments, wherein, not servants to masters or others,
+in the use of _compliments,_ wherein, not servants to masters or others,
 with respect to any such kind of relations,^
 footnote:[Later editors insert "`but others who have no such relation.`"]
 do say and write to one another, at every turn,
@@ -479,23 +505,26 @@ it was not because of any outward title bestowed upon Festus, that he so called 
 else he would have given the same appellation to his predecessor Felix,
 who had the same office, but being a covetous man, we find he gives him no such style.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §V. It will not be unfit in this place to say something
-concerning the using of the singular number to one person;
+concerning the using of the _singular number_ to _one person;_
 of this there is no controversy in the Latin, for when we speak to one,
-we always use the pronoun tu,
+we always use the pronoun _tu,_
 and he that would do otherwise would break the rules of grammar.
 For what boy, learning his rudiments,
-is ignorant that it is incongruous to say "`vos amas,`" "`vos legis,`" that is,
+is ignorant that it is incongruous to say _"`vos amas,`"_ _"`vos legis,`"_ that is,
 "`you lovest,`" "`you readest,`" speaking to one?
 But the pride of man, that hath corrupted many things,
 refuses also to use this simplicity of speaking in the vulgar languages.
 For being puff`'d up with a vain opinion of themselves,
 as if the singular number were not sufficient to them,
-they will have others to speak to them in the plural.
+they will have others to speak to them in the _plural._
 Hence Luther, in his plays, reproves and mocks this manner of speaking, saying,
-"`Magister,
-vos es iratus.`" Which corruption Erasmus sufficiently refutes in his Colloquies.
+_"`Magister, vos es iratus.`"_ Which corruption Erasmus sufficiently
+refutes in his [.book-title]#Colloquies.#
 Concerning which likewise James Howel, in his epistle to the nobility of England,
 before the French and English Dictionary, takes notice,
 "`that both in France and in other nations,
@@ -506,8 +535,8 @@ furnished with power to confer dignities and offices),
 using the word '`you,`' yea and deifying him with more remarkable titles;
 concerning which matter we read in the epistles of
 Symmachus to the Emperors Theodosius and Valentinianus,
-where he useth these forms of speaking: Vestra Aeternitas, '`Your Eternity`';
-Vestrum Numen, '`Your Godhead`'; Vestra Serenitas, '`Your Serenity`'; Vestra Clementia,
+where he useth these forms of speaking: _Vestra Aeternitas,_ '`Your Eternity`';
+_Vestrum Numen,_ '`Your Godhead`'; _Vestra Serenitas,_ '`Your Serenity`'; _Vestra Clementia,_
 '`Your Clemency.`'
 So that the word '`you`' in the plural number,
 together with the other titles and compellations of honor,
@@ -515,7 +544,7 @@ seem to have taken their rise from monarchical government; which afterwards, by 
 came to be derived to private persons.`"
 
 The same is witnessed by John Maresius, of the French Academy,
-in the preface of his Clovis.
+in the preface of his [.book-title]#Clovis.#
 "`Let none wonder`" (saith he) "`that the word '`thou`'
 is used in this work to princes and princesses:
 for we use the same to God: and of old the same was used to Alexanders, Caesars,
@@ -584,10 +613,13 @@ whereby we are the more confirmed in our judgment,
 as seeing that this testimony of Truth, which God hath given us to bear in all things,
 doth so vex the serpentine nature in the children of darkness.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §VI. Secondly, Next unto this of titles,
-the other part of honor used among Christians is the kneeling, bowing,
-and uncovering of the head to one another.
+the other part of honor used among Christians is the _kneeling, bowing,_
+and _uncovering of the head_ to one another.
 I know nothing our adversaries have to plead for them in this matter,
 save some few instances of the Old Testament, and the custom of the country.
 
@@ -656,10 +688,10 @@ and 22:9) for this reason, "`because I am thy fellow servant, and of thy brethre
 abundantly intimating that it is not lawful for fellow servants thus to prostrate
 themselves one to another (and in this respect all men are fellow servants.)
 
-Obj.
+_Obj._
 If it be said, John intended here a religious worship, and not a civil:
 
-Answ.
+_Answ._
 I answer; that is to say, not to prove:
 neither can we suppose John at that time of the day so ill-instructed
 as not to know it was unlawful to worship angels;
@@ -709,6 +741,9 @@ though it be far from us to judge all those to whom God hath not shown the evil 
 under the like hazard, yet nevertheless, we doubt not,
 but to such as would prove faithful witnesses to Christ`'s Divine Light
 in their consciences God will also show the evil of these things.
+
+[.small-break]
+'''
 
 // lint-disable invalid-characters "§"
 §VII.
@@ -823,12 +858,15 @@ in denying of, and departing from, the lying vanities of this perishing world,
 and so doth much evidence their affinity with such as hate to be reproved,
 and neither will enter themselves nor suffer those that would.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §VIII.
-Fourthly, let us consider the use of games, sports,
-comedies and other such things,
+Fourthly, let us consider the use of _games, sports,
+comedies_ and other such things,
 commonly and indifferently used by all the several sorts
-of Christians under the notion of divertisement and recreation,
+of Christians under the notion of _divertisement_ and _recreation,_
 and see whether these things can consist with the seriousness, gravity,
 and godly fear which the Gospel calls for:
 Let us but view and look over the notions of them that call themselves Christians,
@@ -854,6 +892,7 @@ Surely not at all.
 I shall first cite some few Scripture testimonies,
 being very positive precepts to Christians,
 and then see whether such as obey them can admit of these forementioned things.
+
 The apostle commands us, that "`whether we eat or drink, or whatever we do,
 we do it all to the glory of God.`" But I judge none
 will be so impudent as to affirm that,
@@ -878,6 +917,7 @@ carding, and dicing, do so much as mind this precept in the use of these things?
 where there is nothing to be seen, but lightness and vanity, wantonness, and obscenity,
 contrived to hinder men from fear, or being serious,
 and therefore no doubt calculated for the service of the devil.
+
 There is no duty more frequently commanded, nor more incumbent upon Christians,
 than the fear of the Lord, to stand in awe before him, to walk as in his presence,
 but if such as use these games and sports will speak from their consciences, they can,
@@ -925,14 +965,17 @@ Many of those called Fathers of the Church, and other serious persons,
 have signified their regret for these things, and their desires they might be remedied,
 of whom many citations might be alleged, which for brevity`'s sake I have omitted.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
-§IX. Obj.
+§IX. _Obj._
 But they object, that men`'s spirits could not subsist,
 if they were always intent upon serious and spiritual matters,
 and that therefore there is need of some divertisement to recreate the mind a little,
 whereby it, being refreshed, is able, with greater vigor to apply itself to these things.
 
-Answ.
+_Answ._
 I answer, though all this were granted, it would no ways militate against us,
 neither plead the use of these things, which we would have wholly laid aside.
 For that men should be always in the same intentiveness of mind we do not plead,
@@ -954,8 +997,9 @@ one with what the wicked do, yet they are done in another spirit, and in doing o
 we please the Lord, serve him, and answer our end in the creation, and so feel,
 and are sensible of his blessing.
 Whereas the wicked and profane, being not come to this place, are, in whatsoever they do,
-cursed; and their "`ploughing, as well as praying, is sin`"! Now,
-if any will plead that for relaxation of mind,
+cursed; and their "`ploughing, as well as praying, is sin`"!
+
+Now, if any will plead that for relaxation of mind,
 there may be a liberty allowed beyond these things which
 are of absolute need to the sustenance of the outward man;
 I shall not much contend against it,
@@ -978,7 +1022,7 @@ by some short aspiration and breathings,
 and that this may neither seem strange nor troublesome,
 I shall clear it by one manifest instance, answerable to the experience of all men:
 it will not be denied but that men ought to be more in the love of God,
-than of any other thing; for we ought to love God above all things.
+than of any other thing; for we ought to _love God above all things._
 Now it is plain that men that are taken with love, whether it be of a woman,
 or of any other thing, if it hath taken a deep place in the heart, and possess the mind,
 it will be hard for the man, so in love,
@@ -1011,11 +1055,14 @@ experience abundantly shows;
 and the most serious and conscientious among all will scarcely deny, which if it be so,
 the application is easy.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
-§X. Fifthly, the use of swearing is to be considered,
+§X. Fifthly, the use of _swearing_ is to be considered,
 which is so frequently practised almost among all Christians,
 not only profane oaths among the profane in their common discourses,
-whereby the most holy name of god is, in a horrible manner, daily blasphemed,
+whereby the most holy name of God is, in a horrible manner, daily blasphemed,
 but also solemn oaths with those that have some show of piety,
 whereof the most part do defend swearing before the magistrate,
 with so great zeal that not only they are ready themselves to do it upon every occasion,
@@ -1098,6 +1145,9 @@ because not only Papists but also Lutherans and Calvinists and some others
 do restrict the words of Christ and James 1 think it needful to make manifest
 the vain foundation upon which their presumption in this matter is built.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §XI. Obj.
 First,
@@ -1107,14 +1157,12 @@ and things created; and they prove it thence, because he numbers some of these t
 Secondly, All rash and vain oaths in familiar discourses; because he saith,
 "`Let your communication be yea, yea, and nay, nay.
 
-Answ.
-1+++.+++ To which I answer, First, that the Law did forbid all oaths made by the creatures,
+_Answ. 1+++.+++_ To which I answer, First, that the Law did forbid all oaths made by the creatures,
 as also all vain and rash oaths in our common discourses,
 commanding that men should only swear by the Name of God, and that neither falsely,
 nor rashly, for that is to take his Name in vain.
 
-Answ.
-2+++.+++ Secondly,
+_Answ. 2+++.+++_ Secondly,
 it is most evident that Christ forbids somewhat that was permitted under the Law, to wit,
 to swear by the Name of God,
 because it was not lawful for any man to swear but by God himself, and because he saith,
@@ -1124,17 +1172,15 @@ even those which are made by God; for he saith (23:22),
 "`he that shall swear by heaven sweareth by the throne of God and by him
 that sitteth thereon,`" which is also to be understood of the rest.
 
-Answ.
-3+++.+++ Lastly, that he might put the matter beyond all controversy,
+_Answ. 3+++.+++_ Lastly, that he might put the matter beyond all controversy,
 he adds "`neither by any other oath.`" Therefore, seeing to swear before the magistrate,
 by God, is an oath, it is here without doubt forbidden.
 
-Obj.
-Secondly, they object that by these words oaths by God`'s Name cannot be forbidden,
+_Obj._ Secondly, they object that by these words oaths by God`'s Name cannot be forbidden,
 because the heavenly Father hath commanded them, for the Father and the Son are one,
 which could not be, if the Son did forbid that which the Father commanded.
 
-Answ.
+_Answ._
 I answer, they are indeed one, and cannot contradict one another;
 nevertheless the Father gave many things to the Jews, for a time,
 because of their infirmity under the old Covenant,
@@ -1147,11 +1193,11 @@ who is the Substance, Eternal Word, and essential oath and Amen,
 in whom "`the promises of God are Yea and Amen`":
 who came that men might be redeemed out of strife, and might make an end of controversy.
 
-Obj.
+_Obj._
 Thirdly, they object, But all oaths are not ceremonies,
 nor any part of the ceremonial Law.
 
-Answ.
+_Answ._
 I answer, Except it be shown to be an eternal, immutable, and moral precept,
 it withstands not;
 neither are they of so old an origin as tithes and
@@ -1160,14 +1206,14 @@ which by Abel and Cain were offered, long before the ceremonial law, or the use 
 which, whatever may be alleged against it, were no doubt ceremonies,
 and therefore no doubt unlawful now to be practised.
 
-Obj.
+_Obj._
 Fourthly,
 they object that to swear by the Name of God is a moral precept of continual duration;
 because it is marked with his essential and moral worship (Duet. 6:13, and 10:20),
 "`Thou shalt fear the Lord thy God, and serve him alone: thou shalt cleave to him,
 and swear by his Name.`"
 
-Answ.
+_Answ._
 I answer, this proves not that it is a moral and eternal precept;
 for Moses adds that to all the precepts and ceremonies in several places:
 as Duet. 10:12-13, saying, "`And now, Israel,
@@ -1180,13 +1226,13 @@ the fear of the Lord is mentioned together with the tithes.
 And so also Lev. 19:2-3,12,
 the Sabbaths and regard to parents are mentioned with swearing.
 
-Obj.
+_Obj._
 Fifthly, they object that solemn oaths, which God commanded,
 cannot be here forbidden by Christ, for he saith that they come from evil:
 But these did not come from evil, for God never commanded anything that was evil,
 or came from evil.
 
-Answ.
+_Answ._
 I answer, there are things which are good because commanded, and evil because forbidden:
 other things are command, because good, and forbidden, because evil.
 As circumcision and oaths, which were good, when and because they were commanded,
@@ -1223,27 +1269,19 @@ of whom he is certainly persuaded that he abhors to lie in his words?
 And again, as Chrysostom and others say, "`For what end wilt thou force him to swear,
 whom thou believest not that he will speak the truth?`"
 
+[.offset]
 // lint-disable invalid-characters "§"
 §XII.
-That then, which was not from the beginning,
-which was of no use in the beginning,
-which had not its beginning first from the will of God, but from the work of the devil,
-occasioned from evil, to wit, from unfaithfulness, lying, deceit;
-and which was at first only invented by man as a mutual remedy of this evil,
-in which they called upon the names of their idols; yea that, which (as Jerome,
-Chrysostom, and others testify) was given to the Israelites by God, as unto children,
-that they might abstain from the idolatrous oaths of the heathen (Jer. 12:16),
-whatsoever is so, is far from being a moral and eternal precept; and lastly,
-whatsoever by its profanation and abuse is polluted with sin,
-such as are abundantly the oaths of these times, by so often swearing, and forswearing,
-far differs from any necessary and perpetual duty of a Christian:
 
-But oaths are so: Therefore, etc.
+[.syllogism]
+* That then, which was not from the beginning, which was of no use in the beginning, which had not its beginning first from the will of God, but from the work of the devil, occasioned from evil, to wit, from unfaithfulness, lying, deceit; and which was at first only invented by man as a mutual remedy of this evil, in which they called upon the names of their idols; yea that, which (as Jerome, Chrysostom, and others testify) was given to the Israelites by God, as unto children, that they might abstain from the idolatrous oaths of the heathen (Jer. 12:16), whatsoever is so, is far from being a moral and eternal precept; and lastly, whatsoever by its profanation and abuse is polluted with sin, such as are abundantly the oaths of these times, by so often swearing, and forswearing, far differs from any necessary and perpetual duty of a Christian:
+* But oaths are so:
+* Therefore, etc.
 
-Obj.
+_Obj._
 Sixthly, they object that God swore, therefore to swear is good.
 
-Answ.
+_Answ._
 I answer with Athanasius, "`Seeing it is certain,
 it is proper in swearing to swear by another, thence it appears, that God,
 to speak properly, did never swear, but only improperly:
@@ -1259,12 +1297,12 @@ and show ourselves such by speaking and acting,
 that we need not with our hearers an oath,
 and let our words of themselves have the testimony of Truth:
 for so we shall plainly imitate God.`"^
-footnote:[Athan. in pass. & cruc, Domin.]
+footnote:[Athan. _in pass. et cruc, Domin._]
 
-Obj.
+_Obj._
 Seventhly, they object: Christ did swear, and we ought to imitate him.
 
-Answ.
+_Answ._
 I answer, that Christ did not swear; and albeit he had sworn, being yet under the Law,
 this would no ways oblige us under the Gospel, as neither circumcision,
 or the celebration of the paschal lamb.
@@ -1274,9 +1312,9 @@ whom no man did forbid to swear; but unto us, that are servants,
 it is not lawful to swear, because we are forbidden by the law of our Lord.
 Yet, lest we should not suffer scandal by his example, he hath not sworn,
 since he commanded us not to swear.`"^
-footnote:[Jer+++.+++, lib. Ep. part. 3. tract. 1. Ep. 2.]
+footnote:[Jer+++.+++, _lib. Ep. part. 3. tract. 1. Ep. 2._]
 
-Obj.
+_Obj._
 Eighthly, they object, that Paul swore, and that often (Rom. 1:9, Phil. 1:8),
 saying, "`For God is my witness.`" 2 Cor. 11:10,
 "`As the truth of Christ is in me.`" 2 Cor. 1:23,
@@ -1284,13 +1322,13 @@ saying, "`For God is my witness.`" 2 Cor. 11:10,
 I lie not`" (Rom. 9:1). "`Behold, before God I lie not`" (Gal. 1:20),
 and so requires oaths of others.
 "`I obtest^
-footnote:[obtest +++=+++ to charge, earnestly entreat.]
+footnote:[_obtest_ +++=+++ to charge, earnestly entreat.]
 you,`" saith he, "`before God and our Lord Jesus Christ.`" 1 Thess. 5:27,
 "`I charge you by the Lord that this epistle be read to all
 the brethren.`" But Paul would not have done so,
 if all manner of oaths had been forbidden by Christ, whose apostle he was.
 
-Answ.
+_Answ._
 To all which I answer, First, that the using of such forms of speaking are neither oaths,
 nor so esteemed by our adversaries: for when, upon occasion,
 in matters of great moment we have said, "`We speak the Truth in the fear of God,
@@ -1311,7 +1349,7 @@ and if Paul did swear (which we believe not),
 he had sinned against the command of Christ, even according to their opinion,
 because he swore not before a magistrate, but in an epistle to his brethren.
 
-Obj.
+_Obj._
 Ninthly, they object Isa. 65:16, where speaking of the evangelical times, he saith,
 "`That he who blesseth himself in the earth shall bless himself in the God of Truth,
 and he that sweareth in the earth, shall swear by the God of Truth;
@@ -1320,7 +1358,7 @@ For behold,
 I create new heavens and a new earth.`" Therefore in these
 times we ought to swear by the name of the Lord.
 
-Answ.
+_Answ._
 I answer,
 It is ordinary for the prophets to express the greatest
 duties of evangelical times in Mosaical terms,
@@ -1341,7 +1379,7 @@ when the ceremonial oaths were in use, to wit,
 "`Every tongue shall swear,`" were by the apostle being under the Gospel,
 when those oaths became abolished, expressed by "`Every tongue shall confess.`"
 
-Obj.
+_Obj._
 Tenthly, they object, But the apostle Paul approves oaths used among men,
 when he writes (Heb. 6:16): "`For men verily swear by the greater,
 and an oath for confirmation is to them an end of
@@ -1349,7 +1387,7 @@ all strife.`" But there are as many contests,
 fallacies, and diffidences at this time, as there ever were:
 therefore the necessity of oaths doth yet remain.
 
-Answ.
+_Answ._
 I answer, the apostle tells indeed in this place, what men at that time did,
 who lived in controversies and incredulity, not what they ought to have done,
 nor what the saints did, who were redeemed from strife and incredulity,
@@ -1376,14 +1414,14 @@ whom Christ has brought to true faithfulness and honesty,
 as well towards God as one towards another,
 and therefore has delivered them from contests, perfidies, and consequently from oaths.
 
-Obj.
+_Obj._
 Eleventhly, they object, We grant that among true Christians, there is not need of oaths,
 but by what means shall we infallibly know them?
 It will follow then, that oaths are at present needful,
 and that it is lawful for Christians to swear, to wit, that such may be satisfied,
 who will not acknowledge this and the other man to be a Christian.
 
-Answ.
+_Answ._
 I answer, It is no ways lawful for a Christian to swear,
 whom Christ has called to his essential Truth, which was before all oaths,
 forbidding him to swear, and, on the contrary,
@@ -1400,11 +1438,13 @@ that "`the giving of the right hand was, among the Persians,
 a sign of speaking the Truth`"; and the Scythians, as Qu. Curtius relates, said,
 in their conferences with Alexander the Great,
 "`Think not that the Scythians confirm their friendship by swearing,
-// lint-disable invalid-characters "Æ"
-they swear by keeping their promises.`" StobÆus, in his third sermon,
+// lint-disable invalid-characters "æ"
+they swear by keeping their promises.`" Stobæus, in his third sermon,
 tells that Solomon said, "`A good man ought to be in that estimation,
 that he need not an oath,
-because it is to be reputed a lessening of his honor if he be forced to swear.`" Pythagoras,
+because it is to be reputed a lessening of his honor if he be forced to swear.`"
+
+Pythagoras,
 in his oration, among other things, hath this maxim, as that,
 which concerns the administration of the commonwealth:
 "`Let no man call God to witness by an oath, no not in judgment;
@@ -1412,12 +1452,12 @@ but let every man so accustom himself to speak,
 that he may become worthy to be trusted even without
 an oath.`" Basil the Great commends Clinias an heathen,
 "`that he had rather pay three talents, which are about three thousand pounds,
-// lint-disable invalid-characters "Æ"
-than swear.`" Socrates, as StobÆus relates (Serm.
+// lint-disable invalid-characters "æ"
+than swear.`" Socrates, as Stobæus relates (Serm.
 14), had this sentence, "`the duty of good men requires,
 that they show to the world that their manners and actions are more firm than oaths`";
 the same was the judgment of Isocrates.
-Plato also stood against oaths in his judgments (De Leg.
+Plato also stood against oaths in his judgments ([.book-title]#De Leg.#
 12). Quintilianus takes notice, "`that it was of old a kind of infamy,
 if any was desired to swear; but to require an oath of a noble man,
 was like an examining him by the hangman.`" Marcus Aurelius Antoninus,
@@ -1444,27 +1484,27 @@ that they might only rebuke vain and rash oaths by the creatures, or heathen ido
 which were also prohibited under the Mosaical law;
 and not also swearing by the True God in truth and righteousness,
 which was there commanded?
-as Polycarpus, Justin Martyr (Apolog. 2), and many martyrs, as Eusebius relates.
-Tertullian, in his Apolog+++.+++, cap. 32, ad Scap+++.+++, cap. 1, of Idolatry (c. 11).
-Clement of Alexandria, Strom+++.+++, lib. 7. Origen, in Matt., Tract. 25.
-Cyprian, lib. 3. Athanasius, in pass. & cruc+++.+++, Domini Christi.
-Hilary, in Matt. 5:34. Basil the Great, in Ps. 14. Gregory of Nyssa, in Cant. Orat. 13.
-Gregory of Nazianzus, in dialog. contra juramenta.
+as Polycarpus, Justin Martyr _(Apolog. 2),_ and many martyrs, as Eusebius relates.
+Tertullian, in his _Apolog+++.+++, cap. 32, ad Scap+++.+++, cap. 1,_ of Idolatry (c. 11).
+Clement of Alexandria, _Strom+++.+++, lib. 7._ Origen, _in Matt.,_ Tract. 25.
+Cyprian, _lib. 3._ Athanasius, _in pass. et cruc+++.+++, Domini Christi._
+Hilary, _in Matt. 5:34._ Basil the Great, _in Ps. 14._ Gregory of Nyssa, _in Cant. Orat. 13._
+Gregory of Nazianzus, _in dialog. contra juramenta._
 // lint-disable invalid-characters "Æ"
-Epiphanius, adversus hÆres+++.+++, lib. 1. Ambrose, de Virg+++.+++, lib. 3;
-Idem, in Matt. 5. Chrysostom, in Genes. homil. 15;
-Idem, homil+++.+++, in Act Apost. cap. 3. Jerome, Epistol+++.+++, lib.
-part 3, Ep. 2. Idem, in Zach+++.+++, lib. 2, cap. 8. Idem,
-in Matt., lib. 1, cap. 5. Augustine, de serm. Dom. serm. 28.
-Cyril, in Jer. 4. Theodoretus, in Duet. 6. Isidore of Pelusium,
-Ep. lib. 1, Epist. 155. Chromatius, in Matt. 5. John of Damascus, lib. 3, cap. 16.
-Cassiodorus, in Ps. 94. Isidore of Seville, cap. 31.
-Antiochus, in Pandect. script. hom. 62. Bede, in Jac. 5. Haymo,
-in Apoc. Ambrosius Ansbertius, in Apoc. Theophylact, in Matt. 5.
-Paschasius Radbertus, in Matt. 5. Otho Brunsfelsius,
-in Matt. 5. Druthmarus, in Matt. 5. Euthymius Eugubinus, Bibliotheca vet. patr.
-in Matt. 5. Oecumenius, in Jac+++.+++, c. 5., v. 12. Anselm, in Matt. 5. Waldenses,
-Wycliffe, Erasmus, in Matt. 5., and in Jac. 5.
+Epiphanius, _adversus hæres+++.+++, lib. 1._ Ambrose, _de Virg+++.+++, lib. 3;_
+_Idem, in Matt. 5._ Chrysostom, _in Genes. homil. 15;
+Idem, homil+++.+++, in Act Apost. cap. 3._ Jerome, _Epistol+++.+++, lib._
+part 3, _Ep. 2. Idem, in Zach+++.+++, lib. 2, cap. 8. Idem,
+in Matt., lib. 1, cap. 5._ Augustine, _de serm. Dom. serm. 28._
+Cyril, _in Jer. 4._ Theodoretus, _in Duet. 6._ Isidore of Pelusium,
+_Ep. lib. 1, Epist. 155._ Chromatius, _in Matt. 5._ John of Damascus, _lib. 3, cap. 16._
+Cassiodorus, _in Ps. 94._ Isidore of Seville, _cap. 31._
+Antiochus, _in Pandect. script. hom. 62._ Bede, _in Jac. 5._ Haymo,
+_in Apoc._ Ambrosius Ansbertius, _in Apoc._ Theophylact, _in Matt. 5._
+Paschasius Radbertus, _in Matt. 5._ Otho Brunsfelsius,
+_in Matt. 5._ Druthmarus, _in Matt. 5._ Euthymius Eugubinus, _Bibliotheca vet. patr. in Matt. 5._
+Oecumenius, _in Jac+++.+++, c. 5.,_ v. 12. Anselm, _in Matt. 5._ Waldenses,
+Wycliffe, Erasmus, _in Matt. 5.,_ and _in Jac. 5._
 Who can read these places and doubt longer of their sense in this matter?
 And who, believing that they were against all oaths,
 can bring so great an indignity to the Name of Christ,
@@ -1472,12 +1512,12 @@ as to seek to subject again his followers to so great an indignity?
 Is it not rather time that all good men labour to
 remove this abuse and infamy from Christians.
 
-Obj.
+_Obj._
 Lastly, they object, This will bring in fraud and confusion,
 for impostors will counterfeit probity,
 and under the benefit of this dispensation will be without fear of punishment.
 
-Answ.
+_Answ._
 I answer, There are two things only, which oblige a man to speak the Truth: First,
 Either the fear of God in his heart and love of Truth,
 for where this is there is no need of oaths to speak the Truth.
@@ -1505,9 +1545,12 @@ yet nevertheless there has nothing of prejudice followed thereupon to the common
 government, or good order, but rather great advantage to trade,
 and so to the commonwealth.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §XlII.
-Sixthly, The last thing to be considered is revenge and war,
+Sixthly, The last thing to be considered is _revenge_ and _war,_
 an evil as opposite and contrary to the Spirit and doctrine of Christ as Light to darkness.
 For as is manifest by what is said,
 through contempt of Christ`'s law the whole world is filled with various oaths, cursings,
@@ -1523,7 +1566,7 @@ and is it not yet much more admirable that this horrid monster
 should find place and be fomented among those men that profess
 themselves disciples of our peaceable Lord & Master,
 Jesus Christ,
-who by excellency is called the Prince of Peace and
+who by excellency is called the "`Prince of Peace`" and
 hath expressly prohibited his children all violence,
 and on the contrary commanded them that according
 to his example they should follow patience,
@@ -1563,26 +1606,30 @@ This is not only the judgment of most, if not all, the ancient Fathers, so calle
 of the first three hundred years after Christ, but also of many others,
 and in general of all those who have rightly understood
 and propagated the law of Christ concerning swearing,
-as appears from Justin Martyr in Dialog. cum Tryph. ejusdemque Apolog. 2. Item, ad Zenam.
-Tertull+++.+++, de Corona Militis. It+++.+++ Apolog. cap. 21 & 37. It+++.+++ lib.
+as appears from Justin Martyr in_ Dialog. cum Tryph. ejusdemque Apolog. 2. Item, ad Zenam._
+Tertull+++.+++, _de Corona Militis. It+++.+++ Apolog. cap. 21 et 37. It+++.+++ lib.
 de Idolol. c. 17-19. It+++.+++ ad Scapulam. cap. 1. It+++.+++ adversus Jud+++.+++, cap.
 7 and 9. It+++.+++ adv. Gnost. 13. It+++.+++ adv. Marc. c. 4. It+++.+++ lib.
-de patientia. c. 6.10. Orig. cont. Celsum, lib. 3,5,8. It+++.+++ in Josuam, hom. 12 cap. 9.
-It+++.+++, in Matt. cap. 26. Tract. 36. Cyprian, Epist. 56.
-It+++.+++, ad Cornel. Lactan. de just. lib. 5. c. 18: lib. 6, c. 20.
-Ambr+++.+++, in Luc. 22. Chrysostom, in Matt. 5, hom. 18. It+++.+++, in Matt. 26, hom. 85.
-It+++.+++, lib. 2. de sacerdotio. It+++.+++, 1 Cor. 13. Chromatius, in Matt. 5. Jerome, ad.
-Ocean. It+++.+++, lib. Epist. p. 3. Tom. 1. Ep. 2. Athan+++.+++, de Inc.
-Verb. Dei. Cyril Alex+++.+++, lib. 11. in Johan. cap. 25-26.
+de patientia. c. 6.10._
+Orig. _cont. Celsum, lib. 3,5,8. It+++.+++ in Josuam, hom. 12 cap. 9.
+It+++.+++, in Matt. cap. 26. Tract. 36._
+Cyprian, _Epist. 56. It+++.+++, ad Cornel. Lactan. de just. lib. 5. c. 18: lib. 6, c. 20._
+Ambr+++.+++, _in Luc. 22._ Chrysostom, _in Matt. 5, hom. 18. It+++.+++, in Matt. 26, hom. 85.
+It+++.+++, lib. 2. de sacerdotio. It+++.+++, 1 Cor. 13._
+Chromatius, _in Matt. 5._ Jerome, _ad. Ocean. It+++.+++, lib.
+Epist. p. 3._
+Tom. _1. Ep. 2._ Athan+++.+++, _de Inc.
+Verb. Dei._ Cyril Alex+++.+++, _lib. 11. in Johan. cap. 25-26._
 Yea Augustine, although he vary much in this matter,
-notwithstanding in these places he did condemn fighting: Epist.
+notwithstanding in these places he did condemn fighting: _Epist.
 158-160. It+++.+++, ad. Judices, Epist. 263. It+++.+++, ad. Darium, & lib. 21.
 It+++.+++, ad. Faustum+++.+++, cap. 76, lib. 22, de Civit.
-ad. Marc. cap. 6, as Sylburgius relates.
-Euthym+++.+++, in Matt. 26. and among others of this last^
+ad. Marc. cap. 6,_ as Sylburgius relates.
+Euthym+++.+++, _in Matt. 26._ and among others of this last^
 footnote:[1678 London edition omits "`last.`"]
-age Erasmus in Luc. cap. 3 and 22. Ludov. Vives, in Introd.
-ad. Sap. J. Ferus, lib. 4. Comment in Matt. 7. & Luc. 22.
+age Erasmus _in Luc. cap. 3_ and _22._ Ludov. Vives, _in Introd.
+ad. Sap. J. Ferus, lib. 4._
+Comment _in Matt. 7. & Luc. 22._
 
 From hence it appears that there is so great a connection
 betwixt these two precepts of Christ,
@@ -1616,6 +1663,9 @@ so will also the other be impossible,
 and men do but deceive themselves and others while they boldly
 adventure to establish such absurd and impossible things.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §XIV.
 Nevertheless because some, perhaps through inadvertency,
@@ -1625,16 +1675,22 @@ and how much they are inconsistent with one another,
 and consequently that war is no ways lawful to such as will be the disciples of Christ.
 For
 
+[.numbered-group]
+====
+
+[.numbered]
 First, Christ commands that we should "`love our enemies`";^
 footnote:[Matt. 5:43.]
 but war, on the contrary, teacheth us to hate and destroy them.
 
+[.numbered]
 Secondly the apostle saith that "`we war not after the flesh,`"
 and that "`we fight not with flesh and blood.`"^
 footnote:[Eph. 6:12.]
 But outward war is according to the flesh, and against flesh and blood,
 for the shedding of the one and destroying of the other.
 
+[.numbered]
 Thirdly, the apostle saith that "`the weapons of our warfare are not carnal,
 but spiritual.`"^
 footnote:[2 Cor. 10:4. Later editors replace "`spiritual`" with "`mighty through God.`"]
@@ -1642,6 +1698,7 @@ But the weapons of outward warfare are carnal,
 such as cannon, muskets, spears, swords, etc.,
 of which there is no mention in the armour described by Paul.
 
+[.numbered]
 Fourthly, because James testifies, that wars and strifes come from the lusts,
 which war in the members of carnal men:^
 footnote:[James 4:1.]
@@ -1650,6 +1707,7 @@ with its affections and lusts.`"^
 footnote:[Gal. 5:24.]
 Therefore they cannot indulge them by waging war.
 
+[.numbered]
 Fifthly, because the prophets Isaiah and Micah have expressly prophesied,
 that in the mountain of the house of the Lord, Christ shall judge the nations,
 and then "`they shall beat their swords into ploughshares,`" etc.,^
@@ -1661,33 +1719,37 @@ and others may be seen: which need not seem strange to any,
 since Philo Judaeus abundantly testifies of the Essenes,
 that "`there was none found among them,
 that would make instruments of war.`" But how much more did Jesus come,
-that he might keep his followers from fighting,
-and might bring them to patience and charity.
+_that he might keep his followers from fighting,
+and might bring them to patience and charity._
 
+[.numbered]
 Sixthly,
 because the prophet foretold that there should "`none hurt
 nor kill in all the Holy Mountain`" of the Lord:^
 footnote:[Isa. 65:25.]
 But outward war is appointed for killing and destroying.
 
+[.numbered]
 Seventhly,
 because Christ said that "`his Kingdom is not of this world,`"
 and therefore that "`his servants shall not fight:`"^
 footnote:[John 18:36.]
 Therefore those that fight are not his disciples nor servants.
 
+[.numbered]
 Eighthly, because he reproved Peter for the use of the sword, saying,
 "`Put up again thy sword into his place: for all they that take the sword,
 shall perish with the sword.`"^
 footnote:[Matt. 26:52.]
-Concerning which Tertullian speaks well (lib.
-de idol.), "`How shall he fight in peace without a sword, which the Lord did take away?
+Concerning which Tertullian speaks well [.book-title]#(lib.
+de idol.),# "`How shall he fight in peace without a sword, which the Lord did take away?
 For although soldiers came to John and received a form of observation,
 if also the centurion believed afterwards,
-he disarmed every soldier in disarming of Peter.`" Idem+++.+++, de Coron.
-Mil. asketh, "`shall it be lawful to use the sword,
+he disarmed every soldier in disarming of Peter.`" [.book-title]#Idem+++.+++, de Coron.
+Mil.# asketh, "`shall it be lawful to use the sword,
 the Lord saying that he that useth the sword shall perish by the sword?`"
 
+[.numbered]
 Ninthly, because the apostle admonisheth Christians, that they defend not themselves,
 neither revenge by rendering evil for evil, but give place unto wrath,
 because vengeance is the Lord`'s: "`Be not overcome of evil, but overcome evil with good.
@@ -1695,6 +1757,7 @@ If thine enemy hunger, feed him: if he thirst, give him drink`":^
 footnote:[Rom. 12:20-21.]
 But war throughout teacheth and enjoineth the quite contrary.
 
+[.numbered]
 Tenthly, because Christ calls his children to bear his cross,^
 footnote:[Mark 8:34.]
 not to crucify or kill others: to patience not to revenge: to Truth and simplicity,
@@ -1703,25 +1766,36 @@ which John himself forbids: to flee the glory of this world;
 not to acquire it by warlike endeavours:
 Therefore war is altogether contrary unto the Law and Spirit of Christ.
 
+====
+
 // lint-disable invalid-characters "§"
-§XV. Obj.
+§XV. _Obj._
 But they object that it is lawful to war,
 because Abraham did war before the giving of the Law,
 and the Israelites after the giving of the Law.
 
-Answ.
-I answer as before, 1. that Abraham offered sacrifices at that time,
+[.offset]
+_Answ._ I answer as before,
+
+[.numbered-group]
+====
+
+[.numbered]
+1+++.+++ that Abraham offered sacrifices at that time,
 and circumcised the males: which nevertheless are not lawful for us under the Gospel.
 
+[.numbered]
 2+++.+++ That neither defensive nor offensive war was lawful to the Israelites,
 of their own will, or by their own counsel or conduct,
 but they were obliged at all times, if they would be successful,
 first to inquire the oracle of God.
 
+[.numbered]
 3+++.+++ That their wars against the wicked nations were a figure of
 the inward war of the true Christians against their spiritual enemies,
 in which we overcome the devil, the world, and the flesh.
 
+[.numbered]
 4+++.+++ Something is expressly forbidden by Christ (Matt. 5:34),
 which was granted to the Jews in their time, because of their hardness; and,
 on the contrary, we are commanded that singular patience and exercise of love,
@@ -1729,31 +1803,33 @@ which Moses commanded not to his disciples.
 From whence Tertullian saith well against Marc+++.+++,
 "`Christ truly teacheth a new patience,
 even forbidding the revenge of an injury, which was permitted by the Creator.`"
-And (lib. de patien.)
+And [.book-title]#(lib. de patien.)#
 "`The law finds more than it lost, by Christ`'s saying, Love your enemies.`"
 And in the time of Clem. Alex. Christians were so far from wars,
 that he testified that they had no marks or signs of violence among them, saying,
 "`Neither are the faces of idols to be painted,
 to which so much as to regard is forbidden: neither sword nor bow to them,
 that follow peace, nor cups to them who are moderate and temperate,`"
-as Sylvius Disc. de Rev. Belg.
+as Sylvius [.book-title]#Disc. de Rev. Belg.#
 
-Obj.
+====
+
+_Obj._
 Secondly, they object that defence is of natural right,
 and that religion destroys not nature.
 
-Answ.
+_Answ._
 I answer, Be it so, but to obey God, and commend ourselves to him in faith and patience,
 is not to destroy nature, but to exalt and perfect it; to wit,
 to elevate it from the natural to the supernatural life,
 by Christ living therein and comforting it,
 that it may do all things and be rendered more than conqueror.
 
-Obj.
+_Obj._
 Thirdly,
 they object that John did not abrogate or condemn war when the soldiers came unto him.
 
-Answ.
+_Answ._
 I answer, What then?
 The question is not concerning John`'s doctrine, but Christ`'s, whose disciples we are,
 not John`'s: for Christ and not John is that Prophet whom we ought all to hear;
@@ -1773,13 +1849,13 @@ let any tell how soldiers can war?
 For is not craft, violence, and injustice, three properties of war,
 and the natural consequences of battles?
 
-Obj.
+_Obj._
 Fourthly, they object that Cornelius,
 and that centurion of whom there is mention made,^
 footnote:[Matt. 8:5.]
 were soldiers, and there is no mention that they laid down their military employments.
 
-Answ.
+_Answ._
 I answer, Neither read we that they continued in them.
 But it is most probable that,
 if they continued in the doctrine of Christ (and
@@ -1801,7 +1877,8 @@ for they use not to do so, for the cause and name of their God,
 which they bear in their consciences.`" And this was
 done about an hundred and sixty years after Christ.
 To this add those words, which in Justin Martyr the Christians answer,
-RESTORE-GREEK, that is, "`We fight not with our enemies`";
+// lint-disable invalid-characters
+πολεμοῦμεν τοῖϛ ἐχροῖϛ, that is, "`We fight not with our enemies`";
 and moreover the answer of Martin to Julian the Apostate, related by Sulpicius Severus:
 "`I am a soldier of Christ,
 therefore I cannot fight,`" which was three hundred years after Christ.
@@ -1847,12 +1924,12 @@ Or we, which cannot do these things, for the same cause of conscience,
 lest we should destroy, by our works, what we establish in words,
 we shall leave to the judgment of all prudent men?
 
-Obj.
+_Obj._
 Fifthly, they object that Christ (Luke 22:36), speaking to his disciples,
 commands them that he that then had not a sword, should sell his coat and buy a sword:
 Therefore, say they, arms are lawful.
 
-Answ.
+_Answ._
 I answer, some indeed understand this of the outward sword,
 nevertheless regarding only that occasion,
 otherwise judging that Christians are prohibited wars under the Gospel:
@@ -1876,10 +1953,10 @@ And truly when we consider the answer of the disciples,
 and again Christ`'s answer, "`It is enough,`" it seems that Christ would not that the rest,
 who had not swords (for they had only two swords), should sell their coats,
 and buy an outward sword.
-Who can think that, matters standing thus, he should have said two was enough?
+Who can think that, matters standing thus, he should have said _two was enough?_
 But however it is sufficient that the use of arms is unlawful under the Gospel.
 
-Obj.
+_Obj._
 Sixthly, they object that the Scriptures and old Fathers, so called,
 did only prohibit private revenge, not the use of arms for the defence of our country,
 body, wives, children, and goods, when the magistrate commands it,
@@ -1887,7 +1964,7 @@ seeing the magistrates ought to be obeyed:
 Therefore albeit it be not lawful for private men to do it of themselves,
 nevertheless they are bound to do it by the command of the magistrate.
 
-Answ.
+_Answ._
 I answer, If the magistrate be truly a Christian, or desires to be so,
 he ought himself in the first place to obey the command of his Master, saying,
 "`Love your enemies,`" etc., and then he could not command us to kill them:
@@ -1897,9 +1974,10 @@ for in the Kingdom of Christ all ought to submit to his laws,
 from the highest to the lowest, that is, from the king to the beggar,
 and from Caesar to the clown.
 But (alas!) where shall we find such an obedience?
-O deplorable fall! concerning which Ludov. Viv. writes well
-(lib. de con. vit. Christ. sub. Turc.), by relation of Fredericus Sylvius, Disc.
-de Revol. Belg+++.+++, p. 85:
+O deplorable fall! concerning which Ludov.
+Viv. writes well [.book-title]#(lib. de con. vit. Christ. sub. Turc.),#
+by relation of Fredericus Sylvius, [.book-title]#Disc.
+de Revol. Belg+++.+++,# p. 85:
 "`The Prince entered into the Church, not as a true and plain Christian:
 which had indeed been most happy and desirable, but he brought in with him his nobility,
 his honors, his ARMS, his ensigns, his triumphs, his haughtiness, his pride,
@@ -1908,8 +1986,8 @@ he came into the house of Christ accompanied with the devil,
 and which could no ways be done, he would have joined two houses and two cities together,
 God`'s and the Devil`'s, which could not more be done, than Rome and Constantinople,
 which are distant by so long a tract both of sea and land.
-('`What communion, saith Paul,
-is there betwixt Christ and Belial?`') Their zeal cooled by degrees,
+('`What communion,`' saith Paul,
+'`is there betwixt Christ and Belial?`') Their zeal cooled by degrees,
 their faith decreased, their whole piety degenerated,
 instead whereof we make now use of shadows and images, and, as he saith,
 I would we could but retain these!`" Thus far Vives.
@@ -1940,6 +2018,9 @@ and therefore cannot be undefending themselves, until they attain that perfectio
 but for such, whom Christ has brought hither,
 it is not lawful to defend themselves by arms,
 but they ought over all to trust to the Lord.
+
+[.small-break]
+'''
 
 // lint-disable invalid-characters "§"
 §XVI.
@@ -2002,7 +2083,7 @@ that this or the other worship may be received or abolished; If to do this,
 and much more of this kind, be to fulfill the law of Christ,
 then are our adversaries indeed true Christians, and we miserable heretics,
 that suffer ourselves to be spoiled, taken, imprisoned, banished, beaten,
-and evilly entreated, without any resistance, placing our trust only in god,
+and evilly entreated, without any resistance, placing our trust only in God,
 that he may defend us, and lead us by this way of the Cross unto his Kingdom.
 But if it be otherways,
 we shall certainly receive the reward which the Lord

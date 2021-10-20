@@ -1,5 +1,5 @@
 [short="Unto Charles II, King of Great Britain"]
-== Unto Charles the Second / King of Great Britain / and the Dominions thereunto belonging
+== Unto Charles the Second / King of Great Britain / and the Dominions Thereunto Belonging
 
 [.section-author]
 Robert Barclay
@@ -257,9 +257,12 @@ that thou mayest effectually turn to him so as to
 improve thy place and station for his name.
 So wisheth, so prayeth,
 
+[.signed-section-closing]
 Thy faithful friend and subject,
 
-ROBERT BARCLAY
+[.signed-section-signature]
+Robert Barclay
 
+[.signed-section-context-close]
 From Ury, the place of my pilgrimage, in my native country of Scotland,
 the 25th of the month called November, in the year 1675.

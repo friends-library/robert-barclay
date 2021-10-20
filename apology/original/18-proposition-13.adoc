@@ -1,7 +1,9 @@
 == THE THIRTEENTH PROPOSITION
 
-Concerning the Communion, or participation of the Body and Blood of Christ
+[.chapter-subtitle--blurb]
+Concerning the Communion, or Participation of the Body and Blood of Christ
 
+[.heading-continuation-blurb]
 The communion of the body and blood of Christ is inward and spiritual,
 which is the participation of his flesh and blood,
 by which the inward man is daily nourished in the hearts of those in whom Christ dwells,
@@ -30,6 +32,9 @@ while they have been contending, quarrelling,
 and fighting one with another about the mere shadow, outside, and form,
 but strangers to the Substance, Life and Virtue.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §II. The body, then, of Christ, which believers partake of,
 is spiritual and not carnal, and his blood, which they drink of, is pure and heavenly,
@@ -43,14 +48,14 @@ which they shall spill, that crucify me--I am the living bread,
 who have descended from heaven; he called himself the bread, who descended from heaven,
 exhorting that we might believe in him,`" etc.
 
-Quest.
+_Quest._
 If it be asked then what that body, what that flesh and blood is?
 
-Answ.
+_Answ._
 I answer, it is that heavenly Seed, that divine, spiritual, celestial Substance,
 of which we spake before, in the Fifth and Sixth Propositions.
-This is that vehiculum Dei, or^
-footnote:[Later editions omit "`vehiculum Dei, or`"]
+This is that _vehiculum Dei,_ or^
+footnote:[Later editions omit "`_vehiculum Dei,_ or`"]
 spiritual body of Christ, whereby and wherethrough he communicateth life to man,
 and salvation "`to as many as believe in him,`" and "`receive him,`" and whereby
 also man comes to have fellowship and communion with God.
@@ -88,7 +93,9 @@ communion of the body and blood of Christ:
 shall live forever`" (verse 51), "`whoso eateth this flesh, and drinketh this blood,
 shall live forever`" (verse 54), "`and he dwelleth in Christ,
 and Christ in him`" (verse 56),
-"`and shall live by Christ`" (verse 57). From this large description of the origin, nature,
+"`and shall live by Christ`" (verse 57).
+
+From this large description of the origin, nature,
 and effects of this body, flesh, and blood of Christ,
 it is apparent that it is spiritual, and to be understood of a spiritual body,
 and not of that body, or temple of Jesus Christ, which was born of the virgin Mary,
@@ -152,6 +159,7 @@ Of which body of Christ, and flesh and blood, if both Adam, and Seth, and Enoch,
 and Noah, and Abraham, and Moses, and David,
 and all the prophets and holy men of God had not eaten, they had not had life in them,
 nor could their inward man have been nourished.
+
 Now, as the outward body and temple was called Christ, so was also this spiritual body,
 no less properly, and that long before that outward body was in being.
 Hence the apostle saith (1 Cor. 10:3-4),
@@ -189,13 +197,16 @@ he may raise them up out of death and darkness, by his Life and Light,
 and thereby may be made partakers of his body,
 and therethrough come to have fellowship with the Father and with the Son.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §III.
-Quest.
+_Quest._
 If it be asked, how, and after what manner man comes to partake of it,
 and to be fed by it?
 
-Answ.
+_Answ._
 I answer in the plain and express words of Christ,
 "`I am the bread of life`" (saith he) "`he that cometh to me shall never hunger;
 he that believeth in me shall never thirst`": and again, "`for my flesh is meat indeed,
@@ -257,7 +268,7 @@ Hence the Apostle (1 Cor. 10:17), in this respect saith,
 that they "`being many are one bread, and one body`":
 and to the wise among the Corinthians he saith "`The bread which we break,
 is the communion^
-footnote:[Later editors replace "`is the communion`" with "`is it not the communion...?]
+footnote:[Later editors replace "`is the communion`" with "`is it not the communion...?`"]
 of the body of Christ.`"^
 footnote:[Verse 16.]
 This is the true and spiritual supper of the Lord,
@@ -274,6 +285,9 @@ as often as the soul retires into the Light of the Lord,
 and feels and partakes of that heavenly Life, by which the inward man is nourished,
 which may be, and is often witnessed by the faithful at all times,
 though more particularly, when they are assembled together to wait upon the Lord.
+
+[.small-break]
+'''
 
 // lint-disable invalid-characters "§"
 §IV. But what confusion the professors of
@@ -325,7 +339,7 @@ but that they are mightily pained when they come to confirm and plead for their 
 hence I necessarily to conclude,
 that none of them had attained to the Truth and Substance of this mystery.
 Let us see if Calvin,^
-footnote:[Inst. lib. 4, cap. 17.]
+footnote:[_Inst. lib. 4, cap. 17._]
 after he had refuted the two former opinions, be more successful,
 in what he affirms and asserts for the truth of his opinion, who,
 after he hath much laboured in overturning and refuting the two former opinions,
@@ -390,7 +404,8 @@ to that ceremony, used by him with his disciples, in the breaking of bread, etc.
 as if it had only a relation thereto, or were only enjoyed in the use of that ceremony,
 which it neither hath nor is.
 For this is that bread, which Christ in his prayer teaches to call for, terming it
-RESTORE-GREEK, i.e., the supersubstantial bread,
+// lint-disable invalid-characters
+τὸν ἄρτον τον ἐπιούσιον, i.e., the supersubstantial bread,
 as the Greek hath it, and which the soul partakes of,
 without any relation or necessary respect to this ceremony,
 as shall be hereafter proved more at length.
@@ -413,6 +428,9 @@ and then proceed to consider the nature and use of that ceremony,
 and whether it be now necessary to continue,
 answering the reasons and objections of such as plead its continuance,
 as a necessary and standing ordinance of Jesus Christ.
+
+[.small-break]
+'''
 
 // lint-disable invalid-characters "§"
 §V. First it must be understood,
@@ -439,7 +457,9 @@ Now the communion or participation of the flesh and blood of Christ hath
 no such necessary relation to the breaking of bread and drinking of wine.
 For, if it had any such necessary relation,
 it would either be from the nature of the thing, or from some divine precept:
-but we shall show it is from neither; therefore, etc. First,
+but we shall show it is from neither; therefore, etc.
+
+First,
 it is not from the nature of it,
 because to partake of the flesh and blood of Christ is a spiritual exercise,
 and all confess that it is by the soul and spirit that we become real partakers of it,
@@ -448,6 +468,7 @@ but to eat bread and drink wine is a natural act, which, in itself,
 adds nothing to the soul, neither has anything that is spiritual in it,
 because the most carnal man that is, can as fully, as perfectly,
 and as wholly eat bread and drink wine as the most spiritual.
+
 Secondly, their relation is not by nature, else they would infer one another:
 but all acknowledge that many eat of the bread, and drink of the wine, even that which,
 they say, is consecrate and transubstantiate into the very body of Christ,
@@ -500,14 +521,14 @@ the partaking of the flesh and blood of Christ,
 and that whoever partakes of the flesh and blood of Christ, cannot but remember him;
 that therefore such need not this ceremony to put them in remembrance of him.
 
-Obj.
+_Obj._
 But if it be said, that Jesus Christ calls the bread here his body,
 and the wine his blood,
 therefore he seems to have had a special relation
 to his disciples partaking of his flesh and blood,
 in the use of this thing.
 
-Answ.
+_Answ._
 I answer, his calling the bread his body, and the wine his blood,
 would yet infer no such thing: though it is not denied but that Jesus Christ,
 in all things he did, yea and from the use of all natural things,
@@ -515,7 +536,8 @@ took occasion to raise the minds of his disciples and hearers to spirituals.
 Hence from the woman of Samaria her drawing water,
 he took occasion to tell her of that Living Water,
 which "`whoso drinketh of shall never thirst,`"^
-footnote:[John 4:14.]which indeed is all one with his blood here spoken of.
+footnote:[John 4:14.]
+which indeed is all one with his blood here spoken of.
 Yet it will not follow that well or water had any necessary relation to the living water,
 or the living water to it, etc. So Christ takes occasion,
 from the Jews following him for the loaves,
@@ -570,7 +592,7 @@ as believing Christians, to partake of the flesh and blood of Christ,
 dehorts them from idolatry and partaking of the sacrifices offered to idols,
 so as thereby to offend or hurt their weak brethren.
 
-Obj.
+_Obj._
 But that which they most of all cry out for in this matter, and are always noising,
 is from 1 Cor. 11, where the apostle is particularly treating of this matter,
 and therefore from some words here they have the
@@ -582,7 +604,7 @@ are guilty of the body and blood of the Lord,`" and (v. 29),
 this hath an immediate or necessary relation to the body,
 flesh, and blood of Christ.
 
-Answ.
+_Answ._
 Though this, at first view, may catch the unwary reader, yet being well considered,
 it doth no ways evince the matter in controversy.
 As for the Corinthians being in the use of this ceremony, why they were so,
@@ -618,6 +640,7 @@ and amounts to no more than this,
 that since the Corinthians were in the use of this ceremony, and so performed it,
 as a religious act, they ought to do it worthily,
 else they should bring condemnation upon themselves.
+
 Now, this will not more infer the thing, so practised by them,
 to be a necessary religious act obligatory upon others,
 than when the apostle saith (Rom. 14:6), "`He that regardeth the day,
@@ -662,6 +685,9 @@ not "`discerning the Lord`'s body,`" i.e., not minding what he doth, to wit,
 with a special respect to the Lord,
 and by way of special commemoration of the death of Christ.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §VI. I having now sufficiently shown what the true
 communion of the body and blood of Christ is,
@@ -694,10 +720,12 @@ for a foundation to such a strange superstructure as many
 in their airy imaginations have sought to build upon it;
 for both Matthew and Mark press it as an act done by him as he was eating; Matthew saith,
 "`and as they were eating`"; and Mark, "`and as they did eat,
-Jesus took bread,`" etc. Now this act was no singular thing,
+Jesus took bread,`" etc.
+
+Now this act was no singular thing,
 neither any solemn institution of a Gospel ordinance,
 because it was a constant custom among the Jews,
-as Paulus Riccius observes at length in his Celestial Agriculture,
+as Paulus Riccius observes at length in his [.book-title]#Celestial Agriculture,#
 that when they did eat the Passover,
 the master of the family did take bread and bless it,
 and breaking it gave of it to the rest, and likewise taking wine did the same;
@@ -720,9 +748,10 @@ will say that this account of the matter of fact, given by Matthew and Mark,
 or this expression of Luke,
 to "`do`" that "`in remembrance of him,`" will amount to these consequences,
 which the generality of Christians have sought to draw from it,
-as calling it "`augustissimum eucharistiae sacramentum`",
-"`venerabile altaris sacramentum,`" "`the principal seal of the covenant of Grace,
+as calling it __"`augustissimum eucharistiae sacramentum`",__
+__"`venerabile altaris sacramentum,`"__ "`the principal seal of the covenant of Grace,
 by which all the benefits of Christ`'s death are sealed to believers,`" and suchlike things.
+
 But to give a further evidence how these consequences
 have not any bottom from the practice of that ceremony,
 nor from the words following, "`do this,`" etc., let us consider another of the like nature,
@@ -732,7 +761,7 @@ After that, he poureth water into a basin, and began to wash the disciples`' fee
 and to wipe them with the towel, wherewith he was girded.
 Peter saith unto him, Thou shalt never wash my feet.
 Jesus answered him, If I wash thee not, thou hast no part with me.
-So after he had washed their feet, &hellip;he said, Know ye what I have done to you?
+So after he had washed their feet, he said, Know ye what I have done to you?
 If I then your Lord and Master have washed your feet,
 ye also ought to wash one another`'s feet.
 For I have given you an example,
@@ -784,7 +813,7 @@ hath not as much to recommend it for a standing ordinance of the Gospel,
 as either water baptism, or bread and wine, or any other of that kind?
 I wonder then, what reason the Papists can give,
 why they have not numbered it among their sacraments,
-except merely voluntas ecclesiae & traditio patrum.
+except merely _voluntas ecclesiae et traditio patrum._
 
 But if they say, that it is used among them,
 in that the Pope and some other persons among them
@@ -827,6 +856,9 @@ as having no less foundation in the Scripture.
 But since the former, to wit the washing of one another`'s feet, is justly laid aside,
 as not binding upon Christians, so ought also the other for the same reason.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §VII.
 But it is strange that those that are so clamorous for this ceremony,
@@ -840,18 +872,18 @@ footnote:[Later editors change "`they`" to "`the generality of Protestants.`"]
 do it in the morning only by itself.
 What rule walk they by in this change?
 
-Obj.
+_Obj._
 If it be said, these are but circumstances, and not the matter,
 and if the matter be kept to, the alteration of circumstances is but of small moment.
 
-Answ.
+_Answ._
 What if it should be said, the whole is but a circumstance, which fell out at that time,
 when Christ did eat the Passover?
 For, if we have regard to that, which alone can be pleaded for an institution,
 viz. these words,
 "`Do this in remembrance of me,`" it doth as properly relate to the manner, as matter.
 For what may, or can they evince in reason, that these words,
-"`Do this,`" only signify eat bread and drink wine; but it is no matter, when ye eat,
+"`Do this,`" only signify _eat bread and drink wine;_ but it is no matter, when ye eat,
 nor how ye eat it, and not, as ye have seen me eat it at supper with you, who take bread,
 and break it, and give it you, and take the cup, and bless it, and give it you;
 so do ye likewise?
@@ -861,18 +893,18 @@ Which if it do, all those that at present use this ceremony among Christians,
 have not yet obeyed this precept, nor fulfilled this institution,
 for all their clamors concerning it.
 
-Obj.
+_Obj._
 If it be said, that the time and manner of doing it by Christ was but accidentally,
 as being after the Jewish passover, which was at supper.
 
-Answ.
+_Answ._
 Besides that it may be answered and easily proved, that the whole was accidental,
 as being the practice of a Jewish ceremony, as is above observed:
 may it not the same way be urged, that the drinking of wine was accidental,
 as being the natural product of that country, and so be pleaded, that,
 in those countries where wine doth not grow, as in our nation of Scotland,
-we may make use of beer or ale in the use of this ceremony,
-or bread made of other grain than that which Christ used?
+we may make use of _beer_ or _ale_ in the use of this ceremony,
+or _bread made of other grain_ than that which Christ used?
 And yet would not our adversaries judge this an abuse,
 and not right performing of this "`sacrament`"? Yea have not scruples of
 this kind occasioned no little contention among the professors of Christianity?
@@ -902,16 +934,16 @@ that these words "`Do this`" must be understood to the clergy, take,
 bless and break this bread, and give it to others, but to the laity only, take and eat,
 but do not bless, etc.
 
-Obj.
+_Obj._
 If it be said, that the clergy were only present:
 
-Answ.
+_Answ._
 Then will not that open a door for the Popish argument
 against the administration of the cup to the people?
 Or may not another from thence as easily infer that
 only the clergy ought to partake of this ceremony,
 because they were only those present, to whom it was said,
-"`Do this?`" But if this "`Do this`" be extended to all,
+"`Do this`"? But if this "`Do this`" be extended to all,
 how comes it all have not liberty to obey it in both blessing, breaking,
 and distributing, as well as taking and eating?
 Besides all these,
@@ -933,10 +965,12 @@ while they lay aside others of the like nature, as positively commanded,
 and as punctually practised,
 and from the observation of which half so many difficulties will not follow?
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §VIII.
-How then?
-Have we not reason, not finding the nature of this practice to be obligatory upon us,
+How then? Have we not reason, not finding the nature of this practice to be obligatory upon us,
 more than those others which our adversaries have laid aside,
 to avoid all this confusion, since those that use it can never agree,
 neither concerning the nature, efficacy, nor manner of doing it?
@@ -958,7 +992,9 @@ so the context makes it plain; for they had all things in common:
 and therefore it is said (v. 46),
 "`And they continuing daily with one accord in the Temple,
 and breaking bread from house to house,
-did eat their meat with gladness and singleness of heart.`" Who will not willfully
+did eat their meat with gladness and singleness of heart.`"
+
+Who will not willfully
 close their eyes may see here that the breaking being joined with their eating,
 shows that nothing else is here expressed, but that having all things in common,
 and so continuing together, they also did break their bread and eat their meat together.
@@ -1016,6 +1052,7 @@ or such a special sacrament as others plead it to be, it is strange that that hi
 that in many lesser things gives a particular account of the Christians`' behaviour,
 should have been so silent in the matter.
 Only we find that they used sometimes to meet together to break bread, and eat.
+
 Now, as the primitive Christians began by degrees to depart
 from that primitive purity and simplicity,
 so also to accumulate superstitious traditions,
@@ -1055,6 +1092,7 @@ and so shaming such as not having houses nor fullness
 at home came to partake of the common table,
 who, being hungry,
 thereby were ashamed when they observed others come thither full and drunken.
+
 Those that without prejudice will look to the place will
 see this must have been the case among the Corinthians;
 for supposing the use of this to have been then, as now used either by Papists,
@@ -1080,13 +1118,13 @@ ye do show the Lord`'s death till he come.`" But these words,
 "`as often,`" import no more a command than to say, "`as often as thou goest to Rome,
 see the Capitol,`" will infer a command to me, to go thither.
 
-Obj.
+_Obj._
 But whereas they urge the last words,
 "`ye show forth the Lord`'s death till he come,`" insinuating,
 that this imports a necessary continuance of that ceremony,
 until Christ come at the end of the world to judgment;
 
-Answ.
+_Answ._
 I answer, they take two of the chief parts of the controversy here for granted,
 without proof.
 First, that "`as often`" imports a command, the contrary whereof is shown,
@@ -1101,7 +1139,7 @@ and even used by those who knew Christ`'s appearance in Spirit (as other things 
 of which we shall speak hereafter), especially by the apostle,
 who became weak to the weak, and all to all, that he might save some.
 Now those weak and carnal Corinthians might be permitted the use of this,
-to show forth or remember Christ`'s death, till he came to arise in them;
+to show forth or remember Christ`'s death, till he came to arise _in_ them;
 for though such need those outward things, to put them in mind of Christ`'s death;
 yet such as are dead with Christ, and not only dead with Christ, but buried,
 and also arisen with him, need not such signs to remember him,
@@ -1135,27 +1173,27 @@ which was the mind of the Holy Ghost, "`To abstain from things strangled,
 and from blood.`" And James 5:14, where it is expressly commanded,
 "`that the sick be anointed with oil in the Name of the Lord.`"
 
-Obj.
+_Obj._
 If they say, these were only temporary things, but not to continue.
 
-Answ.
+_Answ._
 What have they more to show for this, there being no express repeal of them?
 
-Obj.
+_Obj._
 If they say, the repeal is implied, because the apostle saith,
 We ought not to be judged in meats and drinks.
 
-Answ.
+_Answ._
 I admit the answer,
 but how can it be evited from militating the same way against the other practice?
 Surely not at all: nor can there be anything urged for the one more than for the other,
 but custom and tradition.
 
-Obj.
+_Obj._
 As for that of James, they say, there followed a miracle upon it, to wit,
 the recovery of the sick, but this being ceased, so should the ceremony.
 
-Answ.
+_Answ._
 Though this might many ways be answered, to wit,
 that prayer then might as well be forborne,
 to which also the saving of the sick is there ascribed, yet I shall accept of it,
@@ -1163,6 +1201,9 @@ because I judge indeed that ceremony is ceased, only methinks, since our adversa
 and that rightly, think a ceremony ought to cease, where the virtue fails,
 they ought by the same rule to forbear the laying on of hands,
 in imitation of the apostles, since the gift of the Holy Ghost doth not follow upon it.
+
+[.small-break]
+'''
 
 // lint-disable invalid-characters "§"
 §IX. But since we find that several testimonies of Scripture do sufficiently
@@ -1215,6 +1256,7 @@ which all are to perish with the using) after the commandments and doctrines of 
 what can be more plain?
 If this serve not to take away the absolute necessity of the use of bread and wine,
 what can it serve to take away?
+
 Sure I am, the reason here given is applicable to them,
 which all do perish with the using, since bread and wine perish with the using,
 as much as other things.
@@ -1229,13 +1271,13 @@ in that such kind of observations of the Jews were as a sign of the Gospel,
 for that this "`stood only in meats and drinks, and divers washings.`" And now,
 if the Gospel worship and service stand in the same, where is the difference?
 
-Obj.
+_Obj._
 If it be said, These under the Gospel have a spiritual signification.
 
-Answ.
+_Answ._
 So had those under the Law; God was the author of those,
 as well as Christ is pretended to be the author of these.
-But doth not this contending for the use of water, bread and wine,
+But doth not this contending for the use of _water, bread_ and _wine,_
 as necessary parts of Gospel worship, destroy the nature of it,
 as if the Gospel were a dispensation of shadows, and not of the Substance?
 whereas the apostle, in that of the Colossians above mentioned,
@@ -1256,8 +1298,11 @@ to have any more virtue or efficacy than the type had?
 For since, as they say, and that truly, that their sacraments confer not Grace,
 but that it is conferred according to the faith of the receiver, it will not be denied,
 but the faithful among the Jews received also Grace in the use of their figurative worship.
-And though Papists boast that their sacraments confer grace ex opere operato,
+And though Papists boast that their sacraments confer grace _ex opere operato,_
 yet experience abundantly proveth the contrary.
+
+[.small-break]
+'''
 
 // lint-disable invalid-characters "§"
 §X. But supposing the use of water baptism and
@@ -1299,7 +1344,7 @@ if we consider their profession of religion,
 especially as to worship and the ceremonial part of it, we shall not find any church now,
 // lint-disable invalid-characters "é"
 whether Popish or Protestant, who differ not widely from them in many things, as Daillé,
-in his treatise concerning the Use of the Fathers, well observeth and demonstrateth.
+in his treatise concerning the [.book-title]#Use of the Fathers,# well observeth and demonstrateth.
 And why they should obtrude this upon us, because of the ancients`' practice,
 which they themselves follow not, or why we may not reject this,
 as well as they do other things no less zealously practised by the ancients,
@@ -1330,6 +1375,9 @@ though not only (as he well knew by experience) there,
 or especially to relate to it,
 he might have further reached unto the knowledge of this mystery,
 than many that went before him.
+
+[.small-break]
+'''
 
 // lint-disable invalid-characters "§"
 §XI. Lastly, if any now at this day, from a true tenderness of spirit,
