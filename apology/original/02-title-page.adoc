@@ -17,3 +17,6 @@ Presented to the _King._
 Written and published in Latin, for the information of strangers, by
 _Robert Barclay,_ and now put into our own language,
 for the benefit of his countrymen.
+
+[.section-date]
+Printed in the Year 1678
