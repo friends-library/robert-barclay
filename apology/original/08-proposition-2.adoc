@@ -279,8 +279,7 @@ provided himself be but always served;
 he matters not how great and high speculations the natural man entertains of God,
 so long as he serves his lusts and passions,
 and is obedient to his evil suggestions and temptations.
-Thus Christianity is become^
-footnote:[Some later editors insert "`as it were`" here.]
+Thus Christianity is become, as it were,
 an art, acquired by human science and industry, as any other art or science is;
 and men have not only assumed unto themselves the name of Christians,
 but even have procured themselves to be esteemed as masters of Christianity,
@@ -291,8 +290,21 @@ _videlicit,_ That he is one that hath the spirit of Christ, and is led by it,
 how many Christians, yea, and of these great masters and doctors of Christianity,
 so accounted, shall we justly divest of that noble title?
 
+If then such as have all the other means of knowledge,
+and are sufficiently learned therein, whether it be the letter of the Scripture,
+the traditions of churches, or the works of creation and providence,
+whence they are able to deduce strong
+and undeniable arguments (which may be true in themselves),
+are yet not to be esteemed Christians,
+according to the certain and infallible definition above mentioned;
+and if the inward and immediate revelation of God`'s Spirit in the heart,
+in such as have been altogether ignorant of some,
+and but very little skilled in others, of these means of attaining knowledge,
+hath brought them to salvation; then it will necessarily and evidently follow,
+that inward and immediate revelation is the only sure
+and certain way to attain the true and saving knowledge of God.
+
 [.syllogism]
-* If then such as have all the other means of knowledge, and are sufficiently learned therein, whether it be the letter of the Scripture, the traditions of churches, or the works of creation and providence, whence they are able to deduce strong and undeniable arguments (which may be true in themselves), are yet not to be esteemed Christians, according to the certain and infallible definition above mentioned; and if the inward and immediate revelation of God`'s Spirit in the heart, in such as have been altogether ignorant of some, and but very little skilled in others, of these means of attaining knowledge, hath brought them to salvation; then it will necessarily and evidently follow, that inward and immediate revelation is the only sure and certain way to attain the true and saving knowledge of God.
 * But the first is true:
 * Therefore the last.
 
@@ -695,8 +707,7 @@ I would gladly know what other argument such a one could bring for this his affi
 saving his own simple conjecture.
 It is said indeed, "`The Spirit witnesseth with our spirit`" (Rom. 8:16);
 but not to our outward ears.
-And seeing the Spirit of God is within us, and not without us,^
-footnote:[Some later editors render this "`not without us only.`"]
+And seeing the Spirit of God is within us, and not without us only,
 it speaks to our spiritual, and not to our bodily ear.
 Therefore I see no reason, where it is so often said in Scripture, _The Spirit said,
 moved, hindered, called_
@@ -832,7 +843,7 @@ Secondly, where this Spirit is to be, "`He dwelleth with you,
 and shall be in you.`" And thirdly, what his work is, "`He shall teach you all things,
 and bring all things to your remembrance, and guide you into all Truth,`"
 // lint-disable invalid-characters
-ὁδηγήσει ὑμᾶϛ είϛ πᾶσαν τὴν ἀλήθειαν
+ὁδηγήσει ὑμᾶϛ είϛ πᾶσαν τὴν ἀλήθειαν.
 
 As to the first,
 most do acknowledge that there is nothing else understood
@@ -880,11 +891,7 @@ as it is a thing most needful to be known and believed,
 so is it as positively asserted in the Scripture as anything else can be.
 "`If so be that the Spirit of God dwell in you,`" saith the apostle to the Romans (8:9);
 and again, "`Know ye not that ye are the temple of the Holy Ghost,
-and that the Spirit of God dwelleth in you?`" (1 Cor.
-6:19):^
-footnote:[Later editors substitute,
-"`Know ye not that your body is the temple of the Holy Ghost`" (1 Cor.
-6:19). "`And that the Spirit of God dwelleth in you`" (1 Cor. 3:16).]
+and that the Spirit of God dwelleth in you?`" (1 Cor. 3:16, 6:19):
 without this the apostle reckoneth no man a Christian.
 "`If any man,`" saith he, "`have not the Spirit of Christ,
 he is none of his.`" These words immediately follow
@@ -909,8 +916,7 @@ doth thereby acknowledge himself to be yet in the carnal mind, which is enmity t
 to be yet in the flesh, where God cannot be pleased;
 and in short (whatever he may otherways know or believe of Christ,
 or however much skilled or acquainted with the letter of the holy Scripture,
-not yet to be), notwithstanding all that, attained to the least desire^
-footnote:[Later editors substitute "`degree`" for "`desire.`"]
+not yet to be), notwithstanding all that, attained to the least degree
 of a Christian; yea, not once to have embraced the Christian religion.
 For take but away the Spirit, and Christianity remains no more Christianity,
 than the dead carcass of a man, when the soul and spirit is departed, remains a man;
@@ -994,8 +1000,7 @@ but these will have the children of God acted by
 their own spirits without the Spirit of God.
 He will have us call God Father, the Spirit dictating that term unto us,
 which only can witness to our spirits that we are the sons of God.
-These, though they cease not to call upon God, do nevertheless demit^
-footnote:[_demit_ +++=+++ dismiss]
+These, though they cease not to call upon God, do nevertheless dismiss
 the Spirit, by whose guiding he is rightly to be called upon.
 He denies them to be the sons of God, or the servants of Christ,
 who are not led by his Spirit;
@@ -1540,8 +1545,7 @@ But both their actings being equally evil,
 the difference appears to me to be only like that which is between a simple silly thief,
 that is easily caught, and hanged without any more ado;
 and a company of resolute bold robbers, who being better guarded,
-though their offence be nothing less, yet by violence do, to evite^
-footnote:[_evite_ +++=+++ avoid]
+though their offence be nothing less, yet by violence do, to avoid
 the danger, force their masters to give them good terms.
 
 From all which then it evidently follows that they argue very ill that despise
@@ -1666,8 +1670,7 @@ They answer,
 Because these traditions were delivered us by the doctors and fathers of the church;
 which doctors and fathers, by the revelation of the Holy Ghost,
 commanded the church to observe them.
-Here again all lands^
-footnote:[1678 London edition reads "`all ends in...`"]
+Here again all ends
 in the revelation of the Spirit.
 
 And for the Protestants and Socinians,
