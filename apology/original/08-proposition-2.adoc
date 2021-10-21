@@ -46,7 +46,7 @@ to that height are the generality of Christians apostatised and degenerated,
 that though there be not anything more plainly asserted, more seriously recommended,
 nor more certainly attested to, in all the writings of the holy Scriptures,
 yet nothing is less minded and more rejected by all sorts of Christians,
-than _immediate_ and _divine_ revelation;
+than _immediate_ and _divine revelation;_
 insomuch that once to lay claim to it is matter of reproach.
 Whereas of old none were ever judged Christians,
 but such as "`had the Spirit of Christ`" (Rom. 8:9).
@@ -104,6 +104,10 @@ that there was no true knowledge of God but that
 which is revealed inwardly by his own Spirit.
 Whereof take these following testimonies of the ancients:
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ "`It is the inward master (saith Augustine) that teacheth, it is Christ that teacheth,
 it is inspiration that teacheth: where this inspiration and unction is wanting,
 it is in vain that words from without are beaten in.`" And thereafter:
@@ -112,6 +116,7 @@ and dwelleth in us by his Spirit, unless he speaketh unto us inwardly,
 it is needless for us to cry out.`"^
 footnote:[Augustine, _ex Tract. Epist. John 3._]
 
+[.numbered]
 2+++.+++ "`There is a difference`" (saith Clement of Alexandria)
 "`betwixt that which anyone saith of the Truth,
 and that which the Truth itself, interpreting itself, saith.
@@ -125,6 +130,7 @@ nor is it impossible to apprehend it; for it is most nigh unto us, even in our h
 as the most wise Moses hath insinuated.`"^
 footnote:[_Paedag._]
 
+[.numbered]
 3+++.+++ "`How is it`" (saith Tertullian) "`that since the devil always worketh,
 and stirreth up the mind to iniquity, that the work of God should either cease,
 or desist to act?
@@ -140,6 +146,7 @@ What is then the administration of the Comforter, but that discipline be derived
 and the Scriptures revealed, etc.`"^
 footnote:[_Lib. de veland. virginibus cap. 1._]
 
+[.numbered]
 4+++.+++ "`The law`" (saith Jerome) "`is spiritual,
 and there is need of a revelation to understand it.`" And in his Epistle 150, to Hedibia,
 Quest.
@@ -149,12 +156,14 @@ that for the understanding thereof we need the help of the holy Spirit,
 who through the apostle dictated it.`"^
 footnote:[_Epist. Paulin. 103._]
 
+[.numbered]
 5+++.+++ "`So great things`" (saith Athanasius) "`doth our Saviour daily: he draws unto piety,
 persuades unto virtue, teaches immortality, excites to the desire of heavenly things,
 reveals knowledge from the Father, inspires power against death,
 and shows himself unto everyone.`"^
 footnote:[_De incarnatione verbi Dei._]
 
+[.numbered]
 6+++.+++ Gregory the Great, upon these words, "`He shall teach you all things,`" saith,
 "`that unless the same Spirit sit upon the heart of the hearer,
 in vain is the discourse of the doctor;
@@ -164,12 +173,14 @@ for unless he that teacheth be within, the tongue of the doctor, that is without
 laboureth in vain.`"^
 footnote:[_Hom. 30._ upon the gospel.]
 
+[.numbered]
 7+++.+++ Cyril of Alexandria plainly affirmeth that "`men
 know that Jesus is the Lord by the Holy Ghost,
 no otherwise, than they who taste honey know that it is sweet,
 even by its proper quality.`"^
 footnote:[_In thesau. 10. lib 13. cap. 3._]
 
+[.numbered]
 8+++.+++ "`Therefore`" (saith Bernard), "`we daily exhort you, brethren, by speech,
 that ye walk the ways of the heart, and that your souls be always in your hands,
 that ye may hear what the Lord saith in you.`" And again,
@@ -179,6 +190,8 @@ of religious men are less or more dangerously affected,
 because they do not so diligently attend, with the ears of the heart,
 to what the Spirit of Truth (which flatters none) inwardly speaks.`"^
 footnote:[_In Ps. 84._]
+
+====
 
 This was the very basis, and main foundation, upon which the primitive reformers walked.
 
@@ -321,19 +334,19 @@ which I shall in brief subsume.
 ====
 
 [.numbered]
-_First,_ That there is no knowledge of the Father but by the Son.
+First, _That there is no knowledge of the Father but by the Son._
 
 [.numbered]
-_Secondly,_ That there is no knowledge of the Son but by the Spirit.
+Secondly, _That there is no knowledge of the Son but by the Spirit._
 
 [.numbered]
-_Thirdly,_ That by the Spirit God hath always revealed himself to his children.
+Thirdly, _That by the Spirit God hath always revealed himself to his children._
 
 [.numbered]
-_Fourthly,_ That these revelations were the formal object of the saints`' faith.
+Fourthly, _That these revelations were the formal object of the saints`' faith._
 
 [.numbered]
-And _Lastly,_ That the same continueth to be the object of the saints`' faith to this day.
+And Lastly, _That the same continueth to be the object of the saints`' faith to this day._
 
 ====
 
@@ -343,7 +356,7 @@ Of each of these I shall speak a little particularly, and then proceed to the la
 '''
 
 // lint-disable invalid-characters "§"
-§V. As to the first, viz: "`That there is no knowledge of the Father but by the Son,`"
+§V. As to the first, viz: _That there is no knowledge of the Father but by the Son,_
 it will not need much probation, being founded upon the plain words of Scripture,
 and is therefore a fit medium to draw the rest of our assertions from.
 
@@ -401,8 +414,8 @@ so that whoso uses not that way, cannot know him, neither come unto him.
 
 // lint-disable invalid-characters "§"
 §VI. Having then laid down this first principle, I come to the second, viz:
-"`That there is no knowledge of the Son but by the Spirit; or,
-that the revelation of the Son of God is by the Spirit.`"
+_That there is no knowledge of the Son but by the Spirit; or,
+that the revelation of the Son of God is by the Spirit._
 
 Where it is to be noted, that I always speak of the saving, certain,
 and necessary knowledge of God;
@@ -520,7 +533,7 @@ concluding in the very terms of this assertion: thus,
 // lint-disable invalid-characters "§"
 §VII.
 The third thing affirmed is,
-"`That by the Spirit God always revealed himself to his children.`"
+_That by the Spirit God always revealed himself to his children._
 
 For the making appear of the truth of this assertion,
 it will be but needful to consider God`'s manifesting himself
@@ -581,7 +594,7 @@ How far now this yet continueth, and is to be expected, comes hereafter to be sp
 // lint-disable invalid-characters "§"
 §VIII.
 The fourth thing affirmed is,
-"`That these revelations were the object of the saints`' faith of old.`"
+_That these revelations were the object of the saints`' faith of old._
 
 This will easily appear by the definition of faith,
 and considering what its object is:
@@ -649,7 +662,7 @@ Next again,
 we must distinguish betwixt that which in itself is subject to doubt and delusion,
 and therefore is received for and because of another;
 and that which is not subject to any doubt,
-but is received simply for and because of itself, as being prima veritas,
+but is received simply for and because of itself, as being _prima veritas,_
 the very first and original Truth.
 Let us then consider how or how far these outward voices, appearances,
 and dreams were the object of the saints`' faith: was it because they were simply voices,
@@ -676,7 +689,7 @@ as we may observe in many passages of the holy Scripture, where it is only menti
 "`And God said,`" etc. "`And the word of the Lord came`" unto such and such, saying, etc.
 
 But if any one should pertinaciously affirm,
-"`That this did import an outward audible voice to the carnal ear;`"
+_That this did import an outward audible voice to the carnal ear;_
 
 I would gladly know what other argument such a one could bring for this his affirmation,
 saving his own simple conjecture.
@@ -685,8 +698,9 @@ but not to our outward ears.
 And seeing the Spirit of God is within us, and not without us,^
 footnote:[Some later editors render this "`not without us only.`"]
 it speaks to our spiritual, and not to our bodily ear.
-Therefore I see no reason, where it is so often said in Scripture, The Spirit said,
-moved, hindered, called such or such a one, to do or forbear such or such a thing,
+Therefore I see no reason, where it is so often said in Scripture, _The Spirit said,
+moved, hindered, called_
+such or such a one, to _do_ or _forbear_ such or such a thing,
 that any have to conclude, that this was not an inward voice to the ear of the soul,
 rather than an outward voice to the bodily ear.
 If any be otherwise minded, let them, if they can, produce their arguments,
@@ -702,13 +716,13 @@ I shall deduce an argument to conclude the probation of this assertion, thus:
 
 // lint-disable invalid-characters "§"
 §IX. That which now cometh under debate, is what we asserted in the last place,
-to wit, "`That the same continueth to be the object of the saints`' faith unto this day.`"
+to wit, _That the same continueth to be the object of the saints`' faith unto this day._
 Many will agree to what we have said before, who differ from us herein.
 
 There is nevertheless a very firm argument, confirming the truth of this assertion,
 included in the proposition itself, to wit,
-"`That the object of the saints`' faith is the same in all ages,
-though held forth under divers administrations,`" which I shall reduce to an argument,
+_That the object of the saints`' faith is the same in all ages,
+though held forth under divers administrations,_ which I shall reduce to an argument,
 and prove thus:
 
 [.offset]
@@ -739,7 +753,7 @@ as not also to feel and know him present with us, and to feed upon him;
 "`except Christ`" (saith the apostle) "`be in you, ye are reprobates`";
 so that both our faith is one, terminating in one and the same thing.
 And as to the other part or consequence of the antecedent, to wit,
-That "`the object is one where the faith is one,`" the apostle also proveth it,
+That _the object is one where the faith is one,_ the apostle also proveth it,
 in the forecited chapter, where he makes all the worthies of old examples to us.
 Now wherein are they imitable, but because they believed in God?
 And what was the object of their faith, but inward and immediate revelation,
@@ -753,7 +767,7 @@ where he exhorteth the Hebrews to follow the faith of the elders, adds this reas
 "`Considering the end of their conversation, Jesus Christ, the same today, yesterday,
 and forever`": Hereby notably insinuating, that in the object there is no alteration.
 
-If any now object "`the diversity of administration;`"
+If any now object _the diversity of administration;_
 
 I answer, that altereth not at all the object:
 for the same apostle mentioneth this diversity three times (1 Cor. 12:4-6),
@@ -957,9 +971,9 @@ they may at least be reproved by the words of their own master,
 who saith in the third book of his [.book-title]#Institutions,# cap.
 2, on this wise:
 
-"`But they allege,
-'`It is a bold presumption for any to pretend to an undoubted knowledge of God`'s will;`'
-which I should grant unto them,
+_"`But they allege, It is a bold presumption for any to
+pretend to an undoubted knowledge of God`'s will;_
+which,`" (saith he) "`I should grant unto them,
 if we should ascribe so much to ourselves as to subject the incomprehensible
 counsel of God to the rashness of our understandings.
 But while we simply say with Paul, that "`we have received not the spirit of this world,
@@ -1040,7 +1054,7 @@ as well to the church in general in all ages,
 as to every individual member in particular, as appears from this argument:
 
 [.syllogism]
-* The promises of Christ to his children are "`Yea`" and "`Amen,`" and cannot fail, but must of necessity be fulfilled.
+* The promises of Christ to his children are _Yea_ and _Amen,_ and cannot fail, but must of necessity be fulfilled.
 * But Christ hath promised, that the Comforter, the Holy Ghost, the Spirit of Truth, shall abide with his children forever; shall dwell with them, shall be in them, shall lead them into all Truth, shall teach them all things, and bring all things to their remembrance:
 * Therefore, etc.
 
@@ -1179,7 +1193,7 @@ concerning the sense or meaning of one verse of which scarce two can be found to
 But Jesus Christ hath promised us better things,
 though many are so unwise as not to believe him,
 even to guide us by his own unerring Spirit, and hath rent and removed the veil,
-whereby not only one, and that once a year, may enter; but all of us, at all times,
+whereby not only one, and that once a year, may enter; but _all_ of us, at all times,
 have access unto him, as often as we draw near unto him with pure hearts.
 He reveals his will to us by his Spirit, and writes his laws in our hearts.
 These things then being thus premised, I argue,
@@ -1192,7 +1206,7 @@ These things then being thus premised, I argue,
 The _assumption_ is the express words of Scripture:
 the _proposition_ then must needs be true,
 except that which is "`put into the mind,`" and "`written
-in the heart,`" were either not inward,
+in the heart,`" were either not _inward,_
 not _immediate,_ or not _objective,_ which is most absurd.
 
 [.small-break]
@@ -1292,10 +1306,10 @@ as we wait in that pure and undefiled Light of God (that proper and fit organ),
 in which they are received.
 Therefore if any reason after this manner,
 
-("`That because some wicked, ungodly, devilish men have committed wicked actions,
-and have yet more wickedly asserted, that they were led into these things by the Spirit of God;`"
+_(That because some wicked, ungodly, devilish men have committed wicked actions,
+and have yet more wickedly asserted, that they were led into these things by the Spirit of God;_
 
-Therefore, '`No man ought to lean to the Spirit of God, or seek to be led by it`"),
+Therefore, _No man ought to lean to the Spirit of God, or seek to be led by it)_,
 
 I utterly deny the consequence of this proposition, which were it to be received as true,
 then would all faith in God and hope of salvation become uncertain,
@@ -1448,8 +1462,8 @@ and seek to defend the Popish and Prelatic hierarchy;
 as also those other sectaries that trouble the peace of our church.
 What difference I pray thee, impartial reader, seest thou betwixt these?
 
-If it be said, "`The Anabaptists went without, and against the authority of the magistrate,
-so did not the other;`"
+If it be said, _The Anabaptists went without, and against the authority of the magistrate,
+so did not the other;_
 
 I might easily refute it,
 by alleging the mutual testimonies of these sects against one another.

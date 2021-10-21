@@ -72,8 +72,7 @@ both in their particular writings and public confessions, are forced to acknowle
 
 Hence, Calvin, though he saith he is able to prove that if there be a God in heaven,
 these writings have proceeded from him,
-yet he concludes another knowledge to be necessary [.book-title]#(Instit.
-lib. 1, cap. 7 section 4).#
+yet he concludes another knowledge to be necessary (__Instit. lib. 1,__ cap. 7 section 4).
 
 "`But if,`" saith he, "`we respect the consciences,
 that they be not daily molested with doubts and they stick not at every scruple,
@@ -172,14 +171,14 @@ being reduced to an argument, runs thus:
 * But the Scriptures`' authority and certainty depend upon the Spirit by which they were dictated; and the reason why they were received as truth is, because they proceeded from the Spirit:
 * Therefore they are not the principal ground of Truth.
 
-To confirm this argument, I added the school maxim: Propter quod unumquodque est tale,
-illud ipsum magis est tale.
+To confirm this argument, I added the school maxim: _Propter quod unumquodque est tale,
+illud ipsum magis est tale._
 Which maxim, though I confess it doth not hold universally in all things,
 yet in this it both doth and will very well hold, as by applying it,
 as we have above intimated, will appear.
 
 The same argument will hold as to the other branch of the position,
-That it is not the primary adequate rule of faith and manners, thus:
+_That it is not the primary adequate rule of faith and manners,_ thus:
 
 [.syllogism]
 * That which is not the rule of my faith in believing the Scriptures themselves, is not the primary adequate rule of faith and manners:
@@ -362,8 +361,8 @@ I find this proposition in the Scripture;
 
 [.syllogism]
 * "`He that believes shall be saved`": thence I draw this assumption:
-* But I, Robert, believe;
-* Therefore I shall be saved.
+* But _I, Robert, believe;_
+* Therefore _I shall be saved._
 
 The minor is of my own making, not expressed in the Scripture; and so a human conclusion,
 not a divine position;
@@ -624,8 +623,8 @@ make handmaid of divinity, as they call it, and a necessary introduction to thei
 natural, and human ministry.
 By the infinite obscure labours of which kind of men, mixing-in their heathenish stuff,
 the Scripture is rendered at this day of so little service to the simple people:
-whereof if Jerome complained in his time, now twelve hundred years ago [.book-title]#(Epist.
-134, ad Cypr. Tom. 3),# saying, "`It is wont to befall the most part of learned men,
+whereof if Jerome complained in his time, now twelve hundred years ago __(Epist.
+134, ad Cypr. Tom. 3),__ saying, "`It is wont to befall the most part of learned men,
 that it is harder to understand their expositions,
 than the things which they go about to expound`"; what may we say then,
 considering those great heaps of commentaries since, in ages yet far more corrupted?

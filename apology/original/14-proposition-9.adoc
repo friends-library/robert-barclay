@@ -43,17 +43,17 @@ and briefly to let them understand what we have to say for ourselves.
 (not to mention many more which might be urged) I argue thus:
 
 [.syllogism]
-* Arg. 1+++.+++ If men may turn the grace of God into wantonness, then they must once have had it:
+* _Arg. 1+++.+++_ If men may turn the grace of God into wantonness, then they must once have had it:
 * But the first is true,
 * Therefore also the second.
 
 [.syllogism]
-* Arg. 2+++.+++ If men may make shipwreck of faith, they must once have had it, neither could they ever have had true faith without the grace of God.
+* _Arg. 2+++.+++_ If men may make shipwreck of faith, they must once have had it, neither could they ever have had true faith without the grace of God.
 * But the first is true,
 * Therefore also the last.
 
 [.syllogism]
-* Arg. 3+++.+++ If men may have tasted of the heavenly gift and been made partakers of the Holy Spirit, and afterwards fall away, they must needs have known in measure the operation of God`'s saving Grace and Spirit, without which no man could taste the heavenly gift, nor yet partake of the Holy Spirit:
+* _Arg. 3+++.+++_ If men may have tasted of the heavenly gift and been made partakers of the Holy Spirit, and afterwards fall away, they must needs have known in measure the operation of God`'s saving Grace and Spirit, without which no man could taste the heavenly gift, nor yet partake of the Holy Spirit:
 * But the first is true,
 * Therefore also the last.
 
@@ -83,8 +83,8 @@ That this was the doctrine of the primitive Protestants, thence appears,
 that the Augustan confession condemns it as an error of the Anabaptists
 to say that they who once are justified cannot lose the Holy Spirit.
 Many suchlike sayings are to be found in the common places of Philip Melancthon.
-Voss, in his [.book-title]#Pelagian History# (lib.
-6), testifies that this was the common opinion of the Fathers;
+Voss, in his [.book-title]#Pelagian History# _(lib.
+6),_ testifies that this was the common opinion of the Fathers;
 in the confirmation of the twelfth thesis (page 587) he hath these words: "`That this,
 which we have said was the common sentiment of antiquity, those at present can only deny,
 who otherways perhaps are men not unlearned,

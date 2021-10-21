@@ -259,9 +259,9 @@ that in the Scripture any such titles are used either under the Law or the Gospe
 that in the speaking to kings, princes, or nobles, they used only a simple compellation,
 as "`O King,`" and that without any further designation,
 save perhaps the name of the person, as, "`O King Agrippa,`" etc. Thirdly,
-it lays a necessity upon Christians most frequently to lie;
+it lays a necessity upon Christians most frequently to _lie;_
 because the persons obtaining these titles, either by election or hereditarily,
-may frequently be found to have nothing really in them, deserving them,
+may frequently be found to have nothing really _in_ them, deserving them,
 or answering to them: as some, to whom it is said,
 "`Your Excellency,`" having nothing of excellency in them:
 and who is called "`Your Grace,`" appears to be an enemy to Grace: and he who is called,
@@ -515,7 +515,7 @@ of this there is no controversy in the Latin, for when we speak to one,
 we always use the pronoun _tu,_
 and he that would do otherwise would break the rules of grammar.
 For what boy, learning his rudiments,
-is ignorant that it is incongruous to say _"`vos amas,`"_ _"`vos legis,`"_ that is,
+is ignorant that it is incongruous to say _"`vos amas,`" "`vos legis,`"_ that is,
 "`you lovest,`" "`you readest,`" speaking to one?
 But the pride of man, that hath corrupted many things,
 refuses also to use this simplicity of speaking in the vulgar languages.
@@ -600,7 +600,7 @@ Seeing therefore it is manifest to us,
 that this form of speaking to men in the plural number, doth proceed from pride,
 as well as that it is, in itself, a lie,
 we found a necessity upon us to testify against this corruption,
-by using the singular equally unto all.
+by using the singular equally unto _all._
 And although no reason can be given, why we should be persecuted upon this account,
 especially by Christians who profess to follow the rule of Scripture,
 whose dialect this is,
@@ -871,8 +871,8 @@ and see whether these things can consist with the seriousness, gravity,
 and godly fear which the Gospel calls for:
 Let us but view and look over the notions of them that call themselves Christians,
 whether Popish or Protestant, and see if generally there be any difference,
-save in mere name and profession, from the heathen; doth not the same folly,
-the same vanity, the same abuse of precious and irrevocable time abound?
+save in mere name and profession, from the heathen; doth not the same _folly,_
+the same _vanity,_ the same abuse of _precious_ and _irrevocable time_ abound?
 The same gaming, sporting, playing, and from thence quarrelling, fighting, swearing,
 ranting, revelling?
 Now how can these things be remedied so long as the preachers and professors
@@ -1457,8 +1457,8 @@ than swear.`" Socrates, as Stobæus relates (Serm.
 14), had this sentence, "`the duty of good men requires,
 that they show to the world that their manners and actions are more firm than oaths`";
 the same was the judgment of Isocrates.
-Plato also stood against oaths in his judgments ([.book-title]#De Leg.#
-12). Quintilianus takes notice, "`that it was of old a kind of infamy,
+Plato also stood against oaths in his judgments _(De Leg.
+12)._ Quintilianus takes notice, "`that it was of old a kind of infamy,
 if any was desired to swear; but to require an oath of a noble man,
 was like an examining him by the hangman.`" Marcus Aurelius Antoninus,
 the Emperor of Rome, saith, in his description of a good man, "`Such is his integrity,
@@ -1566,7 +1566,7 @@ and is it not yet much more admirable that this horrid monster
 should find place and be fomented among those men that profess
 themselves disciples of our peaceable Lord & Master,
 Jesus Christ,
-who by excellency is called the "`Prince of Peace`" and
+who by excellency is called the _Prince of Peace_ and
 hath expressly prohibited his children all violence,
 and on the contrary commanded them that according
 to his example they should follow patience,
@@ -1606,7 +1606,7 @@ This is not only the judgment of most, if not all, the ancient Fathers, so calle
 of the first three hundred years after Christ, but also of many others,
 and in general of all those who have rightly understood
 and propagated the law of Christ concerning swearing,
-as appears from Justin Martyr in_ Dialog. cum Tryph. ejusdemque Apolog. 2. Item, ad Zenam._
+as appears from Justin Martyr in _Dialog. cum Tryph. ejusdemque Apolog. 2. Item, ad Zenam._
 Tertull+++.+++, _de Corona Militis. It+++.+++ Apolog. cap. 21 et 37. It+++.+++ lib.
 de Idolol. c. 17-19. It+++.+++ ad Scapulam. cap. 1. It+++.+++ adversus Jud+++.+++, cap.
 7 and 9. It+++.+++ adv. Gnost. 13. It+++.+++ adv. Marc. c. 4. It+++.+++ lib.
@@ -1675,22 +1675,16 @@ and how much they are inconsistent with one another,
 and consequently that war is no ways lawful to such as will be the disciples of Christ.
 For
 
-[.numbered-group]
-====
-
-[.numbered]
 First, Christ commands that we should "`love our enemies`";^
 footnote:[Matt. 5:43.]
 but war, on the contrary, teacheth us to hate and destroy them.
 
-[.numbered]
 Secondly the apostle saith that "`we war not after the flesh,`"
 and that "`we fight not with flesh and blood.`"^
 footnote:[Eph. 6:12.]
 But outward war is according to the flesh, and against flesh and blood,
 for the shedding of the one and destroying of the other.
 
-[.numbered]
 Thirdly, the apostle saith that "`the weapons of our warfare are not carnal,
 but spiritual.`"^
 footnote:[2 Cor. 10:4. Later editors replace "`spiritual`" with "`mighty through God.`"]
@@ -1698,7 +1692,6 @@ But the weapons of outward warfare are carnal,
 such as cannon, muskets, spears, swords, etc.,
 of which there is no mention in the armour described by Paul.
 
-[.numbered]
 Fourthly, because James testifies, that wars and strifes come from the lusts,
 which war in the members of carnal men:^
 footnote:[James 4:1.]
@@ -1707,7 +1700,6 @@ with its affections and lusts.`"^
 footnote:[Gal. 5:24.]
 Therefore they cannot indulge them by waging war.
 
-[.numbered]
 Fifthly, because the prophets Isaiah and Micah have expressly prophesied,
 that in the mountain of the house of the Lord, Christ shall judge the nations,
 and then "`they shall beat their swords into ploughshares,`" etc.,^
@@ -1722,34 +1714,30 @@ that would make instruments of war.`" But how much more did Jesus come,
 _that he might keep his followers from fighting,
 and might bring them to patience and charity._
 
-[.numbered]
 Sixthly,
 because the prophet foretold that there should "`none hurt
 nor kill in all the Holy Mountain`" of the Lord:^
 footnote:[Isa. 65:25.]
 But outward war is appointed for killing and destroying.
 
-[.numbered]
 Seventhly,
 because Christ said that "`his Kingdom is not of this world,`"
 and therefore that "`his servants shall not fight:`"^
 footnote:[John 18:36.]
 Therefore those that fight are not his disciples nor servants.
 
-[.numbered]
 Eighthly, because he reproved Peter for the use of the sword, saying,
 "`Put up again thy sword into his place: for all they that take the sword,
 shall perish with the sword.`"^
 footnote:[Matt. 26:52.]
-Concerning which Tertullian speaks well [.book-title]#(lib.
-de idol.),# "`How shall he fight in peace without a sword, which the Lord did take away?
+Concerning which Tertullian speaks well _(lib.
+de idol.),_ "`How shall he fight in peace without a sword, which the Lord did take away?
 For although soldiers came to John and received a form of observation,
 if also the centurion believed afterwards,
-he disarmed every soldier in disarming of Peter.`" [.book-title]#Idem+++.+++, de Coron.
-Mil.# asketh, "`shall it be lawful to use the sword,
+he disarmed every soldier in disarming of Peter.`" _Idem+++.+++, de Coron.
+Mil._ asketh, "`shall it be lawful to use the sword,
 the Lord saying that he that useth the sword shall perish by the sword?`"
 
-[.numbered]
 Ninthly, because the apostle admonisheth Christians, that they defend not themselves,
 neither revenge by rendering evil for evil, but give place unto wrath,
 because vengeance is the Lord`'s: "`Be not overcome of evil, but overcome evil with good.
@@ -1757,7 +1745,6 @@ If thine enemy hunger, feed him: if he thirst, give him drink`":^
 footnote:[Rom. 12:20-21.]
 But war throughout teacheth and enjoineth the quite contrary.
 
-[.numbered]
 Tenthly, because Christ calls his children to bear his cross,^
 footnote:[Mark 8:34.]
 not to crucify or kill others: to patience not to revenge: to Truth and simplicity,
@@ -1765,8 +1752,6 @@ not to fraudulent stratagems of war, or to play the sycophant,
 which John himself forbids: to flee the glory of this world;
 not to acquire it by warlike endeavours:
 Therefore war is altogether contrary unto the Law and Spirit of Christ.
-
-====
 
 // lint-disable invalid-characters "§"
 §XV. _Obj._
@@ -1781,7 +1766,7 @@ _Answ._ I answer as before,
 ====
 
 [.numbered]
-1+++.+++ that Abraham offered sacrifices at that time,
+1+++.+++ That Abraham offered sacrifices at that time,
 and circumcised the males: which nevertheless are not lawful for us under the Gospel.
 
 [.numbered]
@@ -1803,14 +1788,14 @@ which Moses commanded not to his disciples.
 From whence Tertullian saith well against Marc+++.+++,
 "`Christ truly teacheth a new patience,
 even forbidding the revenge of an injury, which was permitted by the Creator.`"
-And [.book-title]#(lib. de patien.)#
+And _(lib. de patien.)_
 "`The law finds more than it lost, by Christ`'s saying, Love your enemies.`"
 And in the time of Clem. Alex. Christians were so far from wars,
 that he testified that they had no marks or signs of violence among them, saying,
 "`Neither are the faces of idols to be painted,
 to which so much as to regard is forbidden: neither sword nor bow to them,
 that follow peace, nor cups to them who are moderate and temperate,`"
-as Sylvius [.book-title]#Disc. de Rev. Belg.#
+as Sylvius _Disc. de Rev. Belg._
 
 ====
 
@@ -1975,9 +1960,9 @@ from the highest to the lowest, that is, from the king to the beggar,
 and from Caesar to the clown.
 But (alas!) where shall we find such an obedience?
 O deplorable fall! concerning which Ludov.
-Viv. writes well [.book-title]#(lib. de con. vit. Christ. sub. Turc.),#
-by relation of Fredericus Sylvius, [.book-title]#Disc.
-de Revol. Belg+++.+++,# p. 85:
+Viv. writes well _(lib. de con. vit. Christ. sub. Turc.),_
+by relation of Fredericus Sylvius, _Disc.
+de Revol. Belg+++.+++,_ p. 85:
 "`The Prince entered into the Church, not as a true and plain Christian:
 which had indeed been most happy and desirable, but he brought in with him his nobility,
 his honors, his ARMS, his ensigns, his triumphs, his haughtiness, his pride,

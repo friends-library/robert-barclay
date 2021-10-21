@@ -76,10 +76,10 @@ and in favour with God and man,`" though before that time he had __never sinned,
 and was (no doubt) perfect, in a true and proper sense.
 
 Fourthly, though a man may witness this for a season,
-and therefore all ought to press after it, yet we do not affirm but those,
+and therefore all ought to press after it, yet we do not affirm but _those,
 that have attained it in a measure, may, by the wiles and temptations of the enemy,
 fall into iniquity, and lose it sometimes, if they be not watchful,
-and do not diligently attend to that of God in the heart.
+and do not diligently attend to that of God in the heart._
 And we doubt not but many good and holy men, who have arrived to everlasting life,
 have had divers ebbings and flowings of this kind,
 for though every sin weakens a man in his spiritual condition,
@@ -619,7 +619,7 @@ for a _non esse ad non posse non valet sequela._
 And lastly, this whole objection hangs upon a false interpretation;
 // lint-disable invalid-characters
 for the Hebrew word ׳חטא
-may be read in the potential mood, thus, "`There is no man who may not sin,`"
+may be read in the potential mood, thus, _There is no man who may not sin,_
 as well as in the indicative: so both the old Latin, Junius and Tremellius,
 and Vatablus have it; and the same word is so used (Ps. 119:11),
 // lint-disable invalid-characters
@@ -755,7 +755,7 @@ whose sins are long ago forgiven, both past and to come?
 
 // lint-disable invalid-characters "§"
 §X. But this may suffice;
-concerning this possibility Jerome speaks clearly enough [.book-title]#(lib. iii., adver. Pelagium),#
+concerning this possibility Jerome speaks clearly enough _(lib. iii., adver. Pelagium),_
 "`This we also say that a man may not sin, if he will, for a time and place,
 according to his bodily weakness, so long as his mind is intent,
 so long as the cords of the zither relax not by any vice,`" and again in the same book,
@@ -767,10 +767,11 @@ which we indeed reject and abhor, and which the Fathers deservedly withstood,
 could attain to that state so as not to sin.`" And Augustine himself,
 a great opposer of the Pelagian heresy,
 did not deny this possibility as attainable by the help of God`'s grace,
-as in his book [.book-title]#de Spiritu et Litera,# cap.
-2 and his book [.book-title]#de Natura et Gratia# against Pelagius, cap.
-42, 50, 60, and 63, [.book-title]#de Gestis Concilii Palaestini,# cap.
-7 and 11, and [.book-title]#de Peccato Originali,# lib. 2, cap. 11.
+as in his book [.book-title]#de Spiritu et Litera,# _cap. 2_
+and his book [.book-title]#de Natura et Gratia# against Pelagius, _cap.
+42, 50, 60, and 63,_ [.book-title]#de Gestis Concilii Palaestini,#
+_cap. 7 and 11,_
+and [.book-title]#de Peccato Originali,# _lib. 2, cap. 11._
 Gelasius also, in his disputation against Pelagius, saith,
 "`But if any affirm that this may be given to some saints in this life,
 not by the power of man`'s strength but by the grace of God,

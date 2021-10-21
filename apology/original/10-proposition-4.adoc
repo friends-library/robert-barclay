@@ -331,8 +331,8 @@ any rational man, laying aside interest, may easily judge.
 
 // lint-disable invalid-characters "§"
 §IV. I come now to the other part, to wit,
-"`That this evil and corrupt seed is not imputed to infants,
-until they actually join with it.`"
+_That this evil and corrupt seed is not imputed to infants,
+until they actually join with it._
 For this there is a reason given in the end of the proposition itself;
 drawn from Eph. 2. For these "`are by nature children of wrath,
 who walk according to the prince of the power of the air,

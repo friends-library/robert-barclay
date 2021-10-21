@@ -8,7 +8,7 @@ and also the Saving and Spiritual Light wherewith every man is enlightened
 === THE FIFTH PROPOSITION
 
 [.heading-continuation-blurb]
-God, out of his infinite love, who delighteth not in the death of a sinner,
+_God,_ out of his infinite love, who delighteth not in the death of a sinner,
 but that all should live and be saved,^
 footnote:[Ezek. 18:32; 33:12.]
 hath so loved the world, that he hath given his only Son a Light,
@@ -466,11 +466,8 @@ compared with 1 John 4:9. This __+++[+++whosoever]__
 is an indefinite term, from which no man is excluded.
 From all which then I thus argue:
 
-[.offset]
-_Argument:_
-
 [.syllogism]
-* For whomsoever it is lawful to pray, to them salvation is possible:
+* _Arg._ For whomsoever it is lawful to pray, to them salvation is possible:
 * But it is lawful to pray for every individual man in the whole world:
 * Therefore salvation is possible unto them.
 
@@ -651,7 +648,7 @@ by a singular mystery, be celebrated in everyone.
 For the cup of immortality, which is made up of our infirmity and the divine power,
 hath indeed that in it which may profit all; but if it be not drunk it doth not heal.`"
 
-The author __de vocat.__ [.book-title]#Gentium (lib. 11. cap. 6):#
+The author __de vocat. Gentium__ (lib. 11. cap. 6):
 "`There is no cause to doubt but that our Lord Jesus
 Christ died for sinners and wicked men.
 And if there can be any found, who may be said not to be of this number,
@@ -1226,11 +1223,11 @@ because indeed it is to be found in some of our writings
 that "`Christ is in all men,`" and we often are heard,
 in our public meetings and declarations, to desire every man to come to^
 footnote:[Later editors drop "`come to.`"]
-know and be acquainted with Christ in them, telling them, that Christ is in them.
+know and be acquainted with _Christ in_ them, telling them, that Christ is in them.
 It is fit therefore, for removing of all mistakes, to say something, in this place,
 concerning this matter.
 We have said before how that a divine, spiritual, and supernatural Light is in all men;
-how that divine supernatural Light or Seed is vehiculum Dei:
+how that divine supernatural Light or Seed is _vehiculum Dei:_
 how that God and Christ dwelleth in it and is never separated from it;
 also how that (as it is received and closed with in the
 heart) Christ comes to be formed and brought forth.
@@ -1904,11 +1901,11 @@ as Acts 26:18, Col. 1:1,13 Thess.
 I say, this Light cannot be any natural property or faculty of man`'s soul,
 but a supernatural gift and grace of Christ.
 
-Thirdly, It is __sufficient and saving.__
+Thirdly, __It is sufficient and saving.__
 
 [.syllogism]
 * That, which is given, "`that all men through it may believe,`" must needs be saving and sufficient: that, by walking in which, fellowship with the saints, and "`the blood of Christ, which cleanseth from all sin,`" is possessed, must be sufficient:
-* But such is the Light (1 John 1:7).
+* But such is the _Light_ (1 John 1:7).
 * Therefore, etc.
 
 [.offset]
@@ -2211,8 +2208,8 @@ and receiveth a heavenly and celestial impression and image.
 The most part of the fathers have spoken at large touching this Word, Seed, Light,
 and saving voice calling all unto salvation, and able to save.
 
-Clement of Alexandria saith [.book-title]#(lib.
-2, Stromat.),# "`The divine Word hath cried, calling all,
+Clement of Alexandria saith _(lib.
+2, Stromat.),_ "`The divine Word hath cried, calling all,
 knowing well those that will not obey.
 And yet, because it is in our power either to obey or not to obey,
 that none may have a pretext of ignorance it hath made a righteous call and requireth
@@ -2245,11 +2242,11 @@ and the stone of great value.`" And again he saith,
 let us receive the Light that we may be the scholars of
 the Lord.`" And again he saith to those infidel nations,
 "`The heavenly Spirit helpeth thee; resist and flee pleasure.`"
-Again [.book-title]#(lib. Strom. 5)# he saith,
+Again (_lib._ Strom. 5) he saith,
 "`God forbid that man be not a partaker of divine acquaintance,
 // lint-disable invalid-characters
 θείαϛ ἐννοίαϛ, who in Genesis is said to be a partaker of inspiration.`"
-And [.book-title]#(Paed. lib,+++.+++ 1, cap. 3),# "`There is,`" saith he,
+And _(Paed. lib,+++.+++ 1, cap. 3),_ "`There is,`" saith he,
 "`some lovely and some desirable thing in man which is called the in-breathing of God,
 // lint-disable invalid-characters
 ἐμϕύσηυα θεοῦ.`" The same man [.book-title]#(lib. Strom. 10)# directeth men unto
@@ -2263,20 +2260,19 @@ unto the Truth which manifests accurately and clearly these things that have bee
 Justin Martyr, in his first apology, saith, "`that the Word which was and is, is in all;
 even that very same Word which, through the prophets, foretold things to come.`"
 
-The writer of the [.book-title]#Call of All Nations,# saith [.book-title]#(lib. i, cap. 2),#
+The writer of the [.book-title]#Call of All Nations,# saith _(lib. i, cap. 2),_
 "`We believe according to the same (viz. Scripture), and most religiously confess,
 that God was never wanting in care to the generality of men;
 who although he did lead by particular lessons,
 a people gathered to himself unto godliness,
 yet he withdrew from no nation of men the gifts of his own goodness,
 that they might be convinced that they had received the words of the prophets,
-and legal commands in services and testimonies of the first principles.`" [.book-title]#Cap.
-7,# he saith,
-"`That he believes that the help of grace hath been wholly withdrawn from no man.`" [.book-title]#Lib.
-2, cap.#
-l, "`Because, albeit salvation is far from sinners,
-yet there is nothing void of the presence and virtue of his salvation.`" [.book-title]#Cap.
-2,# "`But seeing none of that people over whom was set both the doctrines,
+and legal commands in services and testimonies of the first principles.`" _Cap.
+7,_ he saith,
+"`That he believes that the help of grace hath been wholly withdrawn from no man.`" _Lib.
+2, cap. 1,_ "`Because, albeit salvation is far from sinners,
+yet there is nothing void of the presence and virtue of his salvation.`" _Cap.
+2,_ "`But seeing none of that people over whom was set both the doctrines,
 were justified but through Grace by the Spirit of faith, who can question, but that they,
 who of whatsoever nation, in whatsoever times, could please God,
 were ordered by the Spirit of the Grace of God:
@@ -2403,7 +2399,7 @@ insufficient, useless thing as to their salvation.
 On the other hand the Papists, Arminians, and Socinians,
 they go about to set up their natural power and will,
 with one consent denying that this little Seed, this small appearance of the Light,
-is that supernatural saving grace of God given to every man to save him.
+is that supernatural saving grace of God given to _every_ man to save him.
 And so upon them is verified that saying of the Lord Jesus Christ,
 "`This is the condemnation of the world, that Light is come into the world,
 but men love darkness rather than Light`"; the reason is added,
@@ -2534,11 +2530,8 @@ though not in any outward dispensation, is preached to them, and in them;
 so that thereby they are stated in a possibility of salvation.
 From which I may thus argue:
 
-[.offset]
-_Argument:_
-
 [.syllogism]
-* To whom the Gospel, the power of God unto salvation, is manifest, they may be saved, whatever outward knowledge they want:
+* _Arg._ To whom the Gospel, the power of God unto salvation, is manifest, they may be saved, whatever outward knowledge they want:
 * But this Gospel is preached _in_ every creature; in which is certainly comprehended many that have not the outward knowledge:
 * Therefore of those, many may be saved.
 
@@ -2611,11 +2604,8 @@ to condemnation hath not come upon all;
 or say that this free gift is come upon all by Christ.
 Whence I thus argue, First,
 
-[.offset]
-_Argument:_
-
 [.syllogism]
-* If _all_ men have received a loss from Adam, which leads to condemnation; then _all_ men have received a gift from Christ, which leads to justification:
+* _Arg._ If _all_ men have received a loss from Adam, which leads to condemnation; then _all_ men have received a gift from Christ, which leads to justification:
 * But the first is true;
 * Therefore also the last.
 
@@ -2780,11 +2770,8 @@ if we may believe his plain assertions, he tells us (Rom. 2),
 "`that the heathen did the things contained in the
 law.`" From whence I thus argue:
 
-[.offset]
-_Argument:_
-
 [.syllogism]
-* In every nation, he that feareth God and worketh righteousness is accepted:
+* _Arg._ In every nation, he that feareth God and worketh righteousness is accepted:
 * But many of the heathen feared God and wrought righteousness:
 * Therefore they were accepted.
 
@@ -2891,11 +2878,11 @@ Also they had a knowledge and discovery of Jesus Christ inwardly, as a remedy _i
 to deliver them, from that evil seed, and the evil inclinations of their own hearts,
 though not under that particular denomination.
 
-Some called him a Holy Spirit, as Seneca [.book-title]#(Epist.
-41),# who said,
+Some called him a Holy Spirit, as Seneca _(Epist.
+41),_ who said,
 "`There is a Holy Spirit in us that treateth us as we treat him.`"
 Cicero calleth it an "`innate light,`" in his book [.book-title]#De Republica,#
-cited by Lactantius [.book-title]#(6 Instit.),#^
+cited by Lactantius _(6 Instit.),_^
 footnote:[_In Sect. 8._]
 where he calls this "`right reason, given unto all, constant and eternal,
 calling unto duty by commanding, and deterring from deceit by forbidding.`" Adding,
@@ -2925,7 +2912,7 @@ that "`the word of the wisdom of God was the best.`" His words in the Greek are,
 Τῆϛ δὲ Θεοπνεύστηϛ σοϕίαϛ λόγοϛ ἐστὶν ἄριστοϛ.
 
 And much more of this kind might be instanced, by which it appears they knew _Christ,_
-and by his working in them were brought from unrighteousness to righteousness,
+and by his working _in_ them were brought from unrighteousness to righteousness,
 and to love that power by which they felt themselves redeemed; so that,
 as saith the apostle,
 "`They show the work of the law written in their hearts,`"
@@ -2939,20 +2926,20 @@ which was in all men, were Christians, such as Socrates and Heraclitus,
 and others among the Greeks,`" etc. "`That such as live with the Word,
 are Christians without fear or anxiety.`"
 
-Clement of Alexandria saith [.book-title]#(Apol. ii., Strom. lib. i.),#
+Clement of Alexandria saith _(Apol. ii., Strom. lib. i.),_
 that "`this wisdom or philosophy was necessary to the Gentiles,
 and was their schoolmaster to lead them unto Christ,
 by which of old the Greeks were justified.`"
 
-"`Nor do I think,`" saith Augustine, in his book of the [.book-title]#City of God, lib. 18, cap. 47,#
+"`Nor do I think,`" saith Augustine, in his book of the [.book-title]#City of God,# _lib. 18, cap. 47,_
 "`that the Jews dare affirm that none belonged unto God
 but the Israelites.`" Upon which place Ludovicus Vives saith,
 that "`thus the Gentiles, not having a law, were a law unto themselves;
 and the light of so living is the gift of God, and proceeds from the Son;
 of whom it is written that he enlighteneth every man that cometh into the world.`"
 
-Augustine also testifies in his [.book-title]#Confessions (lib.
-7, cap. 9),# that "`he had read in the writings of the Platonists,
+Augustine also testifies in his [.book-title]#Confessions# _(lib.
+7, cap. 9),_ that "`he had read in the writings of the Platonists,
 though not in the very same words,
 yet that which by many and multiplied reasons did persuade,
 that '`in the beginning was the Word, and the Word was with God,
@@ -2997,8 +2984,8 @@ however they have despised it and neglected it,
 is nothing less than the Gospel preached _in_ them; "`Christ,
 the wisdom and power of God,`" being in and by that Seed seeking to save their souls.
 
-Of this Light therefore Augustine speaks in his [.book-title]#Confessions (lib.
-11, cap. 9):# "`In this beginning, O God! thou madest the heavens and the earth, in thy Word,
+Of this Light therefore Augustine speaks in his [.book-title]#Confessions# _(lib.
+11, cap. 9):_ "`In this beginning, O God! thou madest the heavens and the earth, in thy Word,
 in thy Son, in thy virtue, in thy wisdom, wonderfully saying, and wonderfully doing.
 Who shall comprehend it?
 Who shall declare it?
@@ -3009,9 +2996,9 @@ and I am inflamed in so far as I am like unto it?
 It is Wisdom, which shineth in unto me and dispelleth my cloud,
 which had again covered me, after I was departed from that darkness and rampier^
 footnote:[Later editors substitute "`heap`" for "`rampier.`"]
-of my punishments.`" And again he saith [.book-title]#(lib.
+of my punishments.`" And again he saith _(lib.
 x., cap.
-27),# "`It is too late that I have loved thee, O thou beautifulness, so ancient,
+27),_ "`It is too late that I have loved thee, O thou beautifulness, so ancient,
 and so new, late have I loved thee, and behold thou wast within, and I was without,
 and there was seeking thee! thou didst call, thou didst cry,
 thou didst break my deafness, thou glancedst, thou didst shine,

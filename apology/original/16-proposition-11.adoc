@@ -109,8 +109,8 @@ So that what might have been both commendable and acceptable
 under the Law may justly now be charged with superstition,
 yea and idolatry.
 So that impertinently, in this respect,
-doth Arnoldus rage against this Proposition [.book-title]#(Exercit.
-Theolog.#
+doth Arnoldus rage against this Proposition (_Exercit.
+Theolog._
 sect.
 44), saying that I "`deny all public worship,`" and that according to me,
 "`such as in Enoch`'s time publicly began to call upon the name of the Lord,
@@ -544,7 +544,7 @@ every individual will be strongly exercised as in a day of battle;
 and thereby trembling and a motion of body will be upon most, if not upon all, which,
 as the power of Truth prevails,
 will from pangs and groans end with a sweet sound of thanksgiving and praise,
-and from this the name of "`Quakers,`" i.e., "`Tremblers,`"
+and from this the name of "`Quakers,`" i.e., _Tremblers,_
 was first reproachfully cast upon us, which though it be none of our choosing,
 yet in this respect we are not ashamed of it but have rather reason to rejoice therefore,
 even that we are sensible of this Power that hath oftentimes laid hold
@@ -569,7 +569,7 @@ for as our worship consisteth not in words, so neither in silence, as silence;
 but in an holy dependence of the mind upon God,
 from which dependence silence necessarily follows in the first place,
 until words can be brought forth which are from God`'s Spirit;
-and God is not wanting to move in his children to bring
+and God is not wanting to move _in_ his children to bring
 forth words of exhortation or prayer when it is needful,
 so that of the many gatherings and meetings of such as are convinced of the truth there
 is scarce any in whom God raiseth not up some or other to minister to his brethren,
@@ -1001,7 +1001,7 @@ do but spill the water or the wine,
 or blow out the candles (a thing quickly done) and the whole business is marred,
 and no sacrifice can be offered.
 Take from the Lutherans or Episcopalians their liturgy
-or Common Prayer Book and no service can be said.
+or [.book-title]#Common Prayer Book# and no service can be said.
 Remove from the Calvinists, Arminians, Socinians, Independents, or Anabaptists,
 the pulpit, the Bible, and the hourglass, or make but such a noise,
 as the voice of the preacher cannot be heard,
@@ -1176,7 +1176,7 @@ For Christ excellently argues from the analogy that ought to be
 betwixt the object and the worship directed thereunto:
 
 [.syllogism]
-* Arg.: God is a Spirit;
+* _Arg.:_ God is a Spirit;
 * Therefore he must be worshipped in Spirit.
 
 This is so certain that it can suffer no contradiction;
@@ -1256,10 +1256,10 @@ yea they look upon this as the height of Christian perfection, so that some of t
 though professed Papists, do not doubt to affirm,
 "`That such as have attained this method of worship or are
 aiming at it`" (as in a book called [.book-title]#Sancta Sophia,#
-put out by the English Benedictines, printed at Douay, anno 1657, tract.
+put out by the English Benedictines, printed at Douay, _anno 1657, tract.
 I, sect.
 ii, cap.
-5) "`need not,
+5_) "`need not,
 nor ought to trouble or busy themselves with frequent and unnecessary confessions,
 with exercising corporal labours and austerities, the using of vocal voluntary prayers,
 the hearing of a number of masses.
@@ -1275,10 +1275,10 @@ Yet nevertheless it appears by this and many other passages
 which out of their mystic writers might be mentioned,
 how they look upon this worship as excelling all other,
 and that such as arrived hereunto had no absolute need of the others;
-yea (see the Life of Balthazar Alvares, in the same [.book-title]#Sancta Sophia,# tract.
+yea (see the Life of Balthazar Alvares, in the same [.book-title]#Sancta Sophia,# _tract.
 III, sect.
 i, cap.
-7) such as tasted of this quickly confessed that the other
+7_) such as tasted of this quickly confessed that the other
 forms and ceremonies of worship were useless as to them;
 neither did they perform them as things necessary but merely for order or example`'s sake;
 and therefore,
@@ -1286,7 +1286,7 @@ though some of them were so overclouded with the common darkness of their profes
 yet could they affirm that this spiritual worship
 was still to be retained and sought for,
 though there be a necessity of omitting their outward ceremonies.
-Hence Bernard, as in many other places, so in his Epistle to one William,
+Hence Bernard, as in many other places, so in his [.book-title]#Epistle# to one William,
 abbot of the same order, saith, "`Take heed to the rule of God,
 the kingdom of God is within you`";
 and afterwards saying that their outward orders and rules should be observed, he adds:
@@ -1788,7 +1788,7 @@ should forwardly fall a-doing to no purpose, he would be so far, thereby,
 from repairing his former fault, that he would justly incur a new censure: and,
 as one that is careless and otherways busied may miss to hear one speaking unto him,
 or even not hear the bell of a clock, though striking hard by him,
-so may many through negligence,miss to hear God oftentimes
+so may many through negligence, miss to hear God oftentimes
 calling upon them and giving them access to pray unto him;
 yet will not that allow them, without his liberty, in their own wills to fall to work.
 
@@ -1862,7 +1862,7 @@ of Scripture commending and recommending to us the use of prayer.
 From which I thus argue,
 
 [.syllogism]
-* Arg. If man know not how to pray, neither can do it, without the help of the Spirit, then it is to no purpose for him, but altogether unprofitable, to pray without it.
+* _Arg._ If man know not how to pray, neither can do it, without the help of the Spirit, then it is to no purpose for him, but altogether unprofitable, to pray without it.
 * But the first is true,
 * Therefore also the last.
 
@@ -2015,15 +2015,12 @@ and likewise succinctly but yet substantially comprehended this controversy conc
 worship in some short questions which he offered to the public preachers of the city,
 which I think meet to insert in this place.
 
-[.offset]
-_Query:_
-
 [.numbered-group]
 ====
 
 [.numbered]
-1+++.+++ Whether or not should any act of God`'s worship be gone about without the motions,
-leadings, and actings of the Holy Spirit?
+_Query:_ 1+++.+++ Whether or not should any act of God`'s worship be
+gone about without the motions, leadings, and actings of the Holy Spirit?
 
 [.numbered]
 2+++.+++ If the motions of the Spirit be necessary to every particular duty,
@@ -2101,10 +2098,10 @@ But now I hasten to the objections of our adversaries against this method of pra
 
 [.offset]
 // lint-disable invalid-characters "§"
-§XXV. _Obj._ First,
+§XXV.
 
 [.syllogism]
-* They object, that if such particular influences were needful to outward acts of worship, then they should also be needful to inward acts, as to wait, desire, and love God:
+* _Obj._ First, They object, that if such particular influences were needful to outward acts of worship, then they should also be needful to inward acts, as to wait, desire, and love God:
 * But this is absurd:
 * Therefore also that from whence it follows.
 
