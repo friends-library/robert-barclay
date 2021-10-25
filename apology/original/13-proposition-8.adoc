@@ -96,21 +96,7 @@ Others may perhaps speak more certainly of this state, as having arrived to it.
 For me, I shall speak modestly, as acknowledging myself not to have arrived at it;
 yet I dare not deny it, for that it seems so positively to be asserted by the apostle,
 in these words (1 John 3:9), "`He that is born of God sinneth not, neither can he,
-because the seed of God remaineth in him.`"^
-footnote:[Later editors render this paragraph as follows: "`Lastly,
-though I affirm that after a man hath arrived at
-such a state in which he may be able not to sin,
-yet he may sin;
-nevertheless I will not affirm that a state is not attainable in this life,
-in which to do righteousness may be so natural to the regenerate soul,
-that in the stability of that condition he cannot sin.
-Others may speak more certainly of this state, if they have arrived at it.
-With respect to myself, I speak modestly,
-because I ingenuously confess that I have not yet attained it;
-but I cannot deny that there is such a state,
-as it seems to be so clearly asserted by the apostle, 1 John 3:9,
-'`whosoever is born of God doth not commit sin; for his seed remaineth in him:
-and he cannot sin, because he is born of God.`'`" ]
+because the seed of God remaineth in him.`"
 
 The controversy being thus stated, which will serve to obviate objections,
 I shall proceed first to show the absurdity of that
@@ -450,8 +436,7 @@ ye have your fruit unto holiness,
 and the end everlasting life.`" And as this perfection or freedom from sin is attained
 and made possible where the Gospel and inward law of the Spirit is received and known,
 so the ignorance hereof has been and is an occasion of opposing this Truth.
-For man not minding the _Light_ and __Law^
-footnote:[Later editors replace "`Light and Law`" with "`Light or Law.`"]
+For man not minding the _Light_ or __Law
 within his heart,__ which not only discovers sin but leads out of it,
 and so being a stranger to the new Life and Birth that is born of God,
 which naturally doeth his will and can not of its
@@ -495,8 +480,7 @@ world and the love and lusts thereof may die,
 and a new life be raised by which thou mayest live
 henceforward to God and not to or for thyself;
 and with the apostle thou mayest say (Gal. 2:20):
-"`It is no more I but Christ alive^
-footnote:[Later editors replace "`alive`" with "`liveth.`"]
+"`It is no more I but Christ liveth
 in me`"; and then thou wilt be a Christian indeed, and not in name only, as too many are:
 then thou wilt know what it is to have "`put off the old
 man with his deeds,`" who indeed sins daily in thought,
@@ -625,8 +609,7 @@ and Vatablus have it; and the same word is so used (Ps. 119:11),
 // lint-disable invalid-characters
 "`I have hid thy word in my heart, למען לא אחטא־לר׃
 that is to say, that I may not sin against thee, in the potential mood,
-and not in the indicative as it is in the English;^
-footnote:[Later editors drop "`as it is in the English.`"]
+and not in the indicative as it is in the English;
 which being more answerable to the universal scope of the Scriptures,
 the testimony of the Truth and the sense almost of all interpreters,
 doubtless ought to be so understood, and the other interpretation rejected as spurious.
