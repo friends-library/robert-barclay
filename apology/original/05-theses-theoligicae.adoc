@@ -1,12 +1,14 @@
 == Theses Theologicae
 
+[.heading-continuation-blurb]
 To the clergy of what sort soever unto whose hands these may come,
 but more particularly to the doctors, professors,
 and students of divinity in the universities and schools of Great Britain,
-whether Prelatical, Presbyterian, or any other: ROBERT BARCLAY,
+whether Prelatical, Presbyterian, or any other: _Robert Barclay,_
 a servant of the Lord God and one of those who in derision are called Quakers,
 wisheth unfeigned repentance, unto the acknowledgment of the Truth.
 
+[.salutation]
 Friends,
 
 Unto you these following propositions are offered; in which,
@@ -32,12 +34,17 @@ comprehending much and declaring what the true ground of knowledge is,
 even of that knowledge which leads to Life Eternal; which is here witnessed of,
 and the testimony thereof left unto the Light of Christ in all your consciences.
 
+[.signed-section-closing]
 Farewell.
-R.B.
 
+[.signed-section-signature]
+R+++.+++ B.
+
+[.centered]
 === THE FIRST PROPOSITION
 
-Concerning the true Foundation of Knowledge
+[.chapter-subtitle--blurb]
+Concerning The True Foundation of Knowledge
 
 Seeing the height of all happiness is placed in the
 true knowledge of God ("`This is life eternal,
@@ -46,8 +53,10 @@ footnote:[John 17:3.]
 the true and right understanding of this foundation and ground of knowledge is
 that which is most necessary to be known and believed in the first place.
 
+[.centered]
 === THE SECOND PROPOSITION
 
+[.chapter-subtitle--blurb]
 Concerning Immediate Revelation
 
 Seeing "`no man knoweth the Father but the Son,
@@ -88,8 +97,10 @@ that neither Scripture nor sound reason will contradict it: and yet it will not 
 according to them that the Scripture, or sound reason,
 should be subjected to the examination of the divine revelations in the heart.
 
+[.centered]
 === THE THIRD PROPOSITION
 
+[.chapter-subtitle--blurb]
 Concerning the Scriptures
 
 From these revelations of the Spirit of God to the saints,
@@ -106,7 +117,7 @@ because they are only a declaration of the fountain, and not the fountain itself
 therefore they are not to be esteemed the principal ground of all Truth and knowledge,
 nor yet the "`adequate primary rule of faith and manners.`" Nevertheless,
 as that which giveth a true and faithful testimony of the first foundation,
-they are and may be esteemed a secondary rule, subordinate to the Spirit,
+they are and may be esteemed a __secondary rule, subordinate to the Spirit,__
 from which they have all their excellency and certainty;
 for as by the inward testimony of the Spirit we do alone truly know them,
 so they testify,
@@ -116,12 +127,14 @@ therefore, according to the Scriptures, the Spirit is the first and principal le
 And seeing we do therefore receive and believe the Scriptures,
 because they proceeded from the Spirit;
 therefore also the Spirit is more originally and principally the rule,
-according to that received maxim in the schools, Propter quod unumquodque est tale,
-illud ipsum est magis tale.
+according to that received maxim in the schools,
+__Propter quod unumquodque est tale, illud ipsum est magis tale.__
 Englished thus: "`That for which a thing is such, that thing itself is more such.`"
 
+[.centered]
 === THE FOURTH PROPOSITION
 
+[.chapter-subtitle--blurb]
 Concerning the Condition of Man in the Fall
 
 All Adam`'s posterity (or mankind), both Jews and Gentiles, as to the first Adam,
@@ -136,7 +149,7 @@ are evil perpetually in the sight of God,
 as proceeding from this depraved and wicked seed.
 Man, therefore, as he is in this state, can know nothing aright; yea,
 his thoughts and conceptions concerning God and things spiritual,
-until he be disjoined from this evil seed, and united to the divine Light,
+until he be disjoined from this evil seed, and united to the __divine Light,__
 are unprofitable both to himself and others:
 hence are rejected the Socinian and Pelagian errors, in exalting a natural light;
 as also of the Papists, and most Protestants, who affirm, that man,
@@ -147,12 +160,15 @@ for they are by nature the children of wrath who walk
 according to the power of the prince of the air.^
 footnote:[Eph. 2:2-3.]
 
+[.centered]
 === THE FIFTH AND SIXTH PROPOSITIONS
 
+[.chapter-subtitle--blurb]
 Concerning the Universal Redemption by Christ,
-and also the Saving and Spiritual Light, wherewith every man is enlightened
+and also the Saving and Spiritual Light, Wherewith Every Man is Enlightened
 
-THE FIFTH PROPOSITION
+[.centered]
+=== THE FIFTH PROPOSITION
 
 God, out of his infinite love, who "`delighteth not in the death of a sinner,
 but that all should live and be saved,`"^
@@ -175,6 +191,7 @@ footnote:[Heb. 2:9.]
 "`for as in Adam all die, even so in Christ shall all be made alive.`"^
 footnote:[1 Cor. 15:22.]
 
+[.centered]
 === THE SIXTH PROPOSITION
 
 According to which principle (or hypothesis),
@@ -213,7 +230,7 @@ if they suffer his Seed and Light (enlightening their hearts) to take place;
 in which Light, communion with the Father and Son is enjoyed,
 so as of wicked men to become holy, and lovers of that power,
 by whose inward and secret touches they feel themselves turned from the evil to the good,
-and learn to do to others as they would be done by;
+and learn to __do to others as they would be done by;__
 in which Christ himself affirms all to be included.
 As they then have falsely and erroneously taught,
 who have denied Christ to have died for all men;
@@ -229,8 +246,10 @@ wherewith Christ hath enlightened every man that comes into the world,
 which is excellently and evidently held forth in these scriptures: Gen. 6:3,
 Duet. 30:14, John 1:7-9, Rom. 10:8, Tit. 2:11.
 
+[.centered]
 === THE SEVENTH PROPOSITION
 
+[.chapter-subtitle--blurb]
 Concerning Justification
 
 As many as resist not this Light, but receive the same, in them is produced an holy,
@@ -249,8 +268,10 @@ and justify us after this manner, as saith the same apostle elsewhere:
 and the renewing of the Holy Ghost.`"^
 footnote:[Tit. 3:5.]
 
+[.centered]
 === THE EIGHTH PROPOSITION
 
+[.chapter-subtitle--blurb]
 Concerning Perfection
 
 In whom this holy and pure birth is fully brought forth
@@ -264,8 +285,10 @@ Yet doth this perfection still admit of a growth;
 and there remaineth ever in some part a possibility of sinning,
 where the mind doth not most diligently and watchfully attend unto the Lord.
 
+[.centered]
 === THE NINTH PROPOSITION
 
+[.chapter-subtitle--blurb]
 Concerning Perseverance, and the Possibility of Falling from Grace
 
 Although this gift and inward grace of God be sufficient to work out salvation,
@@ -279,8 +302,10 @@ footnote:[1 Tim. 1:6; Heb. 6:4-6.]
 Yet such an increase and stability in the Truth may in this life be attained,
 from which there cannot be a total apostasy.
 
+[.centered]
 === THE TENTH PROPOSITION
 
+[.chapter-subtitle--blurb]
 Concerning the Ministry
 
 As by this gift or Light of God all true knowledge
@@ -309,12 +334,14 @@ feel given them in the Lord) to receive such temporals--to wit,
 what may be needful to them for meat and clothing--as are freely
 given them by those to whom they have communicated spirituals.
 
+[.centered]
 === THE ELEVENTH PROPOSITION
 
+[.chapter-subtitle--blurb]
 Concerning Worship
 
 All true and acceptable worship to God is offered in the
-inward and immediate moving and drawing of his own Spirit,
+_inward_ and _immediate_ moving and drawing of his own Spirit,
 which is neither limited to places, times, or persons;
 for though we be to worship him always, in that we are to fear before him,
 yet as to the outward signification thereof in prayers, praises, or preachings,
@@ -336,11 +363,12 @@ with respect to the simplicity and integrity of some, and of his own innocent se
 which lay as it were buried in the hearts of men, under the mass of superstition,
 to blow upon the dead and dry bones, and to raise some breathings, and answer them,
 and that until the day should more clearly dawn and break forth.^
-footnote:[Ezek. 13; Matt. 10:20; Acts 2:4; 18:5; John 3:4,6:21; Jude 19; Acts 17:23.
-]
+footnote:[Ezek. 13; Matt. 10:20; Acts 2:4; 18:5; John 3:4,6:21; Jude 19; Acts 17:23.]
 
+[.centered]
 === THE TWELFTH PROPOSITION
 
+[.chapter-subtitle--blurb]
 Concerning Baptism
 
 As there is "`one Lord`" and "`one faith,`" so there is "`one baptism,
@@ -357,28 +385,32 @@ practice is to be found in all the Scripture.^
 footnote:[Eph. 4:5; 1 Pet. 3:21; Rom. 6:4; Gal. 3:27; Col. 2:12;
 John 3:30; 1 Cor. 1:17.]
 
+[.centered]
 === THE THIRTEENTH PROPOSITION
 
+[.chapter-subtitle--blurb]
 Concerning the Communion, or Participation of the Body and Blood of Christ
 
 The communion of the body and blood of Christ is inward and spiritual,
 which is the participation of his flesh and blood,
 by which the inward man is daily nourished in the hearts of those in whom Christ dwells;
-of which things the breaking of bread by Christ with his disciples was a figure,
+of which things the breaking of bread by Christ with his disciples was a _figure,_
 which they even used in the church for a time, who had received the substance,
 for the cause of the weak;^
 footnote:[1 Cor. 10:16-17; John 6:32-33,55; 1 Cor. 5:8.]
 even as "`abstaining from things strangled, and from blood`";
 the washing one another`'s feet, and the "`anointing of the sick with oil`";
 all which are commanded with no less authority and solemnity than the former;
-yet seeing they are but the shadows of better things,
-they cease in such as have obtained the substance.^
+yet seeing they are but the _shadows_ of better things,
+they cease in such as have obtained the __substance.__^
 footnote:[Acts 15:20; John 13:14; James 5:14.]
 
+[.centered]
 === THE FOURTEENTH PROPOSITION
 
-Concerning the power of the Civil Magistrate,
-in matters purely religious, and pertaining to the conscience
+[.chapter-subtitle--blurb]
+Concerning the Power of the Civil Magistrate,
+in Matters Purely Religious, and Pertaining to the Conscience
 
 Since God hath assumed to himself the power and dominion of the conscience,
 who alone can rightly instruct and govern it,
@@ -395,8 +427,10 @@ or inconsistent with human society; in which case the law is for the transgresso
 and justice to be administered upon all, without respect of persons.^
 footnote:[Luke 9:55-56; Matt. 7:12,29; Tit. 3:10.]
 
+[.centered]
 === THE FIFTEENTH PROPOSITION
 
+[.chapter-subtitle--blurb]
 Concerning Salutations and Recreations, etc.
 
 Seeing the chief end of all religion is to redeem man from the spirit and vain

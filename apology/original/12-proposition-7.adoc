@@ -1,18 +1,20 @@
 == THE SEVENTH PROPOSITION
 
+[.chapter-subtitle--blurb]
 Concerning Justification
 
+[.heading-continuation-blurb]
 As many as resist not this Light, but receive the same, it becomes in them a holy, pure,
 and spiritual birth, bringing forth holiness, righteousness, purity,
 and all those other blessed fruits, which are acceptable to God, by which holy birth,
-to wit, Jesus Christ formed within us, and working his works in us, as we are sanctified,
+to wit, __Jesus Christ formed within us,__ and working his works _in_ us, as we are sanctified,
 so are we justified in the sight of God, according to the apostle`'s words:
 "`But ye are washed, but ye are sanctified,
 but ye are justified in the name of the Lord Jesus,
 and by the Spirit of our God`" (1 Cor. 6:11).
 Therefore it is not by our works wrought in our will,
-nor yet by good works, considered as of themselves; but by Christ,
-who is both the gift and the giver, and the cause producing the effects in us,
+nor yet by good works, considered as of themselves; but by _Christ,_
+who is both the _gift_ and the _giver,_ and the cause producing the effects _in_ us,
 who, as he hath reconciled us while we were enemies, doth also in his wisdom save us,
 and justify us after this manner, as saith the same apostle elsewhere,
 "`According to his mercy he saved us, by the washing of regeneration,
@@ -32,13 +34,16 @@ and open our sense and judgment of it;
 and lastly prove it (if the Lord will) by some Scripture testimonies,
 and the certain experience of all, ever were truly justified.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
-§II. That this doctrine of justification hath been and
+§II. That this doctrine of _justification_ hath been and
 is greatly vitiated in the church of Rome is not by us questioned,
 though our adversaries, who for want of better arguments do often make lies their refuge,
 have not spared in this respect to stigmatize us with Popery,
 but how untruly will hereafter appear.
-For to speak little of their meritum ex condigno,
+For to speak little of their __meritum ex condigno,__
 which was no doubt a very common doctrine of the Romish church, especially before Luther,
 though most of their modern writers, especially in their controversies with Protestants,
 do partly deny it, partly qualify it,
@@ -67,7 +72,7 @@ So that if the matter be well sifted it will be found that the greatest part of 
 justification depends upon the authority of his bulls and not upon the power,
 virtue and grace of Christ revealed in the heart, and renewing of it.
 As will appear, first, from their principle concerning their sacraments,
-which they say confer grace ex opere operato.
+which they say confer grace __ex opere operato.__
 So that if a man partake but of them,
 he thereby obtains remission of sin though he remain as he was;
 the virtue of the sacraments making up the want that is in the man.
@@ -143,7 +148,7 @@ and the Word of God made void by many and useless traditions,
 the law of God neglected while foolish and needless ceremonies are prized and followed,
 through a false opinion of being justified by the performance of them;
 and the merits and sufferings of Christ (which is the only sacrifice appointed
-of God for remission of sins) derogated from by the setting up of a daily sacrifice,
+of God for remission of sins) derogated from by the setting up of a __daily sacrifice,__
 never appointed by God, and chiefly devised out of covetousness to get money by;
 so the Protestants, on the other hand,
 by not rightly establishing and holding forth the doctrine of justification
@@ -155,9 +160,8 @@ such as esteem themselves justified while lying in great sins:
 by which kind of accusations (for which too great ground hath been
 given out of the writings of some rigid Protestants) the reformation
 hath been greatly defamed and hindered and the souls of many ensnared.
-Whereas,
-who will narrowly look into the matter may observe
-these debates to be more in specie than in genere,
+Whereas, who will narrowly look into the matter may observe
+these debates to be more in specie than __in genere,__
 seeing both do upon the matter land in one; and like two men in a circle, who,
 though they go sundry ways, yet meet at last in the same centre.
 
@@ -167,7 +171,7 @@ as the same are applied unto them in the use of the sacraments of the church,
 and are dispensed in the performance of such and such ceremonies, pilgrimages, prayers,
 and performances, though there be not any inward renewing of the mind,
 nor knowing of Christ inwardly formed;
-yet they are remitted and made righteous ex opere operato,
+yet they are remitted and made righteous __ex opere operato,__
 because of the power and authority accompanying the
 sacraments and the dispensers of them.
 
@@ -177,12 +181,12 @@ not by infusing righteousness into them, but by pardoning their sins,
 and by accounting and accepting their persons as righteous: they resting on him,
 and his righteousness by faith; which faith, the act of believing,
 is not imputed unto them for righteousness.^
-footnote:[So saith the Westminster Confession of Faith, chap.
+footnote:[So saith the [.book-title]#Westminster Confession of Faith,# chap.
 11, sect.
 1.]
 
 So the justification of neither here is placed in any inward renewing of the mind,
-or by virtue of any spiritual birth or formation of Christ in them;
+or by virtue of any spiritual birth or formation of Christ _in_ them;
 but only by a bare application of the death and sufferings
 of Christ outwardly performed for them:
 whereof the one lays hold on a faith resting upon them,
@@ -203,6 +207,9 @@ which doctrine, though it be briefly held forth and comprehended in the thesis i
 yet I shall a little more fully explain the state of the controversy
 as it stands betwixt us and those that now oppose us.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §III.
 First then, as by the explanation of the former thesis appears,
@@ -211,7 +218,7 @@ in order to bring us out of our lost and fallen condition and first nature;
 and confess that as of ourselves we are able to do nothing that is good:
 so neither can we procure remission of sins or justification by any act
 of our own so as to merit it or draw it as a debt from God due unto us,
-but we acknowledge all to be of and from his love,
+but we acknowledge all to be _of_ and _from_ his _love,_
 which is the original and fundamental cause of our acceptance.
 
 Secondly, God manifested this love towards us in the sending of his beloved Son,
@@ -254,8 +261,8 @@ in their application to us the one is not,
 nor cannot be, without respect to the other.
 
 The first is the redemption performed and accomplished
-by Christ for us in his crucified body without us.
-The other is the redemption wrought by Christ in us,
+by Christ __for us__ in his crucified body without us.
+The other is the redemption wrought by Christ __in us,__
 which no less properly is called and accounted a redemption than the former.
 The first then is that whereby man, as he stands in the fall,
 is put into a capacity of salvation, and hath conveyed unto him a measure of that power,
@@ -263,7 +270,7 @@ virtue, spirit, life, and grace that was in Christ Jesus: which, as the free gif
 is able to counterbalance, overcome,
 and root out the evil seed wherewith we are naturally as in the fall, leavened.
 
-The second is that whereby we witness and know this pure and perfect redemption in ourselves,
+The second is that whereby we witness and know this pure and perfect redemption _in_ ourselves,
 purifying, cleansing, and redeeming us from the power of corruption,
 and bringing us into unity, favour, and friendship with God.
 
@@ -289,8 +296,7 @@ footnote:[1 Pet. 3:18.]
 
 By the second, we witness this capacity brought into act,
 whereby receiving and not resisting the purchase of his death, to wit, the Light, Spirit,
-and Grace of Christ revealed to us,^
-footnote:[Later editors replace "`revealed to us`" with "`revealed in us.`"]
+and Grace of Christ revealed in us,
 we witness and possess a real true and inward redemption
 from the power and prevalency of sin,
 and so come to be truly and really redeemed, justified, and made righteous,
@@ -306,19 +312,19 @@ So as none could have enjoyed the last,
 without the first had been (such being the will of God);
 so also can none now partake of the first, but as he witnesseth the last.
 Wherefore as to us, they are both causes of our justification;
-the first the procuring efficient, the other the formal cause.
+the first the __procuring efficient,__ the other the __formal cause.__
 
 Fourthly, we understand not by this justification by Christ, barely the good works,
 even as wrought by the Spirit of Christ; for they, as Protestants truly affirm,
 are rather an effect of justification, than the cause of it.
-But we understand the formation of Christ in us, Christ born and brought forth in us,
+But we understand the _formation of Christ in us, Christ born and brought forth in us,_
 from which good works as naturally proceed as fruit from a fruitful tree.
-It is this inward birth in us, bringing forth righteousness and holiness in us,
-that doth justify us, which, having removed and done away the contrary nature and spirit,
+It is _this inward birth in us, bringing forth righteousness and holiness in us,
+that doth justify us,_ which, having removed and done away the contrary nature and spirit,
 that did bear rule and bring condemnation, now is in dominion over all, in our hearts.
 Those then, that come to know Christ thus formed in them,
 do enjoy him wholly and undivided,
-who is "`the lord our righteousness,`" (Jer. 23:6). This is to be clothed with Christ,
+who is "`the Lord our righteousness,`" (Jer. 23:6). This is to be clothed with Christ,
 and to have put him on, whom God therefore truly accounteth righteous and just.
 This is so far from being the doctrine of Papists, that,
 as the generality of them do not understand it, so the learned among them oppose it,
@@ -327,7 +333,7 @@ Thus then, as I may say, the formal cause of justification is not the works,
 to speak properly, they being but an effect of it; but this inward birth,
 this Jesus brought forth in the heart, who is the well-beloved,
 whom the Father cannot but accept,
-and all those who thus are sprinkled with the blood of Jesus, and washed with it.
+and all those who thus are sprinkled with the _blood_ of _Jesus,_ and washed with it.
 By this also comes that communication of the goods of Christ unto us,
 "`by which we come to be made partakers of the divine
 nature,`" as saith Peter (2 Pet. 1:4),
@@ -342,7 +348,7 @@ that in it are crucifying as yet the "`Lord of Glory.`" Even as the apostle Paul
 who by his sufferings is said to "`fill up that which
 is behind of the afflictions of Christ for his body,
 which is the church.`" Though this be a mystery sealed up from all the wise men,
-that are yet ignorant of this seed in themselves, and oppose it,
+that are yet ignorant of this seed _in_ themselves, and oppose it,
 nevertheless some Protestants speak of this justification by Christ inwardly put on,
 as shall hereafter be recited in its place.
 
@@ -353,8 +359,8 @@ as to what pertains to the remote procuring cause,
 and that we hold ourselves formally justified by
 Christ Jesus formed and brought forth in us;
 yet can we not (as some Protestants have unwarily done) exclude works from justification:
-for, though properly we be not justified for them, yet are we justified in them;
-and they are necessary, even as causa sine qua non, i.e.,
+for, though properly we be not justified __for them,__ yet are we justified __in them;__
+and they are necessary, even as __causa sine qua non,__ i.e.,
 the cause without which none are justified.
 For the denying of this, as it is contrary to the Scripture`'s testimony,
 so it hath brought a great scandal to the Protestant religion,
@@ -373,10 +379,13 @@ by man endeavouring a conformity to the outward law,
 by his own strength, and in his own will,
 yet we believe that such works as naturally proceed from this spiritual birth,
 and formation of Christ in us, are pure and holy, even as the root from which they come,
-and therefore God accepts them, justifies us in them, and rewards us for them,
+and therefore God accepts them, justifies us __in them,__ and rewards us _for_ them,
 of his own free grace.
 The state of the controversy being thus laid down,
 these following positions do from hence arise in the next place to be proved.
+
+[.small-break]
+'''
 
 // lint-disable invalid-characters "§"
 §IV. First, that the obedience, sufferings,
@@ -391,14 +400,14 @@ so long as they remain in their sins really impure and unjust.
 
 Secondly, that it is by this inward birth of Christ in man that man is made just,
 and therefore so accounted by God, wherefore to be plain, we are thereby,
-and not till that be brought forth in us formally (if we
+and not till that be brought forth _in_ us _formally_ (if we
 must use that word) justified in the sight of God:
-because justification is, both more properly and frequently in Scripture,
+because _justification_ is, both more properly and frequently in Scripture,
 taken in its proper signification, for making one just, and not reputing one merely such,
-and is all one with sanctification.
+and is all one with _sanctification._
 
-Thirdly, that since good works as naturally follow from this birth as heat from fire,
-therefore are they of absolute necessity to justification, as causa sine qua non,
+Thirdly, that since __good works__ as naturally follow from this birth as heat from fire,
+therefore are they of __absolute necessity to justification,__ as __causa sine qua non,__
 i.e. though not as the cause for which, yet as that in which we are,
 and without which we cannot be, justified.
 And though they be not meritorious, and draw no debt upon God,
@@ -408,6 +417,9 @@ since they may be perfect in their kind, as proceeding from a pure holy birth an
 Wherefore their judgment is false, and against the Truth,
 that say that the holiest works of the saints are defiled and sinful in the sight of God:
 for these good works are not the works of the law excluded by the apostle from justification.
+
+[.small-break]
+'''
 
 // lint-disable invalid-characters "§"
 §V. As to the first, I prove it from Rom. 3:25:
@@ -496,12 +508,11 @@ then the whole doctrinal part of the Bible is useless and of no profit;
 in vain were the apostles sent forth to preach repentance and remission of sins,
 and in vain do all the preachers bestow their labour, spend their lungs,
 and give forth writings; yea much more in vain do the people spend their money,
-which they give them for preaching, seeing it is all but actum agere,
+which they give them for preaching, seeing it is all but __actum agere,__
 but a vain and ineffectual essay,
 to do that which is already perfectly done without them.
 
-But lastly, To pretermit^
-footnote:[pretermit +++=+++ disregard]
+But lastly, To disregard
 their human labours, as not worth the disputing, whether they be needful or not,
 since (as we shall hereafter show) themselves confess the best of them is sinful;
 this also makes void the present intercession of Christ for men.
@@ -518,8 +529,8 @@ is to no purpose: to pray for remission of sins is yet more needless, if all be 
 past, present, and to come.
 Indeed there is not any solid solving of this, but by acknowledging,
 according to the Truth, that Christ by his death removed the wrath of God,
-so far as to obtain remission of sins for as many as receive that Grace and Light,
-that he communicates unto them, & hath purchased for them by his blood:
+so far as to obtain remission of sins for as many as receive that _Grace_ and _Light,_
+that he communicates unto them, and hath purchased for them by his _blood:_
 which as they believe in, they come to know remission of sins past,
 and power to save them from sin, and to wipe it away,
 so often as they may fall into it by unwatchfulness or weakness, if,
@@ -540,6 +551,9 @@ Much more might be said to confirm this truth;
 but I go on to take notice of the common objections against it,
 which are the arguments made use of to propagate the errors contrary to it.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §VI. The first and chief is drawn from that
 saying of the apostle before mentioned (2 Cor. 5:18-19),
@@ -547,31 +561,31 @@ saying of the apostle before mentioned (2 Cor. 5:18-19),
 God was in Christ reconciling the world unto himself,
 not imputing their trespasses unto them.`"
 
-Obj.
+_Obj._
 From hence they seek to infer that Christ fully perfected
 the work of reconciliation while he was on earth.
 
-Answ.
+_Answ._
 I answer: If by "`reconciliation`" be understood the removing of wrath,
 and the purchase of that Grace by which we may come to be reconciled, we agree to it;
 but that that place speaks no more, appears from the place itself;
-for when the apostle speaks in the perfect time, saying,
+for when the apostle speaks in the __perfect time,__ saying,
 "`He hath reconciled us,`" he speaks of himself and the saints, who,
 having received the Grace of God purchased by Christ,
 were through faith in him actually reconciled.
-But as to the world, he saith "`reconciling`" not "`reconciled`"; which reconciling,
-though it denotes a time somewhat past, yet it is by the imperfect time,
+But as to the _world,_ he saith "`reconciling`" not "`reconciled`"; which reconciling,
+though it denotes a time somewhat past, yet it is by the __imperfect time,__
 denoting that the thing begun was not perfected.
-For this work Christ began towards all, in the days of his flesh, yea and long before:
+For this work Christ began towards _all,_ in the days of his flesh, yea and long before:
 for he was the mediator from the beginning,
 and the "`Lamb slain from the foundation of the world.`" But in his flesh,
 after he had perfectly "`fulfilled the law,`" and the "`righteousness
 thereof,`" and "`rent the veil,`" and made way for the more
-clear and universal revelation of the Gospel to all,
+clear and universal revelation of the Gospel to _all,_
 both Jew and Gentile,
 he "`gave up himself a most satisfactory sacrifice for sin,`" which
 becomes effectual to as many as receive him in his inward appearance,
-in his Light in the heart.
+in __his Light__ in the heart.
 Again,
 this very place showeth that no other reconciliation
 is intended but the opening of a door of mercy,
@@ -589,11 +603,11 @@ Secondly, they object (v. 21 of the same chapter),
 "`For he hath made him to be sin for us, who knew no sin,
 that we might be made the righteousness of God in him.`"
 
-Obj.
+_Obj._
 From whence they argue, that as our sin is imputed to Christ, who had no sin;
 so Christ`'s righteousness is imputed to us, without our being righteous.
 
-Answ.
+_Answ._
 But this interpretation is easily rejected;
 for though "`Christ bare our sins,`" and "`suffered for us,`" and was
 among men "`accounted a sinner,`" and "`numbered among transgressors`";
@@ -601,9 +615,9 @@ yet that God reputed him a sinner is nowhere proved.
 For it is said, "`He was found before him holy, harmless, and undefiled,
 neither was there found any guile in his mouth.`"^
 footnote:[Heb. 7:26; 1 Pet. 2:22.]
-That we deserved these things, and much more for our sins,
+That _we_ deserved these things, and much more for our sins,
 which he endured in obedience to the Father, and according to his counsel, is true;
-but that ever God reputed him a sinner, is denied.
+but that ever God reputed _him_ a sinner, is denied.
 Neither did he ever die that we should be reputed righteous,
 though no more really such than he was a sinner (as hereafter appears).
 For indeed, if this argument hold,
@@ -629,7 +643,7 @@ how some men have made this so fundamental an article of their faith,
 which is so contrary to the whole strain of the Gospel.
 A thing Christ in none of all his sermons and gracious
 speeches ever willed any to rely upon;
-always recommending to us works, as instrumental in our justification;
+always recommending to us _works,_ as instrumental in our justification;
 and the more it is to be admired at,
 because that that sentence or term (so frequently
 in their mouths and so often pressed by them,
@@ -640,6 +654,9 @@ Thus have I passed through the first part, and that the more briefly,
 because many who assert this justification by bare imputation,
 do nevertheless confess that even the elect are not justified until they be converted;
 that is, not until this imputative justification be applied to them by the Spirit.
+
+[.small-break]
+'''
 
 // lint-disable invalid-characters "§"
 §VII.
@@ -658,44 +675,43 @@ First then I prove this by that of the apostle Paul (1 Cor. 6:11),
 "`And such were some of you; but ye are washed, but ye are sanctified,
 but ye are justified in the name of the Lord Jesus,
 and by the Spirit of our God.`" First, this "`justified`" here understood,
-must needs be a being made really just, and not a being merely imputed such;
+must needs be __a being made really just,__ and not a being merely imputed such;
 else "`sanctified`" and "`washed`" might be reputed a being esteemed so,
 and not a being really so; and then it overturns the whole intent of the context.
 For the apostle showing them in the preceding verses,
 how the "`unrighteous cannot inherit the kingdom of God,`"
 and descending to the several species of wickedness,
-subsumes, that they were sometimes such, but now are not any more such.
+subsumes, that they __were sometimes__ such, but now are not any more such.
 Wherefore, as they are now washed and sanctified, so are they justified:
 for if this justification were not real,
 then it might be alleged that the Corinthians had not forsaken these evils, but, were,
 though still they continued in them, notwithstanding justified.
-Which, as in itself, it is most absurd, so it very luculently^
-footnote:[luculently +++=+++ clearly]
+Which, as in itself, it is most absurd, so it very clearly
 overturneth the very import and intent of the place;
-as if the Corinthians turning Christians had not wrought any real change in them,
+as if the Corinthians turning Christians had not wrought any real change _in_ them,
 but had only been a belief of some barren notions,
 which had wrought no alteration in their affections, will, or manner of life.
 For my own part, I neither see anything, nor could ever yet hear or read anything,
 that with any color of reason did evince "`justified`" in this place to be understood
-any other ways than in its own proper and genuine interpretation of being made just.
+any other ways than in its own proper and genuine interpretation of being __made just.__
 And for the more clear understanding hereof let it be considered,
 that this word "`justify`" is derived either from the substantive "`justice,`"
 or the adjective "`just.`" Both which words import the substantive,
-that true and real virtue in the soul, as it is in itself, to wit, it signifies really,
+that true and real __virtue in the soul,__ as it is in itself, to wit, it signifies really,
 and not suppositively,
 that excellent quality expressed and understood among men by the word "`justice`":
 and the adjective "`just`" as applied signifies a man or woman who is just, that is,
-in whom this quality of justice is stated, for it would not only be great impropriety,
+in whom this quality of _justice_ is stated, for it would not only be great impropriety,
 but also manifest falsity, to call a man just merely by supposition,
 especially if he were really unjust.
 Now this word "`justify`" formed or from "`justice,`" or "`just,`"
 doth beyond all question signify a making just,
-it being nothing else but a composition of the verb facio, and the adjective justus,
-which is nothing else than thus, justifico, i.e., justum facio, I make just;
-and justified of justus and fio, as justus fio, I become just, and justificatus, i.e.,
-justus factus, I am made just.
-Thus also is it with verbs of this kind, as sanctifico, from sanctus, holy, and facio;
-honorifico, from honor and facio; sacrifico, from sacer and facio:
+it being nothing else but a composition of the verb _facio,_ and the adjective _justus,_
+which is nothing else than thus, _justifico,_ i.e., __justum facio,__ I make just;
+and justified of _justus_ and _fio,_ as __justus fio,__ I become just, and _justificatus,_ i.e.,
+__justus factus,__ I am made just.
+Thus also is it with verbs of this kind, as _sanctifico,_ from _sanctus,_ holy, and _facio;_
+_honorifico,_ from _honor_ and _facio;_ _sacrifico,_ from _sacer_ and _facio:_
 all which are still understood of the subject really and truly
 endued with that virtue and quality from which the verb is derived.
 Therefore, as none are said to be sanctified that are really unholy, while they are such;
@@ -716,14 +732,11 @@ This is so manifest and apparent that Pareus,
 a chief Protestant and a Calvinist also in his opinion, acknowledges this:
 "`We never at any time said`" (saith he) "`nor thought that the righteousness
 of Christ was imputed to us that by him we should be named formally just,
-and^
-footnote:[Later editors mistakenly insert "`not`" here;
-but Barclay has quoted Pareus correctly.]
-be so, as we have divers times already showed;
+and be so, as we have divers times already showed;
 for that would no less soundly fight with right reason than if a guilty
 man absolved in judgment should say that he himself was formally just
 by the clemency of the judge granting him his life.`"^
-footnote:[De Just. con. Bell. lib. 2 cap. 7 pag. 469.]
+footnote:[_De Just. con. Bell. lib. 2 cap. 7 pag. 469._]
 Now is it not strange that men should be so facile in a matter
 of so great concernment as to build the stress of their acceptance
 with God upon a mere borrowed and metaphorical signification,
@@ -744,14 +757,13 @@ Luke 10:29, and 16:15,
 which are all spoken of men "`justifying the wicked,`" or of "`wicked men justifying themselves`";
 that is, approving themselves in their wickedness.
 If it be at any time in this signification taken in good part,
-it is very seldom comparatively,^
-footnote:[Later editors omit "`comparatively.`"]
+it is very seldom,
 and that so obvious and plain by the context as leaves no scruple.
 But the question is not so much of the use of the word,
 where it is passingly or occasionally used,
-as where the very doctrine of justification is handled.
+as where the very doctrine of _justification_ is handled.
 Where indeed to mistake it, viz., in its proper place,
-so as to content ourselves with an imaginary justification, while God requires a real,
+so as to content ourselves with an _imaginary_ justification, while God requires a _real,_
 is of most dangerous consequence, for the disquisition of which, let it be considered,
 that in all these places to the Romans, Corinthians, Galatians, and elsewhere,
 where the apostle handles this theme,
@@ -760,23 +772,23 @@ where it is often asserted in the above mentioned epistles to the Romans and Gal
 that "`a man cannot be justified by the law of Moses, nor by the works of the law`";
 there is no absurdity nor danger in understanding it,
 according to its own proper signification, to wit,
-that a man cannot be made just by the law of Moses,
+that a man cannot be __made just__ by the law of Moses,
 seeing this so well agrees with that saying of the same apostle,
 That "`the law makes nothing perfect.`" And also where it is said,
-"`We are justified by faith,`" it may be very well understood of being made just,
+"`We are justified by faith,`" it may be very well understood of being __made just,__
 seeing it is also said that "`faith purifies the heart`";
 and no doubt the pure in heart are just; and "`the just live by faith.`" Again,
 where it is said,
 "`We are justified by grace,`" "`We are justified by
 Christ,`" "`We are justified by the Spirit`";
-it is no ways absurd to understand it of being made just,
+it is no ways absurd to understand it of being __made just,__
 seeing by his Spirit and Grace he doth make men just.
-But to understand it universally the other way, merely for acceptance and imputation,
+But to understand it universally the other way, merely for _acceptance_ and _imputation,_
 would infer great absurdities, as may be proved at large,
 but because I judged it would be acknowledged, I forbear at present, for brevity`'s sake.
 But further, in the most weighty places, where this word "`justify`" is used in Scripture,
 with an immediate relation to the doctrine of justification,
-our adversaries must needs acknowledge it to be understood of making just,
+our adversaries must needs acknowledge it to be understood of __making just,__
 and not barely in the legal acceptation; as first, in that of 1 Cor. 6:11,
 "`But ye are washed, but ye are sanctified,
 but ye are justified,`" as I before have proved;
@@ -784,9 +796,9 @@ which also many Protestants are forced to acknowledge.
 "`Neither diffide we,`" saith Thysius,
 "`because of the most great and strict connection,
 that justification doth sometimes seem also to comprehend sanctification as a consequence,
-as in Rom. 8:30; Tit. 3:7; 1 Cor. 6:11, "`And such sometimes were ye,
-but ye are washed,`" etc.^
-footnote:[Disp. de lust. Thes. 3.]
+as in Rom. 8:30; Tit. 3:7; 1 Cor. 6:11, '`And such sometimes were ye,
+but ye are washed,`'`" etc.^
+footnote:[_Disp. de lust. Thes. 3._]
 Zanchi having spoken concerning this sense of justification, adds, saying:
 "`There is another signification of the word, viz: for a man from unjust to be made just,
 even as sanctified signifies from unholy to be made holy.
@@ -794,12 +806,12 @@ In which signification the apostle said (in the place
 above cited) '`And such were some of you,`' etc.,
 that is, of unclean ye are made holy, and of unjust ye are made just by the Holy Spirit,
 for Christ`'s sake, in whom ye have believed.
-Of this signification is that (Rev. 22:11), "`Let him that is just, be just still`";
+Of this signification is that (Rev. 22:11), '`Let him that is just, be just still`';
 that is, really from just become more just, even as from unjust he became just.
 And according to this signification the Fathers, and especially Augustine,
 have interpreted this word.`"^
-footnote:[In cap. 2. ad Eph. ver 4. loc. de lust.]
-Thus far he.
+footnote:[_In cap. 2. ad Eph. ver 4. loc. de lust._]
+Thus far he,
 H+++.+++ Bullinger, on the same place (1 Cor. 6), speaketh thus:
 "`By divers words`" (saith he) "`the apostle signifies the same thing when he saith,
 Ye are washed, ye are sanctified, ye are justified.`"
@@ -809,11 +821,11 @@ Secondly, in that excellent saying of the apostle, so much observed (Rom. 8:30),
 this is commonly called the "`golden chain,`" as being acknowledged
 to comprehend the method and order of salvation.
 And therefore, if "`justified`" were not understood here in its proper signification,
-of being made just, sanctification would be excluded out of this chain.
+of being __made just,__ sanctification would be excluded out of this chain.
 And truly it is very worthy of observation, that the apostle,
 in this succinct and compendious account,
 makes the word "`justified`" to comprehend all betwixt calling and glorifying;
-thereby clearly insinuating that the being really righteous is
+thereby clearly insinuating that the being really _righteous_ is
 that only medium by which from our calling we pass to glorification.
 All for the most part do acknowledge the word to be so taken in this place,
 and not only so,
@@ -821,7 +833,7 @@ but most of those who oppose are forced to acknowledge that as this is the most 
 so the most common signification of it:
 thus divers famous Protestants do acknowledge.
 "`We are not,`" saith D. Chamierus,^
-footnote:[Tom. 3. de Sanct. lib. 10 cap. 1.]
+footnote:[_Tom. 3. de Sanct. lib. 10 cap. 1._]
 "`such impertinent esteemers of words, as to be ignorant,
 nor yet such importunate sophists,
 as to deny that the words '`justification`' and '`sanctification`' do infer one another; yea,
@@ -831,16 +843,18 @@ and we read in the Revelation, '`Let him that is just,
 be just still,`' which cannot be understood,
 except of the fruit of inherent righteousness.
 Nor do we deny, but perhaps in other places they may be promiscuously taken,
-especially by the Fathers.
+especially by the Fathers.`"
 "`I take,`" saith Beza,^
-footnote:[In cap. 3. ad Tit. ver. 7.]
+footnote:[_In cap. 3. ad Tit. ver. 7._]
 "`the name of justification largely,
 so as it comprehends whatsoever we acquire from Christ, as well by imputation,
 as by the efficacy of the Spirit in sanctifying us.
 So likewise is the word '`justification`' taken (Rom. 8:30).`" Melancthon saith,^
-footnote:[In Apol. Confess. Aug.]
+footnote:[_In Apol. Confess. Aug._]
 "`That to be justified by faith, signifies in Scripture not only to be pronounced just,
-but also of unrighteous to be made righteous.`" Also some chief Protestants,
+but also of unrighteous to be made righteous.`"
+
+Also some chief Protestants,
 though not so clearly, yet in part, hinted at our doctrine,
 whereby we ascribe unto the death of Christ remission of sins,
 and the work of justification unto the grace of the Spirit acquired by his death.
@@ -852,12 +866,12 @@ By his death, the sins of this world behooved to be expiated.
 By his rising from the dead, it pleased the same goodness of God to give the Holy Spirit,
 whereby both the Gospel is believed, and the righteousness,
 lost by the fault of the first Adam, is restored.`"^
-footnote:[In Gen. cap. 15. ad verb. Cred dit Abraham Deo+++.+++, p. 161.]
+footnote:[_In Gen. cap. 15. ad verb. Cred dit Abraham Deo+++.+++, p. 161._]
 And afterwards he saith, "`The apostle expresseth both parts in these words,
 who was given for our sins, etc. In his death is beheld the satisfaction for sin;
 in his resurrection, the gift of the Holy Spirit,
 by which our justification is perfected.`"^
-footnote:[lib. 3. Reg. cap. 9. ver. 4., p. 681.]
+footnote:[_lib. 3. Reg. cap. 9. ver. 4., p. 681._]
 And again, the same man saith elsewhere:
 "`Both these kinds of righteousness are therefore contained in justification,
 neither can the one be separate from the other.
@@ -865,7 +879,7 @@ So that in the definition of justification, the merit of the blood of Christ is 
 both with the remission of sins,
 and with the gift of the Holy Spirit of justification
 and regeneration.`" Martin Bucer saith:^
-footnote:[In Rom. 4 3d ver. 16.]
+footnote:[_In Rom. 4 3rd ver. 16._]
 "`Seeing, by one sin of Adam the world was lost,
 the grace of Christ hath not only abolished that one sin,
 and death which came by it but hath together taken away those infinite sins,
@@ -879,7 +893,7 @@ that we might be strong through the gift of righteousness,
 being rightly and orderly adorned with all virtue, that is,
 restored to the image of God.`" And lastly, William Forbes, our countryman,
 bishop of Edinburgh, saith,^
-footnote:[In considerat. modest. de Just. lib. 2. Sect. 8.]
+footnote:[_In considerat. modest. de Just. lib. 2. Sect. 8._]
 "`Whensoever the Scripture makes mention of the justification before God,
 as speaketh Paul, and from him, besides others, Augustine,
 it appears that the word '`justify`' necessarily signifies not only to pronounce just,
@@ -906,39 +920,44 @@ and the offence and enmity of God through nonimputation.
 But both the Scriptures and Fathers do affirm, that in the justification of a sinner,
 their sins are not only remitted, forgiven, covered, not imputed, but also taken away,
 blotted out, cleansed, washed, purged, and very far removed from us,
-as appears from many places of the holy Scriptures.`" The same Forbes shows us at length,
+as appears from many places of the holy Scriptures.`"
+
+The same Forbes shows us at length,
 in the following chapter, that this was the confessed judgment of the Fathers,
 out of the writings of those who hold the contrary opinion, some whereof, out of him,
 I shall note.
 As first, Calvin saith:^
-footnote:[Inst. lib. 5. cap. 11, Sect. 15.]
+footnote:[_Inst. lib. 5. cap. 11, Sect. 15._]
 "`That the judgment of Augustine, or at least his manner of speaking,
 is not throughout to be received;
 who although he took from man all praise of righteousness,
 and ascribed all to the grace of God, yet he refers grace to sanctification,
 by which we are regenerate through the Spirit unto newness of life.`" Chemnitz saith:^
-footnote:[In exam. Concil. Trid. de Just+++.+++, p. 129.]
+footnote:[_In exam. Concil. Trid. de Just+++.+++, p. 129._]
 "`That they do not deny, but that the Fathers take the word '`justify`' for renewing,
 by which works of righteousness are wrought in us by the Spirit.`" And (p. 130):
 "`I am not ignorant,
 that the Fathers indeed often use the word '`justify`' in this signification, to wit,
 of making just.`" Zanchi saith,^
-footnote:[In cap. 2. ad Eph. ver. 4 loc. de lust. Thes. 19.]
+footnote:[_In cap. 2. ad Eph. ver. 4 loc. de lust. Thes. 19._]
 "`That the Fathers, and chiefly Augustine,
 interpret the word '`justify`' according to this signification, to wit, of making just;
 so that, according to them, to be justified was no other than of unjust to be made just,
 through the grace of God for Christ.`" He mentioneth more,
 but this may suffice to our purpose.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §VIII.
 Having thus sufficiently proved,
-that by "`justification`" is to be understood a really being made righteous,
+that by "`justification`" is to be understood a really being __made righteous,__
 I do boldly affirm, and that not only from a notional knowledge, but from a real,
 inward experimental feeling of the thing, that the immediate, nearest,
 or formal cause (if we must, in condescendence to some,
 use this word) of a man`'s justification in the sight of God,
-is the revelation of Jesus Christ in the soul, changing, altering, and renewing the mind,
+is the __revelation of Jesus Christ in the soul,__ changing, altering, and renewing the mind,
 by whom (even the Author of this inward work) thus formed and revealed,
 we are truly justified and accepted in the sight of God.
 For it is as we are thus covered and clothed with him,
@@ -953,15 +972,15 @@ much more being reconciled,
 we shall be saved by his life.`" For the apostle first holding
 forth the reconciliation wrought by the death of Christ,
 wherein God is near to receive and redeem man,
-holds forth his salvation and justification to be by the life of Jesus.
-Now that this life is an inward spiritual thing revealed in the
+holds forth his salvation and justification to be by the __life of Jesus.__
+Now that this life is an inward spiritual thing revealed _in_ the
 soul whereby it is renewed and brought forth out of death,
 where it naturally has been by the fall; and so quickened and made alive unto God.
 The same apostle shows (Eph. 2:5):
 "`Even when we were dead in sins and trespasses he hath quickened us together
 with Christ (by whose grace ye are saved) and hath raised us up together.`" Now,
 this none will deny to be the inward work of renovation,
-and therefore the apostle gives that reason of their being saved by grace,
+and therefore the apostle gives that reason of their being __saved by grace,__
 which is the inward virtue and power of Christ in the soul:
 but of this place more hereafter.
 Of the revelation of this inward life the apostle also speaketh (2 Cor. 4:10):
@@ -979,7 +998,7 @@ and renewing of the Holy Ghost,`" etc. Now that whereby we are saved,
 that we are also no doubt justified by, which words are in this respect synonymous.
 Here the apostle clearly ascribes the immediate cause
 of justification to this inward work of regeneration,
-which is Jesus Christ revealed in the soul,
+which is Jesus Christ revealed _in_ the soul,
 as being that which formally states us in a capacity of being reconciled with God;
 the washing of regeneration being that inward power and virtue whereby
 the soul is cleansed and clothed with the righteousness of Christ,
@@ -989,7 +1008,7 @@ Thirdly, this doctrine is manifest from 2 Cor. 13:5:
 "`Examine your own selves whether ye be in the faith, prove your own selves:
 know ye not your own selves how that Jesus Christ is in you,
 except ye be reprobates?`" First,
-it appears here how earnest the apostle was that they should know Christ in them,
+it appears here how earnest the apostle was that they should know __Christ in them,__
 so that he presses this exhortation upon them and inculcates it three times.
 Secondly, he makes the cause of reprobation, or not-justification,
 the want of Christ thus revealed and known in the soul:
@@ -1013,9 +1032,9 @@ is the love of God manifested in the appearance of Jesus Christ in the flesh,
 who by his life, death,
 sufferings and obedience made a way for our reconciliation and
 became a sacrifice for the remission of sins that are past,
-and purchased unto us this seed and grace from which this birth arises,
+and purchased unto us this _seed_ and _grace_ from which this birth arises,
 and in which Jesus Christ is inwardly received, formed,
-and brought forth in us in his own pure and holy image of righteousness;
+and brought forth _in_ us in his own pure and holy image of righteousness;
 by which our souls live unto God and are clothed with him, and have put him on,
 even as the Scripture speaks (Eph. 4:23-24;
 Gal. 3:27). We stand justified and saved in and by him,
@@ -1026,7 +1045,7 @@ and his cleansing blood is near to wash away every
 sin and infirmity and to heal all our backslidings,
 as often as we turn towards him by unfeigned repentance and become renewed by his Spirit.
 Those then that find him thus raised and ruling in them have a
-true ground of hope to believe that they are justified by his blood.
+true ground of hope to believe that they are _justified_ by his blood.
 But let not any deceive themselves,
 so as to foster themselves in a vain hope and confidence
 that by the death and sufferings of Christ they are justified,
@@ -1042,20 +1061,20 @@ He that committeth sin is of the devil; for if our heart condemn us,
 God is greater than our heart and knoweth all things`" (1 John 3:20-7).
 
 Many famous Protestants bear witness to this inward justification
-by Christ inwardly revealed and formed in man,
+by Christ inwardly revealed and formed _in_ man,
 as 1) M. Borrhaus: "`In the imputation,`" saith he,
 "`wherein Christ is ascribed and imputed to believers for righteousness,
 the merit of his blood and the Holy Ghost given unto us by virtue of his merits,
 are equally included.
-And so it shall be confessed that Christ is our righteousness as well from his merit,
+And so it shall be confessed that _Christ_ is our _righteousness_ as well from his merit,
 satisfaction,
 and remission of sins obtained by him as from the gifts of the Spirit of righteousness.
 And if we do this,
 we shall consider the whole Christ proposed to us for our
 salvation and not any single part of him.`"^
-footnote:[In Gen. pag. 162.]
+footnote:[_In Gen._ pag. 162.]
 The same man (p. 169), "`In our justification then Christ is considered,
-who breathes and lives in us, to wit,
+who breathes and lives _in_ us, to wit,
 by his Spirit put on by us concerning which putting on the apostle saith,
 '`Ye have put on Christ.`'`" And again (p. 171), "`We endeavour to treat, in justification,
 not of part of Christ, but him wholly,
@@ -1076,10 +1095,11 @@ and partly from the renewing and the restoring of that integrity
 which was lost by the fault of the first Adam:
 so that this new and heavenly Adam being put on by us, of which the apostle saith,
 '`Ye have put on Christ,`' ye have put him on, I say, as the form, so the righteousness,
-wisdom, and life of God.`" So also affirmeth Claudius Alberius Inuncanus, see his Orat. Apodict.
-Lausaniae Excus+++.+++, 1587. Orat. 2, pp. 86-87.
-Zwingli also, in his epistle to the princes of Germany, as cited by Himelius,
-c+++.+++ vii., p. 60, saith, "`That the sanctification of the Spirit is true justification,
+wisdom, and life of God.`" So also affirmeth Claudius Alberius Inuncanus, see his [.book-title]#Orat. Apodict.
+Lausaniae Excus+++.+++,# 1587. _Orat. 2,_ pp. 86-87.
+Zwingli also, in his epistle to the princes of Germany,
+as cited by Himelius, c+++.+++ vii., p. 60, saith,
+"`That the sanctification of the Spirit is true justification,
 which alone suffices to justify.`" Estius, upon 1 Cor. 6:11, saith,
 "`Lest Christian righteousness should be thought to consist in the washing alone, that is,
 in the remission of sins, he addeth the other degree or part, '`but ye are sanctified`';
@@ -1089,14 +1109,16 @@ expressing the sum of the benefit received in one word which includes both the p
 but ye are justified, the apostle adds, in the name of the Lord Jesus Christ, that is,
 by his merits, and in the Spirit of our God, that is the Holy Spirit,
 proceeding from God, and communicated to us by Christ.`" And lastly Richard Baxter,
-a famous English preacher who yet liveth,^
-footnote:[Later editors omit "`who yet liveth.`"]
-in his book called Aphorisms of Justification (p. 80), saith,
+a famous English preacher,
+in his book called [.book-title]#Aphorisms of Justification# (p. 80), saith,
 "`That some ignorant wretches gnash their teeth at this doctrine,
 as if it were flat Popery,
 not understanding the nature of the righteousness of the new covenant;
 which is all out of Christ in ourselves,
 though wrought by the power of the Spirit of Christ in us.`"
+
+[.small-break]
+'''
 
 // lint-disable invalid-characters "§"
 §IX. The third thing proposed to be considered is concerning good works,
@@ -1104,11 +1126,11 @@ their necessity to justification.
 I suppose there is enough said before to clear us
 from any imputation of being Popish in this matter.
 
-Quest.
+_Quest._
 But if it be queried, Whether we have not said, or will not affirm,
 that a man is justified by works?
 
-Answ.
+_Answ._
 I answer; I hope none need, neither ought to take offence,
 if in this matter we use the plain language of the Holy Scripture,
 which saith expressly in answer hereunto (James 2:24),
@@ -1117,12 +1139,10 @@ and not by faith only.`" I shall not offer to prove the truth of this saying,
 since what is said in this chapter by the apostle is sufficient to convince any man,
 that will read and believe it, I shall only from this derive this one argument:
 
-Arg.
-If no man can be justified without faith,
-and no faith be living nor yet available to justification without works,
-then works are necessary to justification.
-
-But the first is true; therefore the last.
+[.syllogism]
+* _Arg._ If no man can be justified without _faith,_ and no faith be _living_ nor yet available to justification without works, then __works are necessary to justification.__
+* But the first is true;
+* Therefore the last.
 
 For this truth is so apparent and evident in the Scriptures that for the
 proof of it we might transcribe most of the precepts of the Gospel.
@@ -1142,36 +1162,32 @@ through the gates may enter into the city`";
 and many more that might be instanced.
 From all which I thus argue:
 
-Arg.
-If those only can enter into the Kingdom, that do the will of the Father;
-if those be accounted only the wise builders and happy, that do the sayings of Christ;
-if no observation avail, but only the keeping of the commandments;
-and if they be blessed that do the commandments,
-and thereby have right to the tree of life, and entrance through the gates into the city;
-then works are absolutely necessary to salvation and justification:
-
-But the first is true;
-
-And therefore also the last.
+[.syllogism]
+* _Arg._ If those only can enter into the Kingdom, that do the will of the Father; if those be accounted only the wise builders and happy, that do the sayings of Christ; if no observation avail, but only the keeping of the commandments; and if they be blessed that do the commandments, and thereby have right to the tree of life, and entrance through the gates into the city; then works are absolutely necessary to salvation and justification:
+* But the first is true;
+* And therefore also the last.
 
 The consequence of the antecedent is so clear and evident,
 that I think no man of sound reason will call for a proof of it.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
-§X. Obj.
+§X. _Obj._
 But they object that works are not necessary to justification, first,
 because of that saying of Christ (Luke 17:10),
 "`When ye shall have done all these things that are commanded you, say,
 we are unprofitable servants,`" etc.
 
-Answer: As to God we are indeed unprofitable, for he needeth nothing,
+_Answer:_ As to God we are indeed unprofitable, for he needeth nothing,
 neither can we add anything unto him: but as to ourselves we are not unprofitable,
 else it might be said that it is not profitable for a man to keep God`'s commandments,
 which is most absurd and would contradict Christ`'s doctrine throughout.
 Doth not Christ (Matt. 5), through all those beatitudes,
 pronounce men blessed for their purity, for their meekness, for their peaceableness,
 etc.? And is not then that for which Christ pronounceth men blessed profitable unto them?
-Moreover (Matt. 25:21,23),
+Moreover (Matt. 25:21, 23),
 doth not Christ pronounce the men "`good and faithful servants`" that improved their talents?
 Was not their doing of that then profitable unto them?
 And (v. 30) it is said of him that hid his talent and did not improve it,
@@ -1180,11 +1196,11 @@ their not improving of the talent made the man unprofitable,
 and he was therefore cast into utter darkness, it will follow by the rule of contraries,
 so far at least that the improving made the other profitable; seeing,
 if our adversaries will allow us to believe Christ`'s words,
-this is made a reason and so at least a cause instrumental of their acceptance:
+this is made a _reason_ and so at least a __cause instrumental__ of their acceptance:
 "`Well done, good and faithful servant, thou hast been faithful over a few things,
 I will make thee ruler over many things; enter thou into the joy of thy Lord.`"
 
-Obj.
+_Obj._
 Secondly, they object those sayings of the apostle,
 where he excludes the deeds of the law from justification;
 as first (Rom. 3:20),
@@ -1192,11 +1208,11 @@ as first (Rom. 3:20),
 and (v. 28) "`therefore we conclude that a man is
 justified by faith without the deeds of the law.`"
 
-Answ.
+_Answ._
 We have shown already what place we give to works, even to the best of works,
 in justification,
-and how we ascribe its immediate and formal cause to the worker brought forth in us,
-but not to the works.
+and how we ascribe its immediate and formal cause to the _worker_ brought forth _in_ us,
+but not to the _works._
 But in answer to this objection, I say,
 there is a great difference betwixt the works of the Law,
 and those of grace or of the Gospel.
@@ -1204,16 +1220,16 @@ The first are excluded, the second not, but are necessary.
 The first are those which are performed in man`'s own will and by his strength,
 in a conformity to the outward law and letter,
 and therefore are man`'s own imperfect works, or works of the Law,
-which makes nothing perfect.
+which __makes nothing perfect.__
 And to this belong all the ceremonies, purifications, washings,
 and traditions of the Jews.
 The second are the works of the Spirit of Grace in the heart,
 wrought in conformity to the inward and spiritual law:
 which works are not wrought in man`'s will, nor by his power and ability,
-but in and by the power and Spirit of Christ in us,
-and therefore are pure and perfect in their kind, as shall hereafter be proven,
+but in and by the power and Spirit of Christ _in_ us,
+and therefore are _pure_ and _perfect_ in their kind, as shall hereafter be proven,
 and may be called Christ`'s works, for that he is the immediate author and worker of them.
-Such works we affirm absolutely necessary to justification,
+Such works we affirm __absolutely necessary to justification,__
 so that a man cannot be justified without them;
 and all faith without them is dead and useless, as the apostle James saith.
 Now that such a distinction is to be admitted,
@@ -1297,11 +1313,11 @@ And that it must needs and ought so to be understood, doth appear from the other
 seeing regeneration is a work, comprehensive of many good works,
 even of all those which are called "`the fruits of the Spirit.`"
 
-Obj.
+_Obj._
 Now in case it should be objected that these may also be called ours,
 because wrought in us, and also by us many times as instruments.
 
-Answ.
+_Answ._
 I answer, it is far otherwise than the former:
 for in the first we are yet alive in our own natural state, unrenewed,
 working of ourselves,
@@ -1315,15 +1331,14 @@ are made "`conformable to his death,`" and our first man,
 our "`old man with all his deeds,`" as well the openly wicked as the seeming righteous,
 our legal endeavours and foolish wrestlings are all
 buried and nailed to the cross of Christ,
-and so it is no more we but Christ alive in us, the worker in us.
+and so it is no more we but __Christ alive in__ us, the worker in us.
 So that though it be we in a sense,
 yet it is according to that of the apostle to the same (Gal. 2:20),
-"`I am crucified,^
-footnote:[Later editors insert "`with Christ.`"]
-yet nevertheless I live, yet not I, but Christ liveth in me,`" not I,
+"`I am crucified with Christ,
+nevertheless I live, yet not I, but Christ liveth in me,`" not I,
 but the Grace of Christ in me.
 These works are especially to be ascribed to the
-Spirit of Christ and the grace of God in us,
+Spirit of Christ and the grace of God _in_ us,
 as being immediately thereby acted and led in them, and enabled to perform them.
 And this manner of speech is not strained, but familiar to the apostles,
 as appears (Gal. 2:8):
@@ -1335,8 +1350,11 @@ and that regeneration comprehends works, works are necessary;
 and that these works of the law that are excluded,
 are different from these that are necessary and admitted.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
-§XI. Obj.
+§XI. _Obj._
 Thirdly, they object that no works, yea, not the works of Christ in us,
 can have place in justification, because nothing that is impure can be useful in it;
 and all the works wrought in us are impure.
@@ -1346,16 +1364,16 @@ seeing we are impure, so must our works be, which, though good in themselves,
 yet as performed by us they receive a tincture of impurity,
 even as clean water passing through an unclean pipe is defiled.
 
-Answ.
+_Answ._
 That no impure works are useful to justification is confessed;
-but that all the works wrought in the saints are such is denied.
+but that all the works wrought _in_ the saints are such is denied.
 And for answer to this, the former distinction will serve.
 We confess that the first sort of works, above mentioned, are impure; but not the second:
 because the first are wrought in the unrenewed state, but not the other.
 And as for that of Isaiah, it must relate to the first kind; for though he saith,
 "`All our righteousnesses are as filthy rags,`" yet that will
-not comprehend the righteousness of Christ in us,
-but only that, which we work of and by ourselves.
+not comprehend the righteousness of Christ _in_ us,
+but only that, which we work _of_ and _by_ ourselves.
 For should we so conclude,
 then it would follow that we should throw away all holiness and righteousness,
 since that which is as filthy rags, and as a menstruous garment, ought to be thrown away;
@@ -1385,7 +1403,7 @@ hath a digression touching this of Isaiah, saying,
 "`This place is commonly corrupted by a pernicious wresting: for it is still alleged,
 as if the meaning thereof inferred the most excellent
 works of the best Christians,`" etc.^
-footnote:[Epistola praefixiae dissert. ann.]
+footnote:[_Epistola praefixiae dissert. ann._]
 James Coret, a French minister in the church of Basil,
 in his Apology concerning Justification against Alescales, saith; "`Nevertheless,
 according to the counsel of certain good men,
@@ -1395,7 +1413,10 @@ against good works, in which it is said, that all our righteousnesses are as fil
 as if we would have that which is good in our good works,
 and proceedeth from the Holy Spirit,
 to be esteemed as a filthy and unclean thing.`"^
-footnote:[Impress. Paris ann. 1597, pag. 78.]
+footnote:[_Impress. Paris ann. 1597, pag. 78._]
+
+[.small-break]
+'''
 
 // lint-disable invalid-characters "§"
 §XII.
@@ -1407,13 +1428,13 @@ and which is to be discussed at further length in the next proposition.
 But though we should suppose a man not thoroughly perfect in all respects,
 yet will not that hinder,
 but good and perfect works in their kind may be brought
-forth in him by the Spirit of Christ;
+forth _in_ him by the Spirit of Christ;
 neither doth the example of water going through an unclean pipe hit the matter;
 because though water may be capable to be tinctured with uncleanness,
 yet the Spirit of God cannot,
 whom we assert to be the immediate author of those works that avail in justification;
 and therefore Jesus Christ`'s works in his children are pure and perfect,
-and he worketh in and through that pure thing of his own forming and creating in them.
+and he worketh in and through that pure thing of his own forming and creating _in_ them.
 Moreover, if this did hold, according to our adversaries`' supposition,
 that no man ever was or can be perfect,
 it would follow that the very miracles and works of the apostles,
@@ -1431,8 +1452,8 @@ that the Fathers did frequently attribute unto works of this kind,
 that instrumental work, which we have spoken of,
 in justification (albeit some ignorant persons cry out it is Popery) and also divers,
 and that famous Protestants, do of themselves confess it.
-Amandus Polanus, in his Symphonia Catholica, cap.
-27, de Remissione Peccatorum, p. 651,
+Amandus Polanus, in his [.book-title]#Symphonia Catholica, cap.
+27, de Remissione Peccatorum,# p. 651,
 places this thesis as the common opinion of Protestants,
 most agreeable to the doctrine of the Fathers:
 "`We obtain the remission of sins by repentance, confession, prayers,
@@ -1441,37 +1462,37 @@ and therefore we obtain remission of sins,
 not by the merit of our repentance and prayers,
 but by the mercy and goodness of God.`" Innocentius Gentiletus,
 a lawyer of great fame among Protestants,
-in his Examen of the Council of Trent (pages 66-67, of justification),
+in his [.book-title]#Examen of the Council of Trent# (pages 66-67, of justification),
 having before spoken of faith and works, adds these words:
 "`But seeing the one cannot be without the other,
 we call them both conjunctly instrumental causes.`"^
-footnote:[Impress Genevae 1536.]
-Zanchi, in his fifth book De Natura Dei, saith;
+footnote:[_Impress Genevae 1536._]
+Zanchi, in his fifth book [.book-title]#De Natura Dei,# saith;
 "`We do not simply deny that good works are the cause of salvation, to wit,
 the instrumental, rather than the efficient cause,
-which they call sine qua non.`" And afterwards,
+which they call __sine qua non.`"__ And afterwards,
 "`Good works are the instrumental cause of the possession of life eternal, for by these,
 as by a means and a lawful way,
 God leads unto the possession of life eternal.`" W. Ames saith, "`That our obedience,
 albeit it be not the principal and meritorious cause of life eternal,
 is nevertheless a cause in some respect, administering, helping,
 and advancing towards the possession of the life.`"^
-footnote:[In medulla S. Theologiae, lib.
+footnote:[_In medulla S. Theologiae, lib.
 2, cap.
-1, thesi 30.]
+1, thesi 30._]
 Also Richard Baxter, in the book above cited (p. 155), saith,
 "`That we are justified by works in the same kind of causality as by faith, to wit,
-as being both causes sine qua non,
+as being both causes __sine qua non,__
 or conditions of the new covenant on our part requisite
 to justification.`" And (p. 195) he saith,
 "`It is needless to teach any scholar, who hath read the writings of Papists,
 how this doctrine differs from them.`"
 
-But lastly, because it is fit here to say something of the merit and reward of works,
+But lastly, because it is fit here to say something of the _merit_ and _reward_ of _works,_
 I shall add something in this place of our sense and belief concerning that matter:
 we are far from thinking or believing that man merits anything by his works from God,
-all being of free grace, and therefore do we,
-and always have denied that Popish notion of meritum ex condigno,
+all being of __free grace,__ and therefore do we,
+and always have denied that Popish notion of __meritum ex condigno,__
 nevertheless we cannot deny but that God out of his
 infinite goodness wherewith he hath loved mankind,
 after he communicates to him his holy Grace and Spirit, doth, according to his own will,
@@ -1479,9 +1500,10 @@ recompense and reward the good works of his children:
 and therefore this merit of congruity or reward,
 insofar as the Scripture is plain and positive for it, we may not deny;
 neither wholly reject the word in so far as the Scripture makes use of it.
-For the same Greek RESTORE-GREEK, which signifies "`merit,`"
-is also in those places where the translators express it worth,
-or worthy, as Matt. 3:8; 1 Thess. 2:12; 2 Thess.
+// lint-disable invalid-characters
+For the same Greek ἄξιον, which signifies "`merit,`"
+is also in those places where the translators express it _worth,_
+or _worthy,_ as Matt. 3:8; 1 Thess. 2:12; 2 Thess.
 1:5,11. Concerning which R. Baxter saith, in the above cited book (p. 8),
 "`But in a larger sense as promise is an obligation,
 and the thing promised is said to be debt,
@@ -1491,7 +1513,7 @@ the Fathers of the church frequently used this word of "`merit,`" whose sayings
 concerning this matter I think not needful to insert because it is not doubted,
 but evident,
 that many Protestants are not averse from this word in the sense that we use it.
-The Apology for the Augustan confession, art.
+The [.book-title]#Apology for the Augustan Confession,# art.
 20, hath these words: "`We agree that works are truly meritorious,
 not of remission of sins or justification;
 but they are meritorious of other rewards corporal and spiritual,
@@ -1513,14 +1535,17 @@ is beyond doubt to those, that seriously will read and consider these scriptures
 Matt. 16:27; Rom. 2:6-7,10; 2 Cor. 5:10; James 1:25; Heb. 10:35;
 1 Pet. 1:17; Rev. 22:12.`"
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §XIII.
 And to conclude this theme, let none be so bold as to mock God,
 supposing themselves justified and accepted in the sight of God,
 by virtue of Christ`'s death and sufferings,
 while they remain unsanctified and unjustified in their own hearts,
-and polluted in their sins, lest their hope prove that of the hypocrite,
-which perisheth.^
+and polluted in their sins, lest their _hope_ prove that of the _hypocrite,_
+which __perisheth.__^
 footnote:[Job 8:13.]
 Neither let any foolishly imagine that they can, by their own works,
 or by the performance of any ceremonies or traditions,
@@ -1535,11 +1560,11 @@ that having truly had a sense of their own unworthiness and sinfulness,
 and having seen all their own endeavours and performances fruitless and vain,
 and beheld their own emptiness, and the vanity of their vain hopes, faith,
 and confidence, while they remained inwardly pricked, pursued,
-and condemned by God`'s holy witness in their hearts,
+and condemned by __God`'s holy witness__ in their _hearts,_
 and so having applied themselves thereto, and suffered his grace to work in them;
-are become changed and renewed in the spirit of their minds, passed from death to life,
-and know Jesus arisen in them, working both the will and the deed;
+are become changed and _renewed in the spirit of_ their _minds,_ passed from death to life,
+and know _Jesus_ arisen _in_ them, working both the will and the deed;
 and so having "`put on the Lord Jesus Christ,`" in effect are clothed
 with him and partake of his righteousness and nature;
-such can draw near to the Lord with boldness, and know their acceptance in, and by him;
-in whom, and in as many as are found in him, the Father is well pleased.
+such can draw near to the Lord with boldness, and know their acceptance _in,_ and _by_ him;
+__in whom,__ and in as many as are found in him, __the Father is well pleased.__

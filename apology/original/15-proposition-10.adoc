@@ -1,7 +1,9 @@
 == THE TENTH PROPOSITION
 
+[.chapter-subtitle--blurb]
 Concerning the Ministry
 
+[.heading-continuation-blurb]
 As by the Light or gift of God all true knowledge
 in things spiritual is received and revealed,
 so by the same, as it is manifested and received in the heart,
@@ -28,6 +30,9 @@ according to the liberty which they feel given them in the Lord,
 to receive such temporals (to wit,
 what may be needful for them for meat and clothing) as are given them
 freely and cordially by those to whom they have communicated spirituals.
+
+[.small-break]
+'''
 
 // lint-disable invalid-characters "§"
 §I. Hitherto I have treated of those things,
@@ -57,12 +62,15 @@ though nothing positively be said of it in the proposition, yet, as here implied
 I shall briefly premise something thereof and then
 proceed to the particular members of it.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §II. It is not in the least my design to meddle with those
 tedious and many controversies wherewith the Papists and Protestants
 do tear one another concerning this thing,
 but only, according to the Truth manifested to me,
-and revealed in me by the testimony of the Spirit,
+and revealed _in_ me by the testimony of the Spirit,
 according to that proportion of wisdom given me,
 briefly to hold forth as a necessary introduction both to
 this matter of the ministry and of worship which followeth,
@@ -70,9 +78,11 @@ those things which I, together with my brethren, do believe concerning the Churc
 
 The "`Church`" then,
 according to the grammatical signification of the word as it is used in the holy Scripture,
-signifies an assembly or gathering of many into one place; for the substantive
-RESTORE-GREEK comes from the word RESTORE-GREEK, "`I call out of,`" and originally from
-RESTORE-GREEK, "`I call,`" and indeed as this is the grammatical sense of the word
+signifies an _assembly_ or _gathering_ of _many_ into one place; for the substantive
+// lint-disable invalid-characters
+ἐκκλησία comes from the word ἐκκαλέω, "`I call out of,`" and originally from
+// lint-disable invalid-characters
+καλέω, "`I call,`" and indeed as this is the grammatical sense of the word
 so also it is the real and proper signification of the thing,
 the Church being no other thing but the society, gathering,
 or company of such as God hath called out of the world and worldly spirit,
@@ -122,6 +132,9 @@ as when Elias complained he was left alone (1 Kings 19:18), God answered unto hi
 their knees to the image of Baal,`" whence the apostle argues (Rom.
 11) the being of a remnant in his day.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §III.
 Secondly the Church is to be considered as it signifies
@@ -141,9 +154,12 @@ And as to the visibility of the Church in this respect,
 there hath been a great interruption since the apostles`' days, by reason of the apostasy,
 as will hereafter appear.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §IV. To be a member then of the catholic Church,
-there is need of the inward calling of God by his Light in the heart,
+there is need of the _inward calling of God_ by his Light in the heart,
 and a being leavened into the nature and spirit of it,
 so as to forsake unrighteousness and be turned to righteousness, and,
 in the inwardness of the mind,
@@ -167,6 +183,9 @@ but not to the being a member of the catholic Church;
 yet it is absolutely necessary where God affords the opportunity of knowing it:
 the outward testimony is to be believed where it is presented and revealed;
 the sum whereof hath upon other occasions been already proved.
+
+[.small-break]
+'''
 
 // lint-disable invalid-characters "§"
 §V. But contrary hereunto the devil,
@@ -223,12 +242,11 @@ than the dead body of a man is to be accounted a living man, which,
 however cunningly embalmed, and adorned with ever so much gold or silver,
 or most precious stones, or sweet ointments, is but a dead body still, without sense,
 life, or motion.
-For that apostate Church of Rome has introduced no less ceremonies and superstitions
+For that _apostate_ Church of _Rome_ has introduced no less ceremonies and superstitions
 into the Christian profession than was either among Jews or heathens;
 and that there is and hath been as much, yea and more pride, covetousness,
-unclean lust,^
-footnote:[Later editors substitute "`uncleanness`" for "`unclean lust.`"]
-luxury, fornication, profanity and atheism among her teachers and chief bishops,
+uncleanness, luxury, fornication,
+profanity and atheism among her teachers and chief bishops,
 as ever was among any sort of people, none need doubt that have read their own authors,
 to wit Platina and others.
 
@@ -272,6 +290,9 @@ is but in holding some less gross errors in the notion,
 but not in having the heart reformed and renewed,
 in which mainly the life of Christianity consisteth.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §VI. But the Popish errors concerning the ministry
 which they have retained are most of all to be regretted,
@@ -293,19 +314,22 @@ and false teachers,`" etc. What may be thought then,
 where all, as to this, is out of order, where both the foundation, call, qualifications,
 maintenance, and whole discipline are different from,
 and opposite to the ministry of the primitive Church,
-yea and necessarily tend to the shutting out of a spiritual ministry,
+yea and necessarily tend to the shutting out of a _spiritual ministry,_
 and the bringing in and establishing of a carnal?
 This shall appear by parts.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §VII.
-Quest.
+_Quest._
 That then, which comes first to be questioned in this matter,
-is concerning the call of a minister; to wit, what maketh,
+is concerning _the call of a minister;_ to wit, what maketh,
 or how cometh a man to be a minister, pastor, or teacher in the church of Christ?
 
-Answ.
-We answer, by the inward power and virtue of the Spirit of God.
+_Answ._
+We answer, by the _inward power_ and _virtue_ of the _Spirit of God._
 For, as saith our proposition,
 having received the true knowledge of things spiritual by the Spirit of God (without
 which they cannot be known) and being by the same in measure purified and sanctified,
@@ -322,7 +346,7 @@ I shall first prove the necessity of it,
 and then show how much they err in that which they make
 more necessary than this divine and heavenly call.
 
-Arg.
+_Arg._
 First; that which is necessary to make a man a Christian,
 so as without it he cannot be truly one,
 must be much more necessary to make a man a minister of Christianity,
@@ -390,12 +414,15 @@ but climb up some other way,`"^
 footnote:[John 10:1.]
 whom the sheep ought not to hear, but such as come in without the call, movings,
 and leadings of the Spirit of Christ, wherewith he leads his children into all Truth,
-come in certainly not by Christ, who is the door, but some other way,
+come in certainly not by Christ, who is the _door,_ but some other way,
 and therefore are not true shepherds.
+
+[.small-break]
+'''
 
 // lint-disable invalid-characters "§"
 §VIII.
-Obj. To all this they object the succession of the church, alleging, that,
+_Obj._ To all this they object the succession of the church, alleging, that,
 since Christ gave a call to his apostles and disciples,
 they have conveyed that call to their successors,
 having power to ordain pastors and teachers,
@@ -410,7 +437,7 @@ every one being called ought to have the inward call of the Spirit, inclining hi
 so chosen, to his work, but this they say is subjective and not objective,
 of which before.
 
-Answ.
+_Answ._
 As to what is subjoined of the inward call of the Spirit,
 in that they make it not essential to a true call but a supererogation as it were,
 it showeth how little they set by it,
@@ -437,12 +464,15 @@ clothing themselves with that call which they say
 their forefathers had as pastors of the Roman church.
 For thus (not to go further) affirmeth Nicolaus Arnoldus^
 footnote:[who gives himself out Doctor and Professor of the sacred theology at Franeker.]
-in a pamphlet written against the same propositions, called A Theologic Exercitation,
+in a pamphlet written against the same propositions, called [.book-title]#A Theologic Exercitation,#
 sect.
 40,
 averring that they pretended not to an immediate act of the Holy Spirit but reformed
 by the virtue of the ordinary vocation which they had in the church,
 as it then was, to wit that of Rome, etc.
+
+[.small-break]
+'''
 
 // lint-disable invalid-characters "§"
 §IX. Many absurdities do Protestants fall into by
@@ -459,10 +489,10 @@ power and authority to have resided in,
 neither could they have been vessels capable to receive
 that power and again transmit it to their successors.
 Thirdly,
-it would follow from this that the priests & bishops of the Romish
+it would follow from this that the priests and bishops of the Romish
 church are yet really true pastors and teachers;
 for if Protestant ministers have no authority but what they received from them,
-& since the church of Rome is the same she was at that time of the reformation,
+and since the church of Rome is the same she was at that time of the reformation,
 in doctrine and manners, and she has the same power now she had then,
 and if the power lie in the succession, then these priests of the Romish churchnow,
 which derive their ordination from those bishops that ordained the first reformers,
@@ -475,6 +505,9 @@ affirmed that it was wickedly done of them to assume to themselves
 only this authority to teach and be priests and ministers,
 etc. For he himself affirmed that "`every good Christian (not only men,
 but even women also) is a preacher.`"
+
+[.small-break]
+'''
 
 // lint-disable invalid-characters "§"
 §X. But against this vain succession,
@@ -582,7 +615,7 @@ if not most of those by and through whom they derive this authority,
 were altogether destitute of this life and virtue of Christianity.
 Therefore they could neither receive, have, nor transmit any Christian authority.
 
-Obj.
+_Obj._
 But if it be objected that though the generality of the bishops and priests
 of the church of Rome during the apostasy were such wicked men,
 yet Protestants affirm, and thou thyself seemest to acknowledge,
@@ -590,7 +623,7 @@ that there were some good men among them, whom the Lord regarded,
 and who were true members of the catholic Church of Christ;
 might not they then have transmitted this authority?
 
-Answ.
+_Answ._
 I answer, this saith nothing,
 in respect Protestants do not at all lay claim to their ministry
 as transmitted to them by a direct line of good men,
@@ -617,8 +650,8 @@ it is not lawful for anyone of another race or blood,
 because he assumes the name or arms of that family,
 to possess the estate and claim the superiorities and privileges of the family,
 but by the law of nations the inheritance devolves
-// lint-disable invalid-characters "Æ"
-into the prince as being ultimus hÆres,
+// lint-disable invalid-characters "œ"
+into the prince as being _ultimus hœres,_
 and so he giveth it again immediately to whom he sees meet and makes them bear the name
 and arms of the family who then are entitled to the privileges and revenues thereof.
 So in like manner, the true name and title of a Christian,
@@ -790,6 +823,9 @@ of Steph 6. of Jean 8. Also Onuphrius`' annotations upon this Papass,
 towards the end.]
 of divers bishops of Rome.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §XI. But such as object not this succession of the church (which
 yet most Protestants begin now to do) distinguish in this matter,
@@ -801,15 +837,15 @@ may instruct and teach them and then become authorized by the people`'s joining 
 and accepting of their ministry only.
 Most of them also will affirm that the Spirit herein is subjective, and not objective.
 
-Obj.
+_Obj._
 But they say that where a church is reformed,
 such as they pretend the Protestant churches are,
 there an ordinary orderly call is necessary; and that of the Spirit, as extraordinary,
-is not to be sought after: alleging that res aliter se habet in ecclesia constituenda,
-quam in ecclesia constituta, that is,
-there is a difference in the constituting of a church, and after it is constitute.
+is not to be sought after: alleging that
+_res aliter se habet in ecclesia constituenda, quam in ecclesia constituta,_
+that is, there is a difference in the constituting of a church, and after it is constitute.
 
-Answ.
+_Answ._
 I answer, this objection as to us saith nothing, seeing we accuse,
 and are ready from the Scriptures to prove the Protestants guilty of gross errors,
 and needing reformation, as well as they did and do the Papists;
@@ -828,11 +864,19 @@ and they need him no less to preserve and guide his Church and children,
 than to gather and beget them.
 Nature taught the Gentiles this maxim:
 
-Non minor est virtus, quam quaerere, parta tueri.
+[verse]
+____
+_Non minor est virtus, quam quaerere, parta tueri._
+____
+
+[.offset]
 Englished thus,
 
+[verse]
+____
 For to defend what you attain
 Requires no less strength than to gain.
+____
 
 For it is by this inward and immediate operation of the Spirit (which
 Christ hath promised to "`lead his children with into all Truth,`" and to
@@ -853,13 +897,16 @@ is not to be discerned from Popish by any fresh living
 zeal or lively power of the Spirit accompanying it,
 but merely by the difference of some notions and opinions.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §XII.
-Obj. Some unwise and unwary Protestants do sometimes object to us,
+_Obj._ Some unwise and unwary Protestants do sometimes object to us,
 that if we have such an immediate call as we lay
 claim to we ought to confirm it by miracles.
 
-Answ.
+_Answ._
 But this being an objection once and again objected
 to the primitive Protestants by the Papists,
 we need but short return the answer to it that they did to the Papists, to wit,
@@ -872,6 +919,9 @@ And that John the Baptist and divers of the prophets did none that we hear of,
 and yet were both immediately and extraordinarily sent.
 This is the common Protestant answer, therefore may suffice in this place,
 though if need were I could say more to this purpose, but that I study brevity.
+
+[.small-break]
+'''
 
 // lint-disable invalid-characters "§"
 §XIII.
@@ -913,6 +963,9 @@ And for the resolving this doubt,
 I must needs recur to the inward and immediate testimony of the Spirit,
 as in the proposition concerning the Scriptures more at large is shown.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §XIV.
 From all this then we do firmly conclude,
@@ -950,6 +1003,9 @@ and bid men receive the Holy Ghost while they believe the thing impossible,
 and confess that that ceremony has no real effect?
 Having thus far spoken of the call,
 I shall proceed next to treat of the qualifications and work of a true minister.
+
+[.small-break]
+'''
 
 // lint-disable invalid-characters "§"
 §XV. As I have placed the true call of a
@@ -1002,14 +1058,10 @@ Since then Christianity cannot be truly enjoyed,
 neither any man denominated a Christian without the true grace of God,
 therefore neither can any man be a true and lawful teacher of Christianity without it.
 
-Arg.
-Secondly, No man can be a minister of the Church of Christ, which is his body,
-unless he be a member of the body, and receive of the virtue and life of the Head.
-
-But he that hath not true Grace can neither be a member of the body,
-neither receive of that life and nourishment which comes from the Head:
-
-Therefore far less can he be a minister to edify the body.
+[.syllogism]
+* _Arg._ Secondly, No man can be a minister of the Church of Christ, which is his body, unless he be a member of the body, and receive of the virtue and life of the _Head._
+* But he that hath not true Grace can neither be a member of the body, neither receive of that life and nourishment which comes from the Head:
+* Therefore far less can he be a minister to edify the body.
 
 That he cannot be a minister who is not a member is evident,
 because who is not a member is shut out and cut off, and hath no place in the body,
@@ -1048,6 +1100,9 @@ neither anything that worketh to the edifying of it,
 but according to a measure of grace received from the Spirit,
 surely without grace none ought to be admitted to work or labour in the body,
 because their labour and work, without this Grace and Spirit, would be but ineffectual.
+
+[.small-break]
+'''
 
 // lint-disable invalid-characters "§"
 §XVI.
@@ -1116,12 +1171,9 @@ Hence it was so strictly appointed concerning the election of prelates (which ho
 calls the sacrament of nomination) that the bishops and apostles who should oversee
 the service of the church should be men of most entire manners and life,
 powerful in sound doctrine, to give a reason for all things.`" So also another^
-footnote:[Francis Lambert of Avenion, in his book concerning Prophecy, Learning,
-Tongues and the Spirit of Prophecy.
-Argentorat.
-excus.
-anno 1516, deprov.
-cap. 24.]
+footnote:[Francis Lambert of Avenion, in his book concerning prophecy, learning,
+tongues and the spirit of prophecy.
+_Argentorat. excus. anno 1516, deprov. cap. 24._]
 about the same time writeth thus:
 "`Therefore it can never be that by the tongues or learning any can give
 a sound judgment concerning the Holy Scriptures and the truth of God.
@@ -1131,17 +1183,20 @@ tongues, or any outward thing,
 so as therefore to believe this or that to be the voice of Christ his true shepherd;
 he knoweth that there is need of no other thing but the testimony of the Spirit of God.`"
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §XVII.
-Obj. Against this absolute necessity of Grace they
+_Obj._ Against this absolute necessity of Grace they
 object that if all ministers had the saving Grace of God,
 then all ministers should be saved, seeing none can fall away from or lose saving Grace.
 
-Answ.
+_Answ._
 But this objection is built upon a false hypothesis, purely denied by us,
 and we have in the former proposition concerning perseverance already refuted it.
 
-Obj.
+_Obj._
 Secondly,
 it may be objected to us that since we affirm that
 every man hath a measure of true and saving Grace,
@@ -1149,10 +1204,10 @@ there needs no singular qualification neither to a Christian nor minister;
 for seeing every man hath this Grace,
 then no man needs forbear to be a minister for want of Grace.
 
-Answ.
+_Answ._
 I answer, we have above shown that there is necessary to the making a minister,
 a special and particular call from the Spirit of God,
-which is something besides the universal dispensation of grace to all,
+which is something besides the universal dispensation of grace to _all,_
 according to that of the apostle, "`No man taketh this honor unto himself,
 but he that is called of God, as was Aaron.`"^
 footnote:[Heb. 5:4.]
@@ -1170,7 +1225,7 @@ which the apostle requires as necessary in a true Christian bishop and minister.
 
 Thirdly, they object the example of the false prophets, of the Pharisees,
 and of Judas.^
-footnote:[So Nic. Arnoldus, sect. 32 upon the 4 These.]
+footnote:[So Nic. Arnoldus, sect. 32 upon the 4 _These._]
 
 But first, As to the false prophets, there can nothing be more foolish and ridiculous;
 as if, because there were false prophets, truly false, without the Grace of God,
@@ -1180,9 +1235,7 @@ But what have false prophets common with true ministers?
 but that they pretend falsely that which they have not.
 And because false prophets want true Grace,
 will it therefore follow that true prophets ought not to have it, or need it not?
-yea doth it not much rather follow that they ought to have it,^
-footnote:[Later editors omit "`or need it not?
-yea doth it not much rather follow that they ought to have it.`"]
+yea doth it not much rather follow that they ought to have it,
 that they may be true and not false?
 The example of the Pharisees and priests under the
 Law will not answer to the Gospel times,
@@ -1235,16 +1288,16 @@ and betake them to that one of whom it was testified that he was a devil,
 for a pattern and example to their ministry?
 Alas! it is to be regretted that too many of them resemble this pattern overmuch.
 
-Obj.
+_Obj._
 Another objection is usually made against the necessity of Grace,^
-footnote:[Ibid., Nic. Arnoldus.]
+footnote:[_Ibid.,_ Nic. Arnoldus.]
 that in case it were necessary then such as wanted
 it could not truly administer the sacraments;
 and consequently the people would be left in doubts and infinite scruples,
 as not knowing certainly whether they had truly received them because not knowing
 infallibly whether the administrators were truly gracious men.
 
-Answ.
+_Answ._
 But this objection hitteth not us at all,
 because the nature of that spiritual and Christian worship which we,
 according to the Truth, plead for,
@@ -1252,6 +1305,9 @@ is such as is not necessarily attended with these carnal and outward
 institutions from the administering of which the objection ariseth,
 and so hath not any such absurdity following upon it,
 as will afterwards more clearly appear.
+
+[.small-break]
+'''
 
 // lint-disable invalid-characters "§"
 §XVIII.
@@ -1268,11 +1324,7 @@ heart as honest Mary did the sayings which she heard and things which she observ
 and also out of this treasure of the soul, as the good scribe,
 brings forth things new and old,
 according as the same Spirit moves and gives a true liberty,
-and as need is for the Lord`'s glory, whose the soul is, and for whom,
-and with an eye to whose glory, she^
-footnote:[Later editors replace "`as need is for the Lord`'s glory, whose the soul is,
-and for whom, and with an eye to whose glory, she`" with "`as the glory of God requires,
-for whose glory the soul.`"]
+as the glory of God requires, for whose glory the soul,
 which is the temple of God learneth to do all things.
 This is that good learning which we think necessary to a true minister;
 by and through which learning a man can well instruct, teach, and admonish in due season,
@@ -1282,8 +1334,7 @@ who "`testified of what they had seen, heard, felt,
 and handled of the Word of Life`" (1 John 1:1),
 ministering the gift according as they had received the same,
 as good stewards of the manifold grace of God,
-and preached not the uncertain rumors of others^
-footnote:[Later editors replace "`others`" with "`men.`"]
+and preached not the uncertain rumors of men
 by hearsay which they had gathered merely in the comprehension,
 while they were strangers to the thing in their own experience in themselves:
 as to teach people how to believe while themselves were unbelieving,
@@ -1291,11 +1342,14 @@ or how to overcome sin while themselves are slaves to it, as all ungracious men 
 or to believe and hope for an eternal reward which themselves have not as yet arrived at,
 etc.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §XIX.
 But let us examine this literature which
 they make so necessary to the being of a minister;
-as in the first place, the knowledge of the tongues, at least of the Latin, Greek,
+as in the first place, the knowledge of the _tongues,_ at least of the Latin, Greek,
 and Hebrew.
 The reason for this is that they may read the Scriptures, which is their only rule,
 in the original languages,
@@ -1359,10 +1413,12 @@ who though the professor (who also is esteemed a learned
 man) constantly asserted his saying to be a Scripture sentence,
 yet affirmed, not through any certain letter-knowledge he had of it,
 but from the most certain evidence of the Spirit in himself,
-that the professor lied;^
-footnote:[Later editors substitute "`was mistaken`" for "`lied.`"]
+that the professor was mistaken;
 and that the Spirit of God never said any such thing as the other affirmed:
 and the Bible being brought, it was found as the poor shoemaker had said.
+
+[.small-break]
+'''
 
 // lint-disable invalid-characters "§"
 §XX. The second part of their literature is logic and philosophy,
@@ -1391,10 +1447,10 @@ The use that wise men and solid make of it, is to see the emptiness thereof;
 therefore saith one "`It is an art of contention and darkness,
 by which all other sciences are rendered more obscure, and harder to be understood.`"
 
-Inst.
+_Inst._
 If it be urged that thereby the Truth may be maintained and confirmed and heretics confuted;
 
-Answ.
+_Answ._
 I answer, the Truth, in men truly rational, needeth not the help thereof,
 and such as are obstinate this will not convince;
 for by this they may learn twenty tricks and distinctions, how to shut out the Truth;
@@ -1402,7 +1458,7 @@ and the Truth proceeding from an honest heart and spoken forth
 from the Virtue and Spirit of God will have more influence,
 and take sooner and more effectually, than by a thousand demonstrations of logic;
 as that heathen philosopher^
-footnote:[Lucas Osiander, epit hist. Eccles+++.+++, lib. 2, cap. 5, cent. 4.]
+footnote:[Lucas Osiander, _epit hist. Eccles+++.+++, lib. 2, cap. 5, cent. 4._]
 acknowledged who, disputing with the Christian bishops in the Council of Nice,
 was so subtle that he could not be overcome by them;
 but yet by a few words spoken by a simple old rustic was presently
@@ -1431,6 +1487,9 @@ thus exhorted the Colossians (Col. 2:8):
 to his beloved disciple Timothy he writes also thus (1 Tim. 6:20):
 "`O Timothy, keep that which is committed to thy trust,
 avoiding profane and vain babblings, and oppositions of science falsely so called.`"
+
+[.small-break]
+'''
 
 // lint-disable invalid-characters "§"
 §XXI.
@@ -1493,6 +1552,9 @@ may be better understood by such kind of men now
 than with all that mass of scholastic stuff,
 which neither Peter, nor Paul, nor John, ever thought of.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §XXII.
 But this invention of Satan, wherewith he began the apostasy,
@@ -1548,6 +1610,9 @@ converting of a sinner unto God than all of them,
 learned after the flesh;
 as in that example of the old man at the Council of Nice did appear.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §XXIII.
 And if in any age since the apostles`' days God
@@ -1591,6 +1656,9 @@ seeing that in and among them I with many others
 have found the heavenly food that gives contentment,
 let my soul seek after this learning and wait for it forever.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §XXIV.
 Having thus spoken of the call and qualifications of a Gospel minister,
@@ -1612,7 +1680,7 @@ have run themselves into many confusions and disorders,
 seeking to establish an order in this matter.
 For some will have first a chief bishop or pope to rule and be a prince over all;
 and under him by degrees, cardinals, patriarchs, archbishops, priests, deacons,
-sub-deacons and besides these, acoluthi, tonsorati, ostiarii, etc. And in their theology,
+sub-deacons and besides these, _acoluthi, tonsorati, ostiarii,_ etc. And in their theology,
 as they call it, professors, bachelors, doctors,
 etc. And others would have every nation independent of another,
 having its own metropolitan or patriarch, and the rest in order subject to him,
@@ -1634,6 +1702,7 @@ Greek and Roman empires.
 These last upon this account, though among those that are called Christians,
 have been no less bloody and monstrous than the former among heathens,
 concerning their outward empires and governments.
+
 Now all this, both among Papists and Protestants, proceedeth,
 in that they seek in imitation to uphold a form and shadow of things,
 though they want the Power, Virtue and Substance,
@@ -1676,9 +1745,12 @@ And such as have this call verify the Gospel, by "`preaching not in speech only,
 but also in power and in the Holy Ghost, and in much fullness`" (1 Thess. 1:5),
 and cannot but be received and heard by the sheep of Christ.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §XXV.
-Obj. But if it be objected here that I seem hereby
+_Obj._ But if it be objected here that I seem hereby
 to make no distinction at all betwixt ministers and others;
 which is contrary to the apostle`'s saying (1 Cor. 12:29), "`Are all apostles?
 Are all prophets?
@@ -1691,7 +1763,7 @@ of the Church in general from the rest of the members but also from themselves,
 as naming them distinctly and separately, apostles, prophets, evangelists, pastors,
 teachers, etc.
 
-Answ.
+_Answ._
 As to the last part of this objection, to which I shall first answer:
 it is apparent that this diversity of names is not for to distinguish separate offices,
 but to denote the different and various operations of the Spirit,
@@ -1716,7 +1788,7 @@ because all acknowledge that pastors and teachers,
 which the apostle there no less separateth and distinguisheth than pastors and prophets,
 or apostles, are one and the same, and coincide in the same office and person,
 and therefore so may be said of the rest.
-For "`prophecy`" as it signifieth the foretelling of things to come,
+For "`prophecy`" as it signifieth the _foretelling of things to come,_
 is indeed a distinct gift, but no distinct office,
 and therefore our adversaries do not place it among their several orders,
 neither will they deny but that both may be and hath been given
@@ -1733,7 +1805,7 @@ called to the work of the ministry,
 yet it is not so proper to them, as not to be, when the saints are met together,
 as any of them are moved by the Spirit, common to others:
 for some acts belong to all in such a relation,
-but not only to those within that relation, Competunt omni, sed non soli:
+but not only to those within that relation, _Competunt omni, sed non soli:_
 thus to see and hear are proper acts of a man;
 seeing it may be properly predicated of him, that he heareth and seeth:
 yet are they common to other creatures also.
@@ -1751,9 +1823,8 @@ according to the various measures of the gift received, the next verse showeth:
 "`And the spirits of the prophets are subject to the prophets.
 For God is not the author of confusion but of peace.`" Now that prophesying,
 in this sense, may be common to all saints, appears by verse 39 of the same chapter,
-where speaking to all in general he saith, "`Therefore, brethren, covet to prophesy`";
-and (v. 1) he exhorts them, saying "`Covet^
-footnote:[Later editors change "`covet`" to "`desire.`"]
+where speaking to _all_ in general he saith, "`Therefore, brethren, covet to prophesy`";
+and (v. 1) he exhorts them, saying "`Desire
 spiritual gifts, but the rather that ye may prophesy.`"
 
 Secondly, as to evangelists, the same may be said:
@@ -1770,13 +1841,14 @@ that upon that particular account the apostle used the word
 as preach the Gospel in purity after some time of apostasy,
 may be truly called evangelists,`" and therefore saith,
 "`that there were apostles in his time`";
-and hence the Protestants at their first coming forth, termed themselves evangelici,
+and hence the Protestants at their first coming forth, termed themselves _evangelici,_
 or evangelics.
 
 Lastly, an apostle, if we look to the etymology of the word, signifies one that is sent,
 and in respect every true minister is sent of God in so far he is an apostle,
 though these twelve, because of their being specially sent of Christ,
-were therefore called apostles, RESTORE-GREEK, or per eminentiam, i.e., by way of excellency.
+// lint-disable invalid-characters
+were therefore called apostles, κατʹ ἐξοχὴν, or _per eminentiam,_ i.e., by way of excellency.
 And yet that there was no limitation to such a number as some foolishly imagine,
 it appears, because after that number was filled up,
 the apostle Paul was afterwards so called;
@@ -1789,9 +1861,7 @@ though he had no distinct office,
 yet I doubt not but both Papists and Protestants would judge
 it tolerable to call such an one an apostle or an evangelist.
 For some of the Jesuits call of their sect apostles of India and of Japan,
-upon this alleged^
-footnote:[Later editors omit "`alleged.`"]
-account.
+upon this account.
 And Calvin testifies that there were apostles and evangelists in his time,
 upon the account of the Reformation,
 upon which account we have known John Knox often called the apostle of Scotland,
@@ -1801,6 +1871,9 @@ and therefore in that respect we judge there ought to be no precedency among the
 to prove which I shall not insist,
 seeing it is shown largely and treated of by such as have denied the diocesan episcopacy,
 as they call it.
+
+[.small-break]
+'''
 
 // lint-disable invalid-characters "§"
 §XXVI.
@@ -1843,6 +1916,9 @@ if he once intend for the ministry, but he must see to get him a place,
 and then he hath his set hire for a livelihood to him;
 he must also be distinguished from the rest by the color of his clothes,
 for he must only wear black, and must be a master of arts: but more of this hereafter.
+
+[.small-break]
+'''
 
 // lint-disable invalid-characters "§"
 §XXVII.
@@ -1899,8 +1975,7 @@ nor that they are any ways fit for it, because of the defect of that literature,
 do thereby neglect the gift in themselves and quench many times
 the pure breathings of the Spirit of God in their hearts;
 which, if given way to,
-might have proved much more for the edification of the Church than many of the cunned^
-footnote:[cunned +++=+++ researched.]
+might have proved much more for the edification of the Church than many of the researched
 sermons of the learned.
 And so by this means the apostle`'s command and advice is slighted,
 who exhorteth (1 Thess. 5:19-20) "`not to quench the Spirit, nor despise prophesying`":
@@ -1924,10 +1999,10 @@ I shall speak of it more largely in the next proposition, which is concerning wo
 The last thing to be considered and inquired into
 is concerning the maintenance of a Gospel minister;
 but before I proceed I judge it fit to speak something
-in short concerning the preaching of women,
+in short concerning the _preaching of women,_
 and to declare what we hold in that matter.
 
-Seeing "`male and female are one in Christ Jesus,`" and tha
+Seeing "`male and female are one in Christ Jesus,`" and that
 he gives his Spirit no less to one than to the other,
 when God moveth by his Spirit in a woman we judge it no ways unlawful
 for her to preach in the assemblies of God`'s people.
@@ -1952,6 +2027,9 @@ and by them also frequently comforted the souls of his children;
 which manifest experience puts the thing beyond all controversy:
 but now I shall proceed to speak of the maintenance of ministers.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §XXVIII.
 We freely acknowledge, as the Proposition holds forth,
@@ -1970,11 +2048,11 @@ As to the first, our adversaries are forced to recur to the example of the Law,
 a refuge they use in defending most of their errors and superstitions
 which are contrary to the nature and purity of the Gospel.
 
-Obj.
+_Obj._
 They say, God appointed the Levites the tithes,
 therefore they belong also to such as minister in holy things under the Gospel.
 
-Answ.
+_Answ._
 I answer,
 all that can be gathered from this is that as the priests
 had a maintenance allowed them under the law,
@@ -1994,7 +2072,7 @@ notwithstanding they inherit what they have by their parents as well as other me
 yet claim the whole tithes, allowing nothing either to widow or stranger.
 But as to the tithes I shall not insist,
 because divers others have clearly and learnedly treated of it apart,
-and also divers Protestants do confess them not to be jure divino,
+and also divers Protestants do confess them not to be _jure divino,_
 and the parity as to the quota doth not hold,
 but only in general as to the obligation of a maintenance.
 Which maintenance,
@@ -2013,8 +2091,8 @@ these were to do their duty and freely to communicate
 (as the Lord should order them) what they had received,
 without seeking or expecting a reward.
 
-The answer given to this by Nicolaus Arnoldus, Exercit.
-Theolog.
+The answer given to this by Nicolaus Arnoldus, [.book-title]#Exercit.
+Theolog.#
 sect.
 42-43, is not to be forgotten,
 but indeed to be kept upon record for a perpetual remembrance of him and his brethren,
@@ -2042,12 +2120,12 @@ and therefore they expect both money and ease again.
 And therefore,
 as Arnoldus gets money for teaching his young students the art and trade of preaching,
 so he intends they should be repaid before they give it again to others.
-It was of old said, "`Omnia venalia Romae,`" i.e.,
+It was of old said, __"`Omnia venalia Romae,`"__ i.e.,
 "`All things are set out to sale at Rome,`" but now
 the same proverb may be applied to Franeker.
 And therefore Arnoldus`'s students, when they go about to preach,
 may safely seek and require hereby, telling their hearers their master`'s maxim,
-Nos gratis non accepimus, ergo neque gratis dare tenemur.
+_Nos gratis non accepimus, ergo neque gratis dare tenemur._
 But then they may answer again that they find them
 and their master to be none of his ministers,
 who when he sent forth his disciples, gave them this command, "`Freely ye have received,
@@ -2055,6 +2133,9 @@ freely give,`" and therefore we will have none of your teaching,
 because we perceive you to be of the number of those
 "`that look for their gain from their quarter.`"^
 footnote:[Isa. 56:11.]
+
+[.small-break]
+'''
 
 // lint-disable invalid-characters "§"
 §XXIX.
@@ -2073,13 +2154,13 @@ and a little from one may more truly fulfill the obligation than a great deal fr
 And therefore as acts of charity and hospitality can neither be limited nor forced,
 so neither can this.
 
-Obj.
+_Obj._
 If it be objected that ministers may and ought to exhort, persuade,
 yea and earnestly press Christians (if they find
 them defective therein) to acts of charity and hospitality,
 and so may they do also to the giving of maintenance;
 
-Answ.
+_Answ._
 I answer,
 all this saith nothing for a stinted and forced maintenance (for which there
 cannot so much as the show of one solid argument be brought from Scripture).
@@ -2118,6 +2199,9 @@ showing that it is so far from a thing that a true minister ought to aim at or e
 that it is rather a burden to a true minister, and cross to him,
 to be brought upon necessity so to lack.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §XXX.
 Fourthly, If a forced and stinted maintenance were to be supposed,
@@ -2130,8 +2214,7 @@ it cannot be denied that such a one preacheth for hire and so "`looks for his ga
 his quarter,`" yea and "`prepares war against such as put not into his mouth`":^
 footnote:[Micah 3:5.]
 but this is the particular special mark of a false prophet and a hireling,
-and therefore can no ways compete^
-footnote:[compete +++=+++ to be suitable, competent.]
+and therefore can no ways be suitable
 to a true minister of Christ.
 
 Next, that a superfluous maintenance, that is,
@@ -2150,6 +2233,9 @@ it can no ways be supposed lawful for them to receive more than is sufficient,
 and indeed, were they truly pious and right, though necessitate,
 they would rather incline to take too little, than be gaping after too much.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §XXXI.
 Now that there is great excess and abuse hereof among Christians,
@@ -2163,13 +2249,13 @@ But it is manifest these bishops and priests love their fat benefices and the
 pleasure and honor that attend them so well that they purpose neither to follow
 Christ nor his apostles`' example nor advice in this matter.
 
-Obj.
+_Obj._
 But it is usually objected, that Christians are become so hardhearted,
 and generally so little heed spiritual things,
 that if ministers had not a settled and stinted maintenance secured
 them by law they and their families might starve for want of bread.
 
-Answ.
+_Answ._
 I answer, This objection might have some weight as to a carnal ministry,
 made up of natural men who have no life, power, nor virtue with them,
 and so may insinuate some need of such a maintenance for such a ministry;
@@ -2196,11 +2282,11 @@ or will not do it until they be sure of their payment?
 What for serves the ministry but to perfect the saints,
 and so to convert them from that hard-heartedness?
 
-Obj.
+_Obj._
 But thou wilt say, I have laboured and preached to them,
 and they are hardhearted still and will not give me anything.
 
-Answ.
+_Answ._
 Then surely thou hast either not been sent to them of God,
 and so thy ministry and preaching hath not been among them in the Power, Virtue,
 and Life of Christ, and so thou deservest nothing;
@@ -2220,6 +2306,9 @@ neither will he ever forbear to do his work for that cause.
 And indeed such as make this objection show truly that they
 serve not the Lord Christ but their own belly,
 and that makes them so anxious for want of food to it.
+
+[.small-break]
+'''
 
 // lint-disable invalid-characters "§"
 §XXXII.
@@ -2271,7 +2360,7 @@ things is too openly known and needs not be proven.
 
 The scandal that herethrough is raised among Christians
 is so manifest that it is become a proverb,
-that "`the KIRK is always GREEDY.`" Whereby the Gift and Grace of God being neglected,
+that "`the kirk is always greedy.`" Whereby the Gift and Grace of God being neglected,
 they have for the most part no other motive or rule
 in applying themselves to one church more than another,
 but the greater benefice.
@@ -2311,7 +2400,7 @@ twenty lies they will hear unreproved,
 and as many oaths a man may swear in their hearing without offending them,
 and greater evils than all this they can overlook,
 but if thou owest them aught & refuse to pay it,
-then nothing but war will they thunder against thee,
+then nothing but _war_ will they thunder against thee,
 and they will stigmatize thee with the horrible title of sacrilege,
 and send thee to hell without mercy,
 as if thou hadst committed the sin against the Holy Ghost.
@@ -2363,6 +2452,9 @@ for he that sends them will take care for them; and they also,
 having "`food and raiment,`" will "`therewith be content.`"^
 footnote:[1 Tim. 6:8.]
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §XXXIII.
 The sum then of what is said is that the ministry that we have pleaded for,
@@ -2374,6 +2466,10 @@ it is very like the false prophets and teachers testified
 against and condemned in the Scripture,
 as may be thus briefly illustrated.
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ The ministry and ministers we plead for are such as are immediately called
 and sent forth by Christ and his Spirit unto the work of the ministry,
 so were the holy apostles and prophets, as appears by these places: Matt. 10:1,5;
@@ -2386,6 +2482,7 @@ but who are called, sent forth, and ordained by wicked and ungodly men,
 such were of old the false prophets and teachers, as appears by these places:
 Jer. 14:14-15; 23:21; and 27:15.
 
+[.numbered]
 2+++.+++ The ministers we plead for are such as are acted and led by God`'s Spirit,
 and by the Power and operation of his Grace in their
 hearts are in some measure converted and regenerate,
@@ -2396,8 +2493,9 @@ as appears from 1 Tim. 3:2-6; Tit. 1:7-9.
 to whom the grace of God is no needful qualification,
 and so may be true ministers, according to them, though they be ungodly, unholy,
 and profligate men: such were the false prophets and apostles,
-as appears from Mic. 3:11-5; 1 Tim. 6:5-8, etc.; 2 Tim. 3:2; 2 Pet. 2:1-3.
+as appears from Mic. 3:5,11; 1 Tim. 6:5-8, etc.; 2 Tim. 3:2; 2 Pet. 2:1-3.
 
+[.numbered]
 3+++.+++ The ministers we plead for are such as act,
 move and labour in the work of the ministry,
 not from their own mere natural strength and ability, but as they are acted, moved,
@@ -2416,6 +2514,7 @@ and not in the evidence and demonstration of the Spirit and power:
 such were the false prophets and apostles, as appears: Jer. 23:30-32,34, etc.;
 1 Cor. 4:18; Jude 16.
 
+[.numbered]
 4+++.+++ The ministers we plead for are such as, being holy and humble,
 contend not for precedency and priority,
 but rather strive to prefer one another and serve one another in love;
@@ -2430,6 +2529,7 @@ and claim precedency over one another,
 affecting and ambitiously seeking after the forementioned things,
 such were the false prophets and apostles in time past: Matt. 23:5-7.
 
+[.numbered]
 5+++.+++ The ministers we plead for are such as having freely received, freely give;
 who covet no man`'s silver, gold or garments; who seek no man`'s goods, but seek them,
 and the salvation of their souls; whose hands supply their own necessities,
@@ -2452,6 +2552,8 @@ eating the fat and clothing themselves with the wool, making merchandise of soul
 and following the way of Balaam that loved the wages of unrighteousness.
 Such were the false prophets and apostles: Isa. 56:11, Ezek. 34:2-3,8;
 Mic. 3:11-5; Tit. 1:10-11; 2 Pet. 2:1-2,14,15.
+
+====
 
 And in a word, We are for a holy, spiritual,
 pure and living ministry where the ministers are both called, qualified and ordered,

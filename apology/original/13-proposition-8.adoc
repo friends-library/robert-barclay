@@ -1,7 +1,9 @@
 == THE EIGHTH PROPOSITION
 
+[.chapter-subtitle--blurb]
 Concerning Perfection
 
+[.heading-continuation-blurb]
 In whom this pure and holy birth is fully brought forth,
 the body of death and sin comes to be crucified and removed,
 and their hearts united and subjected to the Truth:
@@ -15,7 +17,7 @@ where the mind doth not most diligently and watchfully attend unto the Lord.
 §I. Since we have placed justification in the revelation
 of Jesus Christ formed and brought forth in the heart,
 there working his works of righteousness and bringing forth the fruits of the Spirit.
-The question is how far he may prevail in us, while we are in this life,
+The question is how far he may prevail _in_ us, while we are in this life,
 or we over our souls`' enemies, in and by his strength?
 Those that plead for justification wholly without them,
 merely by imputative righteousness,
@@ -41,6 +43,9 @@ so it is possible so far to keep to it as not to
 be found daily transgressors of the law of God.
 And for the more clear stating of the controversy, let it be considered.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §II. First, that we place not this possibility in man`'s own will and capacity,
 as he is a man, the son of fallen Adam, or as he is in his natural state,
@@ -58,7 +63,7 @@ Thirdly,
 that by this we understand not such a perfection as may not daily admit of a growth,
 and consequently mean not, as if we were to be as pure, holy,
 and perfect as God in his divine attributes of wisdom, knowledge and purity;
-but only a perfection proportionable and answerable to man`'s measure,
+but __only a perfection proportionable and answerable to man`'s measure,__
 whereby we are kept from transgressing the law of
 God and enabled to answer what he requires of us,
 even as he that improved his two talents so as to make four of them perfected his work,
@@ -67,14 +72,14 @@ servant,`" nothing less than he that made his five ten.
 Even as a little gold is perfect gold in its kind, as well as a great mass,
 and a child hath a perfect body as well as a man, though it daily grow more and more.
 Thus Christ is said (Luke 2:52) to have "`increased in wisdom and stature,
-and in favour with God and man,`" though before that time he had never sinned,
+and in favour with God and man,`" though before that time he had __never sinned,__
 and was (no doubt) perfect, in a true and proper sense.
 
 Fourthly, though a man may witness this for a season,
-and therefore all ought to press after it, yet we do not affirm but those,
+and therefore all ought to press after it, yet we do not affirm but _those,
 that have attained it in a measure, may, by the wiles and temptations of the enemy,
 fall into iniquity, and lose it sometimes, if they be not watchful,
-and do not diligently attend to that of God in the heart.
+and do not diligently attend to that of God in the heart._
 And we doubt not but many good and holy men, who have arrived to everlasting life,
 have had divers ebbings and flowings of this kind,
 for though every sin weakens a man in his spiritual condition,
@@ -91,25 +96,11 @@ Others may perhaps speak more certainly of this state, as having arrived to it.
 For me, I shall speak modestly, as acknowledging myself not to have arrived at it;
 yet I dare not deny it, for that it seems so positively to be asserted by the apostle,
 in these words (1 John 3:9), "`He that is born of God sinneth not, neither can he,
-because the seed of God remaineth in him.`"^
-footnote:[Later editors render this paragraph as follows: "`Lastly,
-though I affirm that after a man hath arrived at
-such a state in which he may be able not to sin,
-yet he may sin;
-nevertheless I will not affirm that a state is not attainable in this life,
-in which to do righteousness may be so natural to the regenerate soul,
-that in the stability of that condition he cannot sin.
-Others may speak more certainly of this state, if they have arrived at it.
-With respect to myself, I speak modestly,
-because I ingenuously confess that I have not yet attained it;
-but I cannot deny that there is such a state,
-as it seems to be so clearly asserted by the apostle, 1 John 3:9,
-'`whosoever is born of God doth not commit sin; for his seed remaineth in him:
-and he cannot sin, because he is born of God.`'`" ]
+because the seed of God remaineth in him.`"
 
 The controversy being thus stated, which will serve to obviate objections,
 I shall proceed first to show the absurdity of that
-doctrine that pleads for sin for term of life,
+doctrine that pleads for __sin for term of life,__
 even in the saints.
 
 Secondly,
@@ -117,11 +108,14 @@ prove this doctrine of perfection from many pregnant testimonies of the holy Scr
 
 And lastly, answer the arguments and objections of our opposers.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §III.
 First then, this doctrine, viz:
 that the saints nor can nor ever will be free of sinning in this life,
-is inconsistent with the wisdom of God and with his glorious power and majesty,
+is __inconsistent with the wisdom of God and with his glorious power and majesty,__
 "`who is of purer eyes than to behold iniquity,`"^
 footnote:[Hab. 1:13.]
 who having purposed in himself to gather to him, that should worship him,
@@ -171,8 +165,11 @@ they should no less, yea often much more, serve his enemy?
 What may we then think of that doctrine that would infer
 this folly upon the omnipotent and only wise God?
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
-§IV. Secondly, It is inconsistent with the justice of God.
+§IV. Secondly, __It is inconsistent with the justice of God.__
 For since he requires purity from his children,
 and commands them to abstain from every iniquity, so frequently and precisely,
 as shall hereafter appear;
@@ -214,6 +211,9 @@ as these men vainly imagine; for such faithful ones find of a truth,
 that his grace is sufficient for them,
 and know how by his power and Spirit to overcome the evil one.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §V. Thirdly,
 This evil doctrine is highly injurious to Jesus Christ and
@@ -228,7 +228,7 @@ Hence he is said (Tit. 2:14) "`to have given himself for us that he might
 redeem us from all iniquity and purify unto himself a peculiar people,
 zealous of good works.`" This is certainly spoken of the saints while upon earth.
 But contrary thereunto,
-these men affirm that we are never redeemed from all iniquity,
+these men affirm that we __are never redeemed from all iniquity,__
 and so make Christ`'s giving of himself for us void and ineffectual
 and give the apostle Paul the lie plainly,
 by denying that "`Christ purifieth to himself a peculiar people,
@@ -292,7 +292,10 @@ but that it should be holy and without blemish.`" Now,
 if Christ hath really thus answered the thing he came for,
 then the members of this church are not always sinning in thought, word and deed.
 Or there is no difference betwixt being sanctified and unsanctified, clean and unclean,
-holy & unholy, being daily blemished with sin, and being without blemish.
+holy and unholy, being daily blemished with sin, and being without blemish.
+
+[.small-break]
+'''
 
 // lint-disable invalid-characters "§"
 §VI. Fourthly, this doctrine renders the work of the ministry,
@@ -333,11 +336,14 @@ doubt) believed it attainable (Col. 4:12),
 stand perfect,`" etc. (1 Thess. 3:13;
 and 5:23, etc..
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §VII.
 But fifthly, this doctrine is contrary to common reason and sense.
-For the two opposite principles, whereof the one rules in the children of darkness,
-the other in the children of Light, are sin and righteousness.
+For the two opposite principles, whereof the one rules in the children of _darkness,_
+the other in the children of _Light,_ are _sin_ and _righteousness._
 And as they are respectively leavened and acted by them,
 so they are accounted either as reprobated or justified:
 seeing it is "`abomination in the sight of God either
@@ -384,6 +390,9 @@ Yet nevertheless, for the further evidencing of it,
 I shall proceed to the second thing proposed by me, to wit,
 to prove this from several testimonies of the holy Scriptures.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §VIII.
 And first,
@@ -427,9 +436,8 @@ ye have your fruit unto holiness,
 and the end everlasting life.`" And as this perfection or freedom from sin is attained
 and made possible where the Gospel and inward law of the Spirit is received and known,
 so the ignorance hereof has been and is an occasion of opposing this Truth.
-For man not minding the Light and Law^
-footnote:[Later editors replace "`Light and Law`" with "`Light or Law.`"]
-within his heart, which not only discovers sin but leads out of it,
+For man not minding the _Light_ or __Law
+within his heart,__ which not only discovers sin but leads out of it,
 and so being a stranger to the new Life and Birth that is born of God,
 which naturally doeth his will and can not of its
 own nature transgress the commandments of God,
@@ -444,7 +452,7 @@ So this is the Jew still, in effect, with his carnal commandment, with the law w
 in the first covenant state which "`makes not the comers thereunto
 perfect as pertaining to the conscience`" (Heb. 9:9):
 though they may have here a notion of Christianity and an external faith in Christ.
-This hath made them strain and wrest the Scriptures for an imputative righteousness,
+This hath made them strain and wrest the Scriptures for an __imputative righteousness,__
 wholly without them, to cover their impurities,
 and this hath made them imagine an acceptance with God possible
 though they suppose it impossible ever to obey Christ`'s commands.
@@ -472,8 +480,7 @@ world and the love and lusts thereof may die,
 and a new life be raised by which thou mayest live
 henceforward to God and not to or for thyself;
 and with the apostle thou mayest say (Gal. 2:20):
-"`It is no more I but Christ alive^
-footnote:[Later editors replace "`alive`" with "`liveth.`"]
+"`It is no more I but Christ liveth
 in me`"; and then thou wilt be a Christian indeed, and not in name only, as too many are:
 then thou wilt know what it is to have "`put off the old
 man with his deeds,`" who indeed sins daily in thought,
@@ -518,13 +525,16 @@ and no guile found in their mouth,`" is expressly mentioned in the time past.
 But I shall proceed now, in the third place,
 to answer the objections which indeed are the arguments of our opposers.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
-§IX. Obj.
+§IX. _Obj._
 I shall begin with their chief and great argument,
 which is the words of the apostle (1 John 1:8): "`If we say that we have no sin,
 we deceive ourselves, and the Truth is not in us.`" This they think invincible.
 
-Answ.
+_Answ._
 But is it not strange to see men so blinded with partiality?
 How many scriptures tenfold more plain do they reject,
 and yet stick so tenaciously to this, that can receive so many answers?
@@ -559,7 +569,7 @@ or commit not sin daily,`" but "`if we say we have no sin.`"
 And betwixt these two there is a manifest difference,
 for in respect all have sinned, as we freely acknowledge,
 all may be said in a sense to have sin.
-Again, "`sin`" may be taken for the seed of sin,
+Again, "`sin`" may be taken for the _seed of sin,_
 which may be in those that are redeemed from actual sinning:
 but as to the temptations and provocations proceeding from it,
 being resisted by the servants of God, and not yielded to,
@@ -572,13 +582,13 @@ presently after so qualified and subsumed in the time past,
 to contradict not only other positive expressions of his but the whole tendency
 of his epistle and of the rest of the holy commands and precepts of the Scripture?
 
-Obj.
+_Obj._
 Secondly, their second objection is from two places of Scripture,
 much of one signification: the one is (1 Kings 8:46),
 "`For there is no man that sinneth not.`" The other is (Ecc. 7:20),
 "`For there is not a just man upon earth, that doeth good, and sinneth not.`"
 
-Answ.
+_Answ._
 I answer, first, these affirm nothing of a daily and continual sinning,
 so as never to be redeemed from it, but only that all have sinned,
 or that there is none that doth not sin, though not always, so as never to cease to sin:
@@ -589,27 +599,28 @@ Secondly there is a respect to be had to the seasons and dispensations;
 for if it should be granted that in Solomon`'s time there was none that sinned not,
 it will not follow that there are none such now,
 or that it is a thing not now attainable by the grace of God under the Gospel,
-for a non esse ad non posse non valet sequela.
+for a _non esse ad non posse non valet sequela._
 And lastly, this whole objection hangs upon a false interpretation;
-for the Hebrew word RESTORE-GREEK
-may be read in the potential mood, thus, There is no man who may not sin,
+// lint-disable invalid-characters
+for the Hebrew word ׳חטא
+may be read in the potential mood, thus, _There is no man who may not sin,_
 as well as in the indicative: so both the old Latin, Junius and Tremellius,
 and Vatablus have it; and the same word is so used (Ps. 119:11),
-"`I have hid thy word in my heart, RESTORE-GREEK
+// lint-disable invalid-characters
+"`I have hid thy word in my heart, למען לא אחטא־לר׃
 that is to say, that I may not sin against thee, in the potential mood,
-and not in the indicative as it is in the English;^
-footnote:[Later editors drop "`as it is in the English.`"]
+and not in the indicative as it is in the English;
 which being more answerable to the universal scope of the Scriptures,
 the testimony of the Truth and the sense almost of all interpreters,
 doubtless ought to be so understood, and the other interpretation rejected as spurious.
 
-Obj.
+_Obj._
 Thirdly, they object some expressions of the apostle Paul (Rom. 7:19),
 "`For the good that I would I do not; but the evil which I would not,
 that I do.`" And (v. 24) "`O wretched man that I am!
 who shall deliver me from the body of this death?`"
 
-Answ.
+_Answ._
 I answer,
 this place infers nothing unless it were apparent that the apostle here
 were speaking of his own condition and not rather in the person of others,
@@ -642,24 +653,25 @@ and so goeth on, showing how he had obtained it, in the next chapter, viz. 8:35,
 "`But in all these things we are more than conquerors`"; and in the last verse,
 "`Nothing shall be able to separate us,`" etc. But wherever there is a continuing in sin,
 there there is a separation, in some degree, seeing every sin is contrary to God, and
-RESTORE-GREEK, i.e., a transgression of the law (1 John 3:4),
+// lint-disable invalid-characters
+άνομία, i.e., a transgression of the law (1 John 3:4),
 and whoever committeth the least sin is overcome of it,
 and so in that respect is not a conqueror but conquered.
 This condition then,
 which the apostle plainly testified he with some others had obtained,
 could not consist with continual remaining and abiding in sin.
 
-Obj.
+_Obj._
 Fourthly, they object the faults and sins of several eminent saints, as Noah, David, etc.
 
-Answ.
+_Answ._
 I answer, that doth not at all prove the case,
 for the question is not whether good men may not fall into sin, which is not denied;
 but whether it be not possible for them not to sin?
 It will not follow, because these men sinned, that therefore they were never free of sin,
 but always sinned.
 For at this rate of arguing it might be urged, according to this rule,
-Contrariorum par ratio, i.e.,
+_Contrariorum par ratio,_ i.e.,
 "`the reason of contraries is alike,`" that if because
 a good man hath sinned once or twice,
 he can never be free from sin, but must always be daily and continually a sinner,
@@ -669,13 +681,13 @@ but must always be a righteous man all his life time: which,
 as it is most absurd in itself,
 so it is contrary to the plain testimony of the Scripture (Ezek. 33:12-18).
 
-Obj.
+_Obj._
 Lastly, they object, that if perfection or freedom from sin be attainable,
 this will render mortification of sin useless,
 and make the blood of Christ of no service to us,
 neither need we any more pray for forgiveness of sins.
 
-Answ.
+_Answ._
 I answer, I had almost omitted this objection because of the manifest absurdity of it,
 for can mortification of sin be useless where the end of it is obtained?
 seeing there is no attaining of this perfection but by mortification
@@ -721,11 +733,13 @@ May it not then be said to them,
 what need have ye to pray for remission of sin who are already justified,
 whose sins are long ago forgiven, both past and to come?
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §X. But this may suffice;
-concerning this possibility Jerome speaks clearly enough (lib.
-iii., adver.
-Pelagium), "`This we also say that a man may not sin, if he will, for a time and place,
+concerning this possibility Jerome speaks clearly enough _(lib. iii., adver. Pelagium),_
+"`This we also say that a man may not sin, if he will, for a time and place,
 according to his bodily weakness, so long as his mind is intent,
 so long as the cords of the zither relax not by any vice,`" and again in the same book,
 "`Which is that, that I said, that it is put in our power (to wit,
@@ -736,10 +750,11 @@ which we indeed reject and abhor, and which the Fathers deservedly withstood,
 could attain to that state so as not to sin.`" And Augustine himself,
 a great opposer of the Pelagian heresy,
 did not deny this possibility as attainable by the help of God`'s grace,
-as in his book de Spiritu & litera, cap.
-2 and his book de Natura & Gratia against Pelagius, cap.
-42, 50, 60, and 63, de Gestis Concilii Palaestini, cap.
-7 and 11, and de Peccato Originali, lib. 2, cap. 11.
+as in his book [.book-title]#de Spiritu et Litera,# _cap. 2_
+and his book [.book-title]#de Natura et Gratia# against Pelagius, _cap.
+42, 50, 60, and 63,_ [.book-title]#de Gestis Concilii Palaestini,#
+_cap. 7 and 11,_
+and [.book-title]#de Peccato Originali,# _lib. 2, cap. 11._
 Gelasius also, in his disputation against Pelagius, saith,
 "`But if any affirm that this may be given to some saints in this life,
 not by the power of man`'s strength but by the grace of God,
@@ -750,6 +765,9 @@ canon last, "`We believe also this according to the Catholic faith,
 that all who are baptized through grace by baptism received,
 and Christ helping them and co-working,
 may and ought to do whatsoever belongs to salvation if they will faithfully labour.`"
+
+[.small-break]
+'''
 
 // lint-disable invalid-characters "§"
 §XI. Blessed then are they that believe in him,

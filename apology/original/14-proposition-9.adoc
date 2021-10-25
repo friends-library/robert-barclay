@@ -1,7 +1,9 @@
 == THE NINTH PROPOSITION
 
+[.chapter-subtitle--blurb]
 Concerning Perseverance, and the Possibility of Falling from Grace
 
+[.heading-continuation-blurb]
 Although this gift and inward grace of God be sufficient to work out salvation,
 yet in those in whom it is resisted it both may and doth become their condemnation.
 Moreover,
@@ -15,7 +17,7 @@ in this life, be attained, from which there can not be a total apostasy.
 // lint-disable invalid-characters "§"
 §I. The first sentence of this proposition hath
 already been treated of in the Fifth and Sixth Propositions,
-where it hath been shown that that Light which is given for life
+where it hath been shown that that _Light_ which is given for life
 and salvation becomes the condemnation of those that refuse it,
 and therefore is already proved in those places where did demonstrate
 the possibility of man`'s resisting the Grace and Spirit of God;
@@ -35,34 +37,25 @@ neither do I covet to appear knowing by writing much;
 but simply purpose to present to the world a faithful account of our principles
 and briefly to let them understand what we have to say for ourselves.
 
+[.offset]
 // lint-disable invalid-characters "§"
 §II. From these scriptures then included in the proposition
 (not to mention many more which might be urged) I argue thus:
 
-Arg.
-1+++.+++ If men may turn the grace of God into wantonness, then they must once have had it:
+[.syllogism]
+* _Arg. 1+++.+++_ If men may turn the grace of God into wantonness, then they must once have had it:
+* But the first is true,
+* Therefore also the second.
 
-But the first is true,
+[.syllogism]
+* _Arg. 2+++.+++_ If men may make shipwreck of faith, they must once have had it, neither could they ever have had true faith without the grace of God.
+* But the first is true,
+* Therefore also the last.
 
-Therefore also the second.
-
-Arg.
-2+++.+++ If men may make shipwreck of faith, they must once have had it,
-neither could they ever have had true faith without the grace of God.
-
-But the first is true,
-
-Therefore also the last.
-
-Arg.
-3+++.+++ If men may have tasted of the heavenly gift and been made partakers of the Holy Spirit,
-and afterwards fall away,
-they must needs have known in measure the operation of God`'s saving Grace and Spirit,
-without which no man could taste the heavenly gift, nor yet partake of the Holy Spirit:
-
-But the first is true,
-
-Therefore also the last.
+[.syllogism]
+* _Arg. 3+++.+++_ If men may have tasted of the heavenly gift and been made partakers of the Holy Spirit, and afterwards fall away, they must needs have known in measure the operation of God`'s saving Grace and Spirit, without which no man could taste the heavenly gift, nor yet partake of the Holy Spirit:
+* But the first is true,
+* Therefore also the last.
 
 Secondly, Seeing the contrary doctrine is built upon this false hypothesis,
 that Grace is not given for salvation to any but to a certain elect number,
@@ -90,22 +83,25 @@ That this was the doctrine of the primitive Protestants, thence appears,
 that the Augustan confession condemns it as an error of the Anabaptists
 to say that they who once are justified cannot lose the Holy Spirit.
 Many suchlike sayings are to be found in the common places of Philip Melancthon.
-Voss, in his Pelagian History (lib.
-6), testifies that this was the common opinion of the Fathers;
+Voss, in his [.book-title]#Pelagian History# _(lib.
+6),_ testifies that this was the common opinion of the Fathers;
 in the confirmation of the twelfth thesis (page 587) he hath these words: "`That this,
 which we have said was the common sentiment of antiquity, those at present can only deny,
 who otherways perhaps are men not unlearned,
 but nevertheless in antiquity altogether strangers,`" etc. These things thus observed,
 I come to the objections of our opposers.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §III.
-Obj. First,
+_Obj._ First,
 they allege that those places mentioned of "`making shipwreck
 of faith,`" are only to be understood of seeming faith,
 and not of a real true faith.
 
-Answ.
+_Answ._
 This objection is very weak,
 and apparently contrary to the text (1 Tim. 1:19),
 where the apostle addeth "`to faith a good conscience,`" by way of complaint; whereas,
@@ -123,13 +119,13 @@ And so he saith positively,
 "`They tasted of the heavenly gift and were made partakers of the Holy Ghost,`" etc.,
 not that they seemed to be so, which showeth this objection is very frivolous.
 
-Obj.
+_Obj._
 Secondly, they allege (Phil. 1:6), "`Being confident of this very thing,
 that he which hath begun a good work in you will
 perform it until the day of Jesus Christ,`" etc.,
 and (1 Pet. 1:5): "`Who are kept by the power of God through faith unto salvation.`"
 
-Answ.
+_Answ._
 These scriptures, as they do not affirm anything positively contrary to us,
 so they cannot be understood otherwise than as the condition is performed upon our part,
 seeing salvation is no otherways proposed there,
@@ -149,6 +145,9 @@ to come to that testimony of the Truth which is more especially ours in this mat
 and is contained in the latter part of the proposition in these words:
 "`Yet such an increase and stability in the Truth may in this life be attained,
 from which there cannot be a total apostasy.`"
+
+[.small-break]
+'''
 
 // lint-disable invalid-characters "§"
 §IV. As,
@@ -188,6 +187,9 @@ judge it always possible for the best of men,
 before they die, to fall away, I shall add, for the proof of it,
 some brief considerations from some few testimonies of the Scripture.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §V. And first, I freely acknowledge that it is good for all to be humble,
 and in this respect not overconfident, so as to lean to this,
@@ -222,9 +224,8 @@ from which he knew he could not fall away.
 But secondly, it appears such a condition is attainable because we are exhorted to it,
 and, as hath been proved before, the Scripture never proposeth to us things impossible.
 Such an exhortation we have from the apostle (2 Pet. 1:10): "`Wherefore the rather,
-brethren, give diligence to make your calling and election sure.`"^
-footnote:[Later editors complete the 2 Peter quote
-with "`for if ye do these things ye shall never fall.`"]
+brethren, give diligence to make your calling and election sure,
+for if ye do these things ye shall never fall.`"
 And though there be a condition here proposed,
 yet since we have already proved that it is possible to fulfill this condition,
 then also the promise annexed thereunto may be attained.
@@ -273,4 +274,4 @@ Of and concerning whom the Spirit of God testified that they are saved.
 Wherefore we also see such a state is attainable in this life,
 from which there is not a falling away.
 For seeing the Spirit of God did so testify, it was not possible that they should perish,
-concerning whom he who cannot lie thus bare witness.
+concerning whom _he who cannot lie_ thus bare witness.

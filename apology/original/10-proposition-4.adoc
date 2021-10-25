@@ -1,7 +1,9 @@
 == THE FOURTH PROPOSITION
 
+[.chapter-subtitle--blurb]
 Concerning the Condition of Man in the Fall
 
+[.heading-continuation-blurb]
 All Adam`'s posterity (or mankind), both Jews and Gentiles,
 as to the first Adam (or earthly man), is fallen, degenerated, and dead;
 deprived of the sensation (or feeling) of this inward testimony or seed of God;^
@@ -16,7 +18,7 @@ Man therefore, as he is in this state, can know nothing aright;
 yea his thoughts and conceptions concerning God and things spiritual,
 until he be disjoined from this evil seed and united to the Divine Light,
 are unprofitable both to himself and others.
-Hence are rejected the Socinian and Pelagian errors in exalting a natural light,
+Hence are rejected the Socinian and Pelagian errors in exalting a _natural_ light,
 as also of the Papists and most of Protestants,
 who affirm that man without the true grace of God may be a true minister of the Gospel.
 Nevertheless this seed is not imputed to infants until by
@@ -70,6 +72,9 @@ concerning these teachers which want the grace of God,
 we shall refer that to the Tenth Proposition,
 where the matter is more particularly handled.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §II. As to the first,
 not to dive into the many curious notions which many have
@@ -102,9 +107,9 @@ If then we may affirm that Adam did not retain in his nature (as belonging there
 any will or light capable to give him knowledge in spiritual things,
 then neither can his posterity; for whatsoever real good any man doth,
 it proceedeth not from his nature as he is man or the son of Adam,
-but from the seed of God in him, as a new visitation of life,
-in order to bring him out of this natural condition: so that though it be in him,
-yet it is not of him; and this the Lord himself witnessed (Gen. 6:5),
+but from the __seed of God in him,__ as a new visitation of life,
+in order to bring him out of this natural condition: so that though it be __in him,__
+yet it is not __of him;__ and this the Lord himself witnessed (Gen. 6:5),
 where it is said,
 he "`saw that every imagination of the thoughts of his heart was only evil continually`":
 which words, as they are very positive, so are they very comprehensive.
@@ -122,21 +127,18 @@ The Lord expressed this again a little after (chap.
 Thus inferring how natural and proper it is unto him;
 from which I thus argue:
 
-If the thoughts of man`'s heart be not only evil, but always evil; then are they,
-as they simply proceed from his heart, neither good in part, nor at any time.
+[.syllogism]
+* If the thoughts of man`'s heart be not only evil, but always evil; then are they, as they simply proceed from his heart, neither good in part, nor at any time.
+* But the first is true;
+* Therefore also the last.
 
-But the first is true;
-
-Therefore also the last.
-
+[.offset]
 Again,
 
-If man`'s thoughts be always and only evil,
-then are they altogether useless and ineffectual to him in the things of God.
-
-But the first is true;
-
-Therefore also the last.
+[.syllogism]
+* If man`'s thoughts be always and only evil, then are they altogether useless and ineffectual to him in the things of God.
+* But the first is true;
+* Therefore also the last.
 
 Secondly, this appears clearly from that saying of the prophet (Jer. 17:9),
 "`The heart is deceitful above all things,
@@ -152,12 +154,10 @@ so the heart of man is naturally prone and inclined to evil, some to one,
 and some to another.
 From this then I also thus argue:
 
-That which is "`deceitful above all things, and desperately wicked,`" is not fit,
-neither can it lead a man aright in things that are good and honest.
-
-But the heart of man is such:
-
-Therefore, etc.
+[.syllogism]
+* That which is "`deceitful above all things, and desperately wicked,`" is not fit, neither can it lead a man aright in things that are good and honest.
+* But the heart of man is such:
+* Therefore, etc.
 
 But the apostle Paul describeth the condition of men in the fall at large,
 taking it out of the Psalmist.
@@ -181,11 +181,11 @@ than which nothing can be more fully said to confirm our judgment:
 for if this be the condition of the natural man, or of man as he stands in the fall,
 he is unfit to make one right step to heaven.
 
-Obj.
+_Obj._
 If it be said, that is not spoken of the condition of man in general;
 but only of some particulars, or at least that it comprehends not all;
 
-Answ.
+_Answ._
 The text showeth the clean contrary in the foregoing verses,
 where the apostle takes in himself, as he stood in his natural condition.
 "`What then?
@@ -194,13 +194,13 @@ No, in no wise; for we have before proved both Jews and Gentiles,
 that they are all under sin, as it is written`": and so he goes on:
 by which it is manifest that he speaks of mankind in general.
 
-Obj.
+_Obj._
 If they object that which the same apostle saith in the foregoing chapter (verse 14),
 to wit,
 that the Gentiles "`do by nature the things contained in the Law,`" and so consequently
 do by nature that which is good and acceptable in the sight of God;
 
-Answ.
+_Answ._
 I answer: This "`nature`" must not, neither can be understood of man`'s own nature,
 which is corrupt and fallen;
 but of that spiritual nature which proceedeth from the seed of God in man as
@@ -254,6 +254,9 @@ yet God damned them, because of the want of that particular knowledge,
 while he himself withheld all means of their coming to him, from them;
 but of this hereafter.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §III.
 I might also here use another argument from these words of the apostle, l Cor, 2,
@@ -265,15 +268,18 @@ yet because the Socinians and others, who exalt the light of the natural man,
 or a natural light in man, do object against this scripture,
 I shall remove it ere I make an end.
 
-Obj.
-They say, the Greek word RESTORE-GREEK
-ought to be translated animal, and not natural; else, say they,
-it would have been RESTORE-GREEK
-from which they seek to infer that it is only the animal man, and not the rational,
-that is excluded here from the discerning the things of God.
+_Obj._
+// lint-disable invalid-characters
+They say, the Greek word ψυχικὸϛ
+ought to be translated _animal,_ and not _natural;_ else, say they,
+// lint-disable invalid-characters
+it would have been ϕυσικὸϛ.
+from which they seek to infer __that it is only the animal man, and not the rational,
+that is excluded here from the discerning the things of God.__
 Which shift, without disputing about the word, is easily refuted;
-neither is it any wise consistent with the scope of the place.
-For, First,
+neither is it any wise consistent with the scope of the place. For,
+
+First,
 the animal life is no other than that which man hath common with other living creatures;
 for as he is a mere man,
 he differs no otherwise from beasts than by the rational property.
@@ -320,10 +326,13 @@ or that that wisdom that is foolishness with God is not
 meant of the rational but only the animal property,
 any rational man, laying aside interest, may easily judge.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §IV. I come now to the other part, to wit,
-That this evil and corrupt seed is not imputed to infants,
-until they actually join with it.
+_That this evil and corrupt seed is not imputed to infants,
+until they actually join with it._
 For this there is a reason given in the end of the proposition itself;
 drawn from Eph. 2. For these "`are by nature children of wrath,
 who walk according to the prince of the power of the air,
@@ -333,8 +342,7 @@ and not any thing that is not reduced to act,
 as a reason of their being children of wrath.
 And this is suitable to the whole strain of the Gospel,
 where no man is ever threatened or judged for what iniquity he hath not actually wrought:
-such indeed as continue in iniquity, and so do homologate^
-footnote:[homologate +++=+++ approve.]
+such indeed as continue in iniquity, and so do approve
 the sins of their fathers, God will visit the iniquity of the fathers upon the children.
 
 Is it not strange then that men should entertain an opinion so absurd in itself,
@@ -353,7 +361,7 @@ which are the far greater part of mankind, in these inextricable difficulties.
 The Papists again use this opinion as an art to augment the esteem of their church,
 and reverence of its sacraments, seeing they pretend it is washed away by baptism;
 only in this they appear to be a little more merciful,
-in that they send not these unbaptized infants to hell, but to a certain limbus,
+in that they send not these unbaptized infants to hell, but to a certain _limbus,_
 concerning which the Scriptures are as silent as of the other.
 This then is not only not authorized in the Scriptures,
 but contrary to the express tenor of it.
@@ -366,22 +374,18 @@ less or more the exercise of their understanding,
 which infants have not.
 So that from thence I thus argue:
 
-Sin is imputed to none, where there is no law.
+[.syllogism]
+* Sin is imputed to none, where there is no law.
+* But to infants there is no law:
+* Therefore sin is not imputed to them.
 
-But to infants there is no law:
+[.offset]
+The _proposition_ is the apostle`'s own words; the _assumption_ is thus proved:
 
-Therefore sin is not imputed to them.
-
-The proposition is the apostle`'s own words; the assumption is thus proved:
-
-Those who are under a physical impossibility of either hearing, knowing,
-or understanding any law,
-where the impossibility is not brought upon them by any act of their own,
-but is according to the very order of nature appointed by God; to such there is no law.
-
-But infants are under this physical impossibility:
-
-Therefore, etc.
+[.syllogism]
+* Those who are under a physical impossibility of either hearing, knowing, or understanding any law, where the impossibility is not brought upon them by any act of their own, but is according to the very order of nature appointed by God; to such there is no law.
+* But infants are under this physical impossibility:
+* Therefore, etc.
 
 Secondly, What can be more positive than that of Ezek. 18:20, "`The soul that sinneth,
 it shall die:
@@ -391,18 +395,16 @@ which he saith is in his sinning, and then,
 as if he purposed expressly to shut out such an opinion, he assures us,
 "`The son shall not bear the iniquity of the father.`" From which I thus argue:
 
-If the son bear not the iniquity of his father, or of his immediate parents,
-far less shall he bear the iniquity of Adam.
-
-But the son shall not bear the iniquity of his father.
-
-Therefore, etc.
+[.syllogism]
+* If the son bear not the iniquity of his father, or of his immediate parents, far less shall he bear the iniquity of Adam.
+* But the son shall not bear the iniquity of his father.
+* Therefore, etc.
 
 // lint-disable invalid-characters "§"
 §V. Having thus far shown how absurd this opinion is,
 I shall briefly examine the reasons its authors bring for it.
 
-Obj.
+_Obj._
 First, They say, Adam was a public person, and therefore all men sinned in him,
 as being in his loins.
 And for this they allege that of Rom. 5:12,
@@ -410,7 +412,7 @@ And for this they allege that of Rom. 5:12,
 and so death passed upon all men, for that all have sinned.`" These last words, say they,
 may be translated, "`in whom all have sinned.`"
 
-Answ.
+_Answ._
 To this I answer: That Adam is a public person is not denied;
 and that through him there is a seed of sin propagated to all men,
 which in its own nature is sinful, and inclines men to iniquity;
@@ -419,22 +421,24 @@ are guilty.
 As for these words in the Romans, the reason of the guilt there alleged is,
 "`for that all have sinned.`" Now no man is said to sin,
 unless he actually sin in his own person; for the Greek words
-RESTORE-GREEK may very well relate to RESTORE-GREEK,
+// lint-disable invalid-characters
+ἐϕ`' ὦ may very well relate to θάνατοϛ,
 which is the nearest antecedent; so that they hold forth how that Adam, by his sin,
 gave an entrance to sin in the world: and so death entered by sin,
-RESTORE-GREEK, i.e., upon which +++[+++viz. occasion], or in which +++[+++viz. death]
+// lint-disable invalid-characters
+ἐϕ`' ὦ, i.e., upon which +++[+++viz. occasion], or in which +++[+++viz. death]
 all others have sinned; that is, actually in their own persons; to wit,
 all that were capable of sinning: of which number that infants could not be,
 the apostle clearly shows by the following verse: "`Sin is not imputed,
 where there is no law`": and since, as is above proved, there is no law to infants,
 they cannot be here included.
 
-Obj.
+_Obj._
 Their second objection is from Ps. 51:5, "`Behold I was shapen in iniquity,
 and in sin did my mother conceive me.`" Hence, say they,
 it appears that infants from their conception are guilty.
 
-Answ.
+_Answ._
 How they infer this consequence, for my part I see not.
 The iniquity and sin here appears to be far more
 ascribable to the parents than to the child.
@@ -445,12 +449,12 @@ contradicts expressly the scripture before-mentioned in making children guilty
 of the sins of their immediate parents (for of Adam there is not here any mention),
 contrary to the plain words, "`the son shall not bear the father`'s iniquity.`"
 
-Obj.
+_Obj._
 Thirdly, they object, that "`the wages of sin is death`";
 and that seeing children are subject to diseases and death,
 therefore they must be guilty of sin.
 
-Answ.
+_Answ._
 I answer, That these things are a consequence of the fall and of Adam`'s sin is confessed;
 but that that infers necessarily a guilt in
 all others that are subject to them is denied.
@@ -467,7 +471,7 @@ which is so far from being troublesome and painful to them,
 as all real punishments for sin are, that the apostle counts it gain: "`To me,`" saith he,
 "`to die is gain`" (Phil. 1:21).
 
-Obj.
+_Obj._
 Some are so foolish as to make an objection farther, saying,
 that if Adam`'s sin be not imputed to those who actually have not sinned,
 then it would follow that all infants are saved.
@@ -476,12 +480,11 @@ But we are willing that this supposed absurdity should be the consequence of our
 rather than that which it seems our adversaries reckon not absurd,
 though the undoubted and unavoidable consequence of theirs, viz:
 that many infants eternally perish, not for any sin of their own,
-but only for Adam`'s iniquity: where we are willing to let the controversy sist,^
-footnote:[sist +++=+++ stop.]
+but only for Adam`'s iniquity: where we are willing to let the controversy stop,
 commending both to the illuminated understanding of the Christian reader.
 
 This error of our adversaries is both denied and refuted by Zwingli,
-that eminent founder of the Protestant churches of Switzerland, in his book De Baptismo,
+that eminent founder of the Protestant churches of Switzerland, in his book [.book-title]#De Baptismo,#
 for which he is anathematized by the Council of Trent, in the fifth session.
 We shall only add this information:
 That we confess then that a seed of sin is transmitted
@@ -489,7 +492,8 @@ to all men from Adam (although imputed to none,
 until by sinning they actually join with it),
 in which seed he gave occasion to all to sin,
 and it is the origin of all evil actions and thoughts in men`'s hearts,
-RESTORE-GREEK to wit, RESTORE-GREEK, as it is in Romans 5, i.e.,
+// lint-disable invalid-characters
+ἐϕ`' ὦ to wit, θανάτῳ, as it is in Romans 5, i.e.,
 in which death all have sinned.
 For this seed of sin is frequently called "`death`" in the Scriptures,
 and the "`body of death`";

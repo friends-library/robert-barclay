@@ -1,16 +1,19 @@
 == THE FIFTH AND SIXTH PROPOSITIONS
 
+[.chapter-subtitle--blurb]
 Concerning the Universal Redemption by Christ,
 and also the Saving and Spiritual Light wherewith every man is enlightened
 
+[.centered]
 === THE FIFTH PROPOSITION
 
-GOD, out of his infinite love, who delighteth not in the death of a sinner,
+[.heading-continuation-blurb]
+_God,_ out of his infinite love, who delighteth not in the death of a sinner,
 but that all should live and be saved,^
 footnote:[Ezek. 18:32; 33:12.]
 hath so loved the world, that he hath given his only Son a Light,
 that whosoever believeth in him shall be saved (John 3:16),
-"`who enlighteneth EVERY man that cometh into the world`" (John 1:9),
+"`who enlighteneth _every_ man that cometh into the world`" (John 1:9),
 and "`maketh manifest all things that are reprovable`" (Eph. 5:13),
 and teacheth all temperance, righteousness, and godliness;
 and this Light enlighteneth the hearts of all in a day, in order to salvation;
@@ -20,8 +23,10 @@ Nor is it less universal than the seed of sin, being the purchase of his death,
 "`who tasted death for every man: for as in Adam all die,
 even so in Christ all shall be made alive`" (1 Cor. 15:22).
 
+[.centered]
 === THE SIXTH PROPOSITION
 
+[.heading-continuation-blurb]
 According to which principle or hypothesis all the objections
 against the universality of Christ`'s death are easily solved;
 neither is it needful to recur to the ministry of angels,
@@ -36,15 +41,16 @@ who by providence are cast into those remote parts of the
 world where the knowledge of the history is wanting,
 be made partakers of the divine mystery, if they receive and resist not that grace,
 "`a manifestation whereof is given to every man to profit withal.`"^
-footnote:[1 Cor. 12:7.]This most certain doctrine being then received,
-that there is an evangelical and saving Light and grace in all,
+footnote:[1 Cor. 12:7.]
+This most certain doctrine being then received,
+that there is an evangelical and saving _Light_ and __grace in all,__
 the universality of the love and mercy of God towards mankind,
 both in the death of his beloved Son the Lord Jesus Christ,
 and in the manifestation of the Light in the heart, is established and confirmed,
 against all the objections of such as deny it.
 Therefore Christ "`hath tasted death for every man,`"^
 footnote:[Heb. 2:9.]
-not only for all kinds of men, as some vainly talk, but for every man of all kinds;
+not only for all kinds of men, as some vainly talk, but for __every man of all kinds;__
 the benefit of whose offering is not only extended to such who
 have the distinct outward knowledge of his death and sufferings,
 as the same is declared in the Scriptures,
@@ -68,7 +74,7 @@ in order to obtain its saving effect.
 Among whom the Remonstrants of Holland have been chiefly wanting,
 and many other asserters of universal redemption,
 in that they have not placed the extent of his salvation in that divine and evangelical
-principle of Light and Life wherewith Christ hath "`enlightened every man that cometh
+principle of _Light_ and _Life_ wherewith Christ hath "`enlightened every man that cometh
 into the world,`" which is excellently and evidently held forth in these scriptures:
 Gen. 6:3; Duet. 30:14; John 1:7-9,16; Rom. 10:8; Tit. 2:11.
 
@@ -111,6 +117,9 @@ that little can be superadded, except what hath been said already,
 I shall be short in this respect; yet because it lies so in opposition to my way,
 I cannot let it altogether pass.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §I. First, We may safely call this doctrine a novelty,
 seeing the first four hundred years after Christ there is no mention made of it:
@@ -139,6 +148,9 @@ and that it were not highly injurious to God himself,
 to Jesus Christ our Mediator and Redeemer, and to the power, virtue, nobility,
 and excellency of his blessed Gospel, and lastly unto all mankind.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §II. First, It is highly injurious to God,
 because it makes him the author of sin,
@@ -161,45 +173,45 @@ have been so plain in the matter, as they have put it beyond all doubt,
 of which I shall instance a few among many passages.
 "`I say, that by the ordination and will of God, Adam fell.
 God would have man to fall.`"^
-footnote:[Calvin in cap. 3. Gen.]
+footnote:[Calvin _in cap. 3. Gen._]
 "`Man is blinded by the will and commandment of God.`"^
-footnote:[Id. 1 Inst. c. 18. s. 1.]
+footnote:[_Id. 1 Inst. c. 18. s. 1._]
 "`We refer the causes of hardening us to God.`"^
-footnote:[Id. lib. de praed.]
+footnote:[_Id. lib. de praed._]
 "`The highest or remote cause of hardening is the will of God.`"^
-footnote:[Idem, lib. de provid.]
+footnote:[_Idem, lib. de provid._]
 "`It followeth that the hidden counsel of God is the cause of hardening.`"^
-footnote:[Id. 3 Inst., cap. 23. s. 1.]
+footnote:[_Id. 3 Inst., cap. 23. s. 1._]
 These are Calvin`'s expressions.
 "`God,`" saith Beza, "`hath predestinated not only unto damnation,
 but also unto the causes of it, whomsoever he saw meet.`"^
-footnote:[Beza, lib. de praed.]
+footnote:[Beza, _lib. de praed._]
 "`The decree of God cannot be excluded from the causes of corruption.`"^
-footnote:[Id. de praed. ad art. 1.]
+footnote:[_Id. de praed. ad art. 1._]
 "`It is certain,`" saith Zanchi, "`that God is the first cause of obduration.`"^
-footnote:[Zanchi, de excaecat. q. 5.]
+footnote:[Zanchi, _de excaecat. q. 5._]
 "`Reprobates are held so fast under God`'s almighty decree,
 that they cannot but sin and perish.`"^
-footnote:[Idem, lib. 5 de nat. Dei cap. 2. de praed.]
+footnote:[_Idem, lib. 5 de nat. Dei cap. 2. de praed._]
 "`It is the opinion,`" saith Pareus, "`of our doctors,
 that God did inevitably decree the temptation and fall of man.
 The creature sinneth indeed necessarily, by the most just judgment of God.
 Our men do most rightly affirm,
 that the fall of man was necessary and inevitable by accident,
 because of God`'s decree.`"^
-footnote:[Pareus, lib. 3. de amiss. gratiae. c. 2. ibid., c. 1.]
+footnote:[Pareus, _lib. 3. de amiss. gratiae. c. 2. ibid., c. 1._]
 "`God,`" saith Martyr,
 "`doth incline and force the wills of wicked men into great sins.`"^
-footnote:[Martyr, in Rom.]
+footnote:[Martyr, _in Rom._]
 "`God,`" saith Zwingli, "`moveth the robber to kill.
 He killeth, God forcing him thereunto.
 But thou wilt say, he is forced to sin; I permit truly that he is forced.`"^
-footnote:[Zwingli, lib. de Prov. 100:5.]
+footnote:[Zwingli, _lib. de Prov. 100:5._]
 "`Reprobate persons,`" saith Piscator,
 "`are absolutely ordained to this twofold end, to undergo everlasting punishment,
 and necessarily to sin; and therefore to sin,
 that they may be justly punished.`"^
-footnote:[Resp. ad Vorst. part 1, p. 120.]
+footnote:[_Resp. ad Vorst._ part 1, p. 120.]
 
 If these sayings do not plainly and evidently
 import that God is the author of sin,
@@ -225,6 +237,9 @@ in the sins of men, as by the testimonies above brought doth appear;
 whether doth not this make him not only the author of sin,
 but more unjust than the unjustest of men?
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §III.
 Secondly, This doctrine is injurious to God,
@@ -237,6 +252,9 @@ but also predestinated the evil, that they might fall into it;
 and that he inclines and forces them into great sins;
 certainly he must necessarily delight in their death, and will them to die;
 seeing against his own will he neither doth, nor can do any thing.
+
+[.small-break]
+'''
 
 // lint-disable invalid-characters "§"
 §IV. Thirdly, it is highly injurious to Christ our mediator,
@@ -257,8 +275,7 @@ it wholly makes useless the preaching of faith and repentance,
 and the whole tenor of the Gospel promises and threatenings,
 as being all relative to a former decree and means before appointed to such; which,
 because they cannot fail,
-man needs do nothing but wait for that irresistible snatch,^
-footnote:[Later editors replace "`snatch`" with "`juncture.`"]
+man needs do nothing but wait for that irresistible juncture,
 which will come, though it be but at the last hour of his life,
 if he be in the decree of election; and be his diligence and waiting what it can,
 he shall never attain it, if he belong to the decree of reprobation.
@@ -279,6 +296,9 @@ but rather of his implacable wrath:
 and if the world may be taken for the far greater number of such as live in it,
 God never loved the world, according to this doctrine, but rather hated it greatly,
 in sending his Son to be crucified in it.
+
+[.small-break]
+'''
 
 // lint-disable invalid-characters "§"
 §V. Sixthly, This doctrine is highly injurious to mankind;
@@ -321,7 +341,7 @@ I come to the matter of our proposition, which is,
 "`That God out of his infinite love,
 who delighteth not in the death of a sinner but that all should live and be saved,
 hath sent his only begotten Son into the world,
-that whosoever believeth in him might be saved`":
+that _whosoever_ believeth in him might be saved`":
 which also is again affirmed in the Sixth Proposition in these words:
 "`Christ then tasted death for every man,
 of all kinds.`" Such is the evidence of this truth,
@@ -332,6 +352,9 @@ others who have both earnestly and soundly,
 according to the Scripture, pleaded for this universal redemption,
 I shall be the more brief in it that I may come to that
 which may seem more singularly and peculiarly ours.
+
+[.small-break]
+'''
 
 // lint-disable invalid-characters "§"
 §VI. This doctrine of universal redemption, or Christ`'s dying for all men,
@@ -344,17 +367,17 @@ Thus the angel declared the birth and coming of Christ
 to the shepherds to be (Luke 2:10),
 "`Behold, I bring you good tidings of great joy, which shall be to all people`":
 he saith not to a few people.
-Now if this coming of Christ had not brought a possibility of salvation to all
+Now if this coming of Christ had not brought a possibility of salvation to _all_
 it should rather have been accounted bad tidings of great sorrow to most people;
 neither should the angel have had reason to have sung "`Peace on
 earth and good will towards men`" if the greatest part of mankind
 had been necessarily shut out from receiving any benefit by it.
 How should Christ have sent out his to "`preach the Gospel to every creature`" (Mark 16:15)?
-a very comprehensive commission! that is to every son and daughter of mankind.
+a very comprehensive commission! that is __to every son and daughter of mankind.__
 Without all exception he commands them to preach salvation to all,
 repentance and remission of sins to all; warning everyone and exhorting everyone,
 as Paul did (Col. 1:28). Now how could they have preached the
-Gospel to every man as became the ministers of Jesus Christ,
+Gospel __to every man__ as became the ministers of Jesus Christ,
 in much assurance, if salvation by that Gospel had not been possible to all?
 What if some of those had asked them,
 or should now ask any of these doctors who deny the universality
@@ -370,13 +393,13 @@ peace`" are said to be "`beautiful`" for that they preach the common salvation,
 repentance unto all;
 offering a door of mercy and hope to all through
 Jesus Christ who gave himself a ransom for all.
-The Gospel invites all;
+The Gospel invites _all;_
 and certainly by the Gospel Christ intended not to deceive and
 delude the greater part of mankind when he invites and crieth,
 saying,
 "`Come unto me all ye that labour and are heavy laden and I
-will give you rest.`" If all then ought to seek after him and to look for
-salvation by him he must needs have made salvation possible to all;
+will give you rest.`" If _all_ then ought to seek after him and to look for
+salvation by him he must needs have made __salvation possible__ to all;
 for who is bound to seek after that which is impossible?
 Certainly it were a mocking of men to bid them do so.
 And such as deny that by the death of Christ salvation is made possible to all
@@ -385,12 +408,12 @@ to preach the Gospel of salvation unto all while he hath before decreed that
 it shall not be possible for them to receive it.
 Would not this make the Lord to send forth his servants
 with a lie in their mouth (which were blasphemous to think),
-commanding them to bid all and every one believe that Christ
+commanding them to bid _all_ and __every one__ believe that Christ
 died for them and had purchased life and salvation?
 Whereas it is no such thing according to the afore-mentioned doctrine.
 But seeing Christ, after he arose and perfected the work of our redemption,
 gave a commission to preach repentance, remission of sins, and salvation to all,
-it is manifest that he died for all.
+it is manifest that he __died for all.__
 For he that hath commissionated his servants thus to preach
 is a God of Truth and no mocker of poor mankind;
 neither doth he require of any man that which is simply impossible for him to do:
@@ -400,11 +423,14 @@ And seeing he is both a most righteous and merciful God it cannot at all stand,
 neither with his justice nor mercy,
 to bid such men repent or believe to whom it is impossible.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §VII.
 Moreover, if we regard the testimony of the Scripture in this matter,
 where there is not one scripture which I know of
-that affirmeth Christ not to die for all,
+that affirmeth Christ not to die for _all,_
 there are divers that positively and expressly assert he did; as 1 Tim. 2:1,3,4,6:
 "`I exhort therefore that first of all supplications, prayers, intercessions,
 and giving of thanks,
@@ -435,49 +461,46 @@ therefore he will have all men to be saved.
 This Christ himself gives as a reason of God`'s love to the world,
 in these words (John 3:16): "`God so loved the world that he gave his only begotten Son,
 that whosoever believeth in him should not perish but have everlasting life`";
-compared with 1 John 4:9. This +++[+++whosoever]
+compared with 1 John 4:9. This +++[+++__whosoever__]
 is an indefinite term, from which no man is excluded.
 From all which then I thus argue:
 
-Arg.
-For whomsoever it is lawful to pray, to them salvation is possible:
+[.syllogism]
+* _Arg._ For whomsoever it is lawful to pray, to them salvation is possible:
+* But it is lawful to pray for every individual man in the whole world:
+* Therefore salvation is possible unto them.
 
-But it is lawful to pray for every individual man in the whole world:
-
-Therefore salvation is possible unto them.
-
+[.offset]
 I prove the major proposition thus;
 
-No man is bound to pray for that which is impossible to be attained:
+[.syllogism]
+* No man is bound to pray for that which is impossible to be attained:
+* But every man is bound and commanded to pray for all men:
+* Therefore it is not impossible to be attained.
 
-But every man is bound and commanded to pray for all men:
-
-Therefore it is not impossible to be attained.
-
+[.offset]
 I prove also this proposition further, thus;
 
-No man is bound to pray, but in faith:
+[.syllogism]
+* No man is bound to pray, but in faith:
+* But he that prayeth for that, which he judges simply impossible to be obtained, cannot pray in faith:
+* Therefore, etc.
 
-But he that prayeth for that, which he judges simply impossible to be obtained,
-cannot pray in faith:
-
-Therefore, etc.
-
+[.offset]
 Again,
 
-That which God willeth is not impossible:
+[.syllogism]
+* That which God willeth is not impossible:
+* But God willeth all men to be saved:
+* Therefore it is not impossible.
 
-But God willeth all men to be saved:
-
-Therefore it is not impossible.
-
+[.offset]
 And lastly;
 
-Those for whom our Saviour gave himself a ransom, to such salvation is possible:
-
-But our Saviour gave himself a ransom for all:
-
-Therefore salvation is possible unto them.
+[.syllogism]
+* Those for whom our Saviour gave himself a ransom, to such salvation is possible:
+* But our Saviour gave himself a ransom for all:
+* Therefore salvation is possible unto them.
 
 // lint-disable invalid-characters "§"
 §VIII.
@@ -550,7 +573,7 @@ Ps. 17:14; Isa. 13:11; Matt. 18:7; John 7:7-8:26, 12:19, 14:17, 15:18-19,
 17:14, and 18:20; 1 Cor. 1:2,21:12, and 6:2; Gal. 6:14; James 1:27;
 2 Pet. 2:20; 1 John 2:15-3:1, and 4:4-5, and many more.
 Secondly,
-The apostle in this very place contradistinguisheth the world from the saints thus:
+The apostle in this very place contradistinguisheth the _world_ from the _saints_ thus:
 "`And not for ours only but for the sins of the whole world`":
 What means the apostle by "`ours`" here?
 Is not that the sins of believers?
@@ -564,7 +587,7 @@ believers but for the sins of all believers`":
 is not this to make the apostle`'s words void of good sense?
 Let them show us wherever there is such a manner of speaking in all the Scripture,
 // lint-disable invalid-characters "ô"
-where any of the penmen first name the believers in concretô with themselves
+where any of the penmen first name the _believers_ in _concretô_ with themselves
 and then contradistinguish them from some other whole world of believers?
 That "`whole world,`" if it be of believers, must not be the world we live in.
 But we need no better interpreter for the apostle than himself,
@@ -581,7 +604,7 @@ What absurd wresting of Scripture were this?
 And yet it may be as well pleaded for as the other; for they differ not at all.
 Seeing then that the apostle John tells us plainly that Christ
 not only died for him and for the saints and members of the church
-of God to whom he wrote but for the whole world,
+of God to whom he wrote but for the __whole world,__
 let us then hold it for a certain and undoubted truth
 notwithstanding the cavils of such as oppose.
 
@@ -601,7 +624,7 @@ But of many of their sayings, which might be alleged, I shall only instance a fe
 Augustine on the 95th Psalm saith, "`The blood of Christ is of so great worth,
 that it is of no less value than the whole world.`"
 
-Prosper ad Gall (c.9): "`The redeemer of the world gave his blood for the world,
+Prosper __ad Gall__ (c.9): "`The redeemer of the world gave his blood for the world,
 and the world would not be redeemed, because the darkness did not receive the Light.
 He that saith, the Saviour was not crucified for the redemption of the whole world,
 looks not to the virtue of the sacrament, but to the part of infidels;
@@ -624,8 +647,7 @@ by a singular mystery, be celebrated in everyone.
 For the cup of immortality, which is made up of our infirmity and the divine power,
 hath indeed that in it which may profit all; but if it be not drunk it doth not heal.`"
 
-The author de vocat.
-Gentium (lib. 11. cap. 6):
+The author __de vocat. Gentium__ (lib. 11. cap. 6):
 "`There is no cause to doubt but that our Lord Jesus
 Christ died for sinners and wicked men.
 And if there can be any found, who may be said not to be of this number,
@@ -664,6 +686,9 @@ The same man in his 11th book of Cain and Abel, cap.
 that whosoever should perish, may ascribe to himself the causes of his death,
 who would not be cured when he had the remedy by which he might have escaped.`"
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §IX. Seeing then that this doctrine of the universality
 of Christ`'s death is so certain and agreeable to the Scripture`'s
@@ -677,7 +702,7 @@ The Pelagians, ascribing all to man`'s will and nature,
 denied man to have any seed of sin conveyed to him from Adam.
 And the Semi-Pelagians,
 making grace as a gift following upon man`'s merit or right improving of his nature,
-according to their known principle, Facienti quod in se est Deus non denegat gratiam.
+according to their known principle, __Facienti quod in se est Deus non denegat gratiam.__
 
 This gave Augustine, Prosper, and some others occasion,
 labouring in opposition to these opinions,
@@ -703,7 +728,7 @@ as appears by the later writings of Melancthon and the Montbéliard conference,
 where Lucas Osiander, one of the collocutors,
 terms it "`impious,`" calls it a making God the author
 of sin and an horrid and horrible blasphemy.^
-footnote:[Epist. Hist. Eccl. Lucae Osiand. Cent. 16. lib. 4 cap. 32.]
+footnote:[_Epist. Hist. Eccl. Lucae Osiand. Cent. 16. lib. 4 cap. 32._]
 Yet because none of those who have asserted this
 universal redemption since the reformation have given a clear,
 distinct, and satisfactory testimony how it is communicated to all,
@@ -714,11 +739,10 @@ which I shall illustrate by one singular example.
 The Arminians, and other assertors of universal grace,
 use this as a chief argument:
 
-That which every man is bound to believe, is true:
-
-But every man is bound to believe that Christ died for them:
-
-Therefore, etc.
+[.syllogism]
+* That which every man is bound to believe, is true:
+* But every man is bound to believe that Christ died for them:
+* Therefore, etc.
 
 Of this argument the other party deny the assumption, saying,
 That they who never heard of Christ, are not obliged to believe in him;
@@ -751,7 +775,7 @@ and savours a little of Socinianism and Pelagianism, or at least of Semipelagian
 since it is only built upon probable conjectures,
 neither hath it evidence enough to convince any strongly tainted with the other doctrine;
 nor yet doth it make the equity and wonderful harmony of God`'s
-mercy and justice towards all so manifest to the understanding.
+mercy and justice towards _all_ so manifest to the understanding.
 So that I have often observed,
 that these assertors of universal grace did far more pithily
 and strongly overturn the false doctrine of their adversaries,
@@ -771,6 +795,9 @@ therefore there must be some way or other by which they may be saved;
 which must be by improving some common grace,
 or by gathering from the works of creation and providence, than by really demonstrating,
 by convincing and spiritual arguments, what that way is.
+
+[.small-break]
+'''
 
 // lint-disable invalid-characters "§"
 §X. It falls out then, that as darkness, and the great apostasy,
@@ -822,6 +849,9 @@ fortified by our own sensible experience,
 and sealed by the testimony of the Spirit in our hearts,
 we can confidently affirm, and clearly evince,
 according to the testimony of the holy Scriptures, the following points:
+
+[.small-break]
+'''
 
 // lint-disable invalid-characters "§"
 §XI. First, That God, who out of his infinite love sent his Son,
@@ -942,11 +972,10 @@ and evited by the Calvinists,
 concerning every man`'s being bound to believe that Christ died for him, is,
 by altering the assumption, rendered invincible; thus,
 
-That which every man is bound to believe, is true:
-
-But every man is bound to believe that God is merciful unto him:
-
-Therefore, etc.
+[.syllogism]
+* That which every man is bound to believe, is true:
+* But every man is bound to believe that God is merciful unto him:
+* Therefore, etc.
 
 This assumption no man can deny, seeing his mercies are said to be over all his works.
 And herein, the Scripture everywhere declares the mercy of God to be,
@@ -976,9 +1005,12 @@ sometimes both arguments on the one hand, and objections on the other, are broug
 which do no way hit the case;
 and hereby also our sense and judgment therein will be more fully understood and opened.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §XII.
-First, then, by this day and time of visitation which, we say,
+First, then, by this __day and time of visitation__ which, we say,
 God gives unto all, during which they may be saved,
 we do not understand the whole time of every man`'s life;
 though to some it may be extended even to the very hour of death;
@@ -1009,6 +1041,9 @@ imports a time when they might have known them,
 which now was removed from them, though they were yet alive,
 but of this more shall be said hereafter.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §XIII.
 Secondly, by this Seed, Grace, and Word of God, and Light,
@@ -1023,16 +1058,13 @@ wounded, crucified, or slain by all the efforts and strength of men;
 but we understand a spiritual, heavenly, and invisible principle, in which God,
 as Father, Son and Spirit, dwells:
 a measure of which divine and glorious life is in all men, as a seed,
-which of its own nature, draws, invites, and inclines to God; and this we^
-footnote:[Later editors substitute "`some`" for "`we.`"]
-call vehiculum Dei, or the spiritual body of Christ, the flesh and blood of Christ,
+which of its own nature, draws, invites, and inclines to God; and this some
+call __vehiculum Dei,__ or the spiritual body of Christ, the flesh and blood of Christ,
 which came down from heaven, of which all the saints do feed,
 and are thereby nourished unto eternal life.
 And as every unrighteous action is witnessed against,
 and reproved by this Light and Seed, so, by such actions, it is hurt, wounded, and slain,
-and resiles^
-footnote:[resiles +++=+++ recoils. Later editors drop "`resiles or.`"]
-or flees from them, even as the flesh of man flees from that,
+and recoils or flees from them, even as the flesh of man flees from that,
 which is of a contrary nature to it.
 Now, because it is never separated from God, nor Christ, but wherever it is,
 God and Christ are as wrapped up therein, therefore,
@@ -1053,8 +1085,8 @@ to that holy man the Lord Jesus Christ,
 who was born of the virgin Mary, in whom all the fullness of the Godhead dwelt bodily,
 nor to destroy the reality of his present existence, so neither do we,
 as some have falsely calumniated us.
-For, though we affirm that Christ dwells in us, yet not immediately, but mediately,
-as he is in that seed, which is in us; whereas he, to wit, the Eternal Word,
+For, though we affirm that Christ dwells _in_ us, yet not immediately, but mediately,
+as he is in that _seed,_ which is in us; whereas he, to wit, the Eternal Word,
 which was with God, and was God, dwelt immediately in that holy man.
 He then is as the head, and we as the members; he the vine, and we the branches.
 Now as the soul of man dwells otherways and in a far more
@@ -1070,6 +1102,9 @@ who made the manhood to be wholly swallowed up of the Godhead; wherefore,
 as we believe he was a true and real man,
 so we also believe that he continues so to be glorified in the heavens, in soul and body,
 by whom God shall judge the world, in the great and general day of judgment.
+
+[.small-break]
+'''
 
 // lint-disable invalid-characters "§"
 §XIV.
@@ -1092,7 +1127,7 @@ and handling the things of God.
 For a man cannot reach unto those things by his natural spirit and senses,
 as is above declared.
 
-Next, we know it to be a substance because it subsists in the
+Next, we know it to be a _substance_ because it subsists in the
 hearts of wicked men even while they are in their wickedness,
 as shall be hereafter proved more at large.
 Now no accident can be in a subject without it give the subject its own denomination;
@@ -1125,6 +1160,9 @@ so neither doth the seed of righteousness in evil men,
 and the possibility of their becoming one with it,
 denominate them good or holy.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §XV. Fourthly,
 We do not hereby intend any ways to lessen or derogate
@@ -1141,7 +1179,7 @@ yea we believe it were damnable unbelief not to believe, when so declared;
 but to resist that holy seed, which,
 as minded would lead and incline every one to believe it, as it is offered unto them;
 though it revealeth not in everyone the outwardly and explicit knowledge of it,
-nevertheless it always assenteth to it, ubi declaratur, where it is declared.
+nevertheless it always assenteth to it, __ubi declaratur,__ where it is declared.
 Nevertheless as we firmly believe it was necessary that Christ should come,
 that by his death and sufferings he might offer up himself a sacrifice to God,
 for our sins, who his own self "`bore our sins in his own body on the tree`";
@@ -1179,13 +1217,12 @@ Whether Christ be in all men or no?
 Which sometimes hath been asked us, and arguments brought against it,
 because indeed it is to be found in some of our writings
 that "`Christ is in all men,`" and we often are heard,
-in our public meetings and declarations, to desire every man to come to^
-footnote:[Later editors drop "`come to.`"]
-know and be acquainted with Christ in them, telling them, that Christ is in them.
+in our public meetings and declarations, to desire every man to come to
+know and be acquainted with _Christ in_ them, telling them, that Christ is in them.
 It is fit therefore, for removing of all mistakes, to say something, in this place,
 concerning this matter.
 We have said before how that a divine, spiritual, and supernatural Light is in all men;
-how that divine supernatural Light or Seed is vehiculum Dei:
+how that divine supernatural Light or Seed is _vehiculum Dei:_
 how that God and Christ dwelleth in it and is never separated from it;
 also how that (as it is received and closed with in the
 heart) Christ comes to be formed and brought forth.
@@ -1197,7 +1234,7 @@ Neither is Christ in all men by way of union, or indeed, to speak strictly,
 by way of inhabitation; because this inhabitation, as it is generally taken,
 imports union, or the manner of Christ`'s being in the saints.
 As it is written "`I will dwell in them,
-and walk in them`" (2 Cor. 6:16). But in regard Christ is in all men as in a seed,
+and walk in them`" (2 Cor. 6:16). But in regard __Christ is in all men as in a seed,__
 yea, and that he never is,
 nor can be separate from that holy pure Seed and Light which is in all men;
 therefore may it be said in a larger sense that he is in all, even as we observed before.
@@ -1207,16 +1244,17 @@ though to speak properly and strictly, neither can God be pressed down, nor Chri
 as God, be crucified.
 In this respect then, as he is in the seed, which is in all men,
 we have said "`Christ is in all men,`" and have preached
-and directed all men to Christ in them;
+and directed all men to __Christ in them;__
 who lies crucified in them by their sins and iniquities,
 that they may "`look upon him whom they have pierced,`" and repent: whereby he,
 that now lies, as it were slain and buried in them, may come to be raised,
 and have dominion in their hearts, over all.
 And thus also the apostle Paul preached to the Corinthians
 and Galatians (1 Cor. 2:2),
-"`Christ crucified in them,`" RESTORE-GREEK as the Greek hath it.
+// lint-disable invalid-characters
+"`Christ crucified in them,`" ἐν ὑμῖν as the Greek hath it.
 This Jesus Christ was that which the apostle desired to know in them,
-and make known unto them, that they might come to be sensible,
+and make known _unto_ them, that they might come to be sensible,
 how they had thus been crucifying Christ, that so they might repent and be saved.
 And forasmuch as Christ is called "`that Light,
 that enlightens every man,`" "`the Light of the world,`"
@@ -1224,6 +1262,9 @@ therefore the Light is taken for Christ,
 who truly is the fountain of all light, and hath his habitation in it forever.
 Thus the Light of Christ is sometimes called Christ, i.e., that in which Christ is,
 and from which he is never separated.
+
+[.small-break]
+'''
 
 // lint-disable invalid-characters "§"
 §XVI.
@@ -1288,7 +1329,7 @@ But this Light can never be corrupted nor defiled;
 neither did it ever consent to evil or wickedness in any: for it is said expressly,
 that it "`makes all things manifest that are reprovable`" (Eph. 5:13),
 and so is a faithful witness for God against every unrighteousness in man.
-Now conscience, to define it truly, comes from conscire,
+Now conscience, to define it truly, comes from _conscire,_
 and is that knowledge, which ariseth in man`'s heart from what agreeth, contradicteth,
 or is contrary to anything believed by him,
 whereby he becomes conscious to himself that he transgresseth by
@@ -1322,7 +1363,7 @@ where it is rightly informed and enlightened.
 Wherefore some of us have fitly compared it to a lantern,
 and the Light of Christ to the candle:
 a lantern is useful when a clear candle burns and shines in it, but otherwise of no use.
-To the Light of Christ then in the conscience, and not to man`'s natural conscience,
+To the Light of Christ then _in_ the conscience, and not to man`'s natural conscience,
 it is that we continually commend men: this, not that, is it which we preach up,
 and direct people to, as to a most certain guide unto life eternal.
 
@@ -1337,7 +1378,7 @@ For though there be a possibility of salvation to every man during the day of hi
 yet cannot a man,
 at any time when he pleaseth or hath some sense of his misery,
 stir up that Light and Grace, so as to procure to himself tenderness of heart;
-but he must wait for it: which comes upon all at certain times and seasons,
+but he must wait for it: which comes upon _all_ at certain times and seasons,
 wherein it works powerfully upon the soul, mightily tenders it, and breaks it;
 at which time, if man resist it not, but closes with it,
 he comes to know salvation by it.
@@ -1360,6 +1401,9 @@ which blows upon the heart, and no man knows whither it goes,
 nor whence it comes.^
 footnote:[Matt. 24:27; John 3:8.]
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §XVII.
 And lastly,
@@ -1380,7 +1424,7 @@ that as the Grace and Light in all is sufficient to save all,
 and of its own nature would save all; so, it strives and wrestles with all,
 for to save them; he that resists its striving, is the cause of his own condemnation;
 he that resists it not, it becomes his salvation: so that in him, that is saved,
-the working is of the grace, and not of the man; and it is a passiveness,
+the working is __of the grace,__ and not __of the man;__ and it is a passiveness,
 rather than an act: though afterwards, as man is wrought upon,
 there is a will raised in him, by which he comes to be a coworker with the grace:
 for according to that of Augustine, "`He that made us without us,
@@ -1399,7 +1443,7 @@ may be warmed and softened by the heat of the fire, and wax melted by the sun.
 And, as iron or wax, when removed from the fire, or sun,
 returneth to its former condition of coldness and hardness; so man`'s heart,
 as it resists, or retires, from the grace of God, returns to its former condition again.
-I have often had the manner of God`'s working, in order to salvation towards all men,
+I have often had the manner of God`'s working, in order to salvation towards _all_ men,
 illustrated to my mind by one or two clear examples, which I shall here add,
 for the information of others.
 
@@ -1469,6 +1513,9 @@ but when he hath sinned out his day, then the same sun hardeneth him,
 as it doth the clay, and makes his wickedness more to appear and putrefy,
 and send forth an evil savour.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §XVIII.
 Lastly, As we truly affirm that God willeth no man to perish,
@@ -1515,6 +1562,9 @@ as will more evidently appear to any one that will
 make a particular application of those things,
 which I at this time, for brevity`'s sake, thought meet to pass.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §XIX.
 Having thus clearly and evidently stated the question,
@@ -1523,8 +1573,8 @@ as divers objections are hereby prevented,
 so will it make our proof both the easier and the shorter.
 
 The first thing to be proved, is,
-that God hath given to every man a day or time of visitation,
-wherein it is possible for him to be saved.
+__that God hath given to every man a day or time of visitation,
+wherein it is possible for him to be saved.__
 If we can prove that there is a day and time given, in which those might have been saved,
 that actually perish, the matter is done.
 For none deny but those that are saved have a day of visitation.
@@ -1616,23 +1666,10 @@ if there were not a time wherein they might repent by it,
 and come to be sharers of the riches exhibited in it?
 From all which I thus argue:
 
-If God plead with the wicked, from the possibility of their being accepted;
-if God`'s Spirit strive in them for a season, in order to save them,
-who afterwards perish; if he wait to be gracious unto them;
-if he be long-suffering towards them;
-and if this long suffering be salvation to them, while it endureth,
-during which time God willeth them not to perish,
-but exhibiteth to them the riches of his goodness and forbearance,
-to lead them to repentance;
-then there is a day of visitation wherein such might have been,
-or some such now may be saved, who have perished and may, if they repent,
-not perish:^
-footnote:[Later editors replace "`may, if they repent, not perish`" with "`may perish,
-if they repent not.`"]
-
-But the first is true;
-
-Therefore also the last.
+[.syllogism]
+* If God plead with the wicked, from the possibility of their being accepted; if God`'s Spirit strive _in_ them for a season, in order to save them, who afterwards perish; if he wait to be gracious unto them; if he be long-suffering towards them; and if this long suffering be salvation to them, while it endureth, during which time God willeth them not to perish, but exhibiteth to them the riches of his goodness and forbearance, to lead them to repentance; then there is a day of visitation wherein such might have been, or some such now may be saved, who have perished and may, if they repent, not perish:
+* But the first is true;
+* Therefore also the last.
 
 // lint-disable invalid-characters "§"
 §XX. Secondly, This appeareth from the prophet Isaiah (5:4):
@@ -1694,8 +1731,7 @@ that day being expired, ye cannot see them: and, for a farther judgment,
 God suffers you to be hardened in unbelief.
 
 So it is, after real offers of mercy and salvation rejected,
-that God hardens men`'s hearts,^
-footnote:[Later editors replace "`God hardens men`'s hearts`" with "`men`'s hearts are hardened.`"]
+that men`'s hearts are hardened,
 and not before.
 Thus that saying is verified, "`To him that hath, shall be given;
 and from him that hath not,
@@ -1726,12 +1762,13 @@ and I should heal them.`" So it appears, that God would have them to see,
 but they closed their eyes; and therefore they are justly hardened.
 Of this matter Cyril of Alexandria upon John, lib.
 6, cap.
-21, speaks well, answering to this objection.
+21, speaks well, answering to this objection:
+
 "`But some may say, if Christ be come into the world, that those that see may be blinded,
 their blindness is not to be imputed unto them;
 but it rather seems that Christ is the cause of their blindness, who saith,
 he is come into the world, that those that see may be blinded.
-But`" (saith he) "`they speak not rationally, who object these things unto God,
+But they speak not rationally, who object these things unto God,
 and are not afraid to call him the author of evil.
 For, as the sensible sun is carried upon our horizon,
 that it may communicate the gift of its clearness unto all,
@@ -1742,27 +1779,23 @@ but through his own fault.
 So that the true Sun, who came to enlighten those, that sat in darkness,
 and in the region of the shadow of death, visited the earth, for this cause,
 that he might communicate unto all the gift of knowledge and grace,
-and illuminate the inward eyes of all, by a peculiar^
-footnote:[Later editors replace "`peculiar`" with "`spiritual.`"]splendor:
+and illuminate the inward eyes of all, by a spiritual
+splendor:
 but many reject the gift of this heavenly Light freely given to them,
 and have closed the eyes of their minds,
 lest so excellent an illumination or irradiation
 of the eternal Light should shine unto them.
 It is not then through defect of the true Sun that they are blinded,
 but only through their own iniquity and hardness; for, as the wise man saith (Wisdom 2),
-'`their wickedness hath blinded them.`'`" From all which I thus argue:
+'`their wickedness hath blinded them.`'`"
 
-If there was a day,
-wherein the obstinate Jews might have known the things that belonged to their peace,
-which, because they rejected it, was hid from their eyes; if there was a time,
-wherein Christ would have gathered them, who, because they refused,
-could not be gathered; then such as might have been saved, do actually perish,
-that slighted the day of God`'s visitation towards them,
-wherein they might have been converted and saved.
+[.offset]
+From all which I thus argue:
 
-But the first is true;
-
-Therefore also the last.
+[.syllogism]
+* If there was a day, wherein the obstinate Jews might have known the things that belonged to their peace, which, because they rejected it, was hid from their eyes; if there was a time, wherein Christ would have gathered them, who, because they refused, could not be gathered; then such as might have been saved, do actually perish, that slighted the day of God`'s visitation towards them, wherein they might have been converted and saved.
+* But the first is true;
+* Therefore also the last.
 
 // lint-disable invalid-characters "§"
 §XXI.
@@ -1811,7 +1844,8 @@ and the nature thereof is to dispel the darkness, where men shut not their eyes 
 Now for what end this Light is given, is expressed (v. 7),
 where John is said to come for a "`witness, to bear witness to the Light,
 that all men through it might believe`"; to wit, through the Light,
-RESTORE-GREEK which doth very well agree with RESTORE-GREEK,
+// lint-disable invalid-characters
+δί αὐτοῦ which doth very well agree with ϕωτὸῦ,
 as being the nearest antecedent;
 though most translators have (to make it suit with
 their own doctrine) made it relate to John,
@@ -1829,7 +1863,8 @@ by walking in which, fellowship with God is known and enjoyed; but,
 as hath been above observed,
 it is by walking in this Light that we have this communion and fellowship,
 not by walking in John, which were nonsense.
-So that this relative RESTORE-GREEK
+// lint-disable invalid-characters
+So that this relative δί αὐτοῦ
 must needs be referred to the Light, whereof John bears witness,
 that through that Light, wherewith Christ hath lighted every man,
 all men might come to believe.
@@ -1838,7 +1873,7 @@ and the Light through which men come to believe,
 I think it needs not be doubted but that it is a supernatural, saving,
 and sufficient Light.
 If it were not supernatural, it could not be properly called the Light of Jesus;
-for though all things be his, and of him, and from him,
+for though all things be his, and _of_ him, and _from_ him,
 yet those things which are common and peculiar to our nature, as being a part of it,
 we are not said in so special a manner to have from Christ.
 Moreover, the evangelist is holding out to us here the office of Christ as mediator,
@@ -1857,26 +1892,20 @@ as Acts 26:18, Col. 1:1,13 Thess.
 I say, this Light cannot be any natural property or faculty of man`'s soul,
 but a supernatural gift and grace of Christ.
 
-Thirdly, It is sufficient and saving.
+Thirdly, __It is sufficient and saving.__
 
-That, which is given,
-"`that all men through it may believe,`" must needs be saving and sufficient: that,
-by walking in which, fellowship with the saints, and "`the blood of Christ,
-which cleanseth from all sin,`" is possessed, must be sufficient:
+[.syllogism]
+* That, which is given, "`that all men through it may believe,`" must needs be saving and sufficient: that, by walking in which, fellowship with the saints, and "`the blood of Christ, which cleanseth from all sin,`" is possessed, must be sufficient:
+* But such is the _Light_ (1 John 1:7).
+* Therefore, etc.
 
-But such is the Light (1 John 1:7).
-
-Therefore, etc.
-
+[.offset]
 Moreover,
 
-That, which we are commanded to believe in,
-"`that we may become the children of the Light,`" must be a supernatural, sufficient,
-and saving principle:
-
-But we are commanded to believe in this Light:
-
-Therefore, etc.
+[.syllogism]
+* That, which we are commanded to believe in, "`that we may become the children of the Light,`" must be a supernatural, sufficient, and saving principle:
+* But we are commanded to believe in this Light:
+* Therefore, etc.
 
 The proposition cannot be denied.
 The assumption is Christ`'s own words (John 12:36): "`While ye have the Light,
@@ -1886,7 +1915,7 @@ To this they object, that by "`Light`" here is understood Christ`'s outward pers
 in whom he would have them believe.
 
 That they ought to have believed in Christ, that is,
-that he was the MESSIAH that was to come, is not denied;
+that he was the Messiah that was to come, is not denied;
 but how they evince that Christ intended that here I see not:
 nay the place itself shows the contrary by these words, "`While ye have the Light`";
 and by the verse going before,
@@ -1897,7 +1926,7 @@ Now this could not be understood of Christ`'s person; the Jews might have believ
 and many did savingly believe in him, as all Christians do at this day, when the person,
 to wit, his bodily presence or outward man is far removed from them.
 So that this Light in which they were commanded to believe must be that inward,
-spiritual Light, that shines in their hearts for a season,
+spiritual Light, that shines _in_ their hearts for a season,
 even during the day of man`'s visitation; which while it continueth to call,
 invite and exhort, men are said to have it and may believe in it;
 but when men refuse to believe in it, and reject it,
@@ -1910,10 +1939,11 @@ and therefore to such rebellious ones the "`day of the
 Lord`" is said to be "`darkness and not light`" (Amos 5:18).
 
 From whence it appears that though many receive not the Light (as the darkness comprehends
-it not) nevertheless this saving Light shines in all that it may save them.
-Concerning which also Cyril of Alexandria saith well, and defends our principle.
-"`With great diligence and watchfulness,`" saith he,
-"`doth the apostle John endeavour to anticipate and prevent the vain thoughts of men;
+it not) nevertheless this saving Light shines __in all__ that it may save them.
+Concerning which also Cyril of Alexandria saith well, and defends our principle:
+
+"`With great diligence and watchfulness,
+doth the apostle John endeavour to anticipate and prevent the vain thoughts of men;
 for there is here a wonderful method of sublime things and overturning of objections,
 he had just now called the Son the true Light,
 by whom he affirmed that every man coming into the world was enlightened;
@@ -1926,7 +1956,7 @@ why was he so long unknown unto the world?
 It seems rather to follow because he was unknown to the world,
 therefore the world was not enlightened by him, nor he totally Light.
 Lest any should so object he divinely infers, '`and the world knew him not.`'
-Let not the world,`" saith he, "`accuse the Word of God, and his eternal Light,
+Let not the world accuse the Word of God, and his eternal Light,
 but its own weakness: for the Son enlightens,
 but the creature rejects the grace that is given unto it and abuseth the sharpness
 of understanding granted it by which it might have naturally known God,
@@ -1959,10 +1989,10 @@ that it may now seem to be said truly of all,
 which was of old said by the prophet of the Jews,
 I expected that it should have brought forth grapes, but it brought forth wild grapes.
 For the good fruit of the illumination was the knowledge of the Only-Begotten,
-as a cluster hanging from a fruitful branch,`" etc.^
-footnote:[Upon John, lib. 1, cap. 2.]
+as a cluster hanging from a fruitful branch, etc.`"^
+footnote:[Upon John, _lib. 1, cap. 2._]
 
-From which it appears, Cyril believed, that a saving illumination was given unto all.
+From which it appears, Cyril believed, that a saving illumination was given unto _all._
 For, as to what he speaks of nature,
 he understands it not of the common nature of man by itself,
 but of that nature which hath the strength of understanding divinely given it:
@@ -1971,6 +2001,9 @@ kind with that grace of which Paul makes mention to Timothy,
 saying, "`Neglect not the grace that is in thee.`" Now, it is not to be believed,
 that Cyril was so ignorant, as to judge that grace to have been some natural gift.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §XXII.
 That this saving Light and Seed, or a measure of it, is given to all,
@@ -1978,7 +2011,8 @@ Christ telleth expressly in the parable of the sower (Matt. 13 from v. 18; Mark 
 and Luke 8:11),
 he saith That this "`seed`" sown in those several sorts of grounds is the "`Word
 of the Kingdom,`" which the apostle calls the Word of faith (Rom. 10:8,
-James 1:21), RESTORE-GREEK, the "`implanted ingrafted Word, which is able to save the soul`";
+// lint-disable invalid-characters
+James 1:21), ὁ λόγοϛ ἓμϕυτοϛ, the "`implanted ingrafted Word, which is able to save the soul`";
 the words themselves declare that it is that, which is saving, in the nature of it,
 for in the good ground, it fructified abundantly.
 
@@ -1995,7 +2029,7 @@ So that though all are not saved by it,
 yet there is a seed of salvation planted and sown in the hearts of all by God,
 which would grow up and redeem the soul if it were not choked and hindered.
 Concerning this parable Victor of Antioch (on the fourth chapter of Mark,
-as he is cited by Voss in his Pelagian History, Book 7) saith,
+as he is cited by Voss in his [.book-title]#Pelagian History,# Book 7) saith,
 "`That our Lord Christ hath liberally sown the divine Seed
 of the Word and proposed it to all without respect of persons;
 and as he that soweth distinguisheth not betwixt ground
@@ -2020,16 +2054,19 @@ so should he also that gave the one if he had given two;
 and no doubt one was capable to have produced two, as well as five to have produced ten,
 or two four.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §XXIII.
-Thirdly, this saving spiritual Light is the Gospel,
+Thirdly, this saving spiritual Light is the _Gospel,_
 which the apostle saith expressly is preached "`in every creature under heaven`";
 even that very "`Gospel whereof Paul was made a minister`" (Col.
 1:23). For the Gospel is not a mere declaration of good things,
 being the "`power of God unto salvation,
 to all those that believe`" (Rom. 1:16). Though the outward
 declaration of the Gospel be taken sometimes for the Gospel;
-yet it is but figuratively and by a metonymy.
+yet it is but figuratively and by a _metonymy._
 For to speak properly,
 the Gospel is this inward power and life which preacheth
 glad tidings in the hearts of all men,
@@ -2044,9 +2081,9 @@ and also the "`wrath of God against such as hold the Truth of God in unrighteous
 for this reason (saith he) "`because that which may be known of God is manifest in them;
 for God hath showed it unto them.`" Now that which
 may be known of God is known by the Gospel,
-which was manifest in them.
+which was manifest _in_ them.
 For those of whom the apostle speaks had no outward gospel preached unto them;
-so that it was by the inward manifestation of the knowledge of God in them,
+so that it was by the inward manifestation of the knowledge of God _in_ them,
 which is indeed the Gospel preached in man,
 that "`the righteousness of God is revealed from faith to faith`"; that is,
 it reveals to the soul that which is just, good, and righteous, and that,
@@ -2060,7 +2097,7 @@ so were it not for this inward principle we could no more understand the invisib
 things of God by the outward visible creation than a blind man can see and discern
 the variety of shapes and colors or judge of the beauty of the outward creation.
 Therefore he saith, first,
-"`That which may be known of God is manifest in them,`" and in and by that they may read
+"`That which may be known of God is manifest in them,`" and _in_ and _by_ that they may read
 and understand the power and Godhead in those things that are outward and visible.
 And though any might pretend that the outward creation doth, of itself,
 without any supernatural or saving principle in the heart,
@@ -2073,16 +2110,17 @@ though it may beget a persuasion that there is some eternal
 power or virtue by which the world hath had its beginning;
 yet it doth not tell me nor doth it inform me of that which is just, holy, and righteous,
 how I shall be delivered from my temptations and evil affections and come unto righteousness:
-that must be from some inward manifestation in my heart.
-Whereas those Gentiles of whom the apostle speaks knew by that inward law and manifestation
-of the knowledge of God in them to distinguish betwixt good and evil,
+that must be from some inward manifestation __in my heart.__
+Whereas those Gentiles of whom the apostle speaks knew by that __inward law__ and manifestation
+of the knowledge of God _in_ them to distinguish betwixt good and evil,
 as in the next chapter appears, of which we shall speak hereafter.
+
 The prophet Micah, speaking of man indefinitely or in general,
 declares this (Mic. 6:8): "`He hath showed thee, O man, what is good.
 And what doth the Lord require of thee but to do justly, and to love mercy,
 and to walk humbly with thy God?`" He doth not say God requires
 till he hath first assured that he hath showed unto them.
-Now because this is showed unto all men and manifest in them, therefore,
+Now because this is showed unto _all_ men and manifest _in_ them, therefore,
 saith the apostle,
 is the "`wrath of God revealed against them for that they hold the Truth in unrighteousness`";
 that is the measure of Truth, the Light, the Seed, the Grace in them:
@@ -2109,22 +2147,22 @@ neither then nor many hundred years after;
 yea for aught we know there may be yet great and spacious nations
 and kingdoms who never have heard of Christ nor his apostles,
 as outwardly.
+
 This inward and powerful Word of God is yet more
 fully described in the epistle to the Hebrews (chap.
-4:12-13): "`For the Word of God is quick,^
-footnote:[Later editors insert "`and powerful.`"]
+4:12-13): "`For the Word of God is quick and powerful,
 and sharper than any two-edged sword,
 piercing even to the dividing asunder of soul and spirit and of the joints and marrow,
 and is a discerner of the thoughts and intents of the heart.`"
 The virtues of this spiritual Word are here enumerated,
-it is quick, because it searches and tries the hearts of all:
+it is _quick,_ because it searches and tries the hearts of all:
 no man`'s heart is exempt from it, for the apostle gives this reason of its being so,
 in the following verse: "`But all things are naked and opened unto the eyes of him,
 with whom we have to do: and there is not any creature,
 that is not manifest in his sight.`" Though this ultimately
 and mediately be referred to God,
-yet nearly and immediately it relates to the Word or Light, which,
-as hath been before proved, is in the hearts of all,
+yet nearly and immediately it relates to the _Word_ or _Light,_ which,
+as hath been before proved, is __in the hearts of all,__
 else it had been improper to have brought it in here.
 The apostle shows how every intent and thought of
 the heart is discerned by the Word of God,
@@ -2139,16 +2177,16 @@ and he is said to be "`given for a witness to the people`"
 (Isa. 55:4). And as this Word beareth witness for God,
 so it is not placed in men only to condemn them: for as he is given for a witness, so,
 saith the prophet,
-"`he is given for a leader and commander.`" The Light
-is given that all through it may believe (John 1:7),
+"`he is given for a leader and commander.`"
+The Light is given that all through it may believe (John 1:7),
 "`for faith cometh by hearing,
 and hearing by the Word of God,`" which is placed in man`'s heart,
 both to be a witness for God, and to be a means to bring man to God,
-through faith and repentance: it is therefore powerful,
+through faith and repentance: it is therefore _powerful,_
 that it may divide betwixt the soul and the spirit.
 It is like a two-edged sword, that it may cut off iniquity from him,
 and separate betwixt the precious and the vile; and because man`'s heart is cold and hard,
-like iron, naturally, therefore hath God placed this Word in him,
+like iron, naturally, therefore hath God placed this Word _in_ him,
 which is said to be like a fire, and like a hammer, (Jer. 23:29), that,
 like as by the heat of the fire the iron, of its own nature cold, is warmed,
 and by the strength of the hammer is softened and
@@ -2160,13 +2198,13 @@ and receiveth a heavenly and celestial impression and image.
 The most part of the fathers have spoken at large touching this Word, Seed, Light,
 and saving voice calling all unto salvation, and able to save.
 
-Clement of Alexandria saith (lib.
-2, Stromat.), "`The divine Word hath cried, calling all,
+Clement of Alexandria saith _(lib.
+2, Stromat.),_ "`The divine Word hath cried, calling all,
 knowing well those that will not obey.
 And yet, because it is in our power either to obey or not to obey,
 that none may have a pretext of ignorance it hath made a righteous call and requireth
 but that which is according to the ability and strength of every one.`" The selfsame,
-in his Warning to the Gentiles:
+in his [.book-title]#Warning to the Gentiles:#
 "`For as`" (saith he) "`that heavenly ambassador of the Lord,
 the grace of God that brings salvation, hath appeared unto all, etc. This is the new song,
 coming, and manifestation of the Word which now shows itself in us,
@@ -2177,7 +2215,8 @@ There is no darkness in the Word; let us hasten to salvation, to the new birth, 
 being many, may be gathered unto the one alone love.`" Ibid.,
 he saith that "`There is infused into all,
 but principally into those that are trained up in doctrine, a certain divine influence,
-RESTORE-GREEK`"
+// lint-disable invalid-characters
+τίϛ ἀπόρροια θείκή.`"
 And again he speaketh concerning "`the innate witness, worthy of belief,
 which of itself doth plainly choose that which is most honest.`" And again he saith,
 "`That it is not impossible to come unto the Truth and lay hold of it,
@@ -2193,41 +2232,46 @@ and the stone of great value.`" And again he saith,
 let us receive the Light that we may be the scholars of
 the Lord.`" And again he saith to those infidel nations,
 "`The heavenly Spirit helpeth thee; resist and flee pleasure.`"
-Again (lib. Strom. 5) he saith,
+Again (_lib._ Strom. 5) he saith,
 "`God forbid that man be not a partaker of divine acquaintance,
-RESTORE-GREEK, who in Genesis is said to be a partaker of inspiration.`"
-And (Paed. lib,+++.+++ 1, cap. 3), "`There is,`" saith he,
+// lint-disable invalid-characters
+θείαϛ ἐννοίαϛ, who in Genesis is said to be a partaker of inspiration.`"
+And _(Paed. lib,+++.+++ 1, cap. 3),_ "`There is,`" saith he,
 "`some lovely and some desirable thing in man which is called the in-breathing of God,
-RESTORE-GREEK`"
-The same man (lib. Strom. 10) directeth men unto the Light and Water in themselves,
+// lint-disable invalid-characters
+ἐμϕύσηυα θεοῦ.`" The same man [.book-title]#(lib. Strom. 10)# directeth men unto
+the _Light_ and _Water_ in themselves,
 who have the eye of the soul darkened or dimmed through evil upbringing and learning:
-let them enter in unto their own domestic Light,
-or unto the Light which is in their own house, RESTORE-GREEK,
+let them enter in unto their own _domestic_ Light,
+// lint-disable invalid-characters
+or unto the Light which is _in_ their own house, πρόϛ τό οἰκεῖον ϕῶϛ βαδιζέτω,
 unto the Truth which manifests accurately and clearly these things that have been written.
 
 Justin Martyr, in his first apology, saith, "`that the Word which was and is, is in all;
 even that very same Word which, through the prophets, foretold things to come.`"
 
-The writer of the Call of all Nations, saith (lib. i, cap. 2),
+The writer of the [.book-title]#Call of All Nations,# saith _(lib. i, cap. 2),_
 "`We believe according to the same (viz. Scripture), and most religiously confess,
 that God was never wanting in care to the generality of men;
 who although he did lead by particular lessons,
 a people gathered to himself unto godliness,
 yet he withdrew from no nation of men the gifts of his own goodness,
 that they might be convinced that they had received the words of the prophets,
-and legal commands in services and testimonies of the first principles.`" Cap.
-7, he saith,
-"`That he believes that the help of grace hath been wholly withdrawn from no man.`" Lib.
-2, cap.
-l, "`Because, albeit salvation is far from sinners,
-yet there is nothing void of the presence and virtue of his salvation.`" Cap.
-2, "`But seeing none of that people over whom was set both the doctrines,
+and legal commands in services and testimonies of the first principles.`" _Cap.
+7,_ he saith,
+"`That he believes that the help of grace hath been wholly withdrawn from no man.`" _Lib.
+2, cap. 1,_ "`Because, albeit salvation is far from sinners,
+yet there is nothing void of the presence and virtue of his salvation.`" _Cap.
+2,_ "`But seeing none of that people over whom was set both the doctrines,
 were justified but through Grace by the Spirit of faith, who can question, but that they,
 who of whatsoever nation, in whatsoever times, could please God,
 were ordered by the Spirit of the Grace of God:
 which albeit in fore-time it was more sparing and hid, yet denied itself to no ages,
 being in virtue one, in quantity different, in counsel unchangeable,
 in operation multifarious.`"
+
+[.small-break]
+'''
 
 // lint-disable invalid-characters "§"
 §XXIV.
@@ -2295,7 +2339,7 @@ new,`" may safely say with the apostle,
 "`Though we have known Christ after the flesh yet now henceforth know we him no more.`"
 Now this new creature proceeds from the work of this Light and Grace in the heart.
 It is that Word which we speak of that is sharp and piercing,
-that implanted Word able to save the soul, by which this birth is begotten;
+that _implanted_ Word able to save the soul, by which this birth is begotten;
 and therefore Christ has purchased unto us this holy Seed,
 that thereby this birth might be brought forth in us which is therefore also
 called "`the manifestation of the Spirit given to every one to profit withal`";
@@ -2317,6 +2361,7 @@ is nourished, and not choked:
 hence Christ saith that the Kingdom of God was in the very Pharisees
 (Luke 17:20-21) who did oppose and resist him and were justly
 accounted as serpents and a generation of vipers.
+
 Now the Kingdom of God could be no otherways in them than in a Seed,
 even as the thirty-fold and the hundred-fold is wrapt
 up in a small seed lying in a barren ground,
@@ -2324,14 +2369,14 @@ which springs not forth because it wants nourishment:
 and as the whole body of a great tree is wrapped up potentially in the seed of the tree,
 and so is brought forth in due season;
 and as the capacity of a man or a woman is not only
-in a child but even in the very embryo,
+in a child but even in the very _embryo,_
 even so the Kingdom of Jesus Christ, yea Jesus Christ himself, "`Christ within,
 who is the hope of glory,`" and becometh wisdom, righteousness,
 sanctification and redemption, is in every man`'s and woman`'s heart,
 in that little incorruptible Seed,
 ready to be brought forth as it is cherished and received in the love of it.
 For there can be no men worse than those rebellious and unbelieving Pharisees were;
-and yet this Kingdom was thus within them, and they were directed to look for it there:
+and yet this Kingdom was thus _within_ them, and they were directed to look for it there:
 so it is neither "`lo here`" nor "`lo there,`" in this or the other observation,
 that this is known, but as this Seed of God in the heart is minded and entertained.
 And certainly hence it is (even because this Light, Seed,
@@ -2344,7 +2389,7 @@ insufficient, useless thing as to their salvation.
 On the other hand the Papists, Arminians, and Socinians,
 they go about to set up their natural power and will,
 with one consent denying that this little Seed, this small appearance of the Light,
-is that supernatural saving grace of God given to every man to save him.
+is that supernatural saving grace of God given to _every_ man to save him.
 And so upon them is verified that saying of the Lord Jesus Christ,
 "`This is the condemnation of the world, that Light is come into the world,
 but men love darkness rather than Light`"; the reason is added,
@@ -2372,6 +2417,7 @@ and learning about, and use the liberty of their own wills.
 And the secure Calvinists, they would have a Christ to save them without any trouble;
 to destroy all their enemies for them without them, and nothing or little within,
 while they meanwhile be at ease to live in their sins secure.
+
 Whence when all is well examined the cause is plain:
 it is "`because their deeds are evil`" that with one consent they reject this Light;
 for it checks the wisest of them all and the learnedest of them all in secret;
@@ -2414,9 +2460,10 @@ to the world and the world unto me.`" This is better than to write
 thousands of commentaries and to preach many sermons.
 And it is thus to preach Christ and direct people to his pure Light in the heart that
 God hath raised us up and for which the wise men of this world account us fools;
-because by the operation of this cross of Christ in our hearts we have denied
+because by the operation of this cross of Christ _in_ our hearts we have denied
 our own wisdom and wills in many things and have forsaken the vain worships,
 fashions, and customs of this world.
+
 For these divers centuries the world hath been full of a dry, fruitless,
 and barren knowledge of Christ, feeding upon the husk and neglecting the kernel;
 following after the shadow but strangers to the substance.
@@ -2438,8 +2485,8 @@ while in the meantime Christ lies crucified and slain and is daily
 resisted and gainsaid in his appearance in their hearts.
 Thus, from a sense of this blindness and ignorance that is come over Christendom,
 it is that we are led and moved of the Lord so constantly and frequently to call all,
-invite all, request all to turn to the Light in them, to mind the Light in them,
-to believe in Christ as he is in them.
+invite all, request all to turn to the Light _in_ them, to mind the Light _in_ them,
+to believe in Christ as he is _in_ them.
 And that in the name, power, and authority of the Lord,
 not in school arguments and distinctions (for which many of the wise men of this world
 account us fools and madmen) we do charge and command them to lay aside their wisdom,
@@ -2458,6 +2505,9 @@ To conclude, as saith the apostle,
 and try their ownselves:
 for except Jesus Christ be in them they are certainly reprobates`" (2 Cor. 13:5).
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §XXV.
 Secondly, that which remains now to be proved is,
@@ -2470,14 +2520,10 @@ though not in any outward dispensation, is preached to them, and in them;
 so that thereby they are stated in a possibility of salvation.
 From which I may thus argue:
 
-Arg.
-To whom the Gospel, the power of God unto salvation, is manifest, they may be saved,
-whatever outward knowledge they want:
-
-But this Gospel is preached in every creature;
-in which is certainly comprehended many that have not the outward knowledge:
-
-Therefore of those, many may be saved.
+[.syllogism]
+* _Arg._ To whom the Gospel, the power of God unto salvation, is manifest, they may be saved, whatever outward knowledge they want:
+* But this Gospel is preached _in_ every creature; in which is certainly comprehended many that have not the outward knowledge:
+* Therefore of those, many may be saved.
 
 But to those arguments by which it hath been proved
 that all men have a measure of saving grace,
@@ -2490,16 +2536,16 @@ and godly in this present world.`" Than which there can be nothing more clear,
 it comprehending both the parts of the controversy.
 First, it testifies that it is no natural principle or light, but saith plainly,
 "`it brings salvation.`" Secondly, it says not that it hath appeared to a few,
-but unto all men.
+but unto _all_ men.
 The fruit of it declares also how efficacious it is,
 seeing it comprehends the whole duty of man.
 It both teacheth us first to forsake evil, to deny ungodliness and worldly lusts;
 and then it teacheth us our whole duty.
-First, to live soberly, that comprehends temperance, chastity, meekness,
+First, to live _soberly,_ that comprehends temperance, chastity, meekness,
 and those things that relate unto a man`'s self.
-Secondly, righteously, that comprehends equity, justice, and honesty,
+Secondly, _righteously,_ that comprehends equity, justice, and honesty,
 and those things which relate to our neighbours.
-And lastly, godly; which comprehends piety, faithfulness, and devotion,
+And lastly, _godly;_ which comprehends piety, faithfulness, and devotion,
 which are the duties relating to God.
 So then there is nothing required of man or is needful
 to man which this grace teacheth not.
@@ -2508,7 +2554,7 @@ to evite the strength of this text, deny this grace to be saving,
 and say it was only intended of common favours and graces such
 as is the heat of the fire and outward light of the sun.
 Such is the darkness and ignorance of those that oppose the Truth,
-whereas the text saith expressly that it is saving.
+whereas the text saith expressly that it is _saving._
 Others, that cannot deny but it is saving,
 allege this "`all`" comprehends not every individual but only all kinds.
 But is a bare negation sufficient to overturn the strength of a positive assertion?
@@ -2548,13 +2594,10 @@ to condemnation hath not come upon all;
 or say that this free gift is come upon all by Christ.
 Whence I thus argue, First,
 
-Arg.
-If all men have received a loss from Adam, which leads to condemnation;
-then all men have received a gift from Christ, which leads to justification:
-
-But the first is true;
-
-Therefore also the last.
+[.syllogism]
+* _Arg._ If _all_ men have received a loss from Adam, which leads to condemnation; then _all_ men have received a gift from Christ, which leads to justification:
+* But the first is true;
+* Therefore also the last.
 
 From all which it naturally follows that all men, even the heathen, may be saved:
 for Christ was given as a "`Light to enlighten the Gentiles`" (Isa. 49:6).
@@ -2564,17 +2607,17 @@ I see not what reason can be alleged for it; yea, though it were granted,
 which never can be, that none of the heathen were saved,
 it will not from thence follow that they could not have been saved;
 or that none now in their condition can be saved.
-For, A non esse ad non posse non datur sequela, i.e.,
+For, __A non esse ad non posse non datur sequela,__ i.e.,
 That consequence is false that concludes a thing cannot be because it is not.
 
-Obj.
-But if it be objected, which is the great objection,
-that "`there is no name under heaven, by which salvation is known,
-but by the name Jesus.`"
+[.offset]
+_Objection:_
 
-Therefore they (not knowing this) cannot be saved.
+[.syllogism]
+* But if it be objected, which is the great objection, that "`there is no name under heaven, by which salvation is known, but by the name Jesus.`"
+* Therefore they (not knowing this) cannot be saved.
 
-Answ.
+_Answ._
 I answer: though they know it not outwardly,
 yet if they know it inwardly by feeling the virtue and power of it,
 the Name "`Jesus`" indeed (which signifies a Saviour)
@@ -2594,7 +2637,7 @@ whereas experience proves the contrary.
 How many are injured by Adam`'s fall that know nothing
 of there ever being such a man in the world?
 or of his eating the forbidden fruit?
-Why may they not then be saved by the gift and grace of Christ in them,
+Why may they not then be saved by the gift and grace of Christ _in_ them,
 making them righteous and holy,
 though they know not distinctly how that was purchased unto them
 by the death and sufferings of Jesus that was crucified at Jerusalem;
@@ -2605,6 +2648,9 @@ so also on the other hand how many are cured of their diseases
 by good remedies who know not how the medicine is prepared,
 what the ingredients are, nor oftentimes who made it?
 The like may also hold in spiritual things, as we shall hereafter prove.
+
+[.small-break]
+'''
 
 // lint-disable invalid-characters "§"
 §XXVI.
@@ -2620,32 +2666,32 @@ and of deaf people, it is not to be doubted,
 and experience shows us that they are subject to
 many common iniquities as well as other men.
 
-Obj.
+_Obj._
 If it be said, that these children are the children of believing parents:
 
-Answ.
+_Answ._
 What then?
 They will not say that they transmit grace to their children.
 Do they not affirm, that the children of believing parents are guilty of original sin,
 and deserve death as well as others?
 How prove they that makes up the loss of all explicit knowledge?
 
-Obj.
+_Obj._
 If they say, deaf people may be made sensible of the Gospel by signs:
 
-Answ.
+_Answ._
 All the signs cannot give them any explicit knowledge of the history of the death,
 sufferings, and resurrection of Christ.
 For what signs can inform a deaf man that the son of God took on him man`'s nature,
 was born of a virgin, and suffered under Pontius Pilate?
 
-Obj.
+_Obj._
 And if they should further allege, that they are within the bosom of the visible church,
 and partakers of the sacraments:
 
-Answ.
+_Answ._
 All that gives no certainty of salvation;
-for (as the Protestants confess) they confer not grace ex opere operato.
+for (as the Protestants confess) they confer not grace __ex opere operato.__
 And will not they acknowledge that many are in the bosom of the church,
 who are visibly no members of it?
 But if this charity be extended towards such, who are where the Gospel is preached,
@@ -2714,20 +2760,18 @@ if we may believe his plain assertions, he tells us (Rom. 2),
 "`that the heathen did the things contained in the
 law.`" From whence I thus argue:
 
-Arg.
-In every nation, he that feareth God and worketh righteousness is accepted:
+[.syllogism]
+* _Arg._ In every nation, he that feareth God and worketh righteousness is accepted:
+* But many of the heathen feared God and wrought righteousness:
+* Therefore they were accepted.
 
-But many of the heathen feared God and wrought righteousness:
-
-Therefore they were accepted.
-
+[.offset]
 The minor is proved from the example of Cornelius; but I shall further prove it thus:
 
-He that doth the things contained in the Law feareth God and worketh righteousness;
-
-But the heathen did the things contained in the Law:
-
-Therefore they feared God, and wrought righteousness.
+[.syllogism]
+* He that doth the things contained in the Law feareth God and worketh righteousness;
+* But the heathen did the things contained in the Law:
+* Therefore they feared God, and wrought righteousness.
 
 Can there be anything more clear?
 For if to do the things contained in the Law, be not to fear God and work righteousness,
@@ -2738,9 +2782,9 @@ taken out of the same chapter (v. 13). So that nothing can be more clear; the wo
 "`The doers of the Law shall be justified.`" From which I thus argue,
 without adding any word of my own:
 
-The doers of the Law shall be justified:
-
-But the Gentiles do the things contained in the Law:
+[.syllogism]
+* The doers of the Law shall be justified:
+* But the Gentiles do the things contained in the Law:
 
 All that know but a conclusion do easily see
 what follows from these express words of the apostle.
@@ -2749,8 +2793,7 @@ labours as if he were contending now with our adversaries,
 to confirm this doctrine (vv. 9-11),
 "`Tribulation and anguish upon every soul of man that doth evil, to the Jew first,
 and also to the Gentile.
-For there is no respect of persons with God.`" Where the apostle clearly homologates^
-footnote:[homologate +++=+++ approve]
+For there is no respect of persons with God.`" Where the apostle clearly approves
 the sentence of Peter, before mentioned, and shows that Jew and Gentile,
 or as he himself explains in the following verses,
 both they that have an outward law and they that have none,
@@ -2800,6 +2843,9 @@ conversed daily with him, and saw his miracles, could not understand,
 neither believe those things, which related to his death, sufferings, and resurrection,
 but were, in a certain respect, stumbled at them.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §XXVII.
 So, we see how that it is the inward work,
@@ -2817,16 +2863,16 @@ that "`the wings of the soul were clipped or fallen off,
 so that they could not flee unto God.`" All which,
 and many more such expressions that might be gathered out of their writings,
 show that they were not without a sense of this loss.
-Also they had a knowledge and discovery of Jesus Christ inwardly, as a remedy in them,
+Also they had a knowledge and discovery of Jesus Christ inwardly, as a remedy _in_ them,
 to deliver them, from that evil seed, and the evil inclinations of their own hearts,
 though not under that particular denomination.
 
-Some called him a Holy Spirit, as Seneca (Epist.
-41), who said,
+Some called him a Holy Spirit, as Seneca _(Epist.
+41),_ who said,
 "`There is a Holy Spirit in us that treateth us as we treat him.`"
-Cicero calleth it an "`innate light,`" in his book De Republica,
-cited by Lactantius (6 Instit.),^
-footnote:[In Sect. 8.]
+Cicero calleth it an "`innate light,`" in his book [.book-title]#De Republica,#
+cited by Lactantius __(6 Instit.),__^
+footnote:[__In Sect. 8.__]
 where he calls this "`right reason, given unto all, constant and eternal,
 calling unto duty by commanding, and deterring from deceit by forbidding.`" Adding,
 "`that it cannot be abrogated, neither can any be freed from it,
@@ -2851,10 +2897,11 @@ They knew this wisdom was nigh unto them,
 and that "`the best knowledge of God and divine mysteries was by
 the inspiration of the wisdom of God.`" Phocylides affirmed,
 that "`the word of the wisdom of God was the best.`" His words in the Greek are,
-RESTORE-GREEK.
+// lint-disable invalid-characters
+Τῆϛ δὲ Θεοπνεύστηϛ σοϕίαϛ λόγοϛ ἐστὶν ἄριστοϛ.
 
-And much more of this kind might be instanced, by which it appears they knew Christ,
-and by his working in them were brought from unrighteousness to righteousness,
+And much more of this kind might be instanced, by which it appears they knew _Christ,_
+and by his working _in_ them were brought from unrighteousness to righteousness,
 and to love that power by which they felt themselves redeemed; so that,
 as saith the apostle,
 "`They show the work of the law written in their hearts,`"
@@ -2868,24 +2915,20 @@ which was in all men, were Christians, such as Socrates and Heraclitus,
 and others among the Greeks,`" etc. "`That such as live with the Word,
 are Christians without fear or anxiety.`"
 
-Clement of Alexandria saith (Apol.
-ii., Strom.
-lib. i.), that "`this wisdom or philosophy was necessary to the Gentiles,
+Clement of Alexandria saith _(Apol. ii., Strom. lib. i.),_
+that "`this wisdom or philosophy was necessary to the Gentiles,
 and was their schoolmaster to lead them unto Christ,
 by which of old the Greeks were justified.`"
 
-"`Nor do I think,`" saith Augustine, in his book of the City of God, lib.
-18, cap.
-47,
+"`Nor do I think,`" saith Augustine, in his book of the [.book-title]#City of God,# _lib. 18, cap. 47,_
 "`that the Jews dare affirm that none belonged unto God
 but the Israelites.`" Upon which place Ludovicus Vives saith,
 that "`thus the Gentiles, not having a law, were a law unto themselves;
 and the light of so living is the gift of God, and proceeds from the Son;
 of whom it is written that he enlighteneth every man that cometh into the world.`"
 
-Augustine also testifies in his Confessions (lib.
-7, cap.
-9), that "`he had read in the writings of the Platonists,
+Augustine also testifies in his [.book-title]#Confessions# _(lib.
+7, cap. 9),_ that "`he had read in the writings of the Platonists,
 though not in the very same words,
 yet that which by many and multiplied reasons did persuade,
 that '`in the beginning was the Word, and the Word was with God,
@@ -2906,8 +2949,10 @@ as to have immediate converse with him, and to affirm,
 is not that which is attained by premises premised, and conclusions deduced,
 but that which is enjoyed by conjunction of the mind of man with the supreme intellect,
 after the mind is purified from its corruptions, and is separated from all bodily images,
-and is gathered into a profound stillness!"`^
-footnote:[This paragraph is omitted from some later editions.]
+and is gathered into a profound stillness!"`
+
+[.small-break]
+'''
 
 // lint-disable invalid-characters "§"
 §XXVIII.
@@ -2918,18 +2963,17 @@ and also by this same Light, that all may come to be saved; and that God calls, 
 and strives with all, in a day, and saveth many,
 to whom he hath not seen meet to convey this outward knowledge; therefore we,
 having the experience of the inward and powerful work of this Light in our hearts,
-even Jesus revealed in us, cannot cease to proclaim the day of the Lord,
+even _Jesus_ revealed in us, cannot cease to proclaim the day of the Lord,
 that it is arisen in it, crying out with the woman of Samaria; "`Come and see one,
 that hath told me all that ever I have done:
 Is not this the Christ?`" That others may come and feel the same in themselves,
 and may know, that little small thing that reproves them in their hearts,
 however they have despised it and neglected it,
-is nothing less than the Gospel preached in them; "`Christ,
+is nothing less than the Gospel preached _in_ them; "`Christ,
 the wisdom and power of God,`" being in and by that Seed seeking to save their souls.
 
-Of this Light therefore Augustine speaks in his Confessions (lib.
-11, cap.
-9): "`In this beginning, O God! thou madest the heavens and the earth, in thy Word,
+Of this Light therefore Augustine speaks in his [.book-title]#Confessions# _(lib.
+11, cap. 9):_ "`In this beginning, O God! thou madest the heavens and the earth, in thy Word,
 in thy Son, in thy virtue, in thy wisdom, wonderfully saying, and wonderfully doing.
 Who shall comprehend it?
 Who shall declare it?
@@ -2938,18 +2982,17 @@ at which I both tremble, and am inflamed?
 I tremble, in so far as I am unlike unto it;
 and I am inflamed in so far as I am like unto it?
 It is Wisdom, which shineth in unto me and dispelleth my cloud,
-which had again covered me, after I was departed from that darkness and rampier^
-footnote:[Later editors substitute "`heap`" for "`rampier.`"]
-of my punishments.`" And again he saith (lib.
+which had again covered me, after I was departed from that darkness and heap
+of my punishments.`" And again he saith _(lib.
 x., cap.
-27), "`It is too late that I have loved thee, O thou beautifulness, so ancient,
+27),_ "`It is too late that I have loved thee, O thou beautifulness, so ancient,
 and so new, late have I loved thee, and behold thou wast within, and I was without,
 and there was seeking thee! thou didst call, thou didst cry,
 thou didst break my deafness, thou glancedst, thou didst shine,
 thou chasedst away my darkness.`"
 
-Of this also our countryman, George Buchanan, speaketh thus in his book,
-De Jure Regni apud Scotos: "`Truly I understand no other thing at present,
+Of this also our countryman, George Buchanan, speaketh thus in his book, [.book-title]#De Jure Regni apud Scotos:#
+"`Truly I understand no other thing at present,
 than that Light, which is divinely infused into our souls; for when God formed man,
 he not only gave him eyes to his body,
 by which he might shun those things that are hurtful to him,
@@ -2973,7 +3016,8 @@ and to direct all, as well the high professors, who boast of the Law,
 and the Scriptures, and the outward knowledge of Christ,
 as the infidels and heathens that know not him that way,
 that they may all come to mind the Light in them, and know Christ in them,
-"`the Just One +++[+++RESTORE-GREEK], whom they have so long killed and made merry over,
+// lint-disable invalid-characters
+"`the Just One +++[+++τὸν Δίκαιον], whom they have so long killed and made merry over,
 and he hath not resisted`" (James 5:6), and give up their sins, iniquities, false faith,
 professions, and outside righteousness,
 to be crucified by the power of his cross in them,

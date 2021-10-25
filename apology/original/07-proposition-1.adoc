@@ -1,5 +1,6 @@
 == THE FIRST PROPOSITION
 
+[.heading-continuation-blurb]
 Seeing the height of all happiness is placed in the true knowledge of God;
 "`This is life eternal, to know the true God,
 and Jesus Christ whom thou hast sent`";^
@@ -50,7 +51,7 @@ as being secretly touched with the call of God`'s grace unto them,
 do apply themselves unto false teachers; where the remedy proves worse than the disease;
 because instead of knowing God, or the things relating to their salvation aright,
 they drink in wrong opinions of him; from which it is harder to be disentangled,
-than while the soul remains a blank, or tabula rasa.
+than while the soul remains a blank, or __tabula rasa.__
 For they that conceit themselves wise,
 are worse to deal with than they that are sensible of their ignorance.
 Nor hath it been less the device of the devil, the great enemy of mankind,
@@ -71,8 +72,13 @@ may show how dangerous it is to miss in this first step:
 
 Again, how needful and desirable that knowledge is, which brings life eternal,
 Epictetus showeth, saying excellently well, cap.
-38, RESTORE-GREEK, etc. Know, that the main foundation of piety is this, To have
-RESTORE-GREEK, right opinions and apprehensions of God.
+38,
+// lint-disable invalid-characters
+ἲσθι ὅτι τὸ Κυριώτατον,
+etc. Know, that the main foundation of piety is this, To have
+// lint-disable invalid-characters
+ὀρθἁϛ ύπολὴψειϛ,
+right opinions and apprehensions of God.
 
 This therefore I judged necessary, as a first principle, in the first place to affirm;
 and I suppose will not need much further explanation nor defence,

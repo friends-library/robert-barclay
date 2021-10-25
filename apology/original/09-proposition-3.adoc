@@ -1,23 +1,28 @@
 == THE THIRD PROPOSITION
 
+[.chapter-subtitle--blurb]
 Concerning the Scriptures
 
+[.heading-continuation-blurb]
 From these revelations of the Spirit of God to the
 saints have proceeded the Scriptures of Truth,
 which contain,
 
+[.heading-continuation-blurb]
 I+++.+++ A faithful historical account of the actings of God`'s people in divers ages;
 with many singular and remarkable providences attending them.
 
+[.heading-continuation-blurb]
 II. A prophetical account of several things, whereof some are already past,
 and some yet to come.
 
-III.
-A full and ample account of all the chief principles of the doctrine of Christ,
+[.heading-continuation-blurb]
+III. A full and ample account of all the chief principles of the doctrine of Christ,
 held forth in divers precious declarations, exhortations and sentences, which,
 by the moving of God`'s Spirit, were at several times, and upon sundry occasions,
 spoken and written unto some churches and their pastors.
 
+[.heading-continuation-blurb]
 Nevertheless, because they are only a declaration of the fountain,
 and not the fountain itself,
 therefore they are not to be esteemed the principal ground of all Truth and knowledge,
@@ -35,7 +40,7 @@ Seeing then that we do therefore receive and believe
 the Scriptures because they proceeded from the Spirit,
 for the very same reason is the Spirit more originally and principally the rule,
 according to that received maxim in the schools,
-Propter quod unumquodque est tale, illud ipsum est magis tale:
+__Propter quod unumquodque est tale, illud ipsum est magis tale:__
 That for which a thing is such, that thing itself is more such.
 
 // lint-disable invalid-characters "§"
@@ -67,9 +72,7 @@ both in their particular writings and public confessions, are forced to acknowle
 
 Hence, Calvin, though he saith he is able to prove that if there be a God in heaven,
 these writings have proceeded from him,
-yet he concludes another knowledge to be necessary (Instit.
-lib. 1, cap.
-7 section 4).
+yet he concludes another knowledge to be necessary (__Instit. lib. 1,__ cap. 7 section 4).
 
 "`But if,`" saith he, "`we respect the consciences,
 that they be not daily molested with doubts and they stick not at every scruple,
@@ -115,7 +118,7 @@ For the ancients themselves, even of the first centuries,
 were not agreed among themselves concerning them;
 while some of them rejected books which we approve,
 and others of them approved those which some of us reject.^
-footnote:[Concil. Laod. can. 59. in cod. Ecc. 163. Concil. Laod.
+footnote:[_Concil. Laod. can. 59. in cod. Ecc. 163. Concil. Laod._
 held in the year 364, excluded from the canon Eccl.
 the Wisdom of Solomon, Judah, Tobias, the Maccabbes,
 which the Council of Carthage held in the year 399 received.]
@@ -129,6 +132,9 @@ and those spiritual senses, by which they know how to discern the true from the 
 It is the privilege of Christ`'s sheep indeed that they hear his voice,
 and refuse that of a stranger; which privilege being taken away,
 we are left a prey to all manner of wolves.
+
+[.small-break]
+'''
 
 // lint-disable invalid-characters "§"
 §II. Though then we do acknowledge the Scriptures
@@ -146,8 +152,7 @@ nor yet the first adequate rule of faith and manners;
 because the principal fountain of Truth must be the Truth itself; i.e.,
 that whose certainty and authority depends not upon another.
 When we doubt of the streams of any river or flood, we recur to the fountain itself; and,
-having found it, there we sist,^
-footnote:[sist +++=+++ stop.]
+having found it, there we stop,
 we can go no farther; because there it springs out of the bowels of the earth,
 which are inscrutable.
 Even so the writings and sayings of all men we must bring to the Word of God,
@@ -160,48 +165,35 @@ as it appears by what is above spoken,
 so it is provided in the latter part of the proposition, which,
 being reduced to an argument, runs thus:
 
-That, the certainty and authority whereof depends upon another,
-and which is received as truth because of its proceeding from another,
-is not to be accounted the principal ground and origin of all Truth and knowledge:
+[.syllogism]
+* That, the certainty and authority whereof depends upon another, and which is received as truth because of its proceeding from another, is not to be accounted the principal ground and origin of all Truth and knowledge:
+* But the Scriptures`' authority and certainty depend upon the Spirit by which they were dictated; and the reason why they were received as truth is, because they proceeded from the Spirit:
+* Therefore they are not the principal ground of Truth.
 
-But the Scriptures`' authority and certainty depend
-upon the Spirit by which they were dictated;
-and the reason why they were received as truth is,
-because they proceeded from the Spirit:
-
-Therefore they are not the principal ground of Truth.
-
-To confirm this argument, I added the school maxim: Propter quod unumquodque est tale,
-illud ipsum magis est tale.
+To confirm this argument, I added the school maxim: _Propter quod unumquodque est tale,
+illud ipsum magis est tale._
 Which maxim, though I confess it doth not hold universally in all things,
 yet in this it both doth and will very well hold, as by applying it,
 as we have above intimated, will appear.
 
 The same argument will hold as to the other branch of the position,
-That it is not the primary adequate rule of faith and manners, thus:
+_That it is not the primary adequate rule of faith and manners,_ thus:
 
-That which is not the rule of my faith in believing the Scriptures themselves,
-is not the primary adequate rule of faith and manners:
+[.syllogism]
+* That which is not the rule of my faith in believing the Scriptures themselves, is not the primary adequate rule of faith and manners:
+* But the Scripture is not, nor can it be the rule of that faith by which I believe them, etc.
+* Therefore, etc.
 
-But the Scripture is not, nor can it be the rule of that faith by which I believe them,
-etc.
-
-Therefore, etc.
-
+[.offset]
 But as to this part, we shall produce divers arguments hereafter.
 As to what is affirmed, that the Spirit, and not the Scriptures, is the rule,
 it is largely handled in the former proposition;
 the sum whereof I shall subsume in one argument, thus:
 
-If by the Spirit we can only come to the true knowledge of God;
-if by the Spirit we are to be led into all Truth, and so be taught of all things;
-then the Spirit, and not the Scriptures,
-is the foundation and ground of all Truth and knowledge,
-and the primary rule of faith and manners:
-
-But the first is true:
-
-Therefore also the last.
+[.syllogism]
+* If by the Spirit we can only come to the true knowledge of God; if by the Spirit we are to be led into all Truth, and so be taught of all things; then the Spirit, and not the Scriptures, is the foundation and ground of all Truth and knowledge, and the primary rule of faith and manners:
+* But the first is true:
+* Therefore also the last.
 
 Next, the very nature of the Gospel itself declareth that the
 Scriptures cannot be the only and chief rule of Christians,
@@ -214,7 +206,8 @@ in that the Law, being outwardly written, brings under condemnation,
 but hath not life in it to save; whereas the Gospel,
 as it declares and makes manifest the evil, so, it being an inward powerful thing,
 also gives power to obey, and deliver from the evil.
-Hence it is called RESTORE-GREEK, which is glad tidings.
+// lint-disable invalid-characters
+Hence it is called Εὐαγγέλιον, which is glad tidings.
 The Law or letter, which is without us, kills; but the Gospel,
 which is the inward spiritual law, gives life;
 for it consists not so much in words as in virtue.
@@ -238,28 +231,19 @@ where distinguishing it from the Law, he saith, "`The Word is nigh thee,
 even in thy mouth, and in thy heart;
 that is the Word of faith which we preach.`" From what is above said I argue thus:
 
-The principal rule of Christians under the Gospel is not an outward letter,
-nor law outwardly written and delivered, but an inward spiritual law,
-engraven in the heart, the law of the Spirit of life,
-the Word that is nigh in the heart and in the mouth.
+[.syllogism]
+* The principal rule of Christians under the Gospel is not an outward letter, nor law outwardly written and delivered, but an inward spiritual law, engraven in the heart, the law of the Spirit of life, the Word that is nigh in the heart and in the mouth.
+* But the letter of the Scripture is outward, of itself a dead thing, a mere declaration of good things, but not the things themselves:
+* Therefore it is not, nor can be, the chief or principal rule of Christians.
 
-But the letter of the Scripture is outward, of itself a dead thing,
-a mere declaration of good things, but not the things themselves:
-
-Therefore it is not, nor can be, the chief or principal rule of Christians.
-
+[.offset]
 // lint-disable invalid-characters "§"
-§III.
-Thirdly, That which is given to Christians for a rule and guide,
-must needs be so full,
-that it may clearly and distinctly guide and order them
-in all things and occurrences that may fall out.
+§III. Thirdly,
 
-But in that there are many hundred of things, with a regard to their circumstances,
-particular Christians may be concerned in,
-for which there can be no particular rule had in the Scriptures;
-
-Therefore the Scriptures cannot be a rule to them.
+[.syllogism]
+* That which is given to Christians for a rule and guide, must needs be so full, that it may clearly and distinctly guide and order them in all things and occurrences that may fall out.
+* But in that there are many hundred of things, with a regard to their circumstances, particular Christians may be concerned in, for which there can be no particular rule had in the Scriptures;
+* Therefore the Scriptures cannot be a rule to them.
 
 I shall give an instance in two or three particulars for to prove this proposition.
 It is not to be doubted but some men are particularly called to some particular services;
@@ -374,11 +358,10 @@ The Scripture gives me a mere declaration of these things, but makes no applicat
 so that the assumption must be of my own making, thus; as for example:
 I find this proposition in the Scripture;
 
-"`He that believes shall be saved`": thence I draw this assumption:
-
-But I, Robert, believe;
-
-Therefore I shall be saved.
+[.syllogism]
+* "`He that believes shall be saved`": thence I draw this assumption:
+* But _I, Robert, believe;_
+* Therefore _I shall be saved._
 
 The minor is of my own making, not expressed in the Scripture; and so a human conclusion,
 not a divine position;
@@ -389,11 +372,10 @@ the Scripture gives me no certainty in the matter.
 Again, if I should pursue the argument further,
 and seek a new medium out of the Scripture, the same difficulty would occur: thus,
 
-He that hath the true and certain marks of true faith; hath true faith:
-
-But I have those marks:
-
-Therefore I have true faith.
+[.syllogism]
+* He that hath the true and certain marks of true faith; hath true faith:
+* But I have those marks:
+* Therefore I have true faith.
 
 For the assumption is still here of my own making, and is not found in the Scriptures;
 and by consequence the conclusion can be no better,
@@ -421,6 +403,9 @@ but wholly ascribeth it to the Spirit, as (Rom. 8:16),
 (1 John 4:13) "`Hereby know we that we dwell in him, and he in us,
 because he hath given us of his Spirit`"; and (5:6),
 "`And it is the Spirit that beareth witness, because the Spirit is Truth.`"
+
+[.small-break]
+'''
 
 // lint-disable invalid-characters "§"
 §IV. Lastly, That cannot be the only, principal nor chief rule,
@@ -491,12 +476,11 @@ and that Irenaeus doth cite it; but that the Catholics blotted it out,
 fearing lest heretics should have abused it.
 Other fathers also declare that whole verses were taken out of Mark,
 because of the Manichees.^
-footnote:[Jerome, epist. 28 ad Lucin. pag. 247. Epiphan. in Anchor. Tom. 2. oper.]
+footnote:[Jerome, _epist. 28 ad Lucin. pag. 247._ Epiphan. _in Anchor. Tom. 2. oper._]
 
 But further,
-the various lections of the Hebrew character by reason of the points,
-which some plead for, as coevous^
-footnote:[coevous +++=+++ of the same age.]
+the various lections of the Hebrew character by reason of the _points,_
+which some plead for as being of the same age
 with the first writings, which others, with no less probability,
 allege to be a later invention;
 the disagreement of divers citations of Christ and the apostles
@@ -545,9 +529,7 @@ as in most translations, do not so much give us the genuine signification of the
 as strain them to express that which comes nearest
 to that opinion and notion they have of Truth.
 And this seemed to me to suit very well with that saying of Augustine (Epist.
-19, ad Hier.
-Tom ii fol.
-14), after he has said,
+19, ad Hier. Tom ii fol. 14), after he has said,
 "`That he gives only that honor to those books which are called canonical,
 as to believe that the authors thereof did in writing not err,`" he adds,
 "`And if I shall meet with anything in these writings that seemeth repugnant to Truth,
@@ -555,6 +537,9 @@ I shall not doubt to say, that either the volume is faulty or erroneous;
 that the expounder hath not reached what was said;
 or that I have in no wise understood it.`" So that he supposes
 that in the transcription and translation there may be errors.
+
+[.small-break]
+'''
 
 // lint-disable invalid-characters "§"
 §V. If it be then asked me,
@@ -614,7 +599,7 @@ and beholding their deliverances, we may thereby be made wise unto salvation,
 and seasonably reproved and instructed in righteousness.
 
 This is the great work of the Scriptures, and their service to us,
-that we may witness them fulfilled in us,
+that we may witness them fulfilled _in_ us,
 and so discern the stamp of God`'s spirit and ways upon them,
 by the inward acquaintance we have with the same Spirit and work in our hearts.
 The prophecies of the Scriptures are also very comfortable and profitable unto us,
@@ -622,8 +607,8 @@ as the same Spirit enlightens us to observe them fulfilled, and to be fulfilled;
 for in all this it is to be observed,
 that it is only the spiritual man that can make a right use of them:
 they are able to make the man of God perfect (so it is not the natural man);
-and whatsoever was written aforetime, was written for our comfort, +++[+++our]
-that are the believers, +++[+++our]
+and whatsoever was written aforetime, was written for __our comfort,__ +++[+++__our__]
+that are the believers, +++[+++__our__]
 that are the saints; concerning such the apostle speaks: for as for the others,
 the apostle Peter plainly declares,
 that the "`unstable and unlearned wrest them to their own destruction`":
@@ -636,12 +621,14 @@ make handmaid of divinity, as they call it, and a necessary introduction to thei
 natural, and human ministry.
 By the infinite obscure labours of which kind of men, mixing-in their heathenish stuff,
 the Scripture is rendered at this day of so little service to the simple people:
-whereof if Jerome complained in his time, now twelve hundred years ago (Epist.
-134, ad Cypr.
-Tom. 3), saying, "`It is wont to befall the most part of learned men,
+whereof if Jerome complained in his time, now twelve hundred years ago __(Epist.
+134, ad Cypr. Tom. 3),__ saying, "`It is wont to befall the most part of learned men,
 that it is harder to understand their expositions,
 than the things which they go about to expound`"; what may we say then,
 considering those great heaps of commentaries since, in ages yet far more corrupted?
+
+[.small-break]
+'''
 
 // lint-disable invalid-characters "§"
 §VI. In this respect above mentioned, then,
@@ -661,8 +648,8 @@ we are very willing that all our doctrines and practices be tried by them;
 which we never refused, nor ever shall, in all controversies with our adversaries,
 as the judge and test.
 We shall also be very willing to admit it as a positive certain maxim,
-That whatsoever any do, pretending to the Spirit, which is contrary to the Scriptures,
-be accounted and reckoned a delusion of the devil.
+__That whatsoever any do, pretending to the Spirit, which is contrary to the Scriptures,
+be accounted and reckoned a delusion of the devil.__
 For as we never lay claim to the Spirit`'s leadings
 that we may cover ourselves in anything that is evil;
 so we know that as every evil contradicts the Scriptures
@@ -679,6 +666,9 @@ even from the Scripture itself (though it no where calls
 itself so) by which they labour to prove their doctrine;
 I shall briefly lay them down by way of objections, and answer them,
 before I make an end of this matter.
+
+[.small-break]
+'''
 
 // lint-disable invalid-characters "§"
 §VII.
@@ -743,6 +733,9 @@ and so Pasor translateth it:
 which by the reproof following seemeth also to be the more genuine interpretation,
 as Cyril long ago hath observed.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §VIII.
 Their third objection is from these words (Acts 17:11),
@@ -750,8 +743,7 @@ Their third objection is from these words (Acts 17:11),
 they received the Word with all readiness of mind,
 and searched the Scriptures daily, whether those things were so.`"
 
-Obj.
-Here, say they, the Bereans are commended for searching the Scriptures,
+_Obj._ Here, say they, the Bereans are commended for searching the Scriptures,
 and making them the rule.
 
 I answer: That the Scriptures either are the principal or only rule,
@@ -772,7 +764,7 @@ It is said nevertheless, in the first place,
 that "`they received the Word with cheerfulness`"; and in the second place,
 "`They searched the Scriptures`": not that they searched the Scriptures,
 and then received the Word; for then could not they have prevailed to convert them,
-had they not first minded the Word abiding in them, which opened their understandings;
+had they not first minded the __Word abiding in them,__ which opened their understandings;
 no more than the Scribes and Pharisees,
 who (as in the former objection we observed) searched the Scriptures and exalted them,
 and yet remained in their unbelief, because they had not the Word abiding in them.
@@ -784,8 +776,8 @@ what should have become of the Gentiles?
 How should they ever come to have received the faith of Christ,
 who neither knew the Scriptures, nor believed them?
 We see in the end of the same chapter, how the apostle, preaching to the Athenians,
-took another method, and directed them to somewhat of God within themselves,
-that they might feel after him.
+took another method, and directed them to somewhat of God _within_ themselves,
+that they might __feel after__ him.
 He did not go about to proselyte them to the Jewish religion,
 and to the belief of the law and the prophets,
 and from thence to prove the coming of Christ; nay, he took a nearer way.
@@ -805,11 +797,14 @@ So neither will it follow, that though he made use of the Scriptures to the Jews
 as being a principle already believed by them, to try his doctrine,
 that from thence the Scriptures may be accounted the principal or only rule.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §IX. The last, and which at first view seems to be the greatest objection,
 is this:
 
-Obj.
+_Obj._
 If the Scripture be not the adequate, principal, and only rule,
 then it would follow that the Scripture is not complete, nor the canon filled;
 that if men be now immediately led and ruled by the Spirit,
@@ -822,7 +817,7 @@ were fully answered in the latter part of the last proposition,
 in what was said a little before,
 offering freely to disclaim all pretended revelations contrary to the Scriptures.
 
-Obj.
+_Obj._
 But if it be urged, that it is not enough to deny these consequences,
 if they naturally follow from your doctrine of immediate revelation,
 and denying the Scripture to be the only rule:
@@ -853,7 +848,7 @@ is necessary we have already proved;
 and this distinction doth sufficiently guard us against
 the hazard insinuated in the objection.
 
-As to the Scriptures being a filled canon, I see no necessity of believing it.
+As to the Scriptures being a __filled canon,__ I see no necessity of believing it.
 And if these men, that believe the Scriptures to be the only rule,
 will be consistent with their own doctrine, they must needs be of my judgment;
 seeing it is simply impossible to prove the canon by the Scriptures.
@@ -861,14 +856,12 @@ For it cannot be found in any book of the Scriptures, that these books, and just
 and no other, are canonical, as all are forced to acknowledge;
 how can they then evite this argument?
 
-That which cannot be proved by Scripture is no necessary article of faith.
+[.syllogism]
+* That which cannot be proved by Scripture is no necessary article of faith.
+* But the canon of the Scripture; to wit, that there are so many books precisely, neither more nor less, cannot be proved by Scripture:
+* Therefore, it is no necessary article of faith.
 
-But the canon of the Scripture; to wit, that there are so many books precisely,
-neither more nor less, cannot be proved by Scripture:
-
-Therefore, it is no necessary article of faith.
-
-Obj.
+_Obj._
 If they should allege,
 that the admitting of any other books to be now written by the
 same Spirit might infer the admission of new doctrines;
@@ -908,25 +901,22 @@ or otherwise to step back to Rome, and say,
 We know by tradition that the church hath declared it to be canonical;
 and the church is infallible.
 Let them find a midst, if they can.
-So that out of this objection we shall draw an unanswerable argument ad hominem,
+So that out of this objection we shall draw an unanswerable argument __ad hominem,__
 to our purpose.
 
-That which cannot assure me concerning an article of faith necessary to be believed,
-is not the primary, adequate, only rule of faith, etc.
+[.syllogism]
+* That which cannot assure me concerning an article of faith necessary to be believed, is not the primary, adequate, only rule of faith, etc.
+* But the Scripture cannot thus assure me;
+* Therefore, etc.
 
-But the Scripture cannot thus assure me;
-
-Therefore, etc.
-
+[.offset]
 I prove the assumption thus:
 
-That which cannot assure me concerning the canon of the Scripture, to wit,
-that such books are only to be admitted, and the Apocrypha to be excluded,
-cannot assure me of this.
+[.syllogism]
+* That which cannot assure me concerning the canon of the Scripture, to wit, that such books are only to be admitted, and the Apocrypha to be excluded, cannot assure me of this.
+* Therefore, etc.
 
-Therefore, etc.
-
-Obj.
+_Obj._
 And lastly, As to these words (Rev. 22:18),
 That "`if any man shall add unto these things,
 God shall add unto him the plagues that are written in this book`";

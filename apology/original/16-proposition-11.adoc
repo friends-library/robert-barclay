@@ -1,7 +1,9 @@
 == THE ELEVENTH PROPOSITION
 
+[.chapter-subtitle--blurb]
 Concerning Worship
 
+[.heading-continuation-blurb]
 All true and acceptable worship to God is offered in the
 inward and immediate moving and drawing of his own Spirit,
 which is neither limited to places, times, nor persons:
@@ -18,7 +20,7 @@ which man sets about in his own will and at his own appointment,
 which he can both begin and end at his pleasure,
 do or leave undone as himself seeth meet, whether they be a prescribed form,
 as a liturgy, etc.,
-or prayers conceived extempore by the natural strength and faculty of the mind,
+or prayers conceived _extempore_ by the natural strength and faculty of the mind,
 they are all but superstitions, will-worship,
 and abominable idolatry in the sight of God, which are now to be denied and rejected,
 and separated from in this day of his spiritual arising,
@@ -92,6 +94,9 @@ and therefore more obscurely and dubiously in the Proposition itself),
 it is fit in the first place to declare and explain our sense,
 and clear the state of the controversy.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §II. And first let it be considered that what is here
 affirmed is spoken of the worship of God in these Gospel times,
@@ -104,13 +109,12 @@ So that what might have been both commendable and acceptable
 under the Law may justly now be charged with superstition,
 yea and idolatry.
 So that impertinently, in this respect,
-doth Arnoldus rage against this Proposition (Exercit.
-Theolog.
+doth Arnoldus rage against this Proposition (_Exercit.
+Theolog._
 sect.
 44), saying that I "`deny all public worship,`" and that according to me,
 "`such as in Enoch`'s time publicly began to call upon the name of the Lord,
-and such as at the command of God went twice^
-footnote:[Later editors substitute "`thrice`" for "`twice.`"]
+and such as at the command of God went thrice
 up to Jerusalem to worship; and that Anna, Simeon, Mary, etc., were idolaters,
 because they used the public worship of those times.`" Such a consequence is most impertinent,
 and no less foolish and absurd than if I should infer from Paul`'s expostulating
@@ -130,6 +134,9 @@ as in most other things,
 the Substance was enjoyed under the Law by such as were spiritual indeed;
 yet was it veiled and surrounded with many rites and ceremonies
 which is no ways lawful for us to use now under the Gospel.
+
+[.small-break]
+'''
 
 // lint-disable invalid-characters "§"
 §III.
@@ -165,7 +172,7 @@ are led merely to depend upon the preacher and hear what he will say.
 Secondly,
 in that these peculiar men come not thither to meet with the Lord
 and to wait for the inward motions and operations of his Spirit,
-and so to pray as they feel the Spirit to breathe through them, and in them,
+and so to pray as they feel the Spirit to breathe _through_ them, and _in_ them,
 and to preach as they find themselves acted and moved
 by God`'s Spirit and as he gives utterance,
 so as to speak a word in season to refresh weary souls,
@@ -190,13 +197,16 @@ as Arnoldus against this proposition (sect.
 45) no less impertinently allegeth,
 offering needlessly to prove that which is not denied:
 only these times being appointed for outward conveniency we may
-not therefore think with the Papists that these days are holy,
+not therefore think with the Papists that these _days_ are holy,
 and lead people into a superstitious observation of them,
 being persuaded that all days are alike holy in the sight of God.
 And albeit it be not my present purpose to make a long digression concerning
 the debates among Protestants concerning the first day of the week,
 commonly called "`the Lord`'s day,`" yet forasmuch as it comes
 fitly in here I shall briefly signify our sense thereof.
+
+[.small-break]
+'''
 
 // lint-disable invalid-characters "§"
 §IV. We, not seeing any ground in scripture for it,
@@ -223,6 +233,9 @@ yea Calvin himself upon the fourth command, hath abundantly evinced.
 And though we therefore meet and abstain from working upon this day,
 yet doth not that hinder us from having meetings also for worship at other times.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §V. Thirdly,
 though according to the knowledge of God revealed unto us by the Spirit,
@@ -247,10 +260,7 @@ and not come out of Babylon when it is by God discovered unto us.
 The Popish mass and vespers I do believe to be, as to the matter of them,
 abominable idolatry and superstition, and so also believe the Protestants;
 yet will either I or they affirm that in the darkness of Popery no upright-hearted men,
-though zealous in these abominations, have been heard of God or accepted of him?^
-footnote:[Later editors change Barclay`'s rhetorical question to an assertion:
-"`yet will neither I or they affirm that in the darkness of Popery no upright-hearted men,
-though zealous in these abominations, have been heard of God, or accepted of him.`"]
+though zealous in these abominations, have been heard of God or accepted of him?
 // lint-disable invalid-characters "à"
 Who can deny but that both Bernard and Bonaventure, Taulerus, Thomas à Kempis,
 and divers others have both known and tasted of the love of God and felt
@@ -272,6 +282,9 @@ yet can we not therefore approve of their ways in the general or not go on to
 the upholding of that spiritual worship which the Lord is calling all to,
 and so to the testifying against whatsoever stands in the way of it.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §VI. Fourthly, to come then to the state of the controversy,
 as to the public worship we judge it the duty of all to be diligent
@@ -289,8 +302,7 @@ there the secret power and virtue of life is known to refresh the soul,
 and the pure motions and breathings of God`'s Spirit are felt to arise,
 from which as words of declaration, prayers, or praises arise,
 the acceptable worship is known which edifies the Church and is well-pleasing to God,
-and no man here limits the Spirit of God nor bringeth forth his own cunned^
-footnote:[cunned +++=+++ researched.]
+and no man here limits the Spirit of God nor bringeth forth his own researched
 and gathered stuff, but everyone puts that forth which the Lord puts into their hearts:
 and it is uttered forth not in man`'s will and wisdom but "`in the
 evidence and demonstration of the Spirit and of Power.`" Yea,
@@ -310,6 +322,9 @@ as one that can speak from a certain experience and not by mere hearsay,
 of this wonderful and glorious dispensation which hath so
 much the more of the wisdom and glory of God in it,
 as it`'s contrary to the nature of man`'s spirit, will, and wisdom.
+
+[.small-break]
+'''
 
 // lint-disable invalid-characters "§"
 §VII.
@@ -362,6 +377,7 @@ constrained to utter a sentence of exhortation or praise,
 or to breathe to the Lord in prayer, then all are sensible of it;
 for the same Life in them answers to it "`as in water face answereth to face.`"^
 footnote:[Prov. 27:19.]
+
 This is that divine and spiritual worship which the world neither knoweth nor understandeth,
 which the vulture`'s eye seeth not into.
 Yet many and great are the advantages which my soul
@@ -388,6 +404,7 @@ without a word,
 and we enjoy and possess the holy fellowship and "`communion of the body
 and blood of Christ,`" by which our inward man is nourished and fed.
 Which makes us not to dote upon outward water and bread and wine in our spiritual things.
+
 Now as many thus gathered together grow up in the strength, power, and virtue of Truth,
 and as Truth comes thus to have victory & dominion in their souls,
 then they receive an utterance & speak steadily to the edification of their brethren,
@@ -467,6 +484,9 @@ and utter them forth with ever so much excellency of speech,
 if this Life were wanting it would not edify us at all but
 be as "`sounding brass or a tinkling cymbal`" (1 Cor. 13:1).
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §VIII.
 Our work then and worship is, when we meet together,
@@ -503,8 +523,7 @@ so that oftentimes through the working thereof the body will be greatly shaken,
 and many groans and sighs and tears, even as the pangs of a woman in travail,
 will lay hold upon it; yea and this not only as to one, but when the enemy (who,
 when the children of God assemble together,
-is not wanting to be present to see if he can let^
-footnote:[let +++=+++ prevent.]
+is not wanting to be present to see if he can prevent
 their comfort) hath prevailed in any measure in a whole meeting,
 and strongly worketh against it by spreading and propagating his dark power and
 by drawing out the minds of such as are met from the Life in them,
@@ -519,7 +538,7 @@ every individual will be strongly exercised as in a day of battle;
 and thereby trembling and a motion of body will be upon most, if not upon all, which,
 as the power of Truth prevails,
 will from pangs and groans end with a sweet sound of thanksgiving and praise,
-and from this the name of "`Quakers,`" i.e., Tremblers,
+and from this the name of "`Quakers,`" i.e., _Tremblers,_
 was first reproachfully cast upon us, which though it be none of our choosing,
 yet in this respect we are not ashamed of it but have rather reason to rejoice therefore,
 even that we are sensible of this Power that hath oftentimes laid hold
@@ -530,18 +549,20 @@ so that sometimes many at one meeting have been thus convinced,
 and this Power would sometimes also reach to and wonderfully work even in little children,
 to the admiration and astonishment of many.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §IX. Many are the blessed experiences which
 I could relate of this silence and manner of worship,
-yet I do not so much commend and speak of silence as if we had a law in it to shut out^
-footnote:[Later editors replace "`as if we had a law in it to shut
-out`" with "`as if we had bound ourselves by any law to exclude`"]
+yet I do not so much commend and speak of silence
+as if we had bound ourselves by any law to exclude
 praying or preaching, or tied ourselves thereunto; not at all:
 for as our worship consisteth not in words, so neither in silence, as silence;
 but in an holy dependence of the mind upon God,
 from which dependence silence necessarily follows in the first place,
 until words can be brought forth which are from God`'s Spirit;
-and God is not wanting to move in his children to bring
+and God is not wanting to move _in_ his children to bring
 forth words of exhortation or prayer when it is needful,
 so that of the many gatherings and meetings of such as are convinced of the truth there
 is scarce any in whom God raiseth not up some or other to minister to his brethren,
@@ -580,6 +601,9 @@ and that it is founded upon Scripture and reason,
 I find a freedom of mind to add some few considerations
 of this kind for the confirmation hereof,
 besides what is before mentioned of our experience.
+
+[.small-break]
+'''
 
 // lint-disable invalid-characters "§"
 §X. That to wait upon God, and to watch before him,
@@ -706,6 +730,7 @@ and it`'s especially to be observed that in the whole New Testament there is no
 order nor command given in this thing but to follow the revelations of the Spirit,
 save only that general, of meeting together:
 a thing dearly owned and diligently practised by us, as shall hereafter more appear.
+
 True it is, mention is made of the duties of praying, preaching and singing;
 but what order or method should be kept in so doing,
 or that presently they should be set about so soon as the saints are gathered,
@@ -833,6 +858,9 @@ of God which the saints in heaven daily possess,
 which God frequently affords to his children here for their comfort and encouragement,
 especially when they are assembled together to wait upon him.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §XI. For there are two contrary powers or spirits, to wit,
 the power and spirit of this world, in which the Prince of darkness bears rule,
@@ -865,6 +893,9 @@ and watching are so particularly commanded and recommended,
 and this cannot be truly performed but in this inward silence
 of the mind from men`'s own thoughts and imaginations,
 this silence is and must necessarily be a special and principal part of God`'s worship.
+
+[.small-break]
+'''
 
 // lint-disable invalid-characters "§"
 §XII.
@@ -924,6 +955,9 @@ to the dispelling of that power of darkness;
 which will also be sensibly felt seeking to cloud and darken the mind,
 and wholly to keep it from purely waiting upon God.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §XIII.
 Thirdly: the excellency of this worship doth appear,
@@ -960,7 +994,7 @@ do but spill the water or the wine,
 or blow out the candles (a thing quickly done) and the whole business is marred,
 and no sacrifice can be offered.
 Take from the Lutherans or Episcopalians their liturgy
-or Common Prayer Book and no service can be said.
+or [.book-title]#Common Prayer Book# and no service can be said.
 Remove from the Calvinists, Arminians, Socinians, Independents, or Anabaptists,
 the pulpit, the Bible, and the hourglass, or make but such a noise,
 as the voice of the preacher cannot be heard,
@@ -1035,6 +1069,9 @@ gathered into his pure worship in Oxford and Cambridge in England,
 and Edinburgh and Aberdeen in Scotland, where the universities are,
 can well bear witness.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §XIV.
 Moreover,
@@ -1096,6 +1133,9 @@ while each by the arm of flesh endeavoured to defend and protect their own way a
 and from this also sprung up that monstrous opinion of persecution,
 of which we shall speak more at length hereafter.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §XV. But fourthly,
 the nature of this worship which is performed by the operation of the Spirit,
@@ -1120,7 +1160,7 @@ for else it would not differ in matter but only in
 some circumstances from that under the law.
 Next, as for a reason of this worship, we need not to give any other,
 and indeed none can give a better than that which Christ giveth,
-which I think should be sufficient to satisfy every Christian, to wit, "`GOD is a SPIRIT,
+which I think should be sufficient to satisfy every Christian, to wit, "`God is a Spirit,
 and they that worship him must worship him in Spirit and in Truth.`"
 As this ought to be received because it is the words of Christ,
 so also it is founded upon so clear a demonstration
@@ -1128,9 +1168,9 @@ of reason as sufficiently evidenceth its verity.
 For Christ excellently argues from the analogy that ought to be
 betwixt the object and the worship directed thereunto:
 
-Arg.: God is a Spirit;
-
-Therefore he must be worshipped in Spirit.
+[.syllogism]
+* _Arg.:_ God is a Spirit;
+* Therefore he must be worshipped in Spirit.
 
 This is so certain that it can suffer no contradiction;
 yea and this analogy is so necessary to be minded, that under the Law,
@@ -1189,6 +1229,9 @@ thus acted, is only and properly a true worship, as being that which,
 for the reasons above observed, cannot be counterfeited by the enemy,
 nor yet performed by the hypocrite.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §XVI.
 And though this worship be indeed very different from
@@ -1205,11 +1248,11 @@ as they call it, from all images and thoughts and the prayer of the will;
 yea they look upon this as the height of Christian perfection, so that some of them,
 though professed Papists, do not doubt to affirm,
 "`That such as have attained this method of worship or are
-aiming at it`" (as in a book called Sancta Sophia,
-put out by the English Benedictines, printed at Douay, anno 1657, tract.
+aiming at it`" (as in a book called [.book-title]#Sancta Sophia,#
+put out by the English Benedictines, printed at Douay, _anno 1657, tract.
 I, sect.
 ii, cap.
-5) "`need not,
+5_) "`need not,
 nor ought to trouble or busy themselves with frequent and unnecessary confessions,
 with exercising corporal labours and austerities, the using of vocal voluntary prayers,
 the hearing of a number of masses.
@@ -1225,10 +1268,10 @@ Yet nevertheless it appears by this and many other passages
 which out of their mystic writers might be mentioned,
 how they look upon this worship as excelling all other,
 and that such as arrived hereunto had no absolute need of the others;
-yea (see the Life of Balthazar Alvares, in the same Sancta Sophia, tract.
+yea (see the Life of Balthazar Alvares, in the same [.book-title]#Sancta Sophia,# _tract.
 III, sect.
 i, cap.
-7) such as tasted of this quickly confessed that the other
+7_) such as tasted of this quickly confessed that the other
 forms and ceremonies of worship were useless as to them;
 neither did they perform them as things necessary but merely for order or example`'s sake;
 and therefore,
@@ -1236,7 +1279,7 @@ though some of them were so overclouded with the common darkness of their profes
 yet could they affirm that this spiritual worship
 was still to be retained and sought for,
 though there be a necessity of omitting their outward ceremonies.
-Hence Bernard, as in many other places, so in his Epistle to one William,
+Hence Bernard, as in many other places, so in his [.book-title]#Epistle# to one William,
 abbot of the same order, saith, "`Take heed to the rule of God,
 the kingdom of God is within you`";
 and afterwards saying that their outward orders and rules should be observed, he adds:
@@ -1266,18 +1309,21 @@ and making many poor tradesmen, yea young boys and girls, witnesses of it,
 do entreat and beseech all to lay aside their own will-worships and voluntary acts performed
 in their own wills and by their own mere natural strength and power,
 without retiring out of their vain imaginations and thoughts
-or feeling the pure Spirit of God to move and stir in them,
+or feeling the pure Spirit of God to move and stir _in_ them,
 that they may come to practise this acceptable worship which is
 "`in Spirit and in Truth.`" But against this worship they object.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §XVII.
-Obj. First,
+_Obj._ First,
 it seems to be an unprofitable exercise for a man to be doing or thinking
 nothing and that one might be much better employed either in meditating
 upon some good subject or otherwise praying to or praising God.
 
-Answ.
+_Answ._
 I answer, that is not unprofitable which is of absolute necessity,
 before any other duty can be acceptably performed, as we have shown this waiting to be.
 Moreover,
@@ -1294,7 +1340,7 @@ being that which occasioned our first parents`' fall, to wit,
 a forwardness to desire to know things,
 and a meddling with them both without and contrary to the Lord`'s command.
 
-Obj.
+_Obj._
 Secondly some object,
 If your worship merely consist in inwardly retiring
 to the Lord and feeling of his Spirit arise in you,
@@ -1306,7 +1352,7 @@ moved to go to such a place at such a time;
 since to meet at set times and places seems to be an outward observation and ceremony,
 contrary to what ye at other times assert?
 
-Answ.
+_Answ._
 I answer first:
 to meet at set times and places is not any religious act or part of worship, in itself,
 but only an outward conveniency necessary for our seeing one another,
@@ -1315,8 +1361,7 @@ and therefore our meeting at set times and places is not a part
 of our worship but a preparatory accommodation of our outward man,
 in order to a public visible worship,
 since we set not about the visible acts of worship when
-we meet together until we be led thereunto.^
-footnote:[Later editors add here, "`by the Spirit of God.`"]
+we meet together until we be led thereunto by the Spirit of God.
 Secondly, God hath seen meet, so long as his children are in this world,
 to make use of the outward senses as a means to convey spiritual life, as by speaking,
 praying, praising, etc.,
@@ -1356,11 +1401,11 @@ but only a mere presenting of our persons in order to it, as is above said.
 Which that it was practised by the primitive Church and saints,
 all our adversaries do acknowledge.
 
-Obj.
+_Obj._
 Lastly,
 some object that this manner of worship in silence is not to be found in all the Scripture.
 
-Answ.
+_Answ._
 I answer, we make not silence to be the sole matter of our worship, since,
 as I have above said, there are many meetings, which are seldom, if ever,
 altogether silent, some or other are still moved either to preach, pray, and praise,
@@ -1379,10 +1424,10 @@ but no mention is made of anyone speaking at that time,
 and I would willingly know what absurdity our adversaries can infer,
 should we conclude they were a while silent.
 
-Inst.
+_Inst._
 But if it be urged that a whole silent meeting cannot be found in Scripture.
 
-Answ.
+_Answ._
 I answer; supposing such a thing were not recorded,
 it will not therefore follow that it is not lawful,
 seeing it naturally followeth from other Scripture precepts, as we have proven this doth,
@@ -1405,6 +1450,9 @@ and answered the objections which are commonly made against it,
 which though it might suffice to the explanation and probation of our proposition,
 yet I shall add something more particularly of preaching, praying, and singing,
 and so proceed to the following proposition.
+
+[.small-break]
+'''
 
 // lint-disable invalid-characters "§"
 §XVIII.
@@ -1440,11 +1488,11 @@ but done by the immediate motion of the Spirit, we should not blame it,
 but to do it as they do there is neither precept nor practice, that ever I could observe,
 in the New Testament, as a part of the instituted worship thereof.
 
-Obj.
+_Obj._
 But they allege that Christ took the book of Isaiah and read out of it,
 and spake therefrom; and that Peter preached from a sentence of the prophet Joel.
 
-Answ.
+_Answ._
 I answer that Christ and Peter did it not but as immediately
 acted and moved thereunto by the Spirit of God,
 and that without premeditation, which I suppose our adversaries will not deny;
@@ -1478,7 +1526,7 @@ after their receiving of the Holy Ghost, it is said (Acts 2:4):
 and gathered from books in their closets in a premeditated way.
 
 Francis Lambert, before cited, speaketh well, and showeth their hypocrisy (Tract.
-5, of Prophecy, chap.
+5, of [.book-title]#Prophecy,# chap.
 3), saying, "`Where are they now that glory in their inventions, who say,
 a brave invention! a brave invention! this they call
 invention which themselves have made up,
@@ -1512,6 +1560,9 @@ Why prayest thou to the Lord, thou false prophet, to give thee his holy Spirit,
 by which thou mayest speak things profitable, and yet thou repell`'st the Spirit?
 why preferr`'st thou thy meditation or study to the Spirit of God?
 Otherwise why committ`'st thou not thyself to the Spirit?`"
+
+[.small-break]
+'''
 
 // lint-disable invalid-characters "§"
 §XIX.
@@ -1577,8 +1628,11 @@ And as these pregnant testimonies of the Scripture do prove this
 part of preaching to be contrary to the doctrine of Christ,
 so do they also prove that of ours, before affirmed, to be conform thereunto.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
-§XX. Obj.
+§XX. _Obj._
 But if any object after this manner, have not many been benefited,
 yea & both converted and edified by the ministry
 of such as have premeditated their preaching?
@@ -1586,7 +1640,7 @@ yea and hath not the Spirit often concurred by its
 divine influence with preachings thus premeditated,
 so as they have been powerfully borne in upon the souls of the hearers to their advantage?
 
-Answ.
+_Answ._
 I answer, though that be granted, which I shall not deny,
 it will not infer that the thing was good in itself,
 more than because Paul was met with by Christ, to the converting of his soul,
@@ -1610,6 +1664,9 @@ yea such acts of God`'s condescension in times of darkness and ignorance
 should engage all more and more to follow him,
 according as he reveals his most perfect and spiritual way.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §XXI.
 Having hitherto spoken of preaching, now it is fit to speak of praying,
@@ -1620,7 +1677,7 @@ as they can preach, so can they pray, when they please,
 and therefore have their set particular prayers.
 I meddle not with the controversies among themselves concerning this,
 some of them being for set prayers, as a liturgy,
-others for such as are extempore conceived:
+others for such as are _extempore_ conceived:
 it suffices me that all of them agree in this,
 that the motions and influence of the Spirit of God
 are not necessary to be previous thereunto;
@@ -1704,9 +1761,9 @@ yet nevertheless we do not deny but sometimes God, upon particular occasions,
 very suddenly, yea upon the very first turning in of the mind,
 may give power and liberty to bring forth words or acts of outward prayer,
 so as the soul can scarce discern any previous motion,
-but the influence and bringing forth thereof may be, as it were simul & semel:
+but the influence and bringing forth thereof may be, as it were _simul et semel:_
 nevertheless that saying of Bernard is true,
-that "`all prayer is tepid which hath not an inspiration
+that "`_all_ prayer is tepid which hath not an inspiration
 preceding it.`" Though we affirm,
 that none ought to go about prayer without this motion, yet we do not deny but such sin,
 as neglect prayer; but their sin is in that they come not to that place,
@@ -1723,7 +1780,7 @@ should forwardly fall a-doing to no purpose, he would be so far, thereby,
 from repairing his former fault, that he would justly incur a new censure: and,
 as one that is careless and otherways busied may miss to hear one speaking unto him,
 or even not hear the bell of a clock, though striking hard by him,
-so may many through negligence,miss to hear God oftentimes
+so may many through negligence, miss to hear God oftentimes
 calling upon them and giving them access to pray unto him;
 yet will not that allow them, without his liberty, in their own wills to fall to work.
 
@@ -1748,6 +1805,9 @@ I shall first prove this spiritual prayer by some
 short considerations from Scripture,
 and then answer the objections of our opposers,
 which will also serve to refute their method and manner thereof.
+
+[.small-break]
+'''
 
 // lint-disable invalid-characters "§"
 §XXII.
@@ -1774,17 +1834,17 @@ abundantly from that of the apostle Paul (Rom. 8:26-27):
 for we know not what we should pray for as we ought;
 but the Spirit itself maketh intercession for us with groanings which cannot be uttered.
 And he that searcheth the hearts knoweth what is the mind of the Spirit because
-he maketh intercession for the saints according to the will of God.`" Which first,
+he maketh intercession for the saints according to the will of God.`" Which _first,_
 holds forth the incapacity of men, as of themselves,
 to pray or call upon God in their own wills,
 even such as have received the faith of Christ and are in measure sanctified by it,
 as was the Church of Rome, to whom the apostle then wrote.
-Secondly, it holds forth that which can only help and assist men to pray,
+_Secondly,_ it holds forth that which can only help and assist men to pray,
 to wit the Spirit,
 as that without which they cannot do it acceptably
 to God nor beneficially to their own souls.
-Thirdly, the manner and way of the Spirit`'s intercession,
-with "`sighs and groans which are unutterable.`" And fourthly,
+_Thirdly,_ the manner and way of the Spirit`'s intercession,
+with "`sighs and groans which are unutterable.`" And _fourthly,_
 that God receiveth graciously the prayers of such as are
 presented and offered unto himself by the Spirit,
 knowing it to be according to his will.
@@ -1793,13 +1853,10 @@ asserted by the apostle is most consistent with those other testimonies
 of Scripture commending and recommending to us the use of prayer.
 From which I thus argue,
 
-Arg.
-If man know not how to pray, neither can do it, without the help of the Spirit,
-then it is to no purpose for him, but altogether unprofitable, to pray without it.
-
-But the first is true,
-
-Therefore also the last.
+[.syllogism]
+* _Arg._ If man know not how to pray, neither can do it, without the help of the Spirit, then it is to no purpose for him, but altogether unprofitable, to pray without it.
+* But the first is true,
+* Therefore also the last.
 
 Thirdly,
 this necessity of the Spirit to true prayer appears from Eph. 6:18 and Jude 20,
@@ -1832,6 +1889,9 @@ And to desire a man to fall to prayer ere the Spirit, in some measure less or mo
 move him thereunto is to desire a man to see before he open his eyes,
 or to walk before he rise up, or to work with his hands before he moves them.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §XXIII.
 But lastly, from this false opinion of praying without the Spirit,
@@ -1862,6 +1922,9 @@ Isa. 66:3; Jer. 14:12),
 certainly such prayers as are acted in man`'s will and by his own strength,
 without God`'s Spirit, must be of that number.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §XXIV.
 Let this suffice for probation.
@@ -1873,13 +1936,13 @@ It becometh those who approach before God to pray that they
 do it with bowed knees and with their heads uncovered,
 which is our practice.
 
-Obj.
+_Obj._
 But here ariseth a controversy whether it be lawful
 to join with others (by those external signs of reverence,
 albeit not in heart) who pray formally,
 not waiting for the motion of the Spirit nor judging it necessary.
 
-Answ.
+_Answ._
 We answer, not at all;
 and for our testimony in this thing we have suffered not a little,
 for when it hath fallen out that either accidentally,
@@ -1899,7 +1962,7 @@ for since our principle and doctrine oblige us to believe that the prayers of
 those who themselves confess they are not acted by the Spirit are abominations,
 how can we with a safe conscience join with them?
 
-Obj.
+_Obj._
 If they urge that this is the height of uncharitableness and arrogancy,
 as if we judged ourselves always to pray by the Spirit`'s motion but they never;
 as if we were never deceived by praying without the motions of the Spirit,
@@ -1909,7 +1972,7 @@ they confess nevertheless that it is very profitable and comfortable,
 and they feel it often influencing them;
 which that it sometimes falls out we cannot deny.
 
-Answ.
+_Answ._
 To all which I answer distinctly,
 if it were their known and avowed doctrine not to pray without the motion of the Spirit,
 and that seriously holding thereunto they did not bind themselves to pray at
@@ -1931,9 +1994,8 @@ according to God`'s will, we should not refuse to join also; but this is rare,
 lest thence they should be confirmed in their false principle.
 And albeit this seem hard in our profession,
 nevertheless it is so confirmed by the authority both of Scripture and right reason,
-that many, convinced thereof, have embraced this part before other,^
-footnote:[Later editors insert "`truths, which were easier, and, as they seemed to some,
-clearer.`"]
+that many, convinced thereof, have embraced this part before other truths, which were easier,
+and, as they seemed to some, clearer;
 among whom is memorable of late years Alexander Skein,
 a magistrate of the City of Aberdeen,
 a man very modest and very averse from giving offence to others, who nevertheless,
@@ -1944,22 +2006,29 @@ and likewise succinctly but yet substantially comprehended this controversy conc
 worship in some short questions which he offered to the public preachers of the city,
 which I think meet to insert in this place.
 
-Query:
-1+++.+++ Whether or not should any act of God`'s worship be gone about without the motions,
-leadings, and actings of the Holy Spirit?
+[.numbered-group]
+====
 
+[.numbered]
+_Query:_ 1+++.+++ Whether or not should any act of God`'s worship be
+gone about without the motions, leadings, and actings of the Holy Spirit?
+
+[.numbered]
 2+++.+++ If the motions of the Spirit be necessary to every particular duty,
 whether should he be waited upon,
 that all our acts and words may be according as he gives utterance and assistance?
 
+[.numbered]
 3+++.+++ Whether every one that bears the name of a Christian, or professes to be a Protestant,
 hath such an uninterrupted measure thereof that he may, without waiting,
 go immediately about the duty?
 
+[.numbered]
 4+++.+++ If there be an indisposition and unfitness, at some times, for such exercises,
 at least as to the spiritual and lively performance thereof,
 whether ought they to be performed in that case and at that time?
 
+[.numbered]
 5+++.+++ If any duty be gone about under pretence that
 it is in obedience to the external command,
 without the spiritual Life and motion necessary,
@@ -1971,6 +2040,7 @@ and not by the strength and assistance of the Holy Ghost,
 which was typified by the fire that came down from heaven,
 which alone behooved to consume the sacrifice and no other?
 
+[.numbered]
 6+++.+++ Whether duties gone about in the mere strength of natural and
 acquired parts (whether in public or in private) be not as really,
 upon the matter, an image of man`'s invention, as the Popish worship,
@@ -1979,11 +2049,14 @@ And therefore whether it be not as real superstition to countenance
 any worship of that nature as it is to countenance Popish worship,
 though there be a difference in the degree?
 
+[.numbered]
 7+++.+++ Whether it be a ground of offence or just scandal to countenance the worship
 of those whose professed principle it is neither to speak for edification,
 nor to pray, but as the Holy Ghost shall be pleased to assist them, in some measure,
 less or more,
 without which they rather choose to be silent than to speak without this influence?
+
+====
 
 Unto these they answered but very coldly and faintly,
 whose answers likewise long ago he refuted.
@@ -2011,17 +2084,19 @@ and displeased many,
 as the author of the history of the Council of Trent in his first book well observes.
 But now I hasten to the objections of our adversaries against this method of praying.
 
+[.small-break]
+'''
+
+[.offset]
 // lint-disable invalid-characters "§"
 §XXV.
-Obj. First, They object,
-that if such particular influences were needful to outward acts of worship,
-then they should also be needful to inward acts, as to wait, desire, and love God:
 
-But this is absurd:
+[.syllogism]
+* _Obj._ First, They object, that if such particular influences were needful to outward acts of worship, then they should also be needful to inward acts, as to wait, desire, and love God:
+* But this is absurd:
+* Therefore also that from whence it follows.
 
-Therefore also that from whence it follows.
-
-Answ.
+_Answ._
 I answer, that which was said in the state of the controversy cleareth this,
 because as to those general duties there never wants an
 influence so long as the day of a man`'s visitation lasteth,
@@ -2032,13 +2107,13 @@ the Lord is near to help him,
 etc. But as to the outward acts of prayer they need a more special motion and influence,
 as hath been proved.
 
-Obj.
+_Obj._
 Secondly,
 they object that it might be also alleged that men ought not to do moral duties,
 as children to honor their parents, men to do right to their neighbours,
 except the Spirit move them to it.
 
-Answ.
+_Answ._
 I answer, there is a great difference betwixt these general duties betwixt man and man,
 and the particular express acts of worship towards God:
 the one is merely spiritual and commanded by God to be performed by his Spirit;
@@ -2051,7 +2126,7 @@ or beneficial to the soul, but as they are done in the fear of God and in his bl
 in which his children do all things and therefore
 are accepted and blessed in whatsoever they do.
 
-Obj.
+_Obj._
 Thirdly,
 they object that if a wicked man ought not to pray without a motion of the Spirit,
 because his prayer would be sinful.
@@ -2060,7 +2135,7 @@ neither ought he to plough by the same reason because
 is sin.^
 footnote:[Prov. 21:4.]
 
-Answ.
+_Answ._
 This objection is of the same nature with the former
 and therefore may be answered the same way,
 seeing there is a great difference betwixt natural acts such as eating, drinking,
@@ -2076,11 +2151,11 @@ That the natural acts of the wicked and unregenerate are sinful is not denied,
 though not as in themselves but in so far as man in that
 state is in all things reprobated in the sight of God.
 
-Obj.
+_Obj._
 Fourthly, they object that wicked men may, according to this doctrine,
 forbear to pray for years together, alleging they want a motion to it.
 
-Answ.
+_Answ._
 I answer,
 the false pretences of wicked men do nothing invalidate the truth of this doctrine,
 for at that rate there is no doctrine of Christ which men might not turn by.
@@ -2105,12 +2180,12 @@ lest they eat and drink their own condemnation,
 and though they reckon it sinful for them to forbear yet they account
 it more sinful for them to do it without this examination.
 
-Obj.
+_Obj._
 Fifthly, they object Acts 8:22, where Peter commanded Simon Magus,
 that wicked sorcerer, to pray,
 from thence inferring that wicked men may and ought to pray.
 
-Answ.
+_Answ._
 I answer that in the citing of this place, as I have often observed,
 they omit the first and chiefest part of the verse, which is thus (Acts 8:22):
 "`Repent therefore of this thy wickedness,
@@ -2122,12 +2197,12 @@ and indeed where true repentance goeth first we do not doubt
 but the Spirit of God will be near to concur with,
 and influence such to pray to and call upon God.
 
-Obj.
+_Obj._
 And lastly, they object that many prayers, begun without the Spirit,
 have proved effectual,
 and that the prayers of wicked men have been heard and found acceptable, as Ahab`'s.
 
-Answ.
+_Answ._
 This objection was before solved; for the acts of God`'s compassion and indulgence,
 at some times and to some persons, upon singular extraordinary occasions,
 are not to be a rule of our actions.
@@ -2139,12 +2214,15 @@ before their day be expired; from which they may at times pray acceptably,
 not as remaining altogether wicked, but as entering into piety,
 from whence they afterwards fall away.
 
+[.small-break]
+'''
+
 // lint-disable invalid-characters "§"
 §XXVI.
 As to the singing of psalms, there will not be need of any long discourse,
 for that the case is just the same as in the two former of preaching and prayer.
 We confess this to be a part of God`'s worship, and very sweet and refreshful,
-when it proceeds from a true sense of God`'s love in the heart,
+when it proceeds from a true sense of God`'s love _in_ the heart,
 and arises from the divine influence of the Spirit,
 which leads souls to breathe forth either a sweet harmony,
 or words suitable to the present condition,
@@ -2176,13 +2254,16 @@ who abhors all lying and hypocrisy.
 
 That singing, then,
 that pleaseth him must proceed from that which is
-PURE in the heart (even from the Word of Life therein),
+pure _in_ the _heart_ (even from the _Word of Life_ therein),
 in and by which richly dwelling in us,
 spiritual songs and hymns are returned to the Lord,
 according to that of the apostle (Col. 3:16).
 
 But as to their artificial music, either by organs or other instruments, or voice,
 we have neither example nor precept for it in the New Testament.
+
+[.small-break]
+'''
 
 // lint-disable invalid-characters "§"
 §XXVII.
@@ -2200,7 +2281,7 @@ for it is, of itself,
 so naked without it that it hath nothing in it to invite and tempt men to dote upon it,
 further than it is accompanied with the power.
 Whereas the worship of our adversaries, being performed in their own wills,
-is self-pleasing,
+is _self-pleasing,_
 as in which they can largely exercise their natural parts and invention:
 and (as to most of them) having somewhat of an outward and worldly splendor,
 delectable to the carnal and worldly senses,
@@ -2208,6 +2289,9 @@ they can pleasantly continue in it and satisfy themselves,
 though without the Spirit and Power,
 which they make no ways essential to the performance of their worship
 and therefore neither wait for nor expect it.
+
+[.small-break]
+'''
 
 // lint-disable invalid-characters "§"
 §XXVIII.
